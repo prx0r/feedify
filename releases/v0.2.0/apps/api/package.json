@@ -1,0 +1,21 @@
+{
+  "name": "@feedify/api",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --experimental-transform-types src/server.ts",
+    "start": "node --experimental-transform-types src/server.ts",
+    "seed": "node --experimental-transform-types src/seed.ts",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "worker": "node --experimental-transform-types src/worker.ts",
+    "worker:once": "node --experimental-transform-types src/worker.ts --once"
+  },
+  "dependencies": {
+    "@feedify/core": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "typescript": "~6.0.3"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name":"@feedify/x402-gateway","version":"0.2.0","private":true,"type":"module",
+  "scripts":{"start":"node --experimental-transform-types src/server.ts","dev":"node --watch --experimental-transform-types src/server.ts","typecheck":"tsc --noEmit -p tsconfig.json"},
+  "dependencies":{"@feedify/sdk":"*","@x402/core":"^2.0.0","@x402/evm":"^2.0.0","@x402/express":"^2.0.0","express":"^5.1.0"},
+  "devDependencies":{"@types/express":"^5.0.0","@types/node":"^22.15.0","typescript":"~6.0.3"}
+}

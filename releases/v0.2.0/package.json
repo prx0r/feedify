@@ -1,0 +1,22 @@
+{
+  "name": "feedify",
+  "version": "0.2.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm --workspace @feedify/api run dev",
+    "dev:mobile": "npm --workspace @feedify/mobile run start",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "node scripts/smoke-test.mjs",
+    "seed": "npm --workspace @feedify/api run seed",
+    "worker:once": "npm --workspace @feedify/api run worker:once",
+    "dev:x402": "npm --workspace @feedify/x402-gateway run dev",
+    "dev:mcp": "npm --workspace @feedify/mcp-gateway run dev"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

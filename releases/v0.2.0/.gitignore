@@ -1,0 +1,10 @@
+node_modules
+.expo
+.env
+.env.local
+dist
+coverage
+*.log
+apps/api/data/*.json
+!apps/api/data/.gitkeep
+.DS_Store

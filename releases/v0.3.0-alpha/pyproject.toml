@@ -1,0 +1,31 @@
+[project]
+name = "feedify-alpha-mvp"
+version = "0.1.0"
+description = "Personal signal compiler: sources -> signals -> algorithms -> feeds -> RSS/JSON/MCP/PWA"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.128,<1",
+  "uvicorn[standard]>=0.38,<1",
+  "sqlalchemy>=2.0,<3",
+  "pydantic>=2.10,<3",
+  "pydantic-settings>=2.8,<3",
+  "httpx>=0.28,<1",
+  "pillow>=11,<13",
+]
+
+[project.optional-dependencies]
+mcp = ["mcp>=2.0.0"]
+x402 = ["x402[fastapi]>=2.0.0"]
+dev = ["pytest>=8", "ruff>=0.9"]
+
+[project.scripts]
+feedify = "feedify.cli:main"
+feedify-mcp = "feedify.mcp_server:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

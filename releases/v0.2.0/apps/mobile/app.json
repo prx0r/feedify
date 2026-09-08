@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Feedify",
+    "slug": "feedify",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "scheme": "feedify",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.feedify.app"
+    },
+    "android": {
+      "package": "dev.feedify.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F3EE"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

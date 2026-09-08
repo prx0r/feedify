@@ -1,0 +1,13 @@
+{
+  "name": "@feedify/core",
+  "version": "0.2.0",
+  "type": "module",
+  "exports": "./src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "typescript": "~6.0.3"
+  }
+}
