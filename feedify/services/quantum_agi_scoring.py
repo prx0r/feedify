@@ -1,21 +1,20 @@
-"""Quantum × AGI scoring engine.
+"""Quantum × AGI scoring engine — updated with acceleration thesis priorities.
 
-Scores signals based on:
-- Role proximity to scaling bottleneck
-- Technical specificity
-- Reply quality (replies > original posts)
-- Obscurity (lower followers = higher signal)
-- Novelty
-- Vocabulary collision detection (quantum + AI terms)
+New scoring formula:
+  Signal = 0.30(Role proximity) + 0.25(Technical specificity) + 0.20(Cross-domain leverage)
+         + 0.15(Reply quality) + 0.10(Obscurity)
 
-Key insight: The feed should detect when AI starts materially shortening
-the quantum-computer R&D feedback loop.
+Key changes:
+- Employment proximity > follower count
+- Domain competence > virality
+- Reply quality > original posts
+- Scarcity of source > popularity
 """
 from __future__ import annotations
 
 from typing import Any
 
-# Priority weights from the user's spec
+# Priority weights
 PRIORITY_WEIGHTS = {
     "S++": 1.0,
     "S+": 0.9,
@@ -26,49 +25,21 @@ PRIORITY_WEIGHTS = {
     "embryonic": 0.4,
 }
 
-# Lab relevance (quantum × AGI intersection is highest)
+# Lab relevance
 LAB_WEIGHTS = {
-    "IonQ": 0.9,
-    "Infleqtion": 0.85,
-    "IQM": 0.7,
-    "Google DeepMind": 0.95,
-    "Meta Superintelligence Labs": 0.95,
-    "xAI": 0.9,
-    "Anthropic": 0.85,
-    "OpenAI": 0.9,
-    "Axiom": 0.8,
-    "DeepMind": 0.9,
-    "Meta MSL": 0.9,
+    "IonQ": 0.9, "Infleqtion": 0.85, "IQM": 0.7,
+    "Google DeepMind": 0.95, "Meta Superintelligence Labs": 0.95,
+    "Meta MSL": 0.95, "Meta/FAIR": 0.9, "xAI": 0.9,
+    "Anthropic": 0.85, "OpenAI": 0.9, "Axiom": 0.8, "DeepMind": 0.9,
+    "Recursive": 0.95, "Architect Labs": 0.95, "Normal Computing": 0.9,
+    "Extropic": 0.85, "Lightmatter": 0.85, "Periodic Labs": 0.95,
+    "Lila Sciences": 0.9, "Diffuse Bio": 0.85, "Discovered Materials": 0.85,
+    "Proxima Fusion": 0.8, "PhysicsX": 0.85, "Orbital Industries": 0.9,
+    "Harmonic": 0.85, "Skild AI": 0.9, "Etched": 0.9,
+    "Chai Discovery": 0.85, "PsiQuantum": 0.8, "CuspAI": 0.85,
+    "Project Prometheus": 0.9, "Accelerated Understanding": 0.85,
+    "Physical Intelligence": 0.9, "Genesis AI": 0.85, "FutureHouse": 0.85,
 }
-
-# Vocabulary signals that indicate regime change
-REGIME_CHANGE_PHRASES = [
-    "we were surprised", "now scales", "bottleneck", "finally",
-    "didn't expect", "works at scale", "previously impossible",
-    "our latest run", "decoder", "bigrun", "front lines",
-    "self-improving", "breakthrough", "regime change", "phase transition",
-    "exponential", "scaling law", "emergent", "capability jump",
-    "fault tolerant", "logical error", "qec", "qldpc",
-    "rl scaling", "automated research", "self-improving agent",
-    "formal verification", "theorem proving", "scientific discovery",
-]
-
-# Technical specificity keywords
-QUANTUM_TECH = [
-    "qec", "qldpc", "decoder", "fault tolerant", "logical error",
-    "transmon", "trapped ion", "neutral atom", "photonic",
-    "transport overhead", "gate count", "compiler", "microarchitecture",
-    "interconnect", "manufacturability", "error correction",
-    "logical qubit", "physical qubit", "surface code",
-]
-
-AGI_TECH = [
-    "rl scaling", "bigrun", "automated research", "self-improving",
-    "reasoning", "chain of thought", "formal verification",
-    "theorem proving", "scientific discovery", "coding agent",
-    "recursive", "agent", "tool use", "reward model",
-    "rlhf", "dapo", "grpo", "ppo", "sac",
-]
 
 
 def score_quantum_agi_signal(
@@ -82,43 +53,63 @@ def score_quantum_agi_signal(
     text_lower = text.lower()
     metrics = metrics or {}
 
-    # Base score from account priority
+    # 1. Role proximity (0-30 points)
     priority = account_info.get("priority", "A")
-    priority_score = PRIORITY_WEIGHTS.get(priority, 0.5) * 40  # 0-40 points
+    role_score = PRIORITY_WEIGHTS.get(priority, 0.5) * 30
 
-    # Lab relevance
-    lab = account_info.get("lab", "")
-    lab_score = LAB_WEIGHTS.get(lab, 0.5) * 20  # 0-20 points
+    # 2. Technical specificity (0-25 points)
+    all_tech = [
+        "qec", "qldpc", "decoder", "fault tolerant", "logical error",
+        "transmon", "trapped ion", "neutral atom", "photonic",
+        "rl scaling", "bigrun", "automated research", "self-improving",
+        "reasoning", "chain of thought", "formal verification", "lean",
+        "agent", "tool use", "coding agent", "theorem proving",
+        "silicon", "asic", "rtl", "verification", "compiler",
+        "materials", "synthesis", "experiment", "laboratory",
+        "protein", "molecular", "drug", "assay",
+        "robot", "policy", "embodiment", "simulation",
+        "interconnect", "photonics", "optics",
+    ]
+    tech_hits = sum(1 for t in all_tech if t in text_lower)
+    tech_score = min(25, tech_hits * 3)
 
-    # Technical specificity (quantum + AGI terms)
-    quantum_hits = sum(1 for t in QUANTUM_TECH if t in text_lower)
-    agi_hits = sum(1 for t in AGI_TECH if t in text_lower)
-    tech_score = min(20, (quantum_hits + agi_hits) * 4)  # 0-20 points
+    # 3. Cross-domain leverage (0-20 points)
+    quantum_terms = {"qec", "qldpc", "decoder", "fault tolerant", "qubit", "trapped ion", "photonic"}
+    agi_terms = {"rl", "reasoning", "agent", "self-improving", "automated research", "formal verification"}
+    hardware_terms = {"silicon", "asic", "rtl", "compiler", "interconnect", "photonics"}
+    science_terms = {"materials", "synthesis", "experiment", "laboratory", "protein", "molecular"}
+    robotics_terms = {"robot", "policy", "embodiment", "simulation", "manipulation"}
 
-    # Regime change vocabulary
-    regime_hits = sum(1 for p in REGIME_CHANGE_PHRASES if p in text_lower)
-    regime_score = min(15, regime_hits * 5)  # 0-15 points
+    q_hits = sum(1 for t in quantum_terms if t in text_lower)
+    a_hits = sum(1 for t in agi_terms if t in text_lower)
+    h_hits = sum(1 for t in hardware_terms if t in text_lower)
+    s_hits = sum(1 for t in science_terms if t in text_lower)
+    r_hits = sum(1 for t in robotics_terms if t in text_lower)
 
-    # Reply bonus (replies > original posts for signal)
-    reply_bonus = 10 if is_reply else 0  # 0-10 points
+    domains_present = sum(1 for hits in [q_hits, a_hits, h_hits, s_hits, r_hits] if hits > 0)
+    cross_score = min(20, (domains_present - 1) * 10) if domains_present > 1 else 0
 
-    # Obscurity bonus (lower followers = higher signal)
+    # 4. Reply quality (0-15 points)
+    reply_score = 15 if is_reply else 0
+
+    # 5. Obscurity (0-10 points)
     followers = metrics.get("author_followers", 10000)
-    if followers < 200:
+    if followers < 100:
         obscurity_score = 10
-    elif followers < 1000:
+    elif followers < 500:
         obscurity_score = 8
+    elif followers < 2000:
+        obscurity_score = 6
     elif followers < 5000:
-        obscurity_score = 5
+        obscurity_score = 4
     elif followers < 10000:
-        obscurity_score = 3
+        obscurity_score = 2
     else:
         obscurity_score = 1
 
-    total = priority_score + lab_score + tech_score + regime_score + reply_bonus + obscurity_score
+    total = role_score + tech_score + cross_score + reply_score + obscurity_score
     total = min(100, total)
 
-    # Determine tier
     if total >= 80:
         tier = "S"
     elif total >= 60:
@@ -128,18 +119,16 @@ def score_quantum_agi_signal(
     else:
         tier = "C"
 
-    # Check for convergence signals (multiple quantum + AI terms)
-    is_convergence = quantum_hits > 0 and agi_hits > 0
-
-    # Determine signal type
-    if is_convergence:
+    if domains_present >= 3:
         signal_type = "CONVERGENCE"
-    elif quantum_hits > agi_hits:
+    elif q_hits > 0 and a_hits > 0:
+        signal_type = "CROSS_DOMAIN"
+    elif q_hits > a_hits:
         signal_type = "QUANTUM_LEAD"
-    elif agi_hits > quantum_hits:
+    elif a_hits > q_hits:
         signal_type = "AGI_LEAD"
-    elif regime_hits > 0:
-        signal_type = "REGIME_CHANGE"
+    elif tech_hits > 3:
+        signal_type = "TECHNICAL"
     else:
         signal_type = "OBSERVATION"
 
@@ -147,16 +136,13 @@ def score_quantum_agi_signal(
         "score": total,
         "tier": tier,
         "signal_type": signal_type,
-        "is_convergence": is_convergence,
         "breakdown": {
-            "priority": round(priority_score, 1),
-            "lab": round(lab_score, 1),
+            "role": round(role_score, 1),
             "technical": round(tech_score, 1),
-            "regime": round(regime_score, 1),
-            "reply": reply_bonus,
+            "cross_domain": round(cross_score, 1),
+            "reply": reply_score,
             "obscurity": obscurity_score,
         },
-        "quantum_terms": quantum_hits,
-        "agi_terms": agi_hits,
-        "regime_terms": regime_hits,
+        "tech_terms": tech_hits,
+        "domains_present": domains_present,
     }
