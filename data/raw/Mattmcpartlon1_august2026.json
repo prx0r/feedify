@@ -1,0 +1,100 @@
+{
+  "handle": "Mattmcpartlon1",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2087306113729650939",
+      "url": "https://x.com/Mattmcpartlon1/status/2087306113729650939",
+      "twitterUrl": "https://twitter.com/Mattmcpartlon1/status/2087306113729650939",
+      "text": "Some of the highest impact work at Chai is done by researchers and engineers who come from entirely different domains. @realdealpatil's got his start in robotics/security, and I started my PhD in CS theory. Building the computer aided design suite for molecules takes a village.",
+      "source": "Twitter Web App",
+      "retweetCount": 2,
+      "replyCount": 1,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "viewCount": 1714,
+      "createdAt": "Tue Aug 11 22:32:12 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087306113729650939",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "Mattmcpartlon1",
+        "url": "https://x.com/Mattmcpartlon1",
+        "id": "940762106529570816",
+        "name": "Matt McPartlon",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1642874315929538564/3qspbwoI_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder at @chaidiscovery",
+        "location": "",
+        "followers": 646,
+        "following": 154,
+        "createdAt": "Wed Dec 13 01:55:39 +0000 2017",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2087302154042437924",
+        "text": "Chai Discovery's BioAI Phase Shift: Chai-3, Photoshop for Molecules, One-Shot Drug Design, &amp; Engineering Biology https://t.co/bMiBORloLB\n\n@chaidiscovery cofounder @Mattmcpartlon1 and product lead @realdealpatil explain why AI drug design has crossed the threshold from impressive https://t.co/MhXxxAwd95",
+        "user": {
+          "name": "Latent.Space",
+          "screen_name": "latentspacepod"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2084726268478787649",
+      "url": "https://x.com/Mattmcpartlon1/status/2084726268478787649",
+      "twitterUrl": "https://twitter.com/Mattmcpartlon1/status/2084726268478787649",
+      "text": "Had an awesome time sitting down with @gradypb and @w1tness1ngh to talk about  what we're building at @chaidiscovery!",
+      "source": "Twitter Web App",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 14,
+      "quoteCount": 0,
+      "viewCount": 1864,
+      "createdAt": "Tue Aug 04 19:40:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2084726268478787649",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "Mattmcpartlon1",
+        "url": "https://x.com/Mattmcpartlon1",
+        "id": "940762106529570816",
+        "name": "Matt McPartlon",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1642874315929538564/3qspbwoI_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder at @chaidiscovery",
+        "location": "",
+        "followers": 646,
+        "following": 154,
+        "createdAt": "Wed Dec 13 01:55:39 +0000 2017",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2084682711118299393",
+        "text": "To date, finding a drug has been a process of guess &amp; check\u2026 screening millions of molecules hoping one binds. \n\n@chaidiscovery is changing the paradigm\u2026 describe the molecule you want, and the model designs it.\n\n@joshim5 and @Mattmcpartlon1 took antibody hit rates from roughly https://t.co/ruXyurCx7K",
+        "user": {
+          "name": "Pat Grady",
+          "screen_name": "gradypb"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:37:05.865450"
+}

@@ -1,0 +1,53 @@
+{
+  "handle": "bjenik",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2092271194355765533",
+      "url": "https://x.com/bjenik/status/2092271194355765533",
+      "twitterUrl": "https://twitter.com/bjenik/status/2092271194355765533",
+      "text": "Fantastic to finally be able to share what we've been working on. And doing it in the biggest possible way on @Reuters is a great bonus. \n\nOur startup Accelerated Understanding builds AI models that simulate the physical world in 4D. Their capability to intrinsically understand physics enables innovation and invention. Instead of waiting for slow lab experiments or numerical solvers the model directly forms an intuition on how to improve your design.\n\nOur models are different from the LLMs everybody is used to. For LLMs the context grows in one dimension and the sizes stay fairly manageable. In our case it grows in 4D, 3 dimensions in space, and time.\n\nDoing this comes with a number of interesting engineering challenges: for one of our largest inference runs at 5 Trillion context length the input and output data alone gets so big (about 22TB) that you can't easily put it anywhere, and yet you need it in accelerator memory to be fast. To make it happen you need both modern AI training approaches, many of which we had to invent from scratch because the LLM way just doesn't work at our scale, mixed with a healthy dose of good old HPC tricks.\n\nWhat I am most exited about is self-improvement and we have a unique angle here: With standard training the problem is that you eventually arrive at about the average quality of whatever training data you put in the model and exceeding that gets increasingly tricky. We have the laws of physics themselves come to our rescue: in addition to checking how well we fit the training data we can also check how well we observe those laws and improve that, even if the data doesn't.\n\n@accelerated_u",
+      "source": "Twitter Web App",
+      "retweetCount": 2,
+      "replyCount": 6,
+      "likeCount": 35,
+      "quoteCount": 1,
+      "viewCount": 3845,
+      "createdAt": "Tue Aug 25 15:21:39 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 8,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092271194355765533",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "bjenik",
+        "url": "https://x.com/bjenik",
+        "id": "860220384",
+        "name": "Benedikt Jenik",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1474818282926448641/4Qn-SC8f_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder at Accelerated Understanding. Scaling AI with physical understanding in 4D.",
+        "location": "",
+        "followers": 416,
+        "following": 2,
+        "createdAt": "Wed Oct 03 19:34:36 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2092236528898675014",
+        "text": "Excited to see @Reuters cover the launch of our startup Accelerated Understanding.\n\nWe are training large scale AI models that can simulate and understand physics to invent and discover. Our models understand the world directly in 4D (3D + time) and across physical phenomena.",
+        "user": {
+          "name": "Prof. Anima Anandkumar",
+          "screen_name": "AnimaAnandkumar"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:36:56.771420"
+}

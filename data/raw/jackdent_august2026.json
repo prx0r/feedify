@@ -1,0 +1,100 @@
+{
+  "handle": "jackdent",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2090520171182243957",
+      "url": "https://x.com/jackdent/status/2090520171182243957",
+      "twitterUrl": "https://twitter.com/jackdent/status/2090520171182243957",
+      "text": "With all the excitement around AI accelerating science in the next few years, it can be easy to lose sight of the impact models are having _today_ on some of the hardest challenges in the world's leading pharmaceutical companies. Chai-3 was a step-change for us and our partners. Excited to work with @bmsnews to chart new frontiers in medicine and science.",
+      "source": "Twitter Web App",
+      "retweetCount": 3,
+      "replyCount": 1,
+      "likeCount": 62,
+      "quoteCount": 1,
+      "viewCount": 13831,
+      "createdAt": "Thu Aug 20 19:23:43 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 6,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090520171182243957",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "jackdent",
+        "url": "https://x.com/jackdent",
+        "id": "300164190",
+        "name": "Jack Dent",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1939809697747673091/OnSHy5AB_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder @chaidiscovery",
+        "location": "",
+        "followers": 2510,
+        "following": 1051,
+        "createdAt": "Tue May 17 09:33:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2090430757294796939",
+        "text": "Frontier drug discovery programs require frontier capabilities.  Today, we\u2019re excited to share that BMS will be using Chai\u2019s models to support the discovery of new therapeutics. Since rolling out Chai-3 to partners at the start of this year, we\u2019ve partnered with @EliLillyandCo, https://t.co/qglHoe2K2Q",
+        "user": {
+          "name": "Joshua Meier",
+          "screen_name": "joshim5"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2090486761675964462",
+      "url": "https://x.com/jackdent/status/2090486761675964462",
+      "twitterUrl": "https://twitter.com/jackdent/status/2090486761675964462",
+      "text": "The category defining app layer company, now an industry leading lab",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 26,
+      "quoteCount": 0,
+      "viewCount": 2443,
+      "createdAt": "Thu Aug 20 17:10:58 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 7,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090486761675964462",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "jackdent",
+        "url": "https://x.com/jackdent",
+        "id": "300164190",
+        "name": "Jack Dent",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1939809697747673091/OnSHy5AB_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder @chaidiscovery",
+        "location": "",
+        "followers": 2510,
+        "following": 1051,
+        "createdAt": "Tue May 17 09:33:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2090453918547685537",
+        "text": "https://t.co/1c2Dn0vuoX",
+        "user": {
+          "name": "Gabe Pereyra",
+          "screen_name": "gabepereyra"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:37:39.003841"
+}

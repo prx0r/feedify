@@ -1,0 +1,46 @@
+{
+  "handle": "Azizzadenesheli",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2092277450088816645",
+      "url": "https://x.com/Azizzadenesheli/status/2092277450088816645",
+      "twitterUrl": "https://twitter.com/Azizzadenesheli/status/2092277450088816645",
+      "text": "@AnimaAnandkumar Congrats, this is awesome,",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 933,
+      "createdAt": "Tue Aug 25 15:46:31 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2092255837691789318",
+      "conversationId": "2092236528898675014",
+      "media": [],
+      "inReplyToUserId": "1393424079634395139",
+      "author": {
+        "type": "user",
+        "userName": "Azizzadenesheli",
+        "url": "https://x.com/Azizzadenesheli",
+        "id": "2587743478",
+        "name": "Kamyar Azizzadenesheli",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1458170221622173697/krWNDBKl_normal.jpg",
+        "coverPicture": null,
+        "description": "Universal General Intelligence, Cognitive + Physics intelligence \n@prometheusinc, x-Staff at @nvidia, x-prof at @Purdue",
+        "location": "San Francisco, CA",
+        "followers": 3498,
+        "following": 1342,
+        "createdAt": "Fri Jun 06 19:03:06 +0000 2014",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:37:32.489293"
+}
