@@ -14,11 +14,10 @@ from .utils import parse_datetime
 class XAdapter(SourceAdapter):
     """X/Twitter intelligence via GetXAPI — the main Feedify engine.
 
-    Follows BEAR budget discipline: balance check is free, reads are
-    ~$0.001/call, watchlist-bounded with small per-handle counts, and
-    every call is logged. Raw tweet JSON is preserved verbatim
-    (BEAR Rule 1: filter during analysis, never during ingestion) and
-    author_id is the stable author key (BEAR Rule 4: usernames change).
+    Budget allocation:
+    - 40% replies (highest signal — what people actually think)
+    - 30% originals (what people broadcast)
+    - 30% interaction discovery (who interacts with whom)
     """
 
     name = "x"
@@ -49,7 +48,6 @@ class XAdapter(SourceAdapter):
         return response.json()
 
     async def balance(self) -> float:
-        """Free account check. Falls back to backup key when primary is dry."""
         for key in (self.primary_key, self.backup_key):
             if not key:
                 continue
@@ -75,10 +73,26 @@ class XAdapter(SourceAdapter):
         return []
 
     async def fetch_handle(self, handle: str, count: int = 3) -> list[dict]:
-        """Recent posts via advanced search. One $0.001 call per handle."""
+        """Recent posts via advanced search."""
         data = await self._get(
             "/twitter/tweet/advanced_search",
             {"q": f"from:{handle}", "product": "Latest", "count": count},
+        )
+        return data.get("tweets", [])
+
+    async def fetch_replies(self, handle: str, count: int = 5) -> list[dict]:
+        """Fetch replies from an account — these are highest signal."""
+        data = await self._get(
+            "/twitter/tweet/advanced_search",
+            {"q": f"from:{handle} filter:replies", "product": "Latest", "count": count},
+        )
+        return data.get("tweets", [])
+
+    async def fetch_interactions(self, handle: str, count: int = 3) -> list[dict]:
+        """Fetch tweets that mention/reply to this handle — discovers new people."""
+        data = await self._get(
+            "/twitter/tweet/advanced_search",
+            {"q": f"@{handle} -from:{handle}", "product": "Latest", "count": count},
         )
         return data.get("tweets", [])
 
@@ -110,6 +124,8 @@ class XAdapter(SourceAdapter):
                 "bookmarks": tweet.get("bookmarkCount") or 0,
                 "lang": tweet.get("lang"),
                 "is_reply": bool(tweet.get("isReply")),
+                "reply_to": tweet.get("inReplyToTweetId"),
+                "reply_to_user": tweet.get("inReplyToUser", {}).get("userName") if tweet.get("inReplyToUser") else None,
                 "observed_at": datetime.now(timezone.utc).isoformat(),
             },
             raw=tweet,
@@ -119,19 +135,55 @@ class XAdapter(SourceAdapter):
         settings = get_settings()
         if await self.balance() <= 0:
             return []
+
         items: list[NormalizedItem] = []
         per_handle = max(1, settings.getxapi_per_handle_count)
+
+        # Budget: 40% replies, 30% originals, 30% discovery
+        reply_budget = int(limit * 0.4)
+        original_budget = int(limit * 0.3)
+        discovery_budget = limit - reply_budget - original_budget
+
         for entry in self.watchlist():
             handle = entry.get("handle") if isinstance(entry, dict) else entry
-            if not handle or len(items) >= limit:
-                break
+            if not handle:
+                continue
+
             try:
-                for tweet in await self.fetch_handle(str(handle), per_handle):
-                    item = self.normalize(tweet)
-                    if item is not None:
-                        items.append(item)
-                    if len(items) >= limit:
-                        break
+                # Fetch replies (highest signal)
+                if reply_budget > 0:
+                    for tweet in await self.fetch_replies(handle, min(3, reply_budget)):
+                        item = self.normalize(tweet)
+                        if item is not None:
+                            items.append(item)
+                            reply_budget -= 1
+                            if len(items) >= limit:
+                                break
+
+                # Fetch originals
+                if original_budget > 0:
+                    for tweet in await self.fetch_handle(handle, min(3, original_budget)):
+                        item = self.normalize(tweet)
+                        if item is not None:
+                            items.append(item)
+                            original_budget -= 1
+                            if len(items) >= limit:
+                                break
+
+                # Fetch interactions (discovers new people)
+                if discovery_budget > 0:
+                    for tweet in await self.fetch_interactions(handle, min(2, discovery_budget)):
+                        item = self.normalize(tweet)
+                        if item is not None:
+                            items.append(item)
+                            discovery_budget -= 1
+                            if len(items) >= limit:
+                                break
+
+                if len(items) >= limit:
+                    break
+
             except Exception:
                 continue
+
         return items

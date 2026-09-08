@@ -493,10 +493,10 @@ def frontier_signals(
 @app.get("/api/frontier/graph")
 def frontier_graph_endpoint(limit: int = Query(500, ge=1, le=2000)) -> dict[str, Any]:
     """Get the frontier intelligence graph."""
-    from feedify.services.frontier_graph import build_frontier_graph, graph_to_json
+    from feedify.services.frontier_graph import build_minimal_graph, graph_to_json
 
     with SessionLocal() as session:
-        graph = build_frontier_graph(session, limit=limit)
+        graph = build_minimal_graph(session, limit=limit)
         return graph_to_json(graph)
 
 
@@ -861,9 +861,11 @@ async def unified_chat(payload: dict[str, Any]) -> dict[str, str]:
     with SessionLocal() as session:
         # Build frontier graph if context is frontier
         if context == "frontier":
-            from feedify.services.frontier_graph import build_frontier_graph, graph_to_llm_context
-            graph = build_frontier_graph(session, limit=200)
+            from feedify.services.frontier_graph import build_minimal_graph, graph_to_llm_context
+            graph = build_minimal_graph(session, limit=200)
             graph_context = graph_to_llm_context(graph)
+            person_count = len([e for e in graph.entities.values() if e.entity_type == "person"])
+            lab_count = len(set(e.metadata.get("lab", "") for e in graph.entities.values() if e.entity_type == "person" and e.metadata.get("lab")))
         else:
             graph_context = None
 
@@ -922,7 +924,7 @@ FEEDS:
 - 6 configured feeds, 500+ signals total
 - 9 data sources (X, OpenInsider, GitHub, HN, etc.)
 
-You have real data from {len(graph.persons) if graph else 0} researchers across {len(set(p.lab for p in graph.persons.values())) if graph else 0} labs.
+You have real data from {person_count} researchers across {lab_count} labs.
 
 ANALYSIS APPROACH:
 - Do NOT use hardcoded rules or keywords
