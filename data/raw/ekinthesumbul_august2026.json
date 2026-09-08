@@ -1,0 +1,100 @@
+{
+  "handle": "ekinthesumbul",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093043445409652961",
+      "url": "https://x.com/ekinthesumbul/status/2093043445409652961",
+      "twitterUrl": "https://twitter.com/ekinthesumbul/status/2093043445409652961",
+      "text": "\ud83d\ude80 Sharing a major milestone: Introducing Redwood, our AI-designed AI accelerator chip, now running AI models live!\n- From specification to FPGA deployment in under 2 weeks \ud83c\udf89 \n- When projected onto the same technology node, Redwood delivers more than 3\u00d7 the performance per watt of the NVIDIA Jetson Orin Nano, running the same AI models.\nThis is a major step toward what we believe is possible with AI-designed hardware, enabling unprecedented speed from spec to a working chip.\n\n\ud83d\udcc4 Read the full technical paper:\nhttps://t.co/NOHcFJXmK2",
+      "source": "Twitter Web App",
+      "retweetCount": 5,
+      "replyCount": 3,
+      "likeCount": 36,
+      "quoteCount": 2,
+      "viewCount": 3338,
+      "createdAt": "Thu Aug 27 18:30:18 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 5,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093043445409652961",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "ekinthesumbul",
+        "url": "https://x.com/ekinthesumbul",
+        "id": "2066955059506860033",
+        "name": "Ekin Sumbul",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2066955876955807744/AaksnvCD_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2066955059506860033/1781635745",
+        "description": "",
+        "location": "",
+        "followers": 54,
+        "following": 55,
+        "createdAt": "Tue Jun 16 18:44:23 +0000 2026",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2093028824711905468",
+        "text": "We gave our AI system a spec, and in under 2 weeks, it designed, verified, and deployed a chip that beats NVIDIA.\n\nIt\u2019s built for low-power physical AI workloads. We\u2019re running live inference on &gt;B+ parameter models like Llama, Qwen, and Kimi, serving at 3.4x better perf/watt https://t.co/tvi4FhvfWM",
+        "user": {
+          "name": "Architect Labs",
+          "screen_name": "architectlabs"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2093030444724064488",
+      "url": "https://x.com/ekinthesumbul/status/2093030444724064488",
+      "twitterUrl": "https://twitter.com/ekinthesumbul/status/2093030444724064488",
+      "text": "Here we go \ud83d\ude80\ud83d\ude80",
+      "source": "Twitter Web App",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 12,
+      "quoteCount": 0,
+      "viewCount": 292,
+      "createdAt": "Thu Aug 27 17:38:39 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093030444724064488",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "ekinthesumbul",
+        "url": "https://x.com/ekinthesumbul",
+        "id": "2066955059506860033",
+        "name": "Ekin Sumbul",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2066955876955807744/AaksnvCD_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2066955059506860033/1781635745",
+        "description": "",
+        "location": "",
+        "followers": 54,
+        "following": 55,
+        "createdAt": "Tue Jun 16 18:44:23 +0000 2026",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2093028824711905468",
+        "text": "We gave our AI system a spec, and in under 2 weeks, it designed, verified, and deployed a chip that beats NVIDIA.\n\nIt\u2019s built for low-power physical AI workloads. We\u2019re running live inference on &gt;B+ parameter models like Llama, Qwen, and Kimi, serving at 3.4x better perf/watt https://t.co/tvi4FhvfWM",
+        "user": {
+          "name": "Architect Labs",
+          "screen_name": "architectlabs"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:07:17.688385"
+}

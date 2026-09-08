@@ -403,7 +403,7 @@ def frontier_signals(
         # Load the frontier watchlist
         import json
         from pathlib import Path
-        watchlist_path = Path(__file__).parent.parent / "config" / "frontier_watchlist.json"
+        watchlist_path = Path(__file__).parent.parent / "config" / "acceleration_watchlist.json"
         watchlist = []
         if watchlist_path.exists():
             watchlist = json.loads(watchlist_path.read_text())
@@ -493,12 +493,12 @@ def frontier_signals(
 
 
 @app.get("/api/frontier/graph")
-def frontier_graph_endpoint() -> dict[str, Any]:
+def frontier_graph_endpoint(limit: int = Query(500, ge=1, le=2000)) -> dict[str, Any]:
     """Get the frontier intelligence graph."""
     from feedify.services.frontier_graph import build_frontier_graph, graph_to_json
 
     with SessionLocal() as session:
-        graph = build_frontier_graph(session, limit=300)
+        graph = build_frontier_graph(session, limit=limit)
         return graph_to_json(graph)
 
 

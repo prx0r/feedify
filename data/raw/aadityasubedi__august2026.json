@@ -1,0 +1,93 @@
+{
+  "handle": "aadityasubedi_",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2094848240512536625",
+      "url": "https://x.com/aadityasubedi_/status/2094848240512536625",
+      "twitterUrl": "https://twitter.com/aadityasubedi_/status/2094848240512536625",
+      "text": "@alexwg @matthew_pines @AKlokus congrats!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 125,
+      "createdAt": "Tue Sep 01 18:01:55 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2094772323534479649",
+      "conversationId": "2094772323534479649",
+      "media": [],
+      "inReplyToUserId": "9860682",
+      "author": {
+        "type": "user",
+        "userName": "aadityasubedi_",
+        "url": "https://x.com/aadityasubedi_",
+        "id": "1929598110260477952",
+        "name": "Aaditya Subedi",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2063706666286370816/5xEYtxFe_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1929598110260477952/1781635320",
+        "description": "co-founder @architectlabs",
+        "location": "Palo Alto, California",
+        "followers": 589,
+        "following": 297,
+        "createdAt": "Mon Jun 02 17:57:11 +0000 2025",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2093038185769205915",
+      "url": "https://x.com/aadityasubedi_/status/2093038185769205915",
+      "twitterUrl": "https://twitter.com/aadityasubedi_/status/2093038185769205915",
+      "text": "We\u2019re excited to share Redwood to the world! RSI for chip design will become the next scaling substrate for intelligence.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 8,
+      "replyCount": 6,
+      "likeCount": 56,
+      "quoteCount": 0,
+      "viewCount": 4096,
+      "createdAt": "Thu Aug 27 18:09:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 5,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093038185769205915",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "aadityasubedi_",
+        "url": "https://x.com/aadityasubedi_",
+        "id": "1929598110260477952",
+        "name": "Aaditya Subedi",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2063706666286370816/5xEYtxFe_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1929598110260477952/1781635320",
+        "description": "co-founder @architectlabs",
+        "location": "Palo Alto, California",
+        "followers": 589,
+        "following": 297,
+        "createdAt": "Mon Jun 02 17:57:11 +0000 2025",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2093028824711905468",
+        "text": "We gave our AI system a spec, and in under 2 weeks, it designed, verified, and deployed a chip that beats NVIDIA.\n\nIt\u2019s built for low-power physical AI workloads. We\u2019re running live inference on &gt;B+ parameter models like Llama, Qwen, and Kimi, serving at 3.4x better perf/watt https://t.co/tvi4FhvfWM",
+        "user": {
+          "name": "Architect Labs",
+          "screen_name": "architectlabs"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:07:14.638080"
+}

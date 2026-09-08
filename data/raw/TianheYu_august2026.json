@@ -1,0 +1,53 @@
+{
+  "handle": "TianheYu",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2085085619823558718",
+      "url": "https://x.com/TianheYu/status/2085085619823558718",
+      "twitterUrl": "https://twitter.com/TianheYu/status/2085085619823558718",
+      "text": "We've been quickly iterating on improving Muse Spark's coding agent capability since the 1.1 launch less than a month ago and produced Muse Spark 1.2 + our own harness Muse Code with enhanced coding performance in daily software engineering, long-horizon tasks, auto-research and so on. Please try it out via one command line install: curl -fsS https://t.co/5cqPzgztI2 | bash",
+      "source": "Twitter Web App",
+      "retweetCount": 15,
+      "replyCount": 11,
+      "likeCount": 141,
+      "quoteCount": 1,
+      "viewCount": 13304,
+      "createdAt": "Wed Aug 05 19:28:45 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 15,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085085619823558718",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "TianheYu",
+        "url": "https://x.com/TianheYu",
+        "id": "1265567258786566144",
+        "name": "Tianhe (Kevin) Yu",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1581837549760180224/-N_Cna9e_normal.jpg",
+        "coverPicture": null,
+        "description": "AI Research Scientist @meta MSL TBD. Previously @GoogleDeepMind driving Gemini post-training and RL. Co-created Gemini Deep Think. PhD from @StanfordAILab.",
+        "location": "Mountain View, CA",
+        "followers": 3050,
+        "following": 249,
+        "createdAt": "Wed May 27 08:55:39 +0000 2020",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2085080750034940201",
+        "text": "Releasing Muse Code in beta today. It's a terminal coding agent that takes on complete software engineering tasks across large repos: planning changes, writing code, validating the results. Powered by Muse Spark 1.2, a coding-focused model update. https://t.co/xqavk41w6v",
+        "user": {
+          "name": "Mark Zuckerberg",
+          "screen_name": "finkd"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:08:26.451250"
+}

@@ -1,0 +1,53 @@
+{
+  "handle": "_pgokhale",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093090022048047266",
+      "url": "https://x.com/_pgokhale/status/2093090022048047266",
+      "twitterUrl": "https://twitter.com/_pgokhale/status/2093090022048047266",
+      "text": "\ud83d\ude80 We're delighted to extend our partnership with NASA on the Quantum Gravity Gradiometer Pathfinder mission!",
+      "source": "Twitter Web App",
+      "retweetCount": 3,
+      "replyCount": 5,
+      "likeCount": 47,
+      "quoteCount": 0,
+      "viewCount": 2256,
+      "createdAt": "Thu Aug 27 21:35:23 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093090022048047266",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "_pgokhale",
+        "url": "https://x.com/_pgokhale",
+        "id": "4905145794",
+        "name": "Pranav Gokhale",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1973427345827438592/y-Ir4MQa_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/4905145794/1468960417",
+        "description": "CTO of @Infleqtion. Quantum mechanic. Previously Co-founder and CEO of @SupertechLabs (acquired by Infleqtion).",
+        "location": "Chicago, IL",
+        "followers": 802,
+        "following": 202,
+        "createdAt": "Sun Feb 14 05:50:40 +0000 2016",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2092946542436942253",
+        "text": "NASA has awarded Infleqtion a $20 million follow-on contract for the Quantum Gravity Gradiometer Pathfinder mission, bringing NASA\u2019s total investment in Infleqtion's work for this program to $40 million.\n\nWorking with @NASAJPL, Infleqtion will design, build, and test key https://t.co/KKJ0AsVIBi",
+        "user": {
+          "name": "Infleqtion",
+          "screen_name": "infleqtion"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:07:54.424660"
+}

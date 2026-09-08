@@ -29,7 +29,7 @@ def build_frontier_graph(db: Session, limit: int = 500) -> FrontierGraph:
     graph = FrontierGraph()
 
     # Load watchlist for person metadata
-    watchlist_path = Path(__file__).parent.parent.parent / "config" / "frontier_watchlist.json"
+    watchlist_path = Path(__file__).parent.parent.parent / "config" / "acceleration_watchlist.json"
     account_map = {}
     if watchlist_path.exists():
         for entry in json.loads(watchlist_path.read_text()):

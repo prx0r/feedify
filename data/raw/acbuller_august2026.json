@@ -1,0 +1,100 @@
+{
+  "handle": "acbuller",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2085241410014560392",
+      "url": "https://x.com/acbuller/status/2085241410014560392",
+      "twitterUrl": "https://twitter.com/acbuller/status/2085241410014560392",
+      "text": "curl -fsS https://t.co/AjrSTfuQfl | bash\n\nFor our first coding agent! Welcome any feedback \u2014 the more you use it, the faster it improves!",
+      "source": "Twitter for iPad",
+      "retweetCount": 3,
+      "replyCount": 6,
+      "likeCount": 49,
+      "quoteCount": 0,
+      "viewCount": 10679,
+      "createdAt": "Thu Aug 06 05:47:48 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 4,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085241410014560392",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "acbuller",
+        "url": "https://x.com/acbuller",
+        "id": "1270147489128017920",
+        "name": "Ziniu Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1814183764022657024/ECherSF4_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1270147489128017920/1783661110",
+        "description": "Coding @AIatMeta TBD | Ex: @xAI @GoogleDeepMind @Caltech @UCLA",
+        "location": "California, USA",
+        "followers": 8202,
+        "following": 847,
+        "createdAt": "Tue Jun 09 00:15:40 +0000 2020",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2085081833121935745",
+        "text": "muse code in beta is live. first coding agent from msl, built on muse spark 1.2.\n\ninstall: curl -fsS https://t.co/TFXsXfJKW8 | bash\n\nhere's what you should know: https://t.co/lrRahGQzmH",
+        "user": {
+          "name": "Alexandr Wang",
+          "screen_name": "alexandr_wang"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2085237815181537432",
+      "url": "https://x.com/acbuller/status/2085237815181537432",
+      "twitterUrl": "https://twitter.com/acbuller/status/2085237815181537432",
+      "text": "Add some \ud83e\uddc3 to muse spark 1.2 :) \n\nTry this agent for your daily professional jobs!",
+      "source": "Twitter for iPad",
+      "retweetCount": 8,
+      "replyCount": 9,
+      "likeCount": 84,
+      "quoteCount": 0,
+      "viewCount": 11197,
+      "createdAt": "Thu Aug 06 05:33:31 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 3,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085237815181537432",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "acbuller",
+        "url": "https://x.com/acbuller",
+        "id": "1270147489128017920",
+        "name": "Ziniu Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1814183764022657024/ECherSF4_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1270147489128017920/1783661110",
+        "description": "Coding @AIatMeta TBD | Ex: @xAI @GoogleDeepMind @Caltech @UCLA",
+        "location": "California, USA",
+        "followers": 8202,
+        "following": 847,
+        "createdAt": "Tue Jun 09 00:15:40 +0000 2020",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "2085116740904890737",
+        "text": "Muse Spark 1.2 ranks #5 on GDPval-AA v2, our benchmark of agentic real-world knowledge work, at 1631 Elo - behind e.g. Claude Opus 5 (max, 1852), GPT-5.6 Sol (max, 1730), and Kimi K3 (1685), and ahead of e.g. Claude Opus 4.8 (max, 1588). Muse Spark 1.1 scored 1371 at its launch https://t.co/nbaNwsYvKU",
+        "user": {
+          "name": "Artificial Analysis",
+          "screen_name": "ArtificialAnlys"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:08:28.762908"
+}

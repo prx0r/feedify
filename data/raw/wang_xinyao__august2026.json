@@ -1,0 +1,53 @@
+{
+  "handle": "wang_xinyao_",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2085092431171912153",
+      "url": "https://x.com/wang_xinyao_/status/2085092431171912153",
+      "twitterUrl": "https://twitter.com/wang_xinyao_/status/2085092431171912153",
+      "text": "Please try our new model, and of course on our new coding harness!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 8,
+      "likeCount": 63,
+      "quoteCount": 0,
+      "viewCount": 8960,
+      "createdAt": "Wed Aug 05 19:55:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 4,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085092431171912153",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "wang_xinyao_",
+        "url": "https://x.com/wang_xinyao_",
+        "id": "2002661004384313344",
+        "name": "Xinyao Wang",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2049178988241899520/cmdBszM__normal.jpg",
+        "coverPicture": null,
+        "description": "I work on coding and agents @Meta Superintelligence Labs",
+        "location": "",
+        "followers": 99,
+        "following": 129,
+        "createdAt": "Sun Dec 21 08:42:56 +0000 2025",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2085081833121935745",
+        "text": "muse code in beta is live. first coding agent from msl, built on muse spark 1.2.\n\ninstall: curl -fsS https://t.co/TFXsXfJKW8 | bash\n\nhere's what you should know: https://t.co/lrRahGQzmH",
+        "user": {
+          "name": "Alexandr Wang",
+          "screen_name": "alexandr_wang"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:08:13.060328"
+}

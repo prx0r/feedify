@@ -1,0 +1,93 @@
+{
+  "handle": "FarisSbahi",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2091637522602561774",
+      "url": "https://x.com/FarisSbahi/status/2091637522602561774",
+      "twitterUrl": "https://twitter.com/FarisSbahi/status/2091637522602561774",
+      "text": "@steeve 32 GB capacity\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 9,
+      "quoteCount": 0,
+      "viewCount": 4207,
+      "createdAt": "Sun Aug 23 21:23:40 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2091614987387084997",
+      "conversationId": "2091614987387084997",
+      "media": [],
+      "inReplyToUserId": "197242801",
+      "author": {
+        "type": "user",
+        "userName": "FarisSbahi",
+        "url": "https://x.com/FarisSbahi",
+        "id": "439565376",
+        "name": "Faris Sbahi \ud83c\udff4\u200d\u2620\ufe0f",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1721031614522654720/_IjDZ7RO_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/439565376/1671937550",
+        "description": "cofounder & ceo @normalcomputing | steering thermodynamics to reason | formerly, @theteamatx @googleai @palantirtech @dukeu | \u0641\u0627\u0631\u0633 \u0633\u0628\u0627\u0647\u064a",
+        "location": "Brooklyn, NY",
+        "followers": 1904,
+        "following": 857,
+        "createdAt": "Sat Dec 17 23:11:57 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2085534540475289785",
+      "url": "https://x.com/FarisSbahi/status/2085534540475289785",
+      "twitterUrl": "https://twitter.com/FarisSbahi/status/2085534540475289785",
+      "text": "The creative mind of the venture capitalist is truly limitless. * chef kiss * https://t.co/hK7D7HtX9L",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "viewCount": 280,
+      "createdAt": "Fri Aug 07 01:12:36 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085534540475289785",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFOnH4WcAAKEVZ.jpg",
+          "expanded_url": "https://x.com/FarisSbahi/status/2085534540475289785/photo/1",
+          "video_url": null
+        }
+      ],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "FarisSbahi",
+        "url": "https://x.com/FarisSbahi",
+        "id": "439565376",
+        "name": "Faris Sbahi \ud83c\udff4\u200d\u2620\ufe0f",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1721031614522654720/_IjDZ7RO_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/439565376/1671937550",
+        "description": "cofounder & ceo @normalcomputing | steering thermodynamics to reason | formerly, @theteamatx @googleai @palantirtech @dukeu | \u0641\u0627\u0631\u0633 \u0633\u0628\u0627\u0647\u064a",
+        "location": "Brooklyn, NY",
+        "followers": 1904,
+        "following": 857,
+        "createdAt": "Sat Dec 17 23:11:57 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:07:28.254727"
+}

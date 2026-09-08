@@ -1,0 +1,53 @@
+{
+  "handle": "albe_alfa",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2089764715077525518",
+      "url": "https://x.com/albe_alfa/status/2089764715077525518",
+      "twitterUrl": "https://twitter.com/albe_alfa/status/2089764715077525518",
+      "text": "Our math and AI teams work together relentlessly to share the formalization of BGP, but also a reusable library everyone can use!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "viewCount": 897,
+      "createdAt": "Tue Aug 18 17:21:48 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089764715077525518",
+      "media": [],
+      "inReplyToUserId": null,
+      "author": {
+        "type": "user",
+        "userName": "albe_alfa",
+        "url": "https://x.com/albe_alfa",
+        "id": "1834726303054151682",
+        "name": "Alberto Alfarano",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1834726623033409536/FvWvWPvJ_normal.jpg",
+        "coverPicture": null,
+        "description": "Founding member of technical staff @ Axiom - Discovery team",
+        "location": "",
+        "followers": 910,
+        "following": 197,
+        "createdAt": "Fri Sep 13 22:50:21 +0000 2024",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2089732764279132449",
+        "text": "1/ We\u2019re delighted to announce a milestone for AI-assisted mathematics:\n\nWith AxiomProver, we've completed a machine-checkable formalization of the \u201cBGP246 theorem,\u201d the best-known bound on recurring small gaps between primes.\n\nClosest math has come to the Twin Prime Conjecture. https://t.co/CS8I1eiBJi",
+        "user": {
+          "name": "Axiom",
+          "screen_name": "axiommathai"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-08T22:07:07.079900"
+}
