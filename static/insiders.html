@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b0c10">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Insiders — Feedify</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="/">
+        <span class="brand-mark">F</span>
+        <span>Feedify</span>
+      </a>
+      <div class="side-label">PAGES</div>
+      <nav class="feed-nav">
+        <a href="/"><span class="nav-icon">📊</span>Feed</a>
+        <a href="/insiders" class="active"><span class="nav-icon">🔍</span>Insiders</a>
+        <a href="/frontier"><span class="nav-icon">⚛️</span>Frontier</a>
+      </nav>
+      <div class="side-label">FRONTIER</div>
+      <nav class="feed-nav">
+        <a class="active" data-sector="all"><span class="nav-icon">📊</span>All</a>
+        <a data-sector="AI"><span class="nav-icon">🤖</span>AI</a>
+        <a data-sector="CHIPS"><span class="nav-icon">💾</span>Chips</a>
+        <a data-sector="QUANTUM"><span class="nav-icon">⚛️</span>Quantum</a>
+        <a data-sector="POWER"><span class="nav-icon">⚡</span>Power</a>
+      </nav>
+      <div class="side-spacer"></div>
+      <div class="source-mini">
+        <div class="side-label">LINKS</div>
+        <div class="source-mini-row"><a href="/api/insiders?limit=50">API</a></div>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">INSIDER INTELLIGENCE</div>
+          <h1>What insiders are saying</h1>
+          <p>SEC filings verified. X accounts as discovery sensors. AI interprets the alpha.</p>
+        </div>
+      </header>
+
+      <div class="ai-box" id="aiBox">
+        <h3>🧠 AI ANALYSIS</h3>
+        <div class="content loading" id="aiSummary">Loading AI analysis...</div>
+      </div>
+
+      <div class="filter-bar">
+        <button class="filter-pill active" data-filter="all">All</button>
+        <button class="filter-pill" data-filter="verified">✓ Verified</button>
+        <button class="filter-pill" data-filter="purchase">🟢 Purchases</button>
+        <button class="filter-pill" data-filter="sale">🔴 Sales</button>
+        <button class="filter-pill" data-filter="frontier">⭐ Frontier</button>
+      </div>
+
+      <div class="signal-list" id="signalList"></div>
+
+      <div class="chat-bar" id="chatBar">
+        <textarea class="chat-input" id="chatInput" placeholder="Ask about insider activity, specific tickers, or patterns..." rows="1"></textarea>
+        <button class="chat-send" id="chatSend">Send</button>
+      </div>
+    </main>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+  <script>
+    const $ = s => document.querySelector(s);
+    let allSignals = [];
+    let currentFilter = 'all';
+    let chatHistory = [];
+
+    async function loadData() {
+      const signals = await fetch('/api/insiders?limit=100').then(r => r.json());
+      allSignals = signals;
+      renderSignals();
+      loadAISummary();
+    }
+
+    async function loadAISummary() {
+      try {
+        const res = await fetch('/api/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: 'Summarize the top insider signals. What is the highest alpha right now?', context: 'insiders' })
+        });
+        const data = await res.json();
+        const el = $('#aiSummary');
+        el.classList.remove('loading');
+        el.textContent = data.response;
+      } catch (e) {
+        const el = $('#aiSummary');
+        el.classList.remove('loading');
+        el.textContent = 'AI analysis unavailable. Using rule-based scoring.';
+      }
+    }
+
+    function renderSignals() {
+      let filtered = allSignals;
+      if (currentFilter === 'verified') filtered = filtered.filter(s => s.is_verified);
+      else if (currentFilter === 'purchase') filtered = filtered.filter(s => s.txn_code === 'P' || (s.txn_label||'').includes('Purchase'));
+      else if (currentFilter === 'sale') filtered = filtered.filter(s => s.txn_code === 'S' || (s.txn_label||'').includes('Sale'));
+      else if (currentFilter === 'frontier') filtered = filtered.filter(s => s.is_frontier);
+
+      if (!filtered.length) {
+        $('#signalList').innerHTML = '<div class="empty">No signals match this filter.</div>';
+        return;
+      }
+
+      $('#signalList').innerHTML = filtered.map(s => {
+        const sc = s.score >= 60 ? 'high' : s.score >= 30 ? 'mid' : 'low';
+        const tc = s.txn_code === 'P' ? 'purchase' : s.txn_code === 'S' ? 'sale' : 'routine';
+        const card = s.is_verified ? 'verified' : 'discovery';
+        const val = s.total_value ? `$${Math.abs(s.total_value).toLocaleString()}` : '';
+        const date = s.created_at ? new Date(s.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+        const tags = (s.tags||[]).map(t => `<span class="tag">${esc(t)}</span>`).join('');
+
+        return `<article class="signal ${card}">
+          <div class="signal-score ${sc}">${s.score}</div>
+          <div>
+            <h3>${esc(s.ticker||'—')} ${esc(s.owner||'')}</h3>
+            <div class="signal-summary">
+              <span class="tag">${esc(s.txn_label||'Filing')}</span>
+              ${val ? `<strong>${val}</strong>` : ''}
+              ${s.is_10b5 ? '<span style="color:var(--muted)">10b5-1</span>' : ''}
+              ${s.is_verified ? '<span style="color:var(--accent)">✓ SEC VERIFIED</span>' : '<span style="color:var(--accent2)">🔍 X DISCOVERY</span>'}
+              <span style="color:var(--muted)">${date}</span>
+            </div>
+            <div class="why">${esc(s.interpretation)}</div>
+            <div class="tags">${tags}</div>
+          </div>
+          <div class="signal-meta">
+            <span class="source">${esc(s.source)}</span>
+            ${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">Verify ↗</a>` : ''}
+          </div>
+        </article>`;
+      }).join('');
+    }
+
+    function esc(s='') { return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+    document.querySelectorAll('[data-filter]').forEach(b => b.addEventListener('click', e => {
+      e.preventDefault();
+      document.querySelectorAll('[data-filter]').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      currentFilter = b.dataset.filter;
+      renderSignals();
+    }));
+
+    document.querySelectorAll('[data-sector]').forEach(b => b.addEventListener('click', e => {
+      e.preventDefault();
+      document.querySelectorAll('[data-sector]').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      const s = b.dataset.sector;
+      if (s === 'all') { renderSignals(); return; }
+      const f = allSignals.filter(x => x.frontier_sector === s);
+      $('#signalList').innerHTML = f.length ? f.map(x => {
+        const sc = x.score >= 60 ? 'high' : 'mid';
+        const date = x.created_at ? new Date(x.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : '';
+        return `<article class="signal ${x.is_verified?'verified':'discovery'}"><div class="signal-score ${sc}">${x.score}</div><div><h3>${esc(x.ticker||'—')} ${esc(x.owner||'')}</h3><div class="why">${esc(x.interpretation)}</div><div class="signal-summary"><span style="color:var(--muted)">${date}</span></div></div></article>`;
+      }).join('') : '<div class="empty">No signals in this sector.</div>';
+    }));
+
+    async function sendChat() {
+      const input = $('#chatInput');
+      const msg = input.value.trim();
+      if (!msg) return;
+      $('#chatSend').disabled = true;
+      input.value = '';
+      chatHistory.push({ role: 'user', content: msg });
+      try {
+        const res = await fetch('/api/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: msg, history: chatHistory, context: 'insiders' })
+        });
+        const data = await res.json();
+        chatHistory.push({ role: 'assistant', content: data.response });
+        const div = document.createElement('div');
+        div.className = 'chat-response';
+        div.innerHTML = `<div class="label">FEEDIFY AI</div>${esc(data.response)}`;
+        $('#signalList').insertBefore(div, $('#signalList').firstChild);
+        div.scrollIntoView({ behavior: 'smooth' });
+      } catch (e) {
+        const div = document.createElement('div');
+        div.className = 'chat-response';
+        div.innerHTML = `<div class="label">ERROR</div>${esc(e.message)}`;
+        $('#signalList').insertBefore(div, $('#signalList').firstChild);
+      } finally { $('#chatSend').disabled = false; }
+    }
+
+    $('#chatSend').addEventListener('click', sendChat);
+    $('#chatInput').addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendChat(); } });
+    $('#chatInput').addEventListener('input', function() { this.style.height = 'auto'; this.style.height = Math.min(this.scrollHeight, 120) + 'px'; });
+
+    loadData().catch(e => console.error(e));
+  </script>
+</body>
+</html>

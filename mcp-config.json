@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "feedify": {
+      "command": "python",
+      "args": ["-m", "feedify.mcp_stdio"],
+      "env": {
+        "FEEDIFY_URL": "https://feedify.egoic.ai"
+      }
+    }
+  }
+}

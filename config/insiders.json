@@ -1,0 +1,86 @@
+{
+  "description": "FRONTIER universe — high-growth stocks where insider activity matters most",
+  "version": "1.0",
+  "sectors": {
+    "AI": {
+      "description": "Artificial Intelligence leaders",
+      "tickers": ["META", "GOOGL", "MSFT", "AMZN", "PLTR", "CRWV", "NBIS"]
+    },
+    "CHIPS": {
+      "description": "Semiconductor & chip designers",
+      "tickers": ["NVDA", "AMD", "AVGO", "MU", "TSM", "ASML", "ARM", "INTC", "MRVL"]
+    },
+    "QUANTUM": {
+      "description": "Quantum computing pure plays",
+      "tickers": ["IONQ", "INFQ", "RGTI", "QBTS", "QUBT"]
+    },
+    "POWER_INFRA": {
+      "description": "AI infrastructure / power / datacenter",
+      "tickers": ["VRT", "ETN", "CEG", "VST", "GEV", "NRG"]
+    }
+  },
+  "source_weights": {
+    "sec_edgar": 0.35,
+    "quiverquant": 0.15,
+    "openinsider": 0.10,
+    "whalewisdom": 0.10,
+    "capitol_trades": 0.10,
+    "unusual_whales": 0.075,
+    "x_specialists": 0.075,
+    "x_discovery": 0.05
+  },
+  "signal_classes": {
+    "CORPORATE_INSIDER": "SEC Form 3/4/5 — officers, directors, 10% holders",
+    "ACTIVIST": "SEC 13D/G — >5% beneficial ownership / activist accumulation",
+    "INSTITUTIONAL": "SEC 13F — quarterly institutional portfolios (up to 45 days stale)",
+    "CONGRESS": "STOCK Act PTR — congressional member disclosures (up to 45 days stale)",
+    "OPTIONS_FLOW": "Unusual options activity",
+    "GOVERNMENT_CONTRACT": "USAspending / government contract awards",
+    "LOBBYING": "Lobbying disclosure filings",
+    "PATENT": "USPTO patent filings",
+    "X_ALPHA": "Unverified X discovery — never called verified until resolved into a primary class"
+  },
+  "scoring_tiers": {
+    "A+": "Score >= 80 — CEO/CFO open-market purchase >$1M in frontier stock",
+    "A": "Score >= 60 — Notable insider activity with pattern confirmation",
+    "B": "Score >= 40 — Meaningful but not urgent activity",
+    "C": "Score < 40 — Routine filing (awards, exercises, small transactions)"
+  },
+  "latency_labels": {
+    "FORM_4": "2 business days max",
+    "13D_G": "Up to 10 days after acquisition",
+    "13F": "Up to 45 days after quarter end",
+    "CONGRESS_PTR": "Up to 45 days after transaction",
+    "X_DISCOVERY": "Real-time but unverified"
+  },
+  "x_accounts": {
+    "tier1_authoritative": {
+      "quiverquant": "Form 4 + Congress + govt contracts + lobbying",
+      "unusual_whales": "Corporate insiders + Congress + options",
+      "sec_filings_bot": "Raw SEC filing alerts",
+      "whalewisdom": "13F + 13D/G institutional data",
+      "capitol2iq": "Congressional disclosures with analyst QA",
+      "beattheinsider": "Congress + corporate insider alerts"
+    },
+    "tier2_discovery": {
+      "pelositracker": "Congress thematic trades — mainly META/NVDA/AI",
+      "govstocktracker": "Government trades — high-frequency confirmation",
+      "congresstrading": "Congressional trading database",
+      "trackinsiders_": "CEOs + executives + politicians",
+      "insidertrackx": "Corporate insider patterns"
+    },
+    "tier3_context": {
+      "benzinga": "Form 4 news — good confirmation layer",
+      "gurufocus": "Insiders + guru investors — enrichment source",
+      "insidermonkey": "Hedge funds + insiders — medium-horizon",
+      "hedgemind": "13F smart money — AI/chips focus",
+      "13f_pro": "AI-driven 13F analysis — secondary source",
+      "burrytracker": "Concentrated fund bets — useful for AI/chip views",
+      "stockmktnewz": "Rapid corporate events — context for why insider events matter",
+      "marketbeatmedia": "Corporate insider enrichment"
+    },
+    "authority": {
+      "secgov": "SEC.gov — primary authority, not a realtime feed"
+    }
+  }
+}

@@ -27,6 +27,9 @@ def infer_domain(item: NormalizedItem) -> str:
         return "agents"
     if any(k in text for k in ("ads", "meta", "tiktok", "creative", "acquisition")):
         return "distribution"
+    if any(k in text for k in ("quantum", "qubit", "cryogenic", "photonics", "post-quantum", "q-day", "foundry", "wafer",
+                               "trapped ion", "superconducting", "transmon", "qpu", "phonon", "dilution", "pq ", "pqc")):
+        return "quantum"
     return "general"
 
 
@@ -229,6 +232,74 @@ def detect_rss(item: NormalizedItem) -> list[SignalDraft]:
     ]
 
 
+# Scarcity mapping for the quantum/AGI thesis: breakthrough claims imply
+# physical requirements, which imply tickers. Detector tags the implied
+# tickers; the "which asset hasn't moved" query runs at ranking time.
+SCARCITY_MAP: list[tuple[str, list[str], list[str]]] = [
+    ("quantum fabrication", ["fab", "foundry", "manufacturing", "cryogenic cmos", "packaging"], ["GFS"]),
+    ("wafer test", ["wafer", "cryogenic test", "probing", "yield", "4 kelvin", "millikelvin"], ["FORM"]),
+    ("qubit control", ["control", "readout", "microwave", "rf ", "metrology", "benchmark"], ["KEYS"]),
+    ("cryogenics", ["dilution refrigerator", "cryostat", "millikelvin", "bluefors"], ["OXIG"]),
+    ("photonics", ["photonic", "laser", "optical interconnect", "pic "], ["COHR", "LITE"]),
+    ("trapped ion", ["trapped ion", "ionq", "quantinuum"], ["IONQ", "QNT"]),
+    ("superconducting", ["superconducting", "transmon"], ["RGTI"]),
+    ("annealing", ["anneal", "d-wave", "dwave"], ["QBTS"]),
+    ("pq migration", ["post-quantum", "pqc", "q-day", "nists", "ml-dsa", "ml-kem"], ["ETH"]),
+    ("pq token", ["quantum-resistant ledger", "qrl", "qanplatform", "cellframe"], ["QRL", "QANX", "CELL"]),
+]
+
+X_ENGAGEMENT_VIRALITY = 5000
+
+
+def detect_x(item: NormalizedItem) -> list[SignalDraft]:
+    text = _text(item)
+    followers = int(item.metrics.get("author_followers") or 0)
+    views = int(item.metrics.get("views") or 0)
+    likes = int(item.metrics.get("likes") or 0)
+    signals: list[SignalDraft] = []
+    implied: list[str] = []
+    for _layer, keywords, tickers in SCARCITY_MAP:
+        if any(k in text for k in keywords):
+            implied.extend(t for t in tickers if t not in implied)
+    if implied:
+        verified = bool(item.metrics.get("author_verified"))
+        proximity = 0.88 if verified else 0.72
+        novelty = clamp(0.55 + min(likes, 5000) / 20000)
+        signals.append(
+            SignalDraft(
+                signal_type="SCARCITY_SHOCK",
+                domain="quantum",
+                title=f"Possible scarcity shock: {', '.join(implied)}",
+                summary=(item.body or item.title or "")[:700],
+                why_it_matters="Breakthrough claims expand physical requirements (fab, test, control, cooling). Implied tickers move only if the market reprices; check which hasn't moved.",
+                novelty=novelty,
+                actionability=0.62,
+                source_proximity=proximity,
+                confidence=0.6,
+                evidence_strength=0.6,
+                tags=["x", "scarcity-shock"] + [t.lower() for t in implied],
+                metadata={"implied_tickers": implied, "author_handle": item.metrics.get("author_handle")},
+            )
+        )
+        return signals
+    viral = views >= X_ENGAGEMENT_VIRALITY and likes >= 100
+    return [
+        SignalDraft(
+            signal_type="X_OBSERVATION",
+            domain=infer_domain(item),
+            title=item.title,
+            summary=(item.body or "")[:700],
+            why_it_matters="Primary-source X post; corroborate before acting.",
+            novelty=0.65 if viral else 0.5,
+            actionability=0.5,
+            source_proximity=0.8 if followers >= 10000 else 0.65,
+            confidence=0.55,
+            evidence_strength=0.55,
+            tags=["x"],
+        )
+    ]
+
+
 def detect_generic(item: NormalizedItem) -> list[SignalDraft]:
     return [
         SignalDraft(
@@ -243,6 +314,155 @@ def detect_generic(item: NormalizedItem) -> list[SignalDraft]:
             confidence=0.5,
             evidence_strength=0.5,
             tags=[item.source_type],
+        )
+    ]
+
+
+def detect_sec_edgar(item: NormalizedItem) -> list[SignalDraft]:
+    """Detect signals from SEC EDGAR filings (Form 4, 13D/G)."""
+    from .insider_scoring import score_transaction
+    
+    m = item.metrics
+    filing_type = m.get("filing_type", "")
+    ticker = m.get("issuer_ticker", "")
+    
+    # Score the transaction using the insider scoring engine
+    score_result = score_transaction(m)
+    score = score_result["score"]
+    tier = score_result["tier"]
+    signal_type = score_result["signal_type"]
+    
+    is_frontier = score_result.get("is_frontier", False)
+    frontier_sector = score_result.get("frontier_sector")
+    
+    # Determine domain
+    if is_frontier and frontier_sector:
+        domain = frontier_sector.lower()
+    else:
+        domain = "insiders"
+    
+    # Build signal based on filing type
+    if filing_type == "4":
+        txn_label = m.get("transaction_label", "transaction")
+        owner = m.get("reporting_owner", "an insider")
+        total_value = m.get("total_value", 0)
+        is_10b5 = m.get("is_10b5_1", False)
+        
+        # Tier-based description
+        if signal_type == "HIGH_SIGNAL_PURCHASE":
+            summary = (
+                f"🟢 HIGH SIGNAL — {owner} made a ${total_value:,.0f} open-market purchase of {ticker}. "
+                f"This is a strong conviction signal: the insider used personal cash, not options or awards."
+            )
+            why = "CEO/CFO open-market purchases with significant value are among the strongest insider signals. " \
+                  "This indicates the insider believes the stock is undervalued."
+        elif signal_type == "NOTABLE_PURCHASE":
+            summary = (
+                f"🟡 NOTABLE — {owner} purchased ${total_value:,.0f} of {ticker}. "
+                f"Transaction code: {m.get('transaction_code')}."
+            )
+            why = "Insider purchase with meaningful value. Monitor for cluster buying or repeat purchases."
+        elif signal_type == "LARGE_SALE":
+            summary = (
+                f"🟠 LARGE SALE — {owner} sold ${total_value:,.0f} of {ticker}. "
+                f"Check if this is 10b5-1 pre-planned or discretionary."
+            )
+            why = "Large discretionary sales can indicate insider concern, but many sales are routine. Check 10b5-1 status."
+        else:
+            summary = item.body or f"{owner} {txn_label} {ticker}"
+            why = "SEC Form 4 filing — verify transaction code and context."
+        
+        tags = ["sec-form4", "insiders", ticker.lower()]
+        if is_frontier:
+            tags.append("frontier")
+        if is_10b5:
+            tags.append("10b5-1")
+        if tier in ("A+", "A"):
+            tags.append("high-signal")
+    
+    elif filing_type in ("13D", "13G"):
+        summary = (
+            f"ALERT — Activist/institutional filing for {ticker}. "
+            f"A significant stake (>5%) has been disclosed."
+        )
+        why = "13D/G filings reveal activist accumulation or strategic stakes. " \
+              "These can precede proxy fights, board changes, or acquisition attempts."
+        tags = ["sec-13d", "activist", ticker.lower()]
+        if is_frontier:
+            tags.append("frontier")
+    
+    else:
+        summary = item.body or f"SEC filing: {filing_type} for {ticker}"
+        why = "SEC filing detected; review for significance."
+        tags = ["sec-filing", ticker.lower()]
+    
+    return [
+        SignalDraft(
+            signal_type=f"SEC_{filing_type}_{signal_type}",
+            domain=domain,
+            title=item.title,
+            summary=summary[:700],
+            why_it_matters=why,
+            novelty=clamp(0.5 + score / 200),
+            actionability=clamp(score / 100),
+            source_proximity=0.98,  # SEC EDGAR is the primary source
+            confidence=0.95,  # Very high confidence — it's a filing
+            evidence_strength=0.98,  # Primary evidence
+            tags=tags,
+            metadata={
+                **m,
+                "insider_score": score,
+                "insider_tier": tier,
+                "is_frontier": is_frontier,
+                "frontier_sector": frontier_sector,
+                "score_breakdown": score_result.get("breakdown", {}),
+            },
+        )
+    ]
+
+
+def detect_openinsider(item: NormalizedItem) -> list[SignalDraft]:
+    """Detect signals from OpenInsider data."""
+    from .insider_scoring import score_transaction
+    
+    m = item.metrics
+    score_result = score_transaction(m)
+    score = score_result["score"]
+    tier = score_result["tier"]
+    
+    ticker = m.get("issuer_ticker", "")
+    is_frontier = score_result.get("is_frontier", False)
+    frontier_sector = score_result.get("frontier_sector")
+    
+    if is_frontier and frontier_sector:
+        domain = frontier_sector.lower()
+    else:
+        domain = "insiders"
+    
+    return [
+        SignalDraft(
+            signal_type=f"OPENINSIDER_{score_result['signal_type']}",
+            domain=domain,
+            title=item.title,
+            summary=(item.body or "")[:700],
+            why_it_matters="OpenInsider structured data — cross-reference with SEC EDGAR for verification.",
+            novelty=clamp(0.5 + score / 200),
+            actionability=clamp(score / 100),
+            source_proximity=0.92,  # Structured aggregator, not primary source
+            confidence=0.88,
+            evidence_strength=0.9,
+            tags=["openinsider", "insiders", ticker.lower(), *(
+                ["frontier"] if is_frontier else []
+            ), *(
+                ["high-signal"] if tier in ("A+", "A") else []
+            )],
+            metadata={
+                **m,
+                "insider_score": score,
+                "insider_tier": tier,
+                "is_frontier": is_frontier,
+                "frontier_sector": frontier_sector,
+            },
         )
     ]
 

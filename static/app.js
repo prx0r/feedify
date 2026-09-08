@@ -1,5 +1,5 @@
 const $ = (s) => document.querySelector(s);
-const state = { feeds: [], sources: [], current: null, items: [] };
+const state = { feeds: [], sources: [], current: null, items: [], chatHistory: [] };
 
 async function api(path, options={}) {
   const res = await fetch(path, { headers: { 'Content-Type': 'application/json' }, ...options });
@@ -26,21 +26,67 @@ function renderSources() {
   $('#sourceGrid').innerHTML = state.sources.map(s => `<div class="source-card"><div><div class="source-name">${esc(s.name)}</div><div class="source-state">${s.last_run ? `${esc(s.last_run.status)} · ${s.last_run.fetched} fetched` : 'not run yet'}</div></div><span class="dot ${s.configured?'live':'off'}"></span></div>`).join('');
 }
 function showHome() {
-  state.current=null; $('#homeView').classList.remove('hidden'); $('#feedView').classList.add('hidden');
+  state.current=null; $('#homeView').classList.remove('hidden'); $('#feedView').classList.add('hidden'); $('#chatBar').style.display='none';
   $('#pageTitle').textContent='Feedify Alpha'; $('#pageDescription').textContent='Compile noisy sources into signals you actually want.'; $('#eyebrow').textContent='PERSONAL INTELLIGENCE NETWORK';
   $('#shareBtn').classList.add('hidden'); $('#installBtn').classList.add('hidden'); renderNav();
   $('#feedCards').innerHTML = state.feeds.map(f => `<a class="feed-card" href="/f/${encodeURIComponent(f.slug)}"><div class="feed-card-icon">${esc(f.icon)}</div><h3>${esc(f.name)}</h3><p>${esc(f.description || f.prompt)}</p><div class="feed-card-foot"><span>${f.public?'SHAREABLE':'PRIVATE'}</span><span>OPEN →</span></div></a>`).join('');
 }
 async function showFeed(slug) {
   const data = await api(`/api/feeds/${encodeURIComponent(slug)}?limit=100`); state.current=data; state.items=data.items;
-  $('#homeView').classList.add('hidden'); $('#feedView').classList.remove('hidden');
+  $('#homeView').classList.add('hidden'); $('#feedView').classList.remove('hidden'); $('#chatBar').style.display='flex';
   $('#pageTitle').textContent=`${data.feed.icon} ${data.feed.name}`; $('#pageDescription').textContent=data.feed.description || 'Personal Feedify feed'; $('#eyebrow').textContent='CUSTOM FEED APP';
-  $('#feedPrompt').textContent=data.feed.prompt; $('#shareBtn').classList.remove('hidden'); $('#installBtn').classList.remove('hidden'); renderNav(); renderSignals();
+  $('#feedPrompt').textContent=data.feed.prompt; $('#shareBtn').classList.remove('hidden'); $('#installBtn').classList.remove('hidden'); renderNav(); renderSignals(); loadFeedAiSummary(slug);
 }
 function renderSignals() {
   const min = Number($('#scoreFilter').value || 0); $('#scoreValue').textContent=min.toFixed(2);
   const items=state.items.filter(x=>x.score>=min);
   $('#signalList').innerHTML = items.length ? items.map(x => `<article class="signal"><div class="signal-score">${Math.round(x.score*100)}</div><div><h3>${esc(x.title)}</h3><div class="signal-summary">${esc(x.summary)}</div><div class="why"><strong>Why it matters:</strong> ${esc(x.why_it_matters)}</div><div class="tags">${[x.type,x.domain,...(x.tags||[])].slice(0,8).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></div><div class="signal-meta"><span class="source">${esc(x.source.type || '')}</span>${x.source.url ? `<a href="${esc(x.source.url)}" target="_blank" rel="noopener">source ↗</a>` : ''}</div></article>`).join('') : `<div class="empty">No signals pass this threshold yet. Refresh sources or loosen the feed.</div>`;
+}
+
+async function loadFeedAiSummary(slug) {
+  try {
+    const res = await fetch('/api/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: `Summarize the top signals in this feed. What's the alpha?`, context: 'feed' })
+    });
+    const data = await res.json();
+    const el = $('#feedAiSummary');
+    if (el) { el.classList.remove('loading'); el.textContent = data.response; }
+  } catch (e) {
+    const el = $('#feedAiSummary');
+    if (el) { el.classList.remove('loading'); el.textContent = 'AI analysis unavailable.'; }
+  }
+}
+
+async function sendChat() {
+  const input = $('#chatInput');
+  const msg = input.value.trim();
+  if (!msg) return;
+  $('#chatSend').disabled = true;
+  input.value = '';
+  state.chatHistory.push({ role: 'user', content: msg });
+  try {
+    const res = await fetch('/api/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: msg, history: state.chatHistory, context: 'general' })
+    });
+    const data = await res.json();
+    state.chatHistory.push({ role: 'assistant', content: data.response });
+    const div = document.createElement('div');
+    div.className = 'chat-response';
+    div.innerHTML = `<div class="label">FEEDIFY AI</div>${esc(data.response)}`;
+    const list = $('#signalList');
+    list.insertBefore(div, list.firstChild);
+    div.scrollIntoView({ behavior: 'smooth' });
+  } catch (e) {
+    const div = document.createElement('div');
+    div.className = 'chat-response';
+    div.innerHTML = `<div class="label">ERROR</div>${esc(e.message)}`;
+    const list = $('#signalList');
+    list.insertBefore(div, list.firstChild);
+  } finally { $('#chatSend').disabled = false; }
 }
 
 async function createFeed(ev) {
@@ -65,4 +111,7 @@ function openDialog(){ $('#feedDialog').showModal(); }
 
 $('#newFeedBtn').addEventListener('click',openDialog); $('#heroCreateBtn').addEventListener('click',openDialog); $('#closeDialog').addEventListener('click',()=>$('#feedDialog').close());
 $('#feedForm').addEventListener('submit',createFeed); $('#ingestBtn').addEventListener('click',refreshSignals); $('#shareBtn').addEventListener('click',shareFeed); $('#installBtn').addEventListener('click',installFeed); $('#scoreFilter').addEventListener('input',renderSignals);
+$('#chatSend').addEventListener('click', sendChat);
+$('#chatInput').addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendChat(); } });
+$('#chatInput').addEventListener('input', function() { this.style.height = 'auto'; this.style.height = Math.min(this.scrollHeight, 120) + 'px'; });
 loadShell().catch(e=>toast(e.message));

@@ -19,12 +19,18 @@
         <span class="brand-mark">F</span>
         <span>Feedify</span>
       </a>
+      <div class="side-label">PAGES</div>
+      <nav class="feed-nav">
+        <a href="/" class="active"><span class="nav-icon">📊</span>Feed</a>
+        <a href="/insiders"><span class="nav-icon">🔍</span>Insiders</a>
+        <a href="/frontier"><span class="nav-icon">⚛️</span>Frontier</a>
+      </nav>
       <div class="side-label">YOUR FEEDS</div>
       <nav id="feedNav" class="feed-nav"></nav>
       <button id="newFeedBtn" class="new-feed">+ New feed</button>
       <div class="side-spacer"></div>
       <div class="source-mini">
-        <div class="side-label">SIGNAL ENGINE</div>
+        <div class="side-label">SOURCES</div>
         <div id="sourceMini"></div>
       </div>
     </aside>
@@ -73,8 +79,17 @@
             <span id="scoreValue">0.00</span>
           </div>
         </div>
+        <div class="ai-box" id="feedAiBox">
+          <h3>🧠 AI ANALYSIS</h3>
+          <div class="content" id="feedAiSummary">Loading AI analysis...</div>
+        </div>
         <div id="signalList" class="signal-list"></div>
       </section>
+
+      <div class="chat-bar" id="chatBar">
+        <textarea class="chat-input" id="chatInput" placeholder="Ask about any signal, ticker, or insider activity..." rows="1"></textarea>
+        <button class="chat-send" id="chatSend">Send</button>
+      </div>
     </main>
   </div>
 

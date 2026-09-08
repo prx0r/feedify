@@ -22,6 +22,9 @@ dev = ["pytest>=8", "ruff>=0.9"]
 feedify = "feedify.cli:main"
 feedify-mcp = "feedify.mcp_server:main"
 
+[tool.setuptools.packages.find]
+include = ["feedify*"]
+
 [tool.pytest.ini_options]
 pythonpath = ["."]
 testpaths = ["tests"]

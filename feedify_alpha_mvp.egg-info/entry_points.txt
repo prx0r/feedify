@@ -1,0 +1,3 @@
+[console_scripts]
+feedify = feedify.cli:main
+feedify-mcp = feedify.mcp_server:main

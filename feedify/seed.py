@@ -11,6 +11,12 @@ from feedify.services.ranking import infer_algorithm_from_prompt
 
 FEEDS = [
     (
+        "quantum-scarcity",
+        "Quantum Scarcity",
+        "⚛",
+        "Physical-scarcity shocks from quantum breakthroughs: fabrication, cryogenic wafer test, qubit control, cryogenics, photonics, trapped-ion and superconducting progress, and post-quantum migration urgency. Map each claim to implied tickers (GFS, FORM, KEYS, COHR, LITE, IONQ, QNT, RGTI, QBTS, ETH, QRL, QANX, CELL) and surface whatever hasn't repriced yet. Suppress generic quantum hype with no physical requirement attached.",
+    ),
+    (
         "things-to-build",
         "Things I Should Build",
         "⚡",

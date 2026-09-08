@@ -8,11 +8,14 @@ from sqlalchemy.orm import Session
 
 from feedify.adapters import (
     AppfiguresAdapter,
+    EdgarAdapter,
     GitHubAdapter,
     GlamaAdapter,
     HackerNewsAdapter,
+    OpenInsiderAdapter,
     StoreLeadsAdapter,
     TrustMRRAdapter,
+    XAdapter,
 )
 from feedify.models import IngestionRun, Signal, SourceRecord
 from feedify.schemas import NormalizedItem
@@ -28,6 +31,9 @@ ADAPTERS = {
     "hackernews": HackerNewsAdapter,
     "storeleads": StoreLeadsAdapter,
     "appfigures": AppfiguresAdapter,
+    "x": XAdapter,
+    "sec_edgar": EdgarAdapter,
+    "openinsider": OpenInsiderAdapter,
 }
 
 

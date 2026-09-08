@@ -25,6 +25,11 @@ class Settings(BaseSettings):
     appfigures_client_key: str = ""
     github_token: str = ""
     apify_token: str = ""
+    getxapi_key: str = ""
+    getxapi_backup_key: str = ""
+    getxapi_watchlist_path: str = "config/insiders_watchlist.json"
+    getxapi_per_handle_count: int = 5
+    getxapi_max_handles: int = 20
 
     mcp_sources_json: str = "[]"
 

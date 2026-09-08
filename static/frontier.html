@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b0c10">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Frontier — Feedify</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="/">
+        <span class="brand-mark">F</span>
+        <span>Feedify</span>
+      </a>
+      <div class="side-label">PAGES</div>
+      <nav class="feed-nav">
+        <a href="/"><span class="nav-icon">📊</span>Feed</a>
+        <a href="/insiders"><span class="nav-icon">🔍</span>Insiders</a>
+        <a href="/frontier" class="active"><span class="nav-icon">⚛️</span>Frontier</a>
+      </nav>
+      <div class="side-label">SIGNALS</div>
+      <nav class="feed-nav">
+        <a class="active" data-filter="all"><span class="nav-icon">🌐</span>All signals</a>
+        <a data-filter="convergence"><span class="nav-icon">⚡</span>Convergence</a>
+        <a data-filter="high"><span class="nav-icon">🔥</span>High signal</a>
+        <a data-filter="replies"><span class="nav-icon">💬</span>Replies only</a>
+      </nav>
+      <div class="side-label">LABS</div>
+      <nav class="feed-nav">
+        <a data-lab="IonQ"><span class="nav-icon">🔵</span>IonQ</a>
+        <a data-lab="Infleqtion"><span class="nav-icon">🟢</span>Infleqtion</a>
+        <a data-lab="xAI"><span class="nav-icon">✖️</span>xAI</a>
+        <a data-lab="Anthropic"><span class="nav-icon">🟠</span>Anthropic</a>
+        <a data-lab="OpenAI"><span class="nav-icon">⚫</span>OpenAI</a>
+        <a data-lab="DeepMind"><span class="nav-icon">🧠</span>DeepMind</a>
+      </nav>
+      <div class="side-spacer"></div>
+      <div class="source-mini">
+        <div class="side-label">LINKS</div>
+        <div class="source-mini-row"><a href="/api/frontier?limit=50">API</a></div>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">FRONTIER INTELLIGENCE</div>
+          <h1>Quantum × AGI</h1>
+          <p>When does AI start materially shortening the quantum-computer R&D feedback loop?</p>
+        </div>
+      </header>
+
+      <div class="ai-box" id="aiBox">
+        <h3>🧠 AI ANALYSIS</h3>
+        <div class="content loading" id="aiSummary">Loading AI analysis...</div>
+      </div>
+
+      <div class="graph-container">
+        <h3 style="color:var(--accent);font-size:13px;margin:0 0 10px;letter-spacing:.08em">NETWORK GRAPH</h3>
+        <canvas id="graphCanvas" width="800" height="400"></canvas>
+      </div>
+
+      <div class="filter-bar">
+        <button class="filter-pill active" data-filter="all">All</button>
+        <button class="filter-pill" data-filter="convergence">⚡ Convergence</button>
+        <button class="filter-pill" data-filter="high">🔥 High signal</button>
+        <button class="filter-pill" data-filter="replies">💬 Replies only</button>
+      </div>
+
+      <div class="signal-list" id="signalList"></div>
+
+      <div class="chat-bar" id="chatBar">
+        <textarea class="chat-input" id="chatInput" placeholder="Ask about quantum × AGI convergence..." rows="1"></textarea>
+        <button class="chat-send" id="chatSend">Send</button>
+      </div>
+    </main>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+  <script>
+    const $ = s => document.querySelector(s);
+    let allSignals = [];
+    let currentFilter = 'all';
+    let currentLab = null;
+    let chatHistory = [];
+
+    async function loadData() {
+      const [signals, graph] = await Promise.all([
+        fetch('/api/frontier?limit=100').then(r => r.json()),
+        fetch('/api/frontier/graph').then(r => r.json())
+      ]);
+      allSignals = signals;
+      renderSignals();
+      loadAISummary();
+      renderGraph(graph);
+    }
+
+    function renderGraph(graph) {
+      const canvas = $('#graphCanvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const W = canvas.width = canvas.offsetWidth;
+      const H = canvas.height = 400;
+
+      ctx.fillStyle = '#0b0c10';
+      ctx.fillRect(0, 0, W, H);
+
+      const persons = Object.values(graph.persons || {});
+      if (!persons.length) return;
+
+      // Lab colors
+      const labColors = {
+        'IonQ': '#3b82f6', 'Infleqtion': '#22c55e', 'IQM': '#a855f7',
+        'Google DeepMind': '#ef4444', 'Meta MSL': '#3b82f6', 'xAI': '#f59e0b',
+        'Anthropic': '#f97316', 'OpenAI': '#6b7280', 'Axiom': '#06b6d4', 'DeepMind': '#ef4444'
+      };
+
+      // Position nodes in a force-like layout by lab
+      const labGroups = {};
+      persons.forEach((p, i) => {
+        const lab = p.lab || 'Unknown';
+        if (!labGroups[lab]) labGroups[lab] = [];
+        labGroups[lab].push({...p, idx: i});
+      });
+
+      const labNames = Object.keys(labGroups);
+      const nodes = [];
+      labNames.forEach((lab, li) => {
+        const angle = (li / labNames.length) * Math.PI * 2;
+        const cx = W/2 + Math.cos(angle) * 150;
+        const cy = H/2 + Math.sin(angle) * 120;
+        labGroups[lab].forEach((p, pi) => {
+          const a2 = (pi / labGroups[lab].length) * Math.PI * 2;
+          nodes.push({
+            x: cx + Math.cos(a2) * 40,
+            y: cy + Math.sin(a2) * 40,
+            r: Math.min(20, 5 + p.post_count),
+            color: labColors[lab] || '#666',
+            label: p.handle,
+            lab: lab,
+            priority: p.priority
+          });
+        });
+      });
+
+      // Draw edges between same-lab nodes
+      ctx.strokeStyle = 'rgba(100,126,234,0.15)';
+      ctx.lineWidth = 1;
+      labNames.forEach(lab => {
+        const group = labGroups[lab];
+        for (let i = 0; i < group.length; i++) {
+          for (let j = i+1; j < group.length; j++) {
+            const n1 = nodes.find(n => n.label === group[i].handle);
+            const n2 = nodes.find(n => n.label === group[j].handle);
+            if (n1 && n2) {
+              ctx.beginPath();
+              ctx.moveTo(n1.x, n1.y);
+              ctx.lineTo(n2.x, n2.y);
+              ctx.stroke();
+            }
+          }
+        }
+      });
+
+      // Draw nodes
+      nodes.forEach(n => {
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+        ctx.fillStyle = n.color;
+        ctx.fill();
+        ctx.strokeStyle = '#fff';
+        ctx.lineWidth = 1;
+        ctx.stroke();
+
+        ctx.fillStyle = '#fff';
+        ctx.font = '10px Inter, sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText('@' + n.label.slice(0, 12), n.x, n.y + n.r + 12);
+      });
+
+      // Legend
+      ctx.font = '10px Inter, sans-serif';
+      ctx.textAlign = 'left';
+      let ly = 20;
+      labNames.forEach(lab => {
+        ctx.fillStyle = labColors[lab] || '#666';
+        ctx.fillRect(10, ly, 10, 10);
+        ctx.fillStyle = '#8e96a6';
+        ctx.fillText(lab, 25, ly + 9);
+        ly += 16;
+      });
+    }
+
+    async function loadAISummary() {
+      try {
+        const res = await fetch('/api/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            message: 'Analyze the quantum × AGI convergence signals. What are the highest-alpha signals? Any regime changes or capability jumps? What should I watch for?',
+            context: 'frontier'
+          })
+        });
+        const data = await res.json();
+        const el = $('#aiSummary');
+        el.classList.remove('loading');
+        el.textContent = data.response;
+      } catch (e) {
+        const el = $('#aiSummary');
+        el.classList.remove('loading');
+        el.textContent = 'AI analysis unavailable.';
+      }
+    }
+
+    function renderSignals() {
+      let filtered = allSignals;
+
+      if (currentFilter === 'convergence') filtered = filtered.filter(s => s.signal_type === 'CONVERGENCE');
+      else if (currentFilter === 'quantum') filtered = filtered.filter(s => s.signal_type === 'QUANTUM_LEAD');
+      else if (currentFilter === 'agi') filtered = filtered.filter(s => s.signal_type === 'AGI_LEAD');
+      else if (currentFilter === 'regime') filtered = filtered.filter(s => s.signal_type === 'REGIME_CHANGE');
+      else if (currentFilter === 'high') filtered = filtered.filter(s => s.score >= 60);
+      else if (currentFilter === 'replies') filtered = filtered.filter(s => s.is_reply);
+
+      if (currentLab) {
+        filtered = filtered.filter(s => s.lab === currentLab);
+      }
+
+      if (!filtered.length) {
+        $('#signalList').innerHTML = '<div class="empty">No signals match this filter.</div>';
+        return;
+      }
+
+      $('#signalList').innerHTML = filtered.map(s => {
+        const sc = s.score >= 80 ? 'high' : s.score >= 60 ? 'mid' : 'low';
+        const date = s.created_at ? new Date(s.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+        const tags = (s.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('');
+        const signalIcon = s.signal_type === 'CONVERGENCE' ? '⚡' :
+                          s.signal_type === 'QUANTUM_LEAD' ? '⚛️' :
+                          s.signal_type === 'AGI_LEAD' ? '🤖' :
+                          s.signal_type === 'REGIME_CHANGE' ? '🔥' : '📊';
+
+        return `<article class="signal ${s.is_reply ? 'reply' : ''}">
+          <div class="signal-score ${sc}">${s.score}</div>
+          <div>
+            <h3>${signalIcon} ${esc(s.title || '—')}</h3>
+            <div class="signal-summary">
+              <span class="tag">${esc(s.lab || '')}</span>
+              <span class="tag">${esc(s.priority || '')}</span>
+              <span class="tag">${esc(s.role || '')}</span>
+              ${s.is_reply ? '<span class="tag" style="border-color:var(--accent2);color:var(--accent2)">REPLY</span>' : ''}
+              <span style="color:var(--muted)">${date}</span>
+            </div>
+            <div class="why">${esc(s.interpretation || s.summary || '')}</div>
+            <div class="tags">${tags}</div>
+          </div>
+          <div class="signal-meta">
+            <span class="source">@${esc(s.author || '')}</span>
+            ${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">View ↗</a>` : ''}
+          </div>
+        </article>`;
+      }).join('');
+    }
+
+    function esc(s='') { return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+    document.querySelectorAll('[data-filter]').forEach(b => b.addEventListener('click', e => {
+      e.preventDefault();
+      document.querySelectorAll('[data-filter]').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      currentFilter = b.dataset.filter;
+      renderSignals();
+    }));
+
+    document.querySelectorAll('[data-lab]').forEach(b => b.addEventListener('click', e => {
+      e.preventDefault();
+      if (currentLab === b.dataset.lab) {
+        currentLab = null;
+        b.classList.remove('active');
+      } else {
+        document.querySelectorAll('[data-lab]').forEach(x => x.classList.remove('active'));
+        b.classList.add('active');
+        currentLab = b.dataset.lab;
+      }
+      renderSignals();
+    }));
+
+    async function sendChat() {
+      const input = $('#chatInput');
+      const msg = input.value.trim();
+      if (!msg) return;
+      $('#chatSend').disabled = true;
+      input.value = '';
+      chatHistory.push({ role: 'user', content: msg });
+      try {
+        const res = await fetch('/api/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: msg, history: chatHistory, context: 'frontier' })
+        });
+        const data = await res.json();
+        chatHistory.push({ role: 'assistant', content: data.response });
+        const div = document.createElement('div');
+        div.className = 'chat-response';
+        div.innerHTML = `<div class="label">FEEDIFY AI</div>${esc(data.response)}`;
+        $('#signalList').insertBefore(div, $('#signalList').firstChild);
+        div.scrollIntoView({ behavior: 'smooth' });
+      } catch (e) {
+        const div = document.createElement('div');
+        div.className = 'chat-response';
+        div.innerHTML = `<div class="label">ERROR</div>${esc(e.message)}`;
+        $('#signalList').insertBefore(div, $('#signalList').firstChild);
+      } finally { $('#chatSend').disabled = false; }
+    }
+
+    $('#chatSend').addEventListener('click', sendChat);
+    $('#chatInput').addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendChat(); } });
+    $('#chatInput').addEventListener('input', function() { this.style.height = 'auto'; this.style.height = Math.min(this.scrollHeight, 120) + 'px'; });
+
+    loadData().catch(e => console.error(e));
+  </script>
+</body>
+</html>
