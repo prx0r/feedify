@@ -1,5 +1,59 @@
 {
   "handle": "HuaixiuZheng",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:08:02.634406"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1826058997746794892",
+      "url": "https://x.com/HuaixiuZheng/status/1826058997746794892",
+      "twitterUrl": "https://twitter.com/HuaixiuZheng/status/1826058997746794892",
+      "text": "Finally our NATURAL PLAN data and eval code is up on GitHub. Enjoy!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1156,
+      "createdAt": "Wed Aug 21 00:49:26 +0000 2024",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1826058997746794892",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "HuaixiuZheng",
+        "url": "https://x.com/HuaixiuZheng",
+        "id": "1180190397336674304",
+        "name": "Steven Zheng",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1180190850304761856/pdO_WYJw_normal.jpg",
+        "coverPicture": null,
+        "description": "Trained Quantum Physicist working on LLM Reasoning at Google DeepMind",
+        "location": "",
+        "followers": 376,
+        "following": 65,
+        "createdAt": "Fri Oct 04 18:38:23 +0000 2019",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "1826056585589960922",
+        "text": "NATURAL PLAN data and eval code is finally up \ud83d\udd25. \nThank you everyone for your interest and patience!\n\nhttps://github.com/google-deepmind/natural-plan",
+        "user": {
+          "name": "Swaroop Mishra",
+          "screen_name": "Swarooprm7"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

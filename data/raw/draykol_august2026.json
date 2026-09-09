@@ -1,5 +1,185 @@
 {
   "handle": "draykol",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:37:21.700999"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2084041629997191614",
+      "url": "https://x.com/draykol/status/2084041629997191614",
+      "twitterUrl": "https://twitter.com/draykol/status/2084041629997191614",
+      "text": "RT @sschoenholz: @starsailing11 Good question! I tend to think that ML is the tide that lifts all ships, so we'll probably see a lot of thi\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 4,
+      "createdAt": "Sun Aug 02 22:20:18 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2084041629997191614",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4870078413",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Sam Schoenholz",
+            "screen_name": "sschoenholz"
+          },
+          {
+            "id_str": "1590397010850430976",
+            "indices": [
+              17,
+              31
+            ],
+            "name": "Space Man",
+            "screen_name": "starsailing11"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "draykol",
+        "url": "https://x.com/draykol",
+        "id": "1024738329080684544",
+        "name": "Muratahan Aykol",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1969846635812593664/9CkcQQQC_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1024738329080684544/1764266489",
+        "description": "AI for science @PeriodicLabs | previously at Google DeepMind, TRI, Rivian, Berkeley Lab, Northwestern",
+        "location": "Menlo Park, CA",
+        "followers": 1330,
+        "following": 365,
+        "createdAt": "Wed Aug 01 19:27:11 +0000 2018",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2083628422455234859",
+        "url": "https://x.com/sschoenholz/status/2083628422455234859",
+        "text": "Good question! I tend to think that ML is the tide that lifts all ships, so we'll probably see a lot of things emerge. \n\nObviously theoretical work is close to math, so probably the most straight forward (and iiuc the field is already seeing a lot of amazing results).\n\nAnything related to simulation is also quite low-hanging. Maybe improvements around quantum-simulation? There's been some really cool looking work there already.\n\nI'm also super bullish on automated labs like Periodic. So maybe there will be experimental results that happen sooner than we'd naively expect.",
+        "createdAt": "Sat Aug 01 18:58:22 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 1,
+        "likeCount": 19,
+        "quoteCount": 0,
+        "viewCount": 1209,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "4870078413",
+          "userName": "sschoenholz",
+          "url": "https://x.com/sschoenholz",
+          "name": "Sam Schoenholz",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1209205587214577674/UozgbhIo_normal.jpg",
+          "coverPicture": null,
+          "description": "@openai\n\npreviously: @thinkymachines, google brain.",
+          "location": "",
+          "followers": 8278,
+          "following": 699,
+          "createdAt": "Mon Feb 01 19:02:25 +0000 2016",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2083603296733012325",
+      "url": "https://x.com/draykol/status/2083603296733012325",
+      "twitterUrl": "https://twitter.com/draykol/status/2083603296733012325",
+      "text": "RT @ekindogus: Physics is a never-ending quest, and the ultimate proving ground for AI and RSI.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1,
+      "createdAt": "Sat Aug 01 17:18:32 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2083603296733012325",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1360892702",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Ekin Dogus Cubuk",
+            "screen_name": "ekindogus"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "draykol",
+        "url": "https://x.com/draykol",
+        "id": "1024738329080684544",
+        "name": "Muratahan Aykol",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1969846635812593664/9CkcQQQC_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1024738329080684544/1764266489",
+        "description": "AI for science @PeriodicLabs | previously at Google DeepMind, TRI, Rivian, Berkeley Lab, Northwestern",
+        "location": "Menlo Park, CA",
+        "followers": 1330,
+        "following": 365,
+        "createdAt": "Wed Aug 01 19:27:11 +0000 2018",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2083383590201745546",
+        "url": "https://x.com/ekindogus/status/2083383590201745546",
+        "text": "Physics is a never-ending quest, and the ultimate proving ground for AI and RSI.",
+        "createdAt": "Sat Aug 01 02:45:29 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 1,
+        "likeCount": 31,
+        "quoteCount": 0,
+        "viewCount": 3175,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1360892702",
+          "userName": "ekindogus",
+          "url": "https://x.com/ekindogus",
+          "name": "Ekin Dogus Cubuk",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1972782678400458752/FX7EtQtI_normal.jpg",
+          "coverPicture": null,
+          "description": "Co-Founder of @periodiclabs\n\nPast: Lead of materials science and chemistry at @GoogleDeepMind; Google Brain",
+          "location": "San Francisco, CA",
+          "followers": 9332,
+          "following": 497,
+          "createdAt": "Thu Apr 18 03:04:51 +0000 2013",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

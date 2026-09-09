@@ -1,5 +1,91 @@
 {
   "handle": "KillianSheriff",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:07:30.614910"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2091649381867061620",
+      "url": "https://x.com/KillianSheriff/status/2091649381867061620",
+      "twitterUrl": "https://twitter.com/KillianSheriff/status/2091649381867061620",
+      "text": "RT @LiamFedus: Elon's companies are winning in part by co-designing hardware all the way down to the materials. A new alloy unlocked single\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 22,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 23 22:10:48 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091649381867061620",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "885528008",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Liam Fedus",
+            "screen_name": "LiamFedus"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "KillianSheriff",
+        "url": "https://x.com/KillianSheriff",
+        "id": "880533938",
+        "name": "Killian Sheriff",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1967312448756584448/bK1p2s_N_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/880533938/1618349567",
+        "description": "ML for materials discovery @PeriodicLabs | I like metallic alloys.",
+        "location": "Menlo Park, CA",
+        "followers": 689,
+        "following": 2792,
+        "createdAt": "Sun Oct 14 17:00:29 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2091647105857425408",
+        "url": "https://x.com/LiamFedus/status/2091647105857425408",
+        "text": "Elon's companies are winning in part by co-designing hardware all the way down to the materials. A new alloy unlocked single-piece gigacasting for the Model Y, and a new steel replaced 301 stainless on Starship.\nMaterials are the deepest layer of the stack, but currently one of the least designable.",
+        "createdAt": "Sun Aug 23 22:01:45 +0000 2026",
+        "retweetCount": 22,
+        "replyCount": 9,
+        "likeCount": 491,
+        "quoteCount": 7,
+        "viewCount": 48991,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "885528008",
+          "userName": "LiamFedus",
+          "url": "https://x.com/LiamFedus",
+          "name": "Liam Fedus",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/946842870916448256/X0_3p45X_normal.jpg",
+          "coverPicture": null,
+          "description": "Building industrial-scale science at @periodiclabs\n\nPast: VP of Post-Training @OpenAI; Google Brain",
+          "location": "San Francisco, CA",
+          "followers": 36563,
+          "following": 1226,
+          "createdAt": "Tue Oct 16 23:14:47 +0000 2012",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

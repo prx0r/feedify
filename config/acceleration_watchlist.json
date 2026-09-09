@@ -861,5 +861,10 @@
     "handle": "ramez",
     "reason": "Ramez Naam - Solar exponential learning curve 2011",
     "tier": "precursor"
+  },
+  {
+    "handle": "BeffJezos",
+    "reason": "Beff (e/acc) - effective accelerationism, hardware/physics focused",
+    "tier": "precursor"
   }
 ]

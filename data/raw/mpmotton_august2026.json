@@ -1,5 +1,122 @@
 {
   "handle": "mpmotton",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:07:56.731535"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1823111146447966268",
+      "url": "https://x.com/mpmotton/status/1823111146447966268",
+      "twitterUrl": "https://twitter.com/mpmotton/status/1823111146447966268",
+      "text": "Now is your last chance to wish for more details in our manuscript!",
+      "source": "Twitter for Android",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "viewCount": 514,
+      "createdAt": "Mon Aug 12 21:35:43 +0000 2024",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1823111146447966268",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "mpmotton",
+        "url": "https://x.com/mpmotton",
+        "id": "2317232028",
+        "name": "Mikko M\u00f6tt\u00f6nen",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1359405409317052416/J9Us1g7n_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2317232028/1667908275",
+        "description": "Quantum mechanic.  @AaltoUniversity @VTTFinland @meetIQM. Tweets are personal about #physics and life in the middle of the second quantum revolution.",
+        "location": "Helsinki, Finland",
+        "followers": 1421,
+        "following": 310,
+        "createdAt": "Wed Jan 29 14:22:33 +0000 2014",
+        "canDm": false
+      },
+      "quoted_tweet": {
+        "id": "1819266311345570208",
+        "text": "\ud83d\ude80We just put our manuscript on millisecond-coherence superconducting transmon qubits on arXiv! Give feedback before August 15th. Feel free to make any requests (to the first author) of more information on how to reproduce these results in your lab! https://arxiv.org/pdf/2407.18778 https://t.co/PXIi6cvCkn",
+        "user": {
+          "name": "Mikko M\u00f6tt\u00f6nen",
+          "screen_name": "mpmotton"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1819266311345570208",
+      "url": "https://x.com/mpmotton/status/1819266311345570208",
+      "twitterUrl": "https://twitter.com/mpmotton/status/1819266311345570208",
+      "text": "\ud83d\ude80We just put our manuscript on millisecond-coherence superconducting transmon qubits on arXiv! Give feedback before August 15th. Feel free to make any requests (to the first author) of more information on how to reproduce these results in your lab! https://arxiv.org/pdf/2407.18778 https://t.co/PXIi6cvCkn",
+      "source": "Twitter Web App",
+      "retweetCount": 5,
+      "replyCount": 0,
+      "likeCount": 20,
+      "quoteCount": 2,
+      "viewCount": 1379,
+      "createdAt": "Fri Aug 02 06:57:43 +0000 2024",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1819266311345570208",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GT9U8LTXAAA4Opb.jpg",
+          "expanded_url": "https://x.com/mpmotton/status/1819266311345570208/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "arxiv.org/pdf/2407.18778",
+            "expanded_url": "https://arxiv.org/pdf/2407.18778",
+            "indices": [
+              249,
+              272
+            ],
+            "url": "https://t.co/cAmKSq1KsY"
+          }
+        ],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "mpmotton",
+        "url": "https://x.com/mpmotton",
+        "id": "2317232028",
+        "name": "Mikko M\u00f6tt\u00f6nen",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1359405409317052416/J9Us1g7n_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2317232028/1667908275",
+        "description": "Quantum mechanic.  @AaltoUniversity @VTTFinland @meetIQM. Tweets are personal about #physics and life in the middle of the second quantum revolution.",
+        "location": "Helsinki, Finland",
+        "followers": 1421,
+        "following": 310,
+        "createdAt": "Wed Jan 29 14:22:33 +0000 2014",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

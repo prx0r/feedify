@@ -1,0 +1,112 @@
+{
+  "handle": "tri_dao",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2089759578380706246",
+      "url": "https://x.com/tri_dao/status/2089759578380706246",
+      "twitterUrl": "https://twitter.com/tri_dao/status/2089759578380706246",
+      "text": "These guys move fast, 1st rack already ships. More inference compute is always welcome",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 9,
+      "likeCount": 174,
+      "quoteCount": 0,
+      "viewCount": 37098,
+      "createdAt": "Tue Aug 18 17:01:23 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 16,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089759578380706246",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "tri_dao",
+        "url": "https://x.com/tri_dao",
+        "id": "568879807",
+        "name": "Tri Dao",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1389486324516671496/owa9Z4AC_normal.jpg",
+        "coverPicture": null,
+        "description": "Asst. Prof @PrincetonCS, Chief Scientist @togethercompute. Machine learning & systems.",
+        "location": "Stanford, CA",
+        "followers": 44428,
+        "following": 661,
+        "createdAt": "Wed May 02 07:13:50 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2089729087732605282",
+        "text": "We've raised $700M at a $21B valuation from Jane Street, Kleiner Perkins, Sequoia, A16Z, Peter Thiel, BCV, and Blackstone.\n\nWe're also excited to share that we've shipped our first rack to Jane Street. https://t.co/MFlF2xSw0B",
+        "user": {
+          "name": "Etched",
+          "screen_name": "Etched"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2087677140410290302",
+      "url": "https://x.com/tri_dao/status/2087677140410290302",
+      "twitterUrl": "https://twitter.com/tri_dao/status/2087677140410290302",
+      "text": "I really like this new benchmark. Has the flavor of ARC-AGI3 but it\u2019s pure text so you don\u2019t have to worry about the vision capability",
+      "source": "Twitter for iPhone",
+      "retweetCount": 15,
+      "replyCount": 1,
+      "likeCount": 207,
+      "quoteCount": 0,
+      "viewCount": 32408,
+      "createdAt": "Wed Aug 12 23:06:32 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 75,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087677140410290302",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "tri_dao",
+        "url": "https://x.com/tri_dao",
+        "id": "568879807",
+        "name": "Tri Dao",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1389486324516671496/owa9Z4AC_normal.jpg",
+        "coverPicture": null,
+        "description": "Asst. Prof @PrincetonCS, Chief Scientist @togethercompute. Machine learning & systems.",
+        "location": "Stanford, CA",
+        "followers": 44428,
+        "following": 661,
+        "createdAt": "Wed May 02 07:13:50 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2087535497480388729",
+        "text": "We\u2019re excited to announce DiG-bench, a new benchmark for discovery! \n\nOver the last few weeks we\u2019ve been testing frontier AI models on our novel discovery games and seeing how they score. Each game is a text-based environment, so they probe discovery capabilities in the natural https://t.co/cVb4mSoDri",
+        "user": {
+          "name": "James Whittington",
+          "screen_name": "jcrwhittington"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

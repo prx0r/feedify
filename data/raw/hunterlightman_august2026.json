@@ -1,5 +1,213 @@
 {
   "handle": "hunterlightman",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:08:19.861438"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1954993306200604708",
+      "url": "https://x.com/hunterlightman/status/1954993306200604708",
+      "twitterUrl": "https://twitter.com/hunterlightman/status/1954993306200604708",
+      "text": "RT @SherylHsu02: 1/n I\u2019m thrilled to share that our @OpenAI reasoning system scored high enough to achieve gold \ud83e\udd47\ud83e\udd47 in one of the world\u2019s to\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 280,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 11 19:48:20 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1954993306200604708",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1290349062038810624",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Sheryl Hsu",
+            "screen_name": "SherylHsu02"
+          },
+          {
+            "id_str": "4398626122",
+            "indices": [
+              52,
+              59
+            ],
+            "name": "OpenAI",
+            "screen_name": "OpenAI"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "hunterlightman",
+        "url": "https://x.com/hunterlightman",
+        "id": "229669572",
+        "name": "hunter",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1321690911386918914/xm_gaQzs_normal.jpg",
+        "coverPicture": null,
+        "description": "openai",
+        "location": "San Francisco, CA",
+        "followers": 4026,
+        "following": 260,
+        "createdAt": "Thu Dec 23 01:02:23 +0000 2010",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "1954966109851119921",
+        "url": "https://x.com/SherylHsu02/status/1954966109851119921",
+        "text": "1/n I\u2019m thrilled to share that our @OpenAI reasoning system scored high enough to achieve gold \ud83e\udd47\ud83e\udd47 in one of the world\u2019s top programming competitions - the 2025 International Olympiad in Informatics (IOI) - placing first among AI participants! \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb https://t.co/k3RQxIzXPH",
+        "createdAt": "Mon Aug 11 18:00:16 +0000 2025",
+        "retweetCount": 280,
+        "replyCount": 192,
+        "likeCount": 2664,
+        "quoteCount": 139,
+        "viewCount": 2499117,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/GyFs3QCbQAAOVVH.jpg",
+            "expanded_url": "https://x.com/SherylHsu02/status/1954966109851119921/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1290349062038810624",
+          "userName": "SherylHsu02",
+          "url": "https://x.com/SherylHsu02",
+          "name": "Sheryl Hsu",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2056959065285427200/bW1yih0T_normal.jpg",
+          "coverPicture": null,
+          "description": "@openai | bs/ms @Stanford\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+          "location": "",
+          "followers": 9532,
+          "following": 193,
+          "createdAt": "Mon Aug 03 18:09:43 +0000 2020",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "1953978806139863146",
+      "url": "https://x.com/hunterlightman/status/1953978806139863146",
+      "twitterUrl": "https://twitter.com/hunterlightman/status/1953978806139863146",
+      "text": "i agree! my take:\nthe first 90% of intelligence and reliability you can notice immediately in the chat app\n\nthe last 1% you will only notice in gdp growth\n\nit is a very good model. it listens much better to what i want. i'm really proud of my coworkers who shipped it",
+      "source": "Twitter Web App",
+      "retweetCount": 4,
+      "replyCount": 2,
+      "likeCount": 85,
+      "quoteCount": 0,
+      "viewCount": 15556,
+      "createdAt": "Sat Aug 09 00:37:05 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 15,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1953978806139863146",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "hunterlightman",
+        "url": "https://x.com/hunterlightman",
+        "id": "229669572",
+        "name": "hunter",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1321690911386918914/xm_gaQzs_normal.jpg",
+        "coverPicture": null,
+        "description": "openai",
+        "location": "San Francisco, CA",
+        "followers": 4026,
+        "following": 260,
+        "createdAt": "Thu Dec 23 01:02:23 +0000 2010",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "1953913685279486340",
+        "text": "first of all, gpt-5 in ChatGPT != gpt-5 in API\n\nbut it gets more complicated. gpt-5 with minimal reasoning effort also behaves like a completely different model.\n\ngpt-5 *is* a fantastic model with the right harness. and i believe we will see it fundamentally change products.",
+        "user": {
+          "name": "ben hylak",
+          "screen_name": "benhylak"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1953488937617649930",
+      "url": "https://x.com/hunterlightman/status/1953488937617649930",
+      "twitterUrl": "https://twitter.com/hunterlightman/status/1953488937617649930",
+      "text": "underhype, overdeliver",
+      "source": "Twitter Web App",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 19,
+      "quoteCount": 0,
+      "viewCount": 2508,
+      "createdAt": "Thu Aug 07 16:10:31 +0000 2025",
+      "lang": "da",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1953488937617649930",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "hunterlightman",
+        "url": "https://x.com/hunterlightman",
+        "id": "229669572",
+        "name": "hunter",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1321690911386918914/xm_gaQzs_normal.jpg",
+        "coverPicture": null,
+        "description": "openai",
+        "location": "San Francisco, CA",
+        "followers": 4026,
+        "following": 260,
+        "createdAt": "Thu Dec 23 01:02:23 +0000 2010",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "1953325155398160723",
+        "text": "Dear OpenAI friends:\n\nI'm sorry to be the one to tell you but I can say confidently now, as an ex-insider/current outsider, that the vagueposting is indeed off-putting to (most) outsiders. I *promise* you can enjoy launches without it -- you've done it before + can do it again.",
+        "user": {
+          "name": "Miles Brundage",
+          "screen_name": "Miles_Brundage"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

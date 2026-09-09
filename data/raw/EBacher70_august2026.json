@@ -1,0 +1,112 @@
+{
+  "handle": "EBacher70",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2094114300411642228",
+      "url": "https://x.com/EBacher70/status/2094114300411642228",
+      "twitterUrl": "https://twitter.com/EBacher70/status/2094114300411642228",
+      "text": "https://t.co/SGx83t3xTT",
+      "source": "Twitter for Android",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 68,
+      "createdAt": "Sun Aug 30 17:25:30 +0000 2026",
+      "lang": "zxx",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2094114300411642228",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ_J2raWYAAR8mM.jpg",
+          "expanded_url": "https://x.com/EBacher70/status/2094114300411642228/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "EBacher70",
+        "url": "https://x.com/EBacher70",
+        "id": "3366501604",
+        "name": "Edu o4",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2082784641094696960/cxtxm9Cz_normal.jpg",
+        "coverPicture": null,
+        "description": "Auch dein L\u00e4cheln kann die Welt ver\u00e4ndern.\nTelegram @E0D4U",
+        "location": "",
+        "followers": 144,
+        "following": 44,
+        "createdAt": "Wed Jul 08 19:31:14 +0000 2015",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2089807258230132769",
+      "url": "https://x.com/EBacher70/status/2089807258230132769",
+      "twitterUrl": "https://twitter.com/EBacher70/status/2089807258230132769",
+      "text": "https://t.co/jVJhJMsHMg",
+      "source": "Twitter for Android",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 149,
+      "createdAt": "Tue Aug 18 20:10:51 +0000 2026",
+      "lang": "zxx",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089807258230132769",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089807232707833856/img/JdbIX9mpXnL3qRqR.jpg",
+          "expanded_url": "https://x.com/EBacher70/status/2089807258230132769/video/1",
+          "video_url": "https://video.twimg.com/amplify_video/2089807232707833856/vid/avc1/576x1280/g_dCj_23wiFahDlF.mp4?tag=29"
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "EBacher70",
+        "url": "https://x.com/EBacher70",
+        "id": "3366501604",
+        "name": "Edu o4",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2082784641094696960/cxtxm9Cz_normal.jpg",
+        "coverPicture": null,
+        "description": "Auch dein L\u00e4cheln kann die Welt ver\u00e4ndern.\nTelegram @E0D4U",
+        "location": "",
+        "followers": 144,
+        "following": 44,
+        "createdAt": "Wed Jul 08 19:31:14 +0000 2015",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

@@ -1,0 +1,1503 @@
+{
+  "handle": "Tim_Dettmers",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2092826383474970685",
+      "url": "https://x.com/Tim_Dettmers/status/2092826383474970685",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2092826383474970685",
+      "text": "RT @Zai_org: More good news: GLM-5.3\u2019s weights will be released tomorrow.\n\nhttps://huggingface.co/zai-org/GLM-5.3",
+      "source": "Twitter Web App",
+      "retweetCount": 405,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 245,
+      "createdAt": "Thu Aug 27 04:07:47 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092826383474970685",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "huggingface.co/zai-org/GLM-5.3",
+            "expanded_url": "https://huggingface.co/zai-org/GLM-5.3",
+            "indices": [
+              75,
+              98
+            ],
+            "url": "https://t.co/v1IbWMXxg4"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1726486879456096256",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Z.ai",
+            "screen_name": "Zai_org"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092814169263218860",
+        "url": "https://x.com/Zai_org/status/2092814169263218860",
+        "text": "More good news: GLM-5.3\u2019s weights will be released tomorrow.\n\nhttps://huggingface.co/zai-org/GLM-5.3",
+        "createdAt": "Thu Aug 27 03:19:15 +0000 2026",
+        "retweetCount": 405,
+        "replyCount": 147,
+        "likeCount": 4825,
+        "quoteCount": 145,
+        "viewCount": 545401,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1726486879456096256",
+          "userName": "Zai_org",
+          "url": "https://x.com/Zai_org",
+          "name": "Z.ai",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1970775077181411328/W8XKaUIh_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1726486879456096256/1786708959",
+          "description": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\nhttps://t.co/gOw7WpwkJt\nhttps://t.co/ot9sGVXU8x",
+          "location": "user_feedback@z.ai",
+          "followers": 158044,
+          "following": 268,
+          "createdAt": "Mon Nov 20 06:25:51 +0000 2023",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092698352680890497",
+      "url": "https://x.com/Tim_Dettmers/status/2092698352680890497",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2092698352680890497",
+      "text": "RT @ArmenAgha: We're excited to release the best open-weight model for robotics. Isaac 0.5 is a 36B, 2.5B active per token model, one spars\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 24,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 232,
+      "createdAt": "Wed Aug 26 19:39:02 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092698352680890497",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1515424688",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Armen Aghajanyan",
+            "screen_name": "ArmenAgha"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092682391794155885",
+        "url": "https://x.com/ArmenAgha/status/2092682391794155885",
+        "text": "We're excited to release the best open-weight model for robotics. Isaac 0.5 is a 36B, 2.5B active per token model, one sparse backbone serving video perception, embodied reasoning and robot control.",
+        "createdAt": "Wed Aug 26 18:35:37 +0000 2026",
+        "retweetCount": 24,
+        "replyCount": 13,
+        "likeCount": 214,
+        "quoteCount": 4,
+        "viewCount": 25764,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1515424688",
+          "userName": "ArmenAgha",
+          "url": "https://x.com/ArmenAgha",
+          "name": "Armen Aghajanyan",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1468810975063072769/eUl8sFBE_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1515424688/1762939310",
+          "description": "Co-founder & CEO @perceptroninc; ex-RS FAIR/MSFT",
+          "location": "",
+          "followers": 16265,
+          "following": 310,
+          "createdAt": "Fri Jun 14 05:43:07 +0000 2013",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092638910664896596",
+      "url": "https://x.com/Tim_Dettmers/status/2092638910664896596",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2092638910664896596",
+      "text": "RT @Alibaba_Qwen: \u26a1Meet Qwen3.8-Flash, a multimodal MoE and an early preview of the Qwen4 architecture, now open-weight!\n\nThe production ve\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 1035,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 225,
+      "createdAt": "Wed Aug 26 15:42:50 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092638910664896596",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1753339277386342400",
+            "indices": [
+              3,
+              16
+            ],
+            "name": "Qwen",
+            "screen_name": "Alibaba_Qwen"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092591393424515114",
+        "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+        "text": "\u26a1Meet Qwen3.8-Flash, a multimodal MoE and an early preview of the Qwen4 architecture, now open-weight!\n\nThe production version Qwen3.8-Flash will be available soon via QwenCloud API at just $ 0.16/1M input tokens and $ 0.47/1M output tokens.\n\n125B parameters + 51B N-gram embeddings, with just 6B activated per token. Unmatched cost-efficiency.\n\nWhat's new: \ud83e\udd73\n- Next architecture: GDN + QSA hybrid attention, Gated Residual, N-gram Embedding & Muon optimizer, serving as a precursor to the architecture used in Qwen4.\n- Dramatically lower training and inference costs: trained at just 1/9 the cost of Qwen3.7-Plus, while outperforming it across the board with especially strong gains in coding and office tasks.\n- Strong performance: scoring 58.7 on DeepSWE 1.1, 62.5 on SWE-bench Pro, 73.9 on CoWorkBench, 84.5 on AndroidWorld, and 95.7 on MathVision (with CI).\n- 262K native context, extensible to 1M with YaRN.\n\nWe\u2019re also releasing the weights for Qwen3.8-Flash-Next, giving the community an early look at the new architecture we\u2019re exploring for Qwen4.\ud83d\ude80\n\nWe can't wait to see what you build with Qwen3.8-Flash!\ud83d\udc40\ud83d\udc47\n- Blog: https://qwen.ai/blog?id=qwen3.8-flash-next\n- Technical Report: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf\n- Hugging Face: https://huggingface.co/Qwen/Qwen3.8-Flash-Next?spm=a2ty_o06.30285417.0.0.1d73c921FsyOPe&file=Qwen3.8-Flash-Next\n- ModelScope: https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next?spm=a2ty_o06.30285417.0.0.1d73c921XAP2dV&file=Qwen3.8-Flash-Next",
+        "createdAt": "Wed Aug 26 12:34:01 +0000 2026",
+        "retweetCount": 1035,
+        "replyCount": 437,
+        "likeCount": 7825,
+        "quoteCount": 559,
+        "viewCount": 1845528,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQpdouobYAAGEj1.jpg",
+            "expanded_url": "https://x.com/Alibaba_Qwen/status/2092591393424515114/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1753339277386342400",
+          "userName": "Alibaba_Qwen",
+          "url": "https://x.com/Alibaba_Qwen",
+          "name": "Qwen",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1753339277386342400/1780986224",
+          "description": "Open foundation models for AGI.",
+          "location": "",
+          "followers": 283988,
+          "following": 3,
+          "createdAt": "Fri Feb 02 08:47:32 +0000 2024",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092632156338061339",
+      "url": "https://x.com/Tim_Dettmers/status/2092632156338061339",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2092632156338061339",
+      "text": "RT @Zai_org: Introducing GLM-5.3-Flash\n\n- Leading capabilities at a highly competitive price\n- Natively multimodal with a 1M-token context\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 2634,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 223,
+      "createdAt": "Wed Aug 26 15:15:59 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092632156338061339",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1726486879456096256",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Z.ai",
+            "screen_name": "Zai_org"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092616204787626030",
+        "url": "https://x.com/Zai_org/status/2092616204787626030",
+        "text": "Introducing GLM-5.3-Flash\n\n- Leading capabilities at a highly competitive price\n- Natively multimodal with a 1M-token context window\n- A 320B-A18B model released under the MIT License\n- Previously previewed as Ox Alpha, running entirely on Chinese AI chips\n\nBlog: http://z.ai/blog/glm-5.3-flash\n\nAvailable now across all official platforms:\n\nWeights: http://huggingface.co/zai-org/GLM-5.3-Flash\nAPI: http://docs.z.ai/guides/llm/glm-5.3-flash\nCoding Plan: http://z.ai/subscribe\nZCode: http://zcode.z.ai/en\nChat: http://chat.z.ai\nAutoClaw: http://autoclaw.z.ai",
+        "createdAt": "Wed Aug 26 14:12:36 +0000 2026",
+        "retweetCount": 2634,
+        "replyCount": 990,
+        "likeCount": 23872,
+        "quoteCount": 2001,
+        "viewCount": 6833440,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQp025-WUAAmoxY.jpg",
+            "expanded_url": "https://x.com/Zai_org/status/2092616204787626030/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1726486879456096256",
+          "userName": "Zai_org",
+          "url": "https://x.com/Zai_org",
+          "name": "Z.ai",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1970775077181411328/W8XKaUIh_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1726486879456096256/1786708959",
+          "description": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\nhttps://t.co/gOw7WpwkJt\nhttps://t.co/ot9sGVXU8x",
+          "location": "user_feedback@z.ai",
+          "followers": 158044,
+          "following": 268,
+          "createdAt": "Mon Nov 20 06:25:51 +0000 2023",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2091984354415100297",
+      "url": "https://x.com/Tim_Dettmers/status/2091984354415100297",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2091984354415100297",
+      "text": "RT @kotoba_tech: Real-time translation that sounds like you \ud83d\ude80 \nWe've been building speech-to-speech simultaneous translation for a while.\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 51,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 243,
+      "createdAt": "Mon Aug 24 20:21:51 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091984354415100297",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1667558466226110464",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Kotoba",
+            "screen_name": "kotoba_tech"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2091942422930710886",
+        "url": "https://x.com/kotoba_tech/status/2091942422930710886",
+        "text": "Real-time translation that sounds like you \ud83d\ude80 \nWe've been building speech-to-speech simultaneous translation for a while. \nThe newest piece is on-the-fly voice cloning: the model picks up your voice as you speak and carries it into the other language.\n\nHere's the alpha running live during our all-hands: you speak in Japanese, the room hears you in English, and it still sounds like you.\nIt's early and the edges are rough, but this is the experience we've been building toward. Coming very soon.\n\nDemo video below \ud83d\udc47\n#VoiceAI #SpeechAI #RealTimeTranslation #VoiceCloning #AI",
+        "createdAt": "Mon Aug 24 17:35:14 +0000 2026",
+        "retweetCount": 51,
+        "replyCount": 19,
+        "likeCount": 334,
+        "quoteCount": 11,
+        "viewCount": 70009,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2091942329221533696/img/A5FXCVXGmQkfdkqi.jpg",
+            "expanded_url": "https://x.com/kotoba_tech/status/2091942422930710886/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2091942329221533696/vid/avc1/1920x1080/_wRgWsAYLo3ubtgx.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1667558466226110464",
+          "userName": "kotoba_tech",
+          "url": "https://x.com/kotoba_tech",
+          "name": "Kotoba",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2034904287873265664/cBv1z-d0_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1667558466226110464/1773994067",
+          "description": "Speech AI company building \"Koto\" models. Go Global. Sound Local. \nAI\u540c\u6642\u901a\u8a33: https://t.co/hUCVdwSyJZ",
+          "location": "SF/Tokyo",
+          "followers": 4362,
+          "following": 143,
+          "createdAt": "Sat Jun 10 15:45:03 +0000 2023",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2091152120187695370",
+      "url": "https://x.com/Tim_Dettmers/status/2091152120187695370",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2091152120187695370",
+      "text": "RT @percyliang: \ud83d\udea2 Marin 535B-A23B started training this week! As usual, the whole process is open.\nVoyage plan: pretraining (80%) + midtrai\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 578,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 229,
+      "createdAt": "Sat Aug 22 13:14:51 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091152120187695370",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "86481377",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "Percy Liang",
+            "screen_name": "percyliang"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090918065634684997",
+        "url": "https://x.com/percyliang/status/2090918065634684997",
+        "text": "\ud83d\udea2 Marin 535B-A23B started training this week! As usual, the whole process is open.\nVoyage plan: pretraining (80%) + midtraining (20%) on 18.75T tokens on 11 x GB200 NVL72 for ~3 months (2.7e24 FLOPs).  Post-training will follow.\nBefore kicking off the run, we trained a 4-rung scaling ladder from 1.6B-A61M (48B tokens) to 27.7B-A1.2B (926B tokens) to debug issues, and to make a forecast of our hero run.  This is by far our biggest run, so definitely expecting the unexpected.",
+        "createdAt": "Fri Aug 21 21:44:48 +0000 2026",
+        "retweetCount": 578,
+        "replyCount": 107,
+        "likeCount": 4207,
+        "quoteCount": 99,
+        "viewCount": 961736,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQRrhYTaIAIH3YN.jpg",
+            "expanded_url": "https://x.com/percyliang/status/2090918065634684997/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "86481377",
+          "userName": "percyliang",
+          "url": "https://x.com/percyliang",
+          "name": "Percy Liang",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1319828397699129346/wjBcgUH0_normal.jpg",
+          "coverPicture": null,
+          "description": "professor of computer science @Stanford @stanfordnlp, co-founder of @togethercompute, https://t.co/7R5THVnJ6u, @simile_ai, pianist",
+          "location": "Stanford, CA",
+          "followers": 122129,
+          "following": 424,
+          "createdAt": "Sat Oct 31 07:26:37 +0000 2009",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090866380484608066",
+      "url": "https://x.com/Tim_Dettmers/status/2090866380484608066",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2090866380484608066",
+      "text": "One dead giveaway is also that Zhipu is one of the only labs that serves models with pretty poor partial prefill tok/s while output tok/s are fast. This model is ~30% faster than GLM 5.3. If the infras is the same, likely ~300-500B or fewer params vs activated params.",
+      "source": "Twitter Web App",
+      "retweetCount": 5,
+      "replyCount": 3,
+      "likeCount": 113,
+      "quoteCount": 1,
+      "viewCount": 16122,
+      "createdAt": "Fri Aug 21 18:19:26 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 27,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090866380484608066",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2090814710396387700",
+        "text": "A new Kimi model, likely K3.1, is now being tested on the Code @arena under the name \"korrine\" \n\nK3 was tested on the Arena as \"kivine\" prior to its launch\n\nIf anyone's wondering, \"Ox Alpha\" on OpenRouter is the upcoming GLM 5.3 Flash from fellow Chinese lab Zhipu",
+        "user": {
+          "name": "leo \ud83d\udc3e",
+          "screen_name": "synthwavedd"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2090760280145834171",
+      "url": "https://x.com/Tim_Dettmers/status/2090760280145834171",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2090760280145834171",
+      "text": "RT @Benjamin_eecs: Continuous self-improvement needs an ever-expanding supply of training environments (goals).\n\nSPADE: one model self-play\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 124,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 266,
+      "createdAt": "Fri Aug 21 11:17:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090760280145834171",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1493495244771377156",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "Bo Liu (Benjamin Liu)",
+            "screen_name": "Benjamin_eecs"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090427345547219435",
+        "url": "https://x.com/Benjamin_eecs/status/2090427345547219435",
+        "text": "Continuous self-improvement needs an ever-expanding supply of training environments (goals).\n\nSPADE: one model self-plays the Environment Designer and the Reasoning Agent, writing executable, agentic environments that get harder as it improves. Environment scaling on its own. \u2660\ufe0f https://t.co/5QRs5LksiW",
+        "createdAt": "Thu Aug 20 13:14:52 +0000 2026",
+        "retweetCount": 124,
+        "replyCount": 20,
+        "likeCount": 691,
+        "quoteCount": 33,
+        "viewCount": 168962,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2090422820903997440/img/9gF1kV-BwwoRMPR9.jpg",
+            "expanded_url": "https://x.com/Benjamin_eecs/status/2090427345547219435/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2090422820903997440/vid/avc1/2234x2160/OOUf4J4Kt8xSqc1G.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1493495244771377156",
+          "userName": "Benjamin_eecs",
+          "url": "https://x.com/Benjamin_eecs",
+          "name": "Bo Liu (Benjamin Liu)",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1539500120785682432/XZ07dsoQ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1493495244771377156/1713769476",
+          "description": "Incoming PhD @StanfordNLP | BS @PKU1898 | Building continually self-improving AI | Prev @DeepSeek_AI @AIatMeta | DeepSeek-V1/V2/VL/Prover ALE SPIRAL SPICE SPADE",
+          "location": "South Korea",
+          "followers": 1671,
+          "following": 559,
+          "createdAt": "Tue Feb 15 07:59:55 +0000 2022",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090191667521273868",
+      "url": "https://x.com/Tim_Dettmers/status/2090191667521273868",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2090191667521273868",
+      "text": "RT @JiaZhihao: \ud83d\ude80We\u2019ve been pushing agentic inference toward the physical limits of the hardware.\n\nAnnouncing LithosAI\u2019s first pricing tiers\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 15,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 232,
+      "createdAt": "Wed Aug 19 21:38:22 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090191667521273868",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "777869916",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Zhihao Jia",
+            "screen_name": "JiaZhihao"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090130626485596590",
+        "url": "https://x.com/JiaZhihao/status/2090130626485596590",
+        "text": "\ud83d\ude80We\u2019ve been pushing agentic inference toward the physical limits of the hardware.\n\nAnnouncing LithosAI\u2019s first pricing tiers, with early-access pricing ahead of the September 1 API launch. \n\nKimi K3 is live now at 800+ tokens/sec/user on standard GPUs, with full model quality. \n\nTry the live demo at http://lithosai.com and sign up for early access.",
+        "createdAt": "Wed Aug 19 17:35:48 +0000 2026",
+        "retweetCount": 15,
+        "replyCount": 5,
+        "likeCount": 97,
+        "quoteCount": 2,
+        "viewCount": 13223,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "777869916",
+          "userName": "JiaZhihao",
+          "url": "https://x.com/JiaZhihao",
+          "name": "Zhihao Jia",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2055317297892306944/Vj9awfmW_normal.jpg",
+          "coverPicture": null,
+          "description": "Assistant Professor CS @CarnegieMellon. Building @lithos_ai. PhD CS @Stanford. Systems and ML.",
+          "location": "Pittsburgh, PA",
+          "followers": 4270,
+          "following": 760,
+          "createdAt": "Fri Aug 24 10:21:01 +0000 2012",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089094946078810535",
+      "url": "https://x.com/Tim_Dettmers/status/2089094946078810535",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2089094946078810535",
+      "text": "RT @soumithchintala: I'm in Hyderabad next week, and I'd love to meet people outside my usual clique and bring them together.\n\nWho are the\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 80,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 215,
+      "createdAt": "Sun Aug 16 21:00:23 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089094946078810535",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "70831441",
+            "indices": [
+              3,
+              19
+            ],
+            "name": "Soumith Chintala",
+            "screen_name": "soumithchintala"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2088867190539730957",
+        "url": "https://x.com/soumithchintala/status/2088867190539730957",
+        "text": "I'm in Hyderabad next week, and I'd love to meet people outside my usual clique and bring them together.\n\nWho are the best people in these areas that you know based out of Hyderabad: deep tech, AI product, AI research, GPU whisperers?\n\nhttps://forms.gle/bQdtFGPYmB3ppt8g9",
+        "createdAt": "Sun Aug 16 05:55:22 +0000 2026",
+        "retweetCount": 80,
+        "replyCount": 96,
+        "likeCount": 1647,
+        "quoteCount": 11,
+        "viewCount": 148704,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "70831441",
+          "userName": "soumithchintala",
+          "url": "https://x.com/soumithchintala",
+          "name": "Soumith Chintala",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_normal.jpg",
+          "coverPicture": null,
+          "description": "Building new things @thinkymachines.  Also dabble in robotics at NYU.  Cofounded @PyTorch. AI is delicious when it is accessible and open-source.",
+          "location": "New York City",
+          "followers": 322332,
+          "following": 1316,
+          "createdAt": "Wed Sep 02 00:23:57 +0000 2009",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2088759954001846760",
+      "url": "https://x.com/Tim_Dettmers/status/2088759954001846760",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2088759954001846760",
+      "text": "RT @tqchenml: Compiler agent codesign is the next frontier in ML compilation and kernel agents",
+      "source": "Twitter Web App",
+      "retweetCount": 21,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 239,
+      "createdAt": "Sat Aug 15 22:49:14 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088759954001846760",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3187990776",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "Tianqi Chen",
+            "screen_name": "tqchenml"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2088709836896948676",
+        "url": "https://x.com/tqchenml/status/2088709836896948676",
+        "text": "Compiler agent codesign is the next frontier in ML compilation and kernel agents",
+        "createdAt": "Sat Aug 15 19:30:06 +0000 2026",
+        "retweetCount": 21,
+        "replyCount": 3,
+        "likeCount": 172,
+        "quoteCount": 3,
+        "viewCount": 23163,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "3187990776",
+          "userName": "tqchenml",
+          "url": "https://x.com/tqchenml",
+          "name": "Tianqi Chen",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1126306484885774336/Wimu_mzv_normal.png",
+          "coverPicture": null,
+          "description": "AssocProf @CarnegieMellon. Distinguished Eng @NVIDIA. Creator of @XGBoostProject, @ApacheTVM. Member https://t.co/QYyfjQNp4p, @TheASF. Views are on my own",
+          "location": "CMU",
+          "followers": 21223,
+          "following": 1119,
+          "createdAt": "Thu May 07 19:10:39 +0000 2015",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2088702197953376525",
+      "url": "https://x.com/Tim_Dettmers/status/2088702197953376525",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2088702197953376525",
+      "text": "https://t.co/oc0toZadG1",
+      "source": "Twitter Web App",
+      "retweetCount": 20,
+      "replyCount": 6,
+      "likeCount": 511,
+      "quoteCount": 3,
+      "viewCount": 19794,
+      "createdAt": "Sat Aug 15 18:59:44 +0000 2026",
+      "lang": "zxx",
+      "bookmarkCount": 13,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088702197953376525",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPyPiR7XEAE5ldk.jpg",
+          "expanded_url": "https://x.com/Tim_Dettmers/status/2088702197953376525/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2088343978873966687",
+        "text": "We\u2019ve written an FAQ to answer some of the questions we've received about watermarking. \n\nIn summary:\n\n\u2022 We\u2019re implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking;",
+        "user": {
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088291315779838240",
+      "url": "https://x.com/Tim_Dettmers/status/2088291315779838240",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2088291315779838240",
+      "text": "RT @Alibaba_Qwen: We promised open weights for Qwen3.8. Now, time to meet them! \ud83c\udf89\n\n\u26a1 Qwen3.8-27B:\n- A native multimodal dense model. With j\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 2146,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 218,
+      "createdAt": "Fri Aug 14 15:47:02 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088291315779838240",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1753339277386342400",
+            "indices": [
+              3,
+              16
+            ],
+            "name": "Qwen",
+            "screen_name": "Alibaba_Qwen"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2088280182356611304",
+        "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+        "text": "We promised open weights for Qwen3.8. Now, time to meet them! \ud83c\udf89\n\n\u26a1 Qwen3.8-27B:\n- A native multimodal dense model. With just 27B parameters, it outperforms Qwen3.7-Plus overall and shines in real-world coding & office workflows.\n- 262K native context, easily extendable to 1M tokens via YaRN.\n- Built for builders. Highly efficient, high-quality, and licensed under Apache 2.0.\n\n\ud83d\ude80 The open weights for Qwen3.8-2.4T-A95B (Max-level) have also been released recently.\n\nWhether you're shipping lightweight applications with Qwen3.8-27B locally or building agents with Qwen3.8-2.4T-A95B, they're yours now!\n\nDownload, deploy, and build something we haven't imagined yet. \ud83d\udc40\ud83d\udc47\n- Hugging Face\uff1a\nhttps://huggingface.co/collections/Qwen/qwen38\n- ModelScope\uff1a\nhttps://www.modelscope.cn/collections/Qwen/Qwen38",
+        "createdAt": "Fri Aug 14 15:02:48 +0000 2026",
+        "retweetCount": 2146,
+        "replyCount": 854,
+        "likeCount": 16034,
+        "quoteCount": 976,
+        "viewCount": 6011276,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HPsKxzsbQAAJa4d.jpg",
+            "expanded_url": "https://x.com/Alibaba_Qwen/status/2088280182356611304/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1753339277386342400",
+          "userName": "Alibaba_Qwen",
+          "url": "https://x.com/Alibaba_Qwen",
+          "name": "Qwen",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1753339277386342400/1780986224",
+          "description": "Open foundation models for AGI.",
+          "location": "",
+          "followers": 283988,
+          "following": 3,
+          "createdAt": "Fri Feb 02 08:47:32 +0000 2024",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2088258085903007879",
+      "url": "https://x.com/Tim_Dettmers/status/2088258085903007879",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2088258085903007879",
+      "text": "Trying GLM 5.3 right now. Avg: Prefill ~1 ktok/s, thinking/output ~60 tok/s. \n\nIn our harness, we already see with full thinking traces GLM 5.2 &gt; Fable+Claude Code. But GLM 5.3 is just on another level. It is very precise and concise. Just testing long-task performance. Exciting!",
+      "source": "Twitter Web App",
+      "retweetCount": 18,
+      "replyCount": 15,
+      "likeCount": 275,
+      "quoteCount": 2,
+      "viewCount": 19922,
+      "createdAt": "Fri Aug 14 13:35:00 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 47,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088258085903007879",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2088132965922476159",
+        "text": "Introducing GLM-5.3: Built to Code. Ready for Cyber Defense.\n\n- Top-tier coding and agentic capabilities, achieved through post-training on the 743B base model\n- A major leap in cybersecurity, setting a new standard among open models\n\nTech Blog: https://z.ai/blog/glm-5.3 https://t.co/y3Y2AB0wxr",
+        "user": {
+          "name": "Z.ai",
+          "screen_name": "Zai_org"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2088247316012531982",
+      "url": "https://x.com/Tim_Dettmers/status/2088247316012531982",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2088247316012531982",
+      "text": "With our new efficiency methods, you will be able to run this on a single DGX Spark or AMD Strix Halo at 7 token/s decode and &gt;250 tok/s prefill. Stay tuned!",
+      "source": "Twitter Web App",
+      "retweetCount": 14,
+      "replyCount": 20,
+      "likeCount": 302,
+      "quoteCount": 4,
+      "viewCount": 21933,
+      "createdAt": "Fri Aug 14 12:52:12 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 64,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088247316012531982",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2088132965922476159",
+        "text": "Introducing GLM-5.3: Built to Code. Ready for Cyber Defense.\n\n- Top-tier coding and agentic capabilities, achieved through post-training on the 743B base model\n- A major leap in cybersecurity, setting a new standard among open models\n\nTech Blog: https://z.ai/blog/glm-5.3 https://t.co/y3Y2AB0wxr",
+        "user": {
+          "name": "Z.ai",
+          "screen_name": "Zai_org"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2087624491362820364",
+      "url": "https://x.com/Tim_Dettmers/status/2087624491362820364",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2087624491362820364",
+      "text": "Fable quality. We will soon release a new quantized inference framework that will let you run this on a single GPU (B300) with ~50 tok/s in good quality. Local Fable LFG!",
+      "source": "Twitter Web App",
+      "retweetCount": 106,
+      "replyCount": 44,
+      "likeCount": 2070,
+      "quoteCount": 20,
+      "viewCount": 245372,
+      "createdAt": "Wed Aug 12 19:37:19 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 517,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087624491362820364",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2087602193205694891",
+        "text": "DeepSeek silently released V4-Pro 0813, up 15.8% on Terminal Bench from their April Preview model, with Fable 5 performance at ~57x cheaper cost.\n\n1.6T param, 49B active, 1M context. This is the best price-to-perfomance model on the market right now.\n\nAvailable in ClinePass now! https://t.co/D9yas0umPn",
+        "user": {
+          "name": "Cline",
+          "screen_name": "cline"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2087622767776563675",
+      "url": "https://x.com/Tim_Dettmers/status/2087622767776563675",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2087622767776563675",
+      "text": "Businesses' spend on Fable 5 is almost the same spend as on Opus 4.6. Oof!",
+      "source": "Twitter Web App",
+      "retweetCount": 1,
+      "replyCount": 9,
+      "likeCount": 56,
+      "quoteCount": 0,
+      "viewCount": 14428,
+      "createdAt": "Wed Aug 12 19:30:28 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 15,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087622767776563675",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2087547366417064166",
+        "text": "NEW from Ramp AI Index: disappointing adoption of Fable 5\n\nWe've heard several reasons from businesses...mainly Fable 5 is just too expensive.\n\nA model so powerful it was briefly banned, and yet businesses don't think it's worth the price. https://t.co/ootF7gn4TK",
+        "user": {
+          "name": "Ara Kharazian",
+          "screen_name": "arakharazian"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2087337276837662985",
+      "url": "https://x.com/Tim_Dettmers/status/2087337276837662985",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2087337276837662985",
+      "text": "RT @tqchenml: Our paper \"XGBoost: A Scalable Tree Boosting System\" received the Test of Time Award at #KDD2026! The honor belongs to the en\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 40,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 233,
+      "createdAt": "Wed Aug 12 00:36:02 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087337276837662985",
+      "media": [],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              102,
+              110
+            ],
+            "text": "KDD2026"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3187990776",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "Tianqi Chen",
+            "screen_name": "tqchenml"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2086810557295067438",
+        "url": "https://x.com/tqchenml/status/2086810557295067438",
+        "text": "Our paper \"XGBoost: A Scalable Tree Boosting System\" received the Test of Time Award at #KDD2026! The honor belongs to the entire community that made @XGBoostProject today. I will be giving a talk tomorrow at the award session on the paper, history, and lessons learned https://t.co/x08kzDQN1P",
+        "createdAt": "Mon Aug 10 13:43:02 +0000 2026",
+        "retweetCount": 40,
+        "replyCount": 30,
+        "likeCount": 367,
+        "quoteCount": 16,
+        "viewCount": 38221,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HPXWq6na0AAVZWV.jpg",
+            "expanded_url": "https://x.com/tqchenml/status/2086810557295067438/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "3187990776",
+          "userName": "tqchenml",
+          "url": "https://x.com/tqchenml",
+          "name": "Tianqi Chen",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1126306484885774336/Wimu_mzv_normal.png",
+          "coverPicture": null,
+          "description": "AssocProf @CarnegieMellon. Distinguished Eng @NVIDIA. Creator of @XGBoostProject, @ApacheTVM. Member https://t.co/QYyfjQNp4p, @TheASF. Views are on my own",
+          "location": "CMU",
+          "followers": 21223,
+          "following": 1119,
+          "createdAt": "Thu May 07 19:10:39 +0000 2015",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2085130666107351237",
+      "url": "https://x.com/Tim_Dettmers/status/2085130666107351237",
+      "twitterUrl": "https://twitter.com/Tim_Dettmers/status/2085130666107351237",
+      "text": "RT @jinayoon_: anyone have recs for actually good articles about taste? not just developing it, but what it actually is",
+      "source": "Twitter Web App",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 235,
+      "createdAt": "Wed Aug 05 22:27:45 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085130666107351237",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1463528014159888388",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "jina",
+            "screen_name": "jinayoon_"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "Tim_Dettmers",
+        "url": "https://x.com/Tim_Dettmers",
+        "id": "872274950",
+        "name": "Tim Dettmers",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1998431471304876032/BhUl3uX9_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872274950/1738601851",
+        "description": "Creator of bitsandbytes. Professor @CarnegieMellon and Research Scientist @allen_ai .  I blog about deep learning and PhD life at https://t.co/Y78KDJJFE7.",
+        "location": "Pittsburgh, PA",
+        "followers": 47565,
+        "following": 911,
+        "createdAt": "Wed Oct 10 18:18:30 +0000 2012",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2085068965450223651",
+        "url": "https://x.com/jinayoon_/status/2085068965450223651",
+        "text": "anyone have recs for actually good articles about taste? not just developing it, but what it actually is",
+        "createdAt": "Wed Aug 05 18:22:34 +0000 2026",
+        "retweetCount": 1,
+        "replyCount": 16,
+        "likeCount": 27,
+        "quoteCount": 1,
+        "viewCount": 8978,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1463528014159888388",
+          "userName": "jinayoon_",
+          "url": "https://x.com/jinayoon_",
+          "name": "jina",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2060237336387137536/jlAA9yso_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1463528014159888388/1767927864",
+          "description": "words @posthog prev @riotgames @microsoft",
+          "location": "",
+          "followers": 1340,
+          "following": 945,
+          "createdAt": "Wed Nov 24 15:20:52 +0000 2021",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

@@ -1,5 +1,105 @@
 {
   "handle": "drew_jaegle",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:37:00.022504"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1961811075772383704",
+      "url": "https://x.com/drew_jaegle/status/1961811075772383704",
+      "twitterUrl": "https://twitter.com/drew_jaegle/status/1961811075772383704",
+      "text": "RT @danmorenooo: when editing a video can be as easy as chatting with it, it\u2019s hard to go back to a timeline https://t.co/YVaQNqVmXZ",
+      "source": "Twitter Web App",
+      "retweetCount": 6,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sat Aug 30 15:19:43 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961811075772383704",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/1961779042434129920/img/OzB6eYdpkv9VDGWu.jpg",
+          "expanded_url": "https://x.com/danmorenooo/status/1961779146306322441/video/1",
+          "video_url": "https://video.twimg.com/amplify_video/1961779042434129920/vid/avc1/1080x1080/l_b5Z1E6fEc8IykF.mp4?tag=21"
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1024187283463856128",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Dan Moreno",
+            "screen_name": "danmorenooo"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "drew_jaegle",
+        "url": "https://x.com/drew_jaegle",
+        "id": "4334246657",
+        "name": "Drew Jaegle",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1514897179034492928/VXZs3XwR_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/4334246657/1731340136",
+        "description": "AGE @ Prometheus | ex-Google DeepMind\n\nAll that is visible must grow beyond itself & extend into the realm of the invisible",
+        "location": "SF",
+        "followers": 1816,
+        "following": 689,
+        "createdAt": "Tue Dec 01 00:25:56 +0000 2015",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "1961779146306322441",
+        "url": "https://x.com/danmorenooo/status/1961779146306322441",
+        "text": "when editing a video can be as easy as chatting with it, it\u2019s hard to go back to a timeline https://t.co/YVaQNqVmXZ",
+        "createdAt": "Sat Aug 30 13:12:51 +0000 2025",
+        "retweetCount": 6,
+        "replyCount": 2,
+        "likeCount": 64,
+        "quoteCount": 0,
+        "viewCount": 5299,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/1961779042434129920/img/OzB6eYdpkv9VDGWu.jpg",
+            "expanded_url": "https://x.com/danmorenooo/status/1961779146306322441/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/1961779042434129920/vid/avc1/1080x1080/l_b5Z1E6fEc8IykF.mp4?tag=21"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1024187283463856128",
+          "userName": "danmorenooo",
+          "url": "https://x.com/danmorenooo",
+          "name": "Dan Moreno",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2091544630215000065/02Bie9uK_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1024187283463856128/1787498494",
+          "description": "design engineer @instagram, past lives: @trymirage, @snapchat",
+          "location": "Nueva York",
+          "followers": 1385,
+          "following": 1546,
+          "createdAt": "Tue Jul 31 06:57:31 +0000 2018",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

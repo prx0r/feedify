@@ -1,5 +1,458 @@
 {
   "handle": "shengranhu",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:07:01.170719"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093373543958589958",
+      "url": "https://x.com/shengranhu/status/2093373543958589958",
+      "twitterUrl": "https://twitter.com/shengranhu/status/2093373543958589958",
+      "text": "RT @_rockt: Our autoresearch system at @Recursive_SI discovered that some FlashInfer kernels (underpinning @vLLM_project &amp; @SGL_project) us\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 12,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 11,
+      "createdAt": "Fri Aug 28 16:22:00 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093373543958589958",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "228792418",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "Tim Rockt\u00e4schel",
+            "screen_name": "_rockt"
+          },
+          {
+            "id_str": "2052840135335837696",
+            "indices": [
+              39,
+              52
+            ],
+            "name": "Recursive",
+            "screen_name": "Recursive_SI"
+          },
+          {
+            "id_str": "1774187564276289536",
+            "indices": [
+              107,
+              120
+            ],
+            "name": "vLLM",
+            "screen_name": "vllm_project"
+          },
+          {
+            "id_str": "1923440305703092226",
+            "indices": [
+              127,
+              139
+            ],
+            "name": "SGLang",
+            "screen_name": "sgl_project"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "shengranhu",
+        "url": "https://x.com/shengranhu",
+        "id": "1099283788130062336",
+        "name": "Shengran Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1854431463879720960/O-Jhnnii_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1099283788130062336/1727826328",
+        "description": "Founding Member @Recursive_SI. PhD @UBC_CS. Building self-improving AI for knowledge discovery. ADAS | DGM | The AI Scientist",
+        "location": "Vancouver, British Columbia",
+        "followers": 1915,
+        "following": 547,
+        "createdAt": "Sat Feb 23 12:24:13 +0000 2019",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093314512048775221",
+        "url": "https://x.com/_rockt/status/2093314512048775221",
+        "text": "Our autoresearch system at @Recursive_SI discovered that some FlashInfer kernels (underpinning @vLLM_project &amp; @SGL_project) use a hard-coded value of -50000 as masked-attention sentinel despite that QK values can be smaller and thus cause instabilities. Small but great win.",
+        "createdAt": "Fri Aug 28 12:27:26 +0000 2026",
+        "retweetCount": 12,
+        "replyCount": 6,
+        "likeCount": 200,
+        "quoteCount": 1,
+        "viewCount": 19854,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "228792418",
+          "userName": "_rockt",
+          "url": "https://x.com/_rockt",
+          "name": "Tim Rockt\u00e4schel",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1918741982425292800/HqFPNL05_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/228792418/1746113965",
+          "description": "Teaching AI the joy of invention at @Recursive_SI, Professor of AI @AI_UCL, PI @BOLD_Lab_AI, Fellow @ELLISforEurope. Ex @GoogleDeepMind @AIatMeta @CompSciOxford",
+          "location": "London, England",
+          "followers": 49758,
+          "following": 1841,
+          "createdAt": "Mon Dec 20 17:56:54 +0000 2010",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2093133853263372316",
+      "url": "https://x.com/shengranhu/status/2093133853263372316",
+      "twitterUrl": "https://twitter.com/shengranhu/status/2093133853263372316",
+      "text": "RT @cong_ml: 1/ What do RL, LLMs and evolutionary algorithms have in common?\n\nGive them an objective and they find a loophole - like a Poke\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 9,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9,
+      "createdAt": "Fri Aug 28 00:29:33 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093133853263372316",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1188915050196750337",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Cong Lu",
+            "screen_name": "cong_ml"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "shengranhu",
+        "url": "https://x.com/shengranhu",
+        "id": "1099283788130062336",
+        "name": "Shengran Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1854431463879720960/O-Jhnnii_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1099283788130062336/1727826328",
+        "description": "Founding Member @Recursive_SI. PhD @UBC_CS. Building self-improving AI for knowledge discovery. ADAS | DGM | The AI Scientist",
+        "location": "Vancouver, British Columbia",
+        "followers": 1915,
+        "following": 547,
+        "createdAt": "Sat Feb 23 12:24:13 +0000 2019",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092923676962193463",
+        "url": "https://x.com/cong_ml/status/2092923676962193463",
+        "text": "1/ What do RL, LLMs and evolutionary algorithms have in common?\n\nGive them an objective and they find a loophole - like a Pokemon agent rewarded for exploring that learned to stand still and watch animated flowers.\n\nAI Finds A Way collects 26 such cases:\nhttps://arxiv.org/abs/2608.23875",
+        "createdAt": "Thu Aug 27 10:34:23 +0000 2026",
+        "retweetCount": 9,
+        "replyCount": 2,
+        "likeCount": 34,
+        "quoteCount": 0,
+        "viewCount": 4104,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1188915050196750337",
+          "userName": "cong_ml",
+          "url": "https://x.com/cong_ml",
+          "name": "Cong Lu",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1892719245466664960/yJTTWKuo_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1188915050196750337/1684271897",
+          "description": "Founding Member @Recursive_SI. Prev: @GoogleDeepMind | @UBC_CS | @UniofOxford | @SakanaAILabs | @Waymo | @MSFTResearch. The AI Scientist | Genie 3 | SIMA",
+          "location": "London, England",
+          "followers": 4603,
+          "following": 1787,
+          "createdAt": "Mon Oct 28 20:26:59 +0000 2019",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2093133658991558762",
+      "url": "https://x.com/shengranhu/status/2093133658991558762",
+      "twitterUrl": "https://twitter.com/shengranhu/status/2093133658991558762",
+      "text": "RT @josh_tobin_: A fun small win for automated research:\n\nWe found and helped fix some edge cases that could affect inference performance i\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 44,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 11,
+      "createdAt": "Fri Aug 28 00:28:47 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093133658991558762",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "331827860",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Josh Tobin",
+            "screen_name": "josh_tobin_"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "shengranhu",
+        "url": "https://x.com/shengranhu",
+        "id": "1099283788130062336",
+        "name": "Shengran Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1854431463879720960/O-Jhnnii_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1099283788130062336/1727826328",
+        "description": "Founding Member @Recursive_SI. PhD @UBC_CS. Building self-improving AI for knowledge discovery. ADAS | DGM | The AI Scientist",
+        "location": "Vancouver, British Columbia",
+        "followers": 1915,
+        "following": 547,
+        "createdAt": "Sat Feb 23 12:24:13 +0000 2019",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093107857793462678",
+        "url": "https://x.com/josh_tobin_/status/2093107857793462678",
+        "text": "A fun small win for automated research:\n\nWe found and helped fix some edge cases that could affect inference performance in vLLM and SGLang.\n\nIn our last blog post, we described a reward hacking judge we developed for performance optimization tasks.\n\nWhile applying the judge to some new autoresearch work, it discovered that some FlashInfer (a library underpinning vLLM and SGLang) kernels used a hard coded value of -50,000 as a masked-attention sentinel -- even though valid QK values can be smaller.\n\nCorner cases like this that are numerically wrong but silent can cause a huge amount of headache to find and fix, e.g., the historical debate around flash attention (https://arxiv.org/abs/2405.02803). \n\nGreat use case for AI.\nhttps://github.com/flashinfer-ai/flashinfer/pull/4401",
+        "createdAt": "Thu Aug 27 22:46:16 +0000 2026",
+        "retweetCount": 44,
+        "replyCount": 12,
+        "likeCount": 412,
+        "quoteCount": 9,
+        "viewCount": 84348,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "331827860",
+          "userName": "josh_tobin_",
+          "url": "https://x.com/josh_tobin_",
+          "name": "Josh Tobin",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1413047908853714945/JcIRsBfy_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/331827860/1778683834",
+          "description": "automating scientific discovery @recursive_si",
+          "location": "San Francisco, CA",
+          "followers": 14421,
+          "following": 1232,
+          "createdAt": "Fri Jul 08 19:42:10 +0000 2011",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092696311778979877",
+      "url": "https://x.com/shengranhu/status/2092696311778979877",
+      "twitterUrl": "https://twitter.com/shengranhu/status/2092696311778979877",
+      "text": "RT @_aadharna: It seems like every week now there is another story of an AI model making new scientific discoveries, and every week there i\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 7,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14,
+      "createdAt": "Wed Aug 26 19:30:55 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092696311778979877",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "872500039226097668",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Aaron Dharna",
+            "screen_name": "_aadharna"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "shengranhu",
+        "url": "https://x.com/shengranhu",
+        "id": "1099283788130062336",
+        "name": "Shengran Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1854431463879720960/O-Jhnnii_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1099283788130062336/1727826328",
+        "description": "Founding Member @Recursive_SI. PhD @UBC_CS. Building self-improving AI for knowledge discovery. ADAS | DGM | The AI Scientist",
+        "location": "Vancouver, British Columbia",
+        "followers": 1915,
+        "following": 547,
+        "createdAt": "Sat Feb 23 12:24:13 +0000 2019",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092661229831454920",
+        "url": "https://x.com/_aadharna/status/2092661229831454920",
+        "text": "It seems like every week now there is another story of an AI model making new scientific discoveries, and every week there is another story of models breaking out of sandboxes or finding some bizarre way around the rules.\nOur new paper: \u201cAI Finds A Way\u201d collects these stories!",
+        "createdAt": "Wed Aug 26 17:11:31 +0000 2026",
+        "retweetCount": 7,
+        "replyCount": 1,
+        "likeCount": 23,
+        "quoteCount": 1,
+        "viewCount": 2465,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "872500039226097668",
+          "userName": "_aadharna",
+          "url": "https://x.com/_aadharna",
+          "name": "Aaron Dharna",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2092035820039335936/RDkjVkHd_normal.jpg",
+          "coverPicture": null,
+          "description": "PhD student @UBC_CS. Interested in reinforcement learning, generative models, open-endedness, and the intersection of games and machine learning.",
+          "location": "",
+          "followers": 365,
+          "following": 394,
+          "createdAt": "Wed Jun 07 17:06:34 +0000 2017",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2085213015939711170",
+      "url": "https://x.com/shengranhu/status/2085213015939711170",
+      "twitterUrl": "https://twitter.com/shengranhu/status/2085213015939711170",
+      "text": "RT @a1zhang: Really excited to announce Prime Agent, an RLM-native coding TUI! \n\nI've been really focused on RLM research and properties of\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 71,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9,
+      "createdAt": "Thu Aug 06 03:54:59 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085213015939711170",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4593727300",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "alex zhang",
+            "screen_name": "a1zhang"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "shengranhu",
+        "url": "https://x.com/shengranhu",
+        "id": "1099283788130062336",
+        "name": "Shengran Hu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1854431463879720960/O-Jhnnii_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1099283788130062336/1727826328",
+        "description": "Founding Member @Recursive_SI. PhD @UBC_CS. Building self-improving AI for knowledge discovery. ADAS | DGM | The AI Scientist",
+        "location": "Vancouver, British Columbia",
+        "followers": 1915,
+        "following": 547,
+        "createdAt": "Sat Feb 23 12:24:13 +0000 2019",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2085089855541813350",
+        "url": "https://x.com/a1zhang/status/2085089855541813350",
+        "text": "Really excited to announce Prime Agent, an RLM-native coding TUI! \n\nI've been really focused on RLM research and properties of similar harnesses, but ultimately it's all about bringing out stronger capabilities to users.\n\nThis agent is really good despite not having any models trained around it. I've been using it for my own research with all the shiny new open-weight models and it works great! @PrimeIntellect cooked as always\n\nGo try it out :)",
+        "createdAt": "Wed Aug 05 19:45:35 +0000 2026",
+        "retweetCount": 71,
+        "replyCount": 37,
+        "likeCount": 1069,
+        "quoteCount": 6,
+        "viewCount": 95113,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "4593727300",
+          "userName": "a1zhang",
+          "url": "https://x.com/a1zhang",
+          "name": "alex zhang",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1985433557448216576/qwc8NvJ9_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/4593727300/1746645546",
+          "description": "phd student @mit_csail @nlp_mit, previously undergrad @princeton\n\n\ud83e\udef5\ud83c\udffb go participate in the @GPU_MODE kernel competitions!",
+          "location": "USA",
+          "followers": 38017,
+          "following": 1023,
+          "createdAt": "Thu Dec 24 22:30:58 +0000 2015",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

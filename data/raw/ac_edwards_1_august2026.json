@@ -1,5 +1,204 @@
 {
   "handle": "ac_edwards_1",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:37:29.071602"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093582972263829732",
+      "url": "https://x.com/ac_edwards_1/status/2093582972263829732",
+      "twitterUrl": "https://twitter.com/ac_edwards_1/status/2093582972263829732",
+      "text": "RT @lightspeedvp: The TIME100 AI list reflects a group of visionaries \"reshaping our world through groundbreaking advances in artificial in\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6,
+      "createdAt": "Sat Aug 29 06:14:12 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093582972263829732",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "59910220",
+            "indices": [
+              3,
+              16
+            ],
+            "name": "Lightspeed",
+            "screen_name": "lightspeedvp"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ac_edwards_1",
+        "url": "https://x.com/ac_edwards_1",
+        "id": "1171165739467902976",
+        "name": "Chad Edwards",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2035809486590328832/npHmKgGw_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1171165739467902976/1774211177",
+        "description": "new to X. building stuff at the frontier of tech / science. @cusp_ai co-founder, @quantinuumqc commercial lead.",
+        "location": "",
+        "followers": 880,
+        "following": 26,
+        "createdAt": "Mon Sep 09 20:57:31 +0000 2019",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093436370974908880",
+        "url": "https://x.com/lightspeedvp/status/2093436370974908880",
+        "text": "The TIME100 AI list reflects a group of visionaries \"reshaping our world through groundbreaking advances in artificial intelligence.\"\n\nCongratulations to the Lightspeed-backed founders included in this year\u2019s list:\n\u2192 @alighodsi (Co-founder and CEO, @databricks)\n\u2192 @Azaliamirh and @annadgoldie (Co-founders, @RicursiveAI)\n\u2192 @ac_edwards_1 (Co-founder and CEO, @cusp_ai)\n\u2192 @DarioAmodei and @DanielaAmodei (Co-founders, @AnthropicAI)\n\u2192 @GarrettLord (Co-founder and CEO, @joinHandshake)\n\u2192 @jackclarkSF (Co-founder and Head of Public Benefit, @AnthropicAI)\n\u2192 @MikeyShulman (Co-founder and CEO, @Suno)\n\u2192 @miramurati (Co-founder and CEO, @thinkymachines)\n\u2192 @sanmikoyejo (Co-founder, @VirtueAI_co)\n\u2192 @vivekrag (Co-founder, @SarvamAI)\n\nWe are proud to back some of the exceptional founders working to help shape the future of AI.",
+        "createdAt": "Fri Aug 28 20:31:39 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 2,
+        "likeCount": 22,
+        "quoteCount": 0,
+        "viewCount": 4888,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQ1f6MHWIAAlI0y.jpg",
+            "expanded_url": "https://x.com/lightspeedvp/status/2093436370974908880/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "59910220",
+          "userName": "lightspeedvp",
+          "url": "https://x.com/lightspeedvp",
+          "name": "Lightspeed",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1918355794333970433/QKku_TuT_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/59910220/1746625835",
+          "description": "Serving bold builders of the future.\n\nNot an offer to buy/sell securities or investment advisory services. Disclosures: https://t.co/NqUCVhdnhA",
+          "location": "Global",
+          "followers": 132893,
+          "following": 2002,
+          "createdAt": "Fri Jul 24 22:47:36 +0000 2009",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2093062792538439754",
+      "url": "https://x.com/ac_edwards_1/status/2093062792538439754",
+      "twitterUrl": "https://twitter.com/ac_edwards_1/status/2093062792538439754",
+      "text": "RT @wellingmax: Celebrating my co-founder Chad Edwards making the #TIME100AI list today!\n\nChad is a once in a generation CEO: tenacious, in\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 5,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1,
+      "createdAt": "Thu Aug 27 19:47:11 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093062792538439754",
+      "media": [],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              66,
+              76
+            ],
+            "text": "TIME100AI"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "92096034",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "Max Welling",
+            "screen_name": "wellingmax"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ac_edwards_1",
+        "url": "https://x.com/ac_edwards_1",
+        "id": "1171165739467902976",
+        "name": "Chad Edwards",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2035809486590328832/npHmKgGw_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1171165739467902976/1774211177",
+        "description": "new to X. building stuff at the frontier of tech / science. @cusp_ai co-founder, @quantinuumqc commercial lead.",
+        "location": "",
+        "followers": 880,
+        "following": 26,
+        "createdAt": "Mon Sep 09 20:57:31 +0000 2019",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093007084421792133",
+        "url": "https://x.com/wellingmax/status/2093007084421792133",
+        "text": "Celebrating my co-founder Chad Edwards making the #TIME100AI list today!\n\nChad is a once in a generation CEO: tenacious, innovative and kind. Building [tag]CuspAI alongside him has been an incredible journey.\n\nRead Billy Perrigo\u2019s profile in @TIME:\u00a0https://time.com/collection/time100-ai/2026/chad-edwards/ https://t.co/hZQTOJQ3eA",
+        "createdAt": "Thu Aug 27 16:05:49 +0000 2026",
+        "retweetCount": 5,
+        "replyCount": 3,
+        "likeCount": 65,
+        "quoteCount": 0,
+        "viewCount": 7161,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQvaxxjWwAAY107.jpg",
+            "expanded_url": "https://x.com/wellingmax/status/2093007084421792133/photo/1",
+            "video_url": null
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQva1JaWQAAYEJu.jpg",
+            "expanded_url": "https://x.com/wellingmax/status/2093007084421792133/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "92096034",
+          "userName": "wellingmax",
+          "url": "https://x.com/wellingmax",
+          "name": "Max Welling",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1259203093042024448/mpChpF8j_normal.jpg",
+          "coverPicture": null,
+          "description": "",
+          "location": "",
+          "followers": 42336,
+          "following": 473,
+          "createdAt": "Mon Nov 23 19:39:38 +0000 2009",
+          "canDm": false
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

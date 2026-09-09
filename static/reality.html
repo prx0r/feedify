@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reality Feed — Feedify</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <style>
+    .reality-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 16px; }
+    .layer-card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px; }
+    .layer-card h3 { margin: 0 0 8px 0; font-size: 12px; color: var(--accent); }
+    .layer-card .count { font-size: 24px; font-weight: 700; color: var(--text); }
+    .layer-card .desc { font-size: 10px; color: var(--muted); margin-top: 4px; }
+    
+    .bottleneck-chain { display: flex; align-items: center; gap: 8px; overflow-x: auto; padding: 16px 0; }
+    .bottleneck-node { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px; min-width: 140px; text-align: center; }
+    .bottleneck-node.active { border-color: var(--accent); background: rgba(214,255,95,0.05); }
+    .bottleneck-node .name { font-weight: 600; font-size: 11px; }
+    .bottleneck-node .companies { font-size: 9px; color: var(--muted); margin-top: 4px; }
+    .bottleneck-arrow { color: var(--muted); font-size: 16px; }
+    
+    .source-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    .source-item { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 10px; display: flex; justify-content: space-between; align-items: center; }
+    .source-item .name { font-weight: 600; font-size: 11px; }
+    .source-item .type { font-size: 9px; color: var(--muted); }
+    .source-item .score { color: var(--accent); font-weight: 600; }
+    
+    .alert-card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px; margin-bottom: 8px; }
+    .alert-card .alert-type { font-size: 9px; text-transform: uppercase; color: var(--accent); letter-spacing: 0.05em; }
+    .alert-card .alert-title { font-weight: 600; font-size: 12px; margin: 4px 0; }
+    .alert-card .alert-sources { font-size: 10px; color: var(--muted); }
+    .alert-card .alert-confidence { font-size: 10px; color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <nav class="sidebar">
+      <div class="logo">⚡ <span>Feedify</span></div>
+      <a href="/" class="nav-item">Home</a>
+      <a href="/reality" class="nav-item active">Reality Feed</a>
+      <a href="/insiders" class="nav-item">Insiders</a>
+      <a href="/frontier" class="nav-item">Frontier</a>
+      <div class="nav-section">Sources</div>
+      <div id="sourceMini" class="source-mini"></div>
+    </nav>
+    <main class="content">
+      <section class="home-section">
+        <div class="eyebrow">L0 → L1 → L2 → L3 → L4</div>
+        <h1>Reality Feed</h1>
+        <p style="color:var(--muted);font-size:12px;margin:4px 0 16px">
+          The canonical intelligence hierarchy. Primary sources before narrative.
+        </p>
+        
+        <div class="section-head">
+          <div><div class="eyebrow">LAYERS</div><h2>Intelligence hierarchy</h2></div>
+        </div>
+        <div class="reality-grid" id="layerGrid"></div>
+        
+        <div class="section-head">
+          <div><div class="eyebrow">MIGRATION</div><h2>Bottleneck chain</h2></div>
+        </div>
+        <div class="bottleneck-chain" id="bottleneckChain"></div>
+        
+        <div class="section-head">
+          <div><div class="eyebrow">ALERTS</div><h2>Convergence signals</h2></div>
+        </div>
+        <div id="alertList"></div>
+        
+        <div class="section-head">
+          <div><div class="eyebrow">SOURCES</div><h2>100-source universe</h2></div>
+        </div>
+        <div class="source-list" id="sourceList"></div>
+      </section>
+    </main>
+  </div>
+  <script>
+    async function loadReality() {
+      // Load layers
+      const layers = [
+        { name: "L0 — Reality", count: "10", desc: "Permits, licenses, contracts, transactions", color: "#2f9e44" },
+        { name: "L1 — Technical", count: "10", desc: "GitHub, papers, patents, standards", color: "#4dabf7" },
+        { name: "L2 — Institutional", count: "10", desc: "Government awards, utility plans", color: "#ffd43b" },
+        { name: "L3 — Expert", count: "10", desc: "Keller, Xinyu, Dylan, Handmer", color: "#ff922b" },
+        { name: "L4 — Narrative", count: "10", desc: "X, Reddit, news, analysts", color: "#ff6b6b" },
+      ];
+      
+      document.getElementById('layerGrid').innerHTML = layers.map(l => `
+        <div class="layer-card" style="border-top: 2px solid ${l.color}">
+          <h3>${l.name}</h3>
+          <div class="count">${l.count}</div>
+          <div class="desc">${l.desc}</div>
+        </div>
+      `).join('');
+      
+      // Load bottleneck chain
+      const chain = [
+        { name: "GPU Scarcity", companies: "NVDA, AMD", active: false },
+        { name: "Advanced Packaging", companies: "TSM, AMKR, SUSS", active: true },
+        { name: "HBM Yield", companies: "SKHY, MU", active: false },
+        { name: "Copper Wall", companies: "MRVL, AVGO", active: false },
+        { name: "Optics", companies: "COHR, LITE", active: false },
+        { name: "Laser/InP", companies: "COHR, SIVE", active: false },
+        { name: "Test/Inspect", companies: "ONTO, FORM", active: false },
+        { name: "Uranium", companies: "LEU, STDN", active: false },
+      ];
+      
+      document.getElementById('bottleneckChain').innerHTML = chain.map((n, i) => `
+        ${i > 0 ? '<div class="bottleneck-arrow">→</div>' : ''}
+        <div class="bottleneck-node ${n.active ? 'active' : ''}">
+          <div class="name">${n.name}</div>
+          <div class="companies">${n.companies}</div>
+        </div>
+      `).join('');
+      
+      // Load alerts
+      const alerts = [
+        { type: "Bottleneck Migration", title: "GPU → Packaging", sources: "TSMC earnings, SUSS orders, AMKR guidance", confidence: "85%" },
+        { type: "Source Convergence", title: "Laser bottleneck", sources: "TSMC VP, COHR earnings, LITE guidance", confidence: "90%" },
+        { type: "State Transition", title: "LEU: DOE funding → production", sources: "DOE HALEU allocation, NRC license", confidence: "75%" },
+      ];
+      
+      document.getElementById('alertList').innerHTML = alerts.map(a => `
+        <div class="alert-card">
+          <div class="alert-type">${a.type}</div>
+          <div class="alert-title">${a.title}</div>
+          <div class="alert-sources">Sources: ${a.sources}</div>
+          <div class="alert-confidence">Confidence: ${a.confidence}</div>
+        </div>
+      `).join('');
+      
+      // Load sources
+      const sources = [
+        { name: "SEC 8-K", type: "Corporate", score: "0.8" },
+        { name: "SEC Form 4", type: "Insider", score: "0.9" },
+        { name: "Taiwan MOPS", type: "Monthly Revenue", score: "0.85" },
+        { name: "ERCOT Large Load", type: "Utility", score: "0.8" },
+        { name: "SAM.gov Awards", type: "Government", score: "0.85" },
+        { name: "CHIPS Act", type: "Government", score: "0.95" },
+        { name: "DOE HALEU", type: "Nuclear", score: "0.95" },
+        { name: "USPTO Assignments", type: "Patent", score: "0.8" },
+        { name: "GitHub Commits", type: "Technical", score: "0.7" },
+        { name: "Fund Letters", type: "Expert", score: "0.95" },
+      ];
+      
+      document.getElementById('sourceList').innerHTML = sources.map(s => `
+        <div class="source-item">
+          <div>
+            <div class="name">${s.name}</div>
+            <div class="type">${s.type}</div>
+          </div>
+          <div class="score">${s.score}</div>
+        </div>
+      `).join('');
+    }
+    
+    loadReality();
+  </script>
+</body>
+</html>

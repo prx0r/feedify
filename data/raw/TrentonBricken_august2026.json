@@ -1,5 +1,192 @@
 {
   "handle": "TrentonBricken",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:08:24.806792"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093033890768375816",
+      "url": "https://x.com/TrentonBricken/status/2093033890768375816",
+      "twitterUrl": "https://twitter.com/TrentonBricken/status/2093033890768375816",
+      "text": "RT @METR_Evals: METR &amp; Redwood Research investigated agent behavior in the Hugging Face incident. We found agents developed a universal che\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1014,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 82,
+      "createdAt": "Thu Aug 27 17:52:20 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093033890768375816",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1706770561903497216",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "METR",
+            "screen_name": "METR_Evals"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "TrentonBricken",
+        "url": "https://x.com/TrentonBricken",
+        "id": "2373791492",
+        "name": "Trenton Bricken",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1615139644873773056/-Fhg8_TL_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2373791492/1673914439",
+        "description": "Stochastic parrot",
+        "location": "",
+        "followers": 14541,
+        "following": 1876,
+        "createdAt": "Wed Mar 05 13:50:47 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092692175452803393",
+        "url": "https://x.com/METR_Evals/status/2092692175452803393",
+        "text": "METR &amp; Redwood Research investigated agent behavior in the Hugging Face incident. We found agents developed a universal cheat for ExploitGym within 4 hours, then coordinated multi-day R&amp;D efforts to trick the scorer into accepting cheats, including trying to tamper with logs. https://t.co/fZAmtL3SBU",
+        "createdAt": "Wed Aug 26 19:14:29 +0000 2026",
+        "retweetCount": 1014,
+        "replyCount": 168,
+        "likeCount": 5757,
+        "quoteCount": 568,
+        "viewCount": 4218295,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQq1u_Ua4AA1Jgw.png",
+            "expanded_url": "https://x.com/METR_Evals/status/2092692175452803393/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1706770561903497216",
+          "userName": "METR_Evals",
+          "url": "https://x.com/METR_Evals",
+          "name": "METR",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2021827383431757824/AeVvT0rU_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1706770561903497216/1724202300",
+          "description": "We work to scientifically measure whether and when AI systems might threaten catastrophic harm to society. Nonprofit.",
+          "location": "Berkeley, CA",
+          "followers": 35550,
+          "following": 37,
+          "createdAt": "Tue Sep 26 20:39:57 +0000 2023",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2085898761818267701",
+      "url": "https://x.com/TrentonBricken/status/2085898761818267701",
+      "twitterUrl": "https://twitter.com/TrentonBricken/status/2085898761818267701",
+      "text": "RT @__nmca__: the @Eric_Wallace_ HF incident post-mortem talk is required viewing for anyone who claims to be even slightly serious about A\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 70,
+      "createdAt": "Sat Aug 08 01:19:53 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085898761818267701",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1436080998366777346",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "Nat McAleese",
+            "screen_name": "__nmca__"
+          },
+          {
+            "id_str": "332600142",
+            "indices": [
+              18,
+              32
+            ],
+            "name": "Eric Wallace",
+            "screen_name": "Eric_Wallace_"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "TrentonBricken",
+        "url": "https://x.com/TrentonBricken",
+        "id": "2373791492",
+        "name": "Trenton Bricken",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1615139644873773056/-Fhg8_TL_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2373791492/1673914439",
+        "description": "Stochastic parrot",
+        "location": "",
+        "followers": 14541,
+        "following": 1876,
+        "createdAt": "Wed Mar 05 13:50:47 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2085619466264601068",
+        "url": "https://x.com/__nmca__/status/2085619466264601068",
+        "text": "the @Eric_Wallace_ HF incident post-mortem talk is required viewing for anyone who claims to be even slightly serious about AI: \nhttps://youtu.be/87DyyMV0kCY?is=wdV9pzSYFKaZeMqp",
+        "createdAt": "Fri Aug 07 06:50:04 +0000 2026",
+        "retweetCount": 3,
+        "replyCount": 1,
+        "likeCount": 35,
+        "quoteCount": 1,
+        "viewCount": 5163,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1436080998366777346",
+          "userName": "__nmca__",
+          "url": "https://x.com/__nmca__",
+          "name": "Nat McAleese",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1436081419638431745/BBObm1dq_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1436080998366777346/1762396556",
+          "description": "Research @AnthropicAI. Previously @OpenAI, @DeepMind. Views my own.",
+          "location": "",
+          "followers": 17456,
+          "following": 393,
+          "createdAt": "Thu Sep 09 21:36:23 +0000 2021",
+          "canDm": false
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

@@ -1,5 +1,238 @@
 {
   "handle": "ekindogus",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:37:24.463321"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2090294258918195351",
+      "url": "https://x.com/ekindogus/status/2090294258918195351",
+      "twitterUrl": "https://twitter.com/ekindogus/status/2090294258918195351",
+      "text": "RT @Renet29304: DFT is so fun!!",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 61,
+      "createdAt": "Thu Aug 20 04:26:01 +0000 2026",
+      "lang": "de",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090294258918195351",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1898851640670826496",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "Manki Kim",
+            "screen_name": "Renet29304"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ekindogus",
+        "url": "https://x.com/ekindogus",
+        "id": "1360892702",
+        "name": "Ekin Dogus Cubuk",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1972782678400458752/FX7EtQtI_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder of @periodiclabs\n\nPast: Lead of materials science and chemistry at @GoogleDeepMind; Google Brain",
+        "location": "San Francisco, CA",
+        "followers": 9332,
+        "following": 497,
+        "createdAt": "Thu Apr 18 03:04:51 +0000 2013",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089930522701304145",
+        "url": "https://x.com/Renet29304/status/2089930522701304145",
+        "text": "DFT is so fun!!",
+        "createdAt": "Wed Aug 19 04:20:40 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 1,
+        "likeCount": 23,
+        "quoteCount": 0,
+        "viewCount": 3318,
+        "lang": "de",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1898851640670826496",
+          "userName": "Renet29304",
+          "url": "https://x.com/Renet29304",
+          "name": "Manki Kim",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1898851687387009024/wlW36WWK_normal.png",
+          "coverPicture": null,
+          "description": "Hello! I am Manki Kim, a theoretical physicist interested in AI.\n\nMTS @periodiclabs",
+          "location": "",
+          "followers": 710,
+          "following": 390,
+          "createdAt": "Sun Mar 09 21:41:35 +0000 2025",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2084035403703836708",
+      "url": "https://x.com/ekindogus/status/2084035403703836708",
+      "twitterUrl": "https://twitter.com/ekindogus/status/2084035403703836708",
+      "text": "RT @sschoenholz: @starsailing11 Good question! I tend to think that ML is the tide that lifts all ships, so we'll probably see a lot of thi\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 60,
+      "createdAt": "Sun Aug 02 21:55:34 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2084035403703836708",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "4870078413",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Sam Schoenholz",
+            "screen_name": "sschoenholz"
+          },
+          {
+            "id_str": "1590397010850430976",
+            "indices": [
+              17,
+              31
+            ],
+            "name": "Space Man",
+            "screen_name": "starsailing11"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ekindogus",
+        "url": "https://x.com/ekindogus",
+        "id": "1360892702",
+        "name": "Ekin Dogus Cubuk",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1972782678400458752/FX7EtQtI_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder of @periodiclabs\n\nPast: Lead of materials science and chemistry at @GoogleDeepMind; Google Brain",
+        "location": "San Francisco, CA",
+        "followers": 9332,
+        "following": 497,
+        "createdAt": "Thu Apr 18 03:04:51 +0000 2013",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2083628422455234859",
+        "url": "https://x.com/sschoenholz/status/2083628422455234859",
+        "text": "Good question! I tend to think that ML is the tide that lifts all ships, so we'll probably see a lot of things emerge. \n\nObviously theoretical work is close to math, so probably the most straight forward (and iiuc the field is already seeing a lot of amazing results).\n\nAnything related to simulation is also quite low-hanging. Maybe improvements around quantum-simulation? There's been some really cool looking work there already.\n\nI'm also super bullish on automated labs like Periodic. So maybe there will be experimental results that happen sooner than we'd naively expect.",
+        "createdAt": "Sat Aug 01 18:58:22 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 1,
+        "likeCount": 19,
+        "quoteCount": 0,
+        "viewCount": 1209,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "4870078413",
+          "userName": "sschoenholz",
+          "url": "https://x.com/sschoenholz",
+          "name": "Sam Schoenholz",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1209205587214577674/UozgbhIo_normal.jpg",
+          "coverPicture": null,
+          "description": "@openai\n\npreviously: @thinkymachines, google brain.",
+          "location": "",
+          "followers": 8278,
+          "following": 699,
+          "createdAt": "Mon Feb 01 19:02:25 +0000 2016",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2083383590201745546",
+      "url": "https://x.com/ekindogus/status/2083383590201745546",
+      "twitterUrl": "https://twitter.com/ekindogus/status/2083383590201745546",
+      "text": "Physics is a never-ending quest, and the ultimate proving ground for AI and RSI.",
+      "source": "Twitter Web App",
+      "retweetCount": 2,
+      "replyCount": 1,
+      "likeCount": 31,
+      "quoteCount": 0,
+      "viewCount": 3175,
+      "createdAt": "Sat Aug 01 02:45:29 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2083383590201745546",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "ekindogus",
+        "url": "https://x.com/ekindogus",
+        "id": "1360892702",
+        "name": "Ekin Dogus Cubuk",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1972782678400458752/FX7EtQtI_normal.jpg",
+        "coverPicture": null,
+        "description": "Co-Founder of @periodiclabs\n\nPast: Lead of materials science and chemistry at @GoogleDeepMind; Google Brain",
+        "location": "San Francisco, CA",
+        "followers": 9332,
+        "following": 497,
+        "createdAt": "Thu Apr 18 03:04:51 +0000 2013",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2082494637592260622",
+        "text": "\u201cI have come to think that physics is a never-ending quest.\u201d\n\nIsaac Isidor Rabi discovered a method to measure the magnetic properties of atomic nuclei - research that would lead onto the development of MRI and atomic clocks. He was awarded the 1944 Nobel Prize in Physics. https://t.co/wVGR6eV3xt",
+        "user": {
+          "name": "The Nobel Prize",
+          "screen_name": "NobelPrize"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

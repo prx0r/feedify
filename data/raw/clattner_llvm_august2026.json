@@ -1,0 +1,1360 @@
+{
+  "handle": "clattner_llvm",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2094481830623990010",
+      "url": "https://x.com/clattner_llvm/status/2094481830623990010",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2094481830623990010",
+      "text": "RT @PyTorch: \ud83d\ude80 Keynote Speaker Announced\n\n@clattner_llvm, Executive Vice President of Advanced AI Software and Platforms at @Qualcomm, join\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 8,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 457,
+      "createdAt": "Mon Aug 31 17:45:56 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2094481830623990010",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "776585502606721024",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "PyTorch",
+            "screen_name": "PyTorch"
+          },
+          {
+            "id_str": "2543588034",
+            "indices": [
+              42,
+              56
+            ],
+            "name": "Chris Lattner",
+            "screen_name": "clattner_llvm"
+          },
+          {
+            "id_str": "84623395",
+            "indices": [
+              124,
+              133
+            ],
+            "name": "Qualcomm",
+            "screen_name": "Qualcomm"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2094455332869202083",
+        "url": "https://x.com/PyTorch/status/2094455332869202083",
+        "text": "\ud83d\ude80 Keynote Speaker Announced\n\n@clattner_llvm, Executive Vice President of Advanced AI Software and Platforms at @Qualcomm, joins the keynote lineup at #PyTorchCon North America.\n\n\ud83d\udcc5 October 20-21\n\ud83d\udccd San Jose, CA\n\nSchedule: https://bit.ly/3Ra1oUx\n\nRegister by Sept 4 & save: https://bit.ly/4sh3DSw",
+        "createdAt": "Mon Aug 31 16:00:39 +0000 2026",
+        "retweetCount": 8,
+        "replyCount": 1,
+        "likeCount": 44,
+        "quoteCount": 0,
+        "viewCount": 15655,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HREAAn4XIAA1gdK.jpg",
+            "expanded_url": "https://x.com/PyTorch/status/2094455332869202083/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "776585502606721024",
+          "userName": "PyTorch",
+          "url": "https://x.com/PyTorch",
+          "name": "PyTorch",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/776585502606721024/1761575044",
+          "description": "Tensors and neural networks in Python with strong hardware acceleration. PyTorch is an open source project at the Linux Foundation. #PyTorchFoundation",
+          "location": "",
+          "followers": 510982,
+          "following": 95,
+          "createdAt": "Fri Sep 16 00:56:26 +0000 2016",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2093454125413568984",
+      "url": "https://x.com/clattner_llvm/status/2093454125413568984",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2093454125413568984",
+      "text": "GLM-5.3's open weights are public today, and Modular Cloud has day zero support!\n\nThis is https://Z.ai\u2019s best model for agentic coding, with a 50% gain over GLM-5.2 on Code Bench, and we use it internally @ Modular\n\nTry it on Modular Cloud now: https://console.modular.com/?utm_source=chris&utm_campaign=glm53",
+      "source": "Twitter Web App",
+      "retweetCount": 16,
+      "replyCount": 12,
+      "likeCount": 225,
+      "quoteCount": 1,
+      "viewCount": 26154,
+      "createdAt": "Fri Aug 28 21:42:12 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 32,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093454125413568984",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "Z.ai",
+            "expanded_url": "https://Z.ai",
+            "indices": [
+              90,
+              113
+            ],
+            "url": "https://t.co/IuBFQzH4Sw"
+          },
+          {
+            "display_url": "console.modular.com/?utm_source=ch\u2026",
+            "expanded_url": "https://console.modular.com/?utm_source=chris&utm_campaign=glm53",
+            "indices": [
+              256,
+              279
+            ],
+            "url": "https://t.co/ZArCvBd0CH"
+          }
+        ],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2093354097122455713",
+        "text": "GLM-5.3 is now open-weight.\n\nOur most capable model for agentic coding and cyber defense is now available to download, run, and customize.\n\nWeights: https://huggingface.co/zai-org/GLM-5.3\nTech blog: https://z.ai/blog/glm-5.3 https://t.co/f8XlJksKyf",
+        "user": {
+          "name": "Z.ai",
+          "screen_name": "Zai_org"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2092052595695333827",
+      "url": "https://x.com/clattner_llvm/status/2092052595695333827",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2092052595695333827",
+      "text": "I'm starstruck when legends like Ash use Mojo\ud83d\udd25 + LLM coding to solve problems (which I barely understand...) in genomics \ud83e\uddec across CPU and GPU with high performance.\n\nCheck out AffineGaps, an incredible Mojo library building on the learnings of StringZilla and other research!\ud83d\udd2c",
+      "source": "Twitter Web App",
+      "retweetCount": 20,
+      "replyCount": 5,
+      "likeCount": 290,
+      "quoteCount": 0,
+      "viewCount": 29345,
+      "createdAt": "Tue Aug 25 00:53:01 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 105,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092052595695333827",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2092049446582260022",
+        "text": "RNA loves Mojo \ud83d\udd25, and I love high-polynomial problems!\n\nThe last couple of weeks were eventful. The news about Moderna's phase 3 trials of mRNA cancer vaccines hit the public... and simultaneously @Modular has released the 1.0 version of Mojo. I got really excited and went on https://t.co/NrbzeehMv5",
+        "user": {
+          "name": "Ash Vardanian",
+          "screen_name": "ashvardanian"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2091979560862859588",
+      "url": "https://x.com/clattner_llvm/status/2091979560862859588",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2091979560862859588",
+      "text": "\"I love making very big bets that nobody wants to believe in. I love that, and I think we have have a very ambitious goal here. I think this is like an Android and a Kubernetes moment for the industry.\" - @cristianoamon",
+      "source": "Twitter Web App",
+      "retweetCount": 18,
+      "replyCount": 2,
+      "likeCount": 178,
+      "quoteCount": 1,
+      "viewCount": 24076,
+      "createdAt": "Mon Aug 24 20:02:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 61,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091979560862859588",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "234930762",
+            "indices": [
+              205,
+              219
+            ],
+            "name": "Cristiano R. Amon",
+            "screen_name": "cristianoamon"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2091950636367589662",
+        "text": "$QCOM buying @Modular was about more than adding another AI asset.\n\nI sat down with Modular CEO @clattner_llvm and Qualcomm CEO @cristianoamon on why the industry needs a better software model for heterogeneous compute and how @Qualcomm + Modular intend to attack it.\n\nIf they can https://t.co/CMigmmP9Be",
+        "user": {
+          "name": "Patrick Moorhead",
+          "screen_name": "PatrickMoorhead"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2091945995454345704",
+      "url": "https://x.com/clattner_llvm/status/2091945995454345704",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2091945995454345704",
+      "text": "RT @Modular: Modular's price-performance on @Zai_org's GLM-5.2 (Non-reasoning) lands right on the Pareto frontier in @ArtificialAnlys' late\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 11,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 414,
+      "createdAt": "Mon Aug 24 17:49:26 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091945995454345704",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          },
+          {
+            "id_str": "1726486879456096256",
+            "indices": [
+              44,
+              52
+            ],
+            "name": "Z.ai",
+            "screen_name": "Zai_org"
+          },
+          {
+            "id_str": "1743487864934162432",
+            "indices": [
+              117,
+              133
+            ],
+            "name": "Artificial Analysis",
+            "screen_name": "ArtificialAnlys"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2091938990396199184",
+        "url": "https://x.com/Modular/status/2091938990396199184",
+        "text": "Modular's price-performance on @Zai_org's GLM-5.2 (Non-reasoning) lands right on the Pareto frontier in @ArtificialAnlys' latest benchmark: near-top speed without the near-top price tag.\n\nWe're just getting started, and we're ready for GLM-5.3. Expect to see a lot more incredible results. \ud83d\ude80",
+        "createdAt": "Mon Aug 24 17:21:36 +0000 2026",
+        "retweetCount": 11,
+        "replyCount": 2,
+        "likeCount": 102,
+        "quoteCount": 0,
+        "viewCount": 7920,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQgPbQrbEAATOBx.png",
+            "expanded_url": "https://x.com/Modular/status/2091938990396199184/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1483918307484848132",
+          "userName": "Modular",
+          "url": "https://x.com/Modular",
+          "name": "Modular",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1786875652656025600/mp6VADd5_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1483918307484848132/1714859329",
+          "description": "Building AI\u2019s unified compute layer. We are hiring \u2192 https://t.co/cPTAes0HMt \ud83d\ude80",
+          "location": "",
+          "followers": 24269,
+          "following": 2,
+          "createdAt": "Wed Jan 19 21:46:38 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090888282892820811",
+      "url": "https://x.com/clattner_llvm/status/2090888282892820811",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090888282892820811",
+      "text": "RT @Modular: We're the #1 trending repo on @github today.\n\nThe Mojo compiler went open source at ModCon this week, and developers noticed f\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 11,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 411,
+      "createdAt": "Fri Aug 21 19:46:28 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090888282892820811",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          },
+          {
+            "id_str": "13334762",
+            "indices": [
+              43,
+              50
+            ],
+            "name": "GitHub",
+            "screen_name": "github"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090882062287003957",
+        "url": "https://x.com/Modular/status/2090882062287003957",
+        "text": "We're the #1 trending repo on @github today.\n\nThe Mojo compiler went open source at ModCon this week, and developers noticed fast.\n\nThank you to everyone who joined us in person and online. If you missed the keynote, the full recording is live on our YouTube channel:\n\nhttps://youtu.be/4Hw7PeIsFPo",
+        "createdAt": "Fri Aug 21 19:21:45 +0000 2026",
+        "retweetCount": 11,
+        "replyCount": 2,
+        "likeCount": 187,
+        "quoteCount": 5,
+        "viewCount": 10598,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQROJ6PbMAAygCD.jpg",
+            "expanded_url": "https://x.com/Modular/status/2090882062287003957/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1483918307484848132",
+          "userName": "Modular",
+          "url": "https://x.com/Modular",
+          "name": "Modular",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1786875652656025600/mp6VADd5_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1483918307484848132/1714859329",
+          "description": "Building AI\u2019s unified compute layer. We are hiring \u2192 https://t.co/cPTAes0HMt \ud83d\ude80",
+          "location": "",
+          "followers": 24269,
+          "following": 2,
+          "createdAt": "Wed Jan 19 21:46:38 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090275570273878466",
+      "url": "https://x.com/clattner_llvm/status/2090275570273878466",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090275570273878466",
+      "text": "RT @dMatrix_AI: A great day at #ModCon2026 yesterday, where @dmatrix_AI Fellow and Distinguished Architect Satyam Srivastava joined Chris L\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 6,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 464,
+      "createdAt": "Thu Aug 20 03:11:46 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090275570273878466",
+      "media": [],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              31,
+              42
+            ],
+            "text": "ModCon2026"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1496639770264584192",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "@dMatrix",
+            "screen_name": "dMatrix_AI"
+          },
+          {
+            "id_str": "1496639770264584192",
+            "indices": [
+              60,
+              71
+            ],
+            "name": "@dMatrix",
+            "screen_name": "dmatrix_AI"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090222644864106530",
+        "url": "https://x.com/dMatrix_AI/status/2090222644864106530",
+        "text": "A great day at #ModCon2026 yesterday, where @dmatrix_AI Fellow and Distinguished Architect Satyam Srivastava joined Chris Lattner, Rashid Attar, and Kamran Khan on The Multi-Silicon Stack panel to discuss what it will take to build AI systems across an increasingly diverse compute landscape.\n\nAbdul Dakkak of Modular also highlighted how the d-Matrix team integrated Mojo into our MLIR stack and had matrix multiplication running on Corsair\u2122 within days.\n\nThank you to the @Modular team for bringing together the builders and leaders shaping what\u2019s next.\n\n#AIInfrastructure #AIInference #HeterogeneousComputing #dMatrix",
+        "createdAt": "Wed Aug 19 23:41:27 +0000 2026",
+        "retweetCount": 6,
+        "replyCount": 0,
+        "likeCount": 22,
+        "quoteCount": 0,
+        "viewCount": 3972,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQH1LNRaMAAI938.jpg",
+            "expanded_url": "https://x.com/dMatrix_AI/status/2090222644864106530/photo/1",
+            "video_url": null
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQH1MIGawAA6tK2.jpg",
+            "expanded_url": "https://x.com/dMatrix_AI/status/2090222644864106530/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1496639770264584192",
+          "userName": "dMatrix_AI",
+          "url": "https://x.com/dMatrix_AI",
+          "name": "@dMatrix",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1501599492847673354/gZzzSxes_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1496639770264584192/1759514181",
+          "description": "Purpose-built AI inference for modern data centers. Powering heterogeneous AI infrastructure with digital in-memory compute.",
+          "location": "Santa Clara, CA",
+          "followers": 1167,
+          "following": 181,
+          "createdAt": "Thu Feb 24 00:17:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090097828463034579",
+      "url": "https://x.com/clattner_llvm/status/2090097828463034579",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090097828463034579",
+      "text": "ModCon '26 is a wrap! Thank you to everyone who attended + we will post videos for folks who couldn't.\n\nThe theme: \"Heterogenous compute now has a software platform, and it's real\".\n\nModular and QCOM delivered on our promise: we open sourced Mojo\ud83d\udd25, added new hardware, and more!",
+      "source": "Twitter Web App",
+      "retweetCount": 12,
+      "replyCount": 15,
+      "likeCount": 182,
+      "quoteCount": 2,
+      "viewCount": 13230,
+      "createdAt": "Wed Aug 19 15:25:29 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 5,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090097828463034579",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2090098313333014883",
+      "url": "https://x.com/clattner_llvm/status/2090098313333014883",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090098313333014883",
+      "text": "This blog post captures a much more detailed breakdown:\nhttps://www.modular.com/blog/modcon-announcements\n\nUnifying NVIDIA, AMD, Trainium, Google TPU, QCOM Dragonfly and Apple Silicon - with more to come.  It's an incredible time in AI, and this step is great for HW innovators and for researchers.",
+      "source": "Twitter Web App",
+      "retweetCount": 2,
+      "replyCount": 3,
+      "likeCount": 22,
+      "quoteCount": 1,
+      "viewCount": 4090,
+      "createdAt": "Wed Aug 19 15:27:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 8,
+      "isReply": true,
+      "inReplyToId": "2090097828463034579",
+      "conversationId": "2090097828463034579",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "modular.com/blog/modcon-an\u2026",
+            "expanded_url": "https://www.modular.com/blog/modcon-announcements",
+            "indices": [
+              56,
+              79
+            ],
+            "url": "https://t.co/VZfFomF8JZ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2090098592396747218",
+      "url": "https://x.com/clattner_llvm/status/2090098592396747218",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090098592396747218",
+      "text": "We are not done though: We shared that we will be opening MAX and starting an open alliance for leaders in AI silicon, datacenters and frontier models.  Stay tuned for more on that in the coming months! \ud83d\ude80",
+      "source": "Twitter Web App",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 23,
+      "quoteCount": 1,
+      "viewCount": 2088,
+      "createdAt": "Wed Aug 19 15:28:31 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": true,
+      "inReplyToId": "2090098313333014883",
+      "conversationId": "2090097828463034579",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2090097012419314092",
+      "url": "https://x.com/clattner_llvm/status/2090097012419314092",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090097012419314092",
+      "text": "RT @MikeFeibus: At ModCon 2026, @Qualcomm CEO @cristianoamon tells developers what they needed to hear: \"We did not acquire @Modular to mak\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 470,
+      "createdAt": "Wed Aug 19 15:22:14 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090097012419314092",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "106944928",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "MikeFeibus",
+            "screen_name": "MikeFeibus"
+          },
+          {
+            "id_str": "84623395",
+            "indices": [
+              32,
+              41
+            ],
+            "name": "Qualcomm",
+            "screen_name": "Qualcomm"
+          },
+          {
+            "id_str": "234930762",
+            "indices": [
+              46,
+              60
+            ],
+            "name": "Cristiano R. Amon",
+            "screen_name": "cristianoamon"
+          },
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              124,
+              132
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089771806026850464",
+        "url": "https://x.com/MikeFeibus/status/2089771806026850464",
+        "text": "At ModCon 2026, @Qualcomm CEO @cristianoamon tells developers what they needed to hear: \"We did not acquire @Modular to make it a Qualcomm-only software stack ... the opportunity is much bigger than any one company's hardware.\" https://t.co/Yp4RuzgZM2",
+        "createdAt": "Tue Aug 18 17:49:59 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 0,
+        "likeCount": 15,
+        "quoteCount": 0,
+        "viewCount": 3291,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQBbPq5acAAecpY.jpg",
+            "expanded_url": "https://x.com/MikeFeibus/status/2089771806026850464/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "106944928",
+          "userName": "MikeFeibus",
+          "url": "https://x.com/MikeFeibus",
+          "name": "MikeFeibus",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1366816718367059969/efVLkbIL_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/106944928/1684859296",
+          "description": "Connected-stuff mkt analyst #digitalhealth #wearables #sustainability #AI #IoT #WiFi #mobile #privacy #security. @USAToday @CIOonline @MarketWatch columnist",
+          "location": "Scottsdale, AZ",
+          "followers": 17736,
+          "following": 3401,
+          "createdAt": "Thu Jan 21 04:17:32 +0000 2010",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090080552250757537",
+      "url": "https://x.com/clattner_llvm/status/2090080552250757537",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2090080552250757537",
+      "text": "RT @Modular: Four and a half years ago we made a bet: AI wouldn't run on one kind of silicon forever, and the software stack would have to\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 5,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 406,
+      "createdAt": "Wed Aug 19 14:16:50 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090080552250757537",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089770004082462801",
+        "url": "https://x.com/Modular/status/2089770004082462801",
+        "text": "Four and a half years ago we made a bet: AI wouldn't run on one kind of silicon forever, and the software stack would have to be rebuilt for that world.\n\nToday at #ModCon2026, we showed what that bet has become. Our biggest announcements from the keynote in the thread. \ud83d\udc47",
+        "createdAt": "Tue Aug 18 17:42:49 +0000 2026",
+        "retweetCount": 5,
+        "replyCount": 2,
+        "likeCount": 78,
+        "quoteCount": 1,
+        "viewCount": 7603,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1483918307484848132",
+          "userName": "Modular",
+          "url": "https://x.com/Modular",
+          "name": "Modular",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1786875652656025600/mp6VADd5_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1483918307484848132/1714859329",
+          "description": "Building AI\u2019s unified compute layer. We are hiring \u2192 https://t.co/cPTAes0HMt \ud83d\ude80",
+          "location": "",
+          "followers": 24269,
+          "following": 2,
+          "createdAt": "Wed Jan 19 21:46:38 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089788626335060291",
+      "url": "https://x.com/clattner_llvm/status/2089788626335060291",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2089788626335060291",
+      "text": "RT @eatonphil: mojo is now open source\n\nhttps://www.modular.com/blog/mojo-open-source https://t.co/AW0hjxcJPM",
+      "source": "Twitter for iPhone",
+      "retweetCount": 165,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 470,
+      "createdAt": "Tue Aug 18 18:56:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089788626335060291",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQBK7b-XwAEBy8u.jpg",
+          "expanded_url": "https://x.com/eatonphil/status/2089752645594464754/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "modular.com/blog/mojo-open\u2026",
+            "expanded_url": "https://www.modular.com/blog/mojo-open-source",
+            "indices": [
+              40,
+              63
+            ],
+            "url": "https://t.co/oHZf5o6LgR"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "2193516390",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Phil Eaton",
+            "screen_name": "eatonphil"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089752645594464754",
+        "url": "https://x.com/eatonphil/status/2089752645594464754",
+        "text": "mojo is now open source\n\nhttps://www.modular.com/blog/mojo-open-source https://t.co/AW0hjxcJPM",
+        "createdAt": "Tue Aug 18 16:33:51 +0000 2026",
+        "retweetCount": 165,
+        "replyCount": 23,
+        "likeCount": 1559,
+        "quoteCount": 26,
+        "viewCount": 112069,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQBK7b-XwAEBy8u.jpg",
+            "expanded_url": "https://x.com/eatonphil/status/2089752645594464754/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "2193516390",
+          "userName": "eatonphil",
+          "url": "https://x.com/eatonphil",
+          "name": "Phil Eaton",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1991519991913385984/NHGsCtnZ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2193516390/1703897343",
+          "description": "on software infrastructure @theconsensusdev",
+          "location": "",
+          "followers": 29877,
+          "following": 1225,
+          "createdAt": "Thu Nov 14 04:36:04 +0000 2013",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089788147253256657",
+      "url": "https://x.com/clattner_llvm/status/2089788147253256657",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2089788147253256657",
+      "text": "RT @Modular: Every time a new AI accelerator enters the market, developers face the same question: how much of our stack do we have to rewr\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 9,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 394,
+      "createdAt": "Tue Aug 18 18:54:55 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089788147253256657",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089778003136196974",
+        "url": "https://x.com/Modular/status/2089778003136196974",
+        "text": "Every time a new AI accelerator enters the market, developers face the same question: how much of our stack do we have to rewrite? Modular\u2019s unified compute platform is making that answer clear: none.\n\nQualcomm Technologies' data center AI accelerators are now integrated into the Modular Platform.\n\nBlog: https://modular.com/blog/modcon-qualcomm?utm_source=x&utm_campaign=modcon",
+        "createdAt": "Tue Aug 18 18:14:36 +0000 2026",
+        "retweetCount": 9,
+        "replyCount": 2,
+        "likeCount": 62,
+        "quoteCount": 2,
+        "viewCount": 6713,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1483918307484848132",
+          "userName": "Modular",
+          "url": "https://x.com/Modular",
+          "name": "Modular",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1786875652656025600/mp6VADd5_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1483918307484848132/1714859329",
+          "description": "Building AI\u2019s unified compute layer. We are hiring \u2192 https://t.co/cPTAes0HMt \ud83d\ude80",
+          "location": "",
+          "followers": 24269,
+          "following": 2,
+          "createdAt": "Wed Jan 19 21:46:38 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089758984328921148",
+      "url": "https://x.com/clattner_llvm/status/2089758984328921148",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2089758984328921148",
+      "text": "RT @Modular: Today, we open sourced Mojo \ud83d\udd25.\n\nAnnounced just now during the ModCon keynote, effective immediately, Apache 2.0 License.\n\nThan\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 227,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 424,
+      "createdAt": "Tue Aug 18 16:59:02 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089758984328921148",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089749936770634118",
+        "url": "https://x.com/Modular/status/2089749936770634118",
+        "text": "Today, we open sourced Mojo \ud83d\udd25.\n\nAnnounced just now during the ModCon keynote, effective immediately, Apache 2.0 License.\n\nThank you to our community for waiting patiently and building alongside us.\n\n#ModCon2026\n\nFull blog: https://modular.com/blog/mojo-open-source?utm_source=x&utm_campaign=modcon https://t.co/uJJkON4m28",
+        "createdAt": "Tue Aug 18 16:23:05 +0000 2026",
+        "retweetCount": 227,
+        "replyCount": 47,
+        "likeCount": 1416,
+        "quoteCount": 52,
+        "viewCount": 95857,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQBIfmRbgAM8evP.jpg",
+            "expanded_url": "https://x.com/Modular/status/2089749936770634118/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1483918307484848132",
+          "userName": "Modular",
+          "url": "https://x.com/Modular",
+          "name": "Modular",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1786875652656025600/mp6VADd5_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1483918307484848132/1714859329",
+          "description": "Building AI\u2019s unified compute layer. We are hiring \u2192 https://t.co/cPTAes0HMt \ud83d\ude80",
+          "location": "",
+          "followers": 24269,
+          "following": 2,
+          "createdAt": "Wed Jan 19 21:46:38 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089460645137977556",
+      "url": "https://x.com/clattner_llvm/status/2089460645137977556",
+      "twitterUrl": "https://twitter.com/clattner_llvm/status/2089460645137977556",
+      "text": "RT @Modular: Our biggest product announcements of the year land tomorrow in the ModCon 2026 opening keynote. 9:00 AM PT.\n\nChris Lattner, Ti\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 9,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 402,
+      "createdAt": "Mon Aug 17 21:13:32 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089460645137977556",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1483918307484848132",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Modular",
+            "screen_name": "Modular"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "clattner_llvm",
+        "url": "https://x.com/clattner_llvm",
+        "id": "2543588034",
+        "name": "Chris Lattner",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1484209565788897285/1n6Viahb_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/2543588034/1656822255",
+        "description": "Building beautiful things like Mojo\ud83d\udd25 and MAX @Modular, lifting the world of production AI/ML software into a new phase of innovation.  We\u2019re hiring! \ud83d\ude80\ud83e\udde0",
+        "location": "",
+        "followers": 94588,
+        "following": 154,
+        "createdAt": "Tue Jun 03 14:07:07 +0000 2014",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089381887295078445",
+        "url": "https://x.com/Modular/status/2089381887295078445",
+        "text": "Our biggest product announcements of the year land tomorrow in the ModCon 2026 opening keynote. 9:00 AM PT.\n\nChris Lattner, Tim Davis, Eric Johnson, and Mostafa Hagog deliver The Unified AI Compute Layer, alongside Cristiano Amon and Rashid Attar of @Qualcomm, Anush Elangovan of @AMD, and Darko Todorovic of @HTECgroup.\n\nIf you only watch one thing from ModCon, watch this.\n\nFree livestream: http://luma.com/modcon-livestream",
+        "createdAt": "Mon Aug 17 16:00:35 +0000 2026",
+        "retweetCount": 9,
+        "replyCount": 2,
+        "likeCount": 52,
+        "quoteCount": 1,
+        "viewCount": 7967,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HP75wLSbQAAXPGa.jpg",
+            "expanded_url": "https://x.com/Modular/status/2089381887295078445/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1483918307484848132",
+          "userName": "Modular",
+          "url": "https://x.com/Modular",
+          "name": "Modular",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1786875652656025600/mp6VADd5_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1483918307484848132/1714859329",
+          "description": "Building AI\u2019s unified compute layer. We are hiring \u2192 https://t.co/cPTAes0HMt \ud83d\ude80",
+          "location": "",
+          "followers": 24269,
+          "following": 2,
+          "createdAt": "Wed Jan 19 21:46:38 +0000 2022",
+          "canDm": false
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

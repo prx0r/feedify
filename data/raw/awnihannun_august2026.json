@@ -1,0 +1,831 @@
+{
+  "handle": "awnihannun",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093063937604591944",
+      "url": "https://x.com/awnihannun/status/2093063937604591944",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2093063937604591944",
+      "text": "RT @claudeai: Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 1246,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 300,
+      "createdAt": "Thu Aug 27 19:51:44 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093063937604591944",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1943306828697550848",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "Claude",
+            "screen_name": "claudeai"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093059087298601113",
+        "url": "https://x.com/claudeai/status/2093059087298601113",
+        "text": "Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists. Standard seats are free, and premium seats with 5x usage limits are $15 per month, an 80% discount, for one year.\n\nClaude is becoming increasingly capable of scientific work, with recent progress on problems from advanced physics calculations to protein design. Alongside that progress, we've been investing in the research community: Claude Science launched in June, and our AI for Science program funds high-impact projects with free credits. Today's expansion builds on both.\n\nPrincipal investigators (or equivalent) at academic and nonprofit research institutions can sign up, then add the researchers in their group. Over the coming months, we plan to extend the program well beyond the initial 10,000 seats.\n\nLearn more: https://claude.com/programs/team-plan-for-scientists",
+        "createdAt": "Thu Aug 27 19:32:28 +0000 2026",
+        "retweetCount": 1246,
+        "replyCount": 536,
+        "likeCount": 12569,
+        "quoteCount": 397,
+        "viewCount": 4190608,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2093049007329116160/img/5X2ymmLb8kxUv3r9.jpg",
+            "expanded_url": "https://x.com/claudeai/status/2093059087298601113/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2093049007329116160/vid/avc1/1920x1080/wc3ydNXGJ6q3zxCb.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1943306828697550848",
+          "userName": "claudeai",
+          "url": "https://x.com/claudeai",
+          "name": "Claude",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1943306828697550848/1787925866",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "location": "",
+          "followers": 1774078,
+          "following": 2,
+          "createdAt": "Thu Jul 10 13:50:48 +0000 2025",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092325481588875638",
+      "url": "https://x.com/awnihannun/status/2092325481588875638",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2092325481588875638",
+      "text": "RT @exolabs: exo featured on Apple's new M5 Ultra Mac Studio and M6 / M5 Pro Mac Mini pages.\n\nOver the past year, we have worked closely wi\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 116,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 347,
+      "createdAt": "Tue Aug 25 18:57:22 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092325481588875638",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1772318878934118400",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "EXO Labs",
+            "screen_name": "exolabs"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092320487019880735",
+        "url": "https://x.com/exolabs/status/2092320487019880735",
+        "text": "exo featured on Apple's new M5 Ultra Mac Studio and M6 / M5 Pro Mac Mini pages.\n\nOver the past year, we have worked closely with Apple on low-latency RDMA networking over Thunderbolt 5, enabling clusters of Macs to run massive models like Kimi K3 and GLM-5.3 at API speeds.\n\nWith RDMA, aggregate memory bandwidth across Macs scales ~linearly.\n\nA cluster of 4 x M5 Ultra Mac Studios scale to an aggregate memory bandwidth of ~4.8TB/s. Previously, these were speeds only achievable with data center GPUs.\n\nOur vision is a data center on every desk. Apple Silicon's superior memory unit economics, power efficiency, and out of the box experience for Local AI make that possible.\n\nThank you to @angeloskath, @awnihannun, @twid and countless others at Apple who tirelessly to bring this technology to the world.",
+        "createdAt": "Tue Aug 25 18:37:32 +0000 2026",
+        "retweetCount": 116,
+        "replyCount": 62,
+        "likeCount": 1353,
+        "quoteCount": 47,
+        "viewCount": 254501,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQljy0VXUAEGtRv.jpg",
+            "expanded_url": "https://x.com/exolabs/status/2092320487019880735/photo/1",
+            "video_url": null
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQlleU5WcAAg0Ry.jpg",
+            "expanded_url": "https://x.com/exolabs/status/2092320487019880735/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1772318878934118400",
+          "userName": "exolabs",
+          "url": "https://x.com/exolabs",
+          "name": "EXO Labs",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1772318997569998848/si2_A2yj_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1772318878934118400/1768938525",
+          "description": "Frontier AI on local hardware.\nEXO 1.0 is now open-source (Apache 2.0): https://t.co/SGGGK784Qp",
+          "location": "",
+          "followers": 53733,
+          "following": 3,
+          "createdAt": "Mon Mar 25 17:45:30 +0000 2024",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092237178248257977",
+      "url": "https://x.com/awnihannun/status/2092237178248257977",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2092237178248257977",
+      "text": "RT @zcbenz: MLX v0.32.2 is here. It has only been a week since last release, but there are some nice optimizations benefiting both decoding\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 19,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 396,
+      "createdAt": "Tue Aug 25 13:06:29 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092237178248257977",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "7129932",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "Cheng",
+            "screen_name": "zcbenz"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092207732657197284",
+        "url": "https://x.com/zcbenz/status/2092207732657197284",
+        "text": "MLX v0.32.2 is here. It has only been a week since last release, but there are some nice optimizations benefiting both decoding and prefilling that we would like you to enjoy early: https://github.com/ml-explore/mlx/releases/tag/v0.32.2",
+        "createdAt": "Tue Aug 25 11:09:29 +0000 2026",
+        "retweetCount": 19,
+        "replyCount": 15,
+        "likeCount": 195,
+        "quoteCount": 3,
+        "viewCount": 21202,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "7129932",
+          "userName": "zcbenz",
+          "url": "https://x.com/zcbenz",
+          "name": "Cheng",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/524571069483470848/Og82Op_H_normal.jpeg",
+          "coverPicture": null,
+          "description": "maintainer of MLX @apple. creator of @electronjs. check https://t.co/ZDJujd4fAN for the open source things I built.",
+          "location": "Japan",
+          "followers": 7593,
+          "following": 105,
+          "createdAt": "Thu Jun 28 12:40:00 +0000 2007",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090787603343974838",
+      "url": "https://x.com/awnihannun/status/2090787603343974838",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2090787603343974838",
+      "text": "RT @zcbenz: Thoughts on mlx-lm: top-priority is making it the central registry of MLX model implementations, with tools for evaluation and\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 20,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 389,
+      "createdAt": "Fri Aug 21 13:06:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090787603343974838",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "7129932",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "Cheng",
+            "screen_name": "zcbenz"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090690065856922067",
+        "url": "https://x.com/zcbenz/status/2090690065856922067",
+        "text": "Thoughts on mlx-lm: top-priority is making it the central registry of MLX model implementations, with tools for evaluation and profiling, and we should add vision models too.\n\nInference engines can have their own schedulers and custom kernels, and do whatever hack to make inference ultra fast, while importing mlx-lm as a library of models.\n\nWe can rely on community to contribute model implementations, but there would be a fixed procedure to verify correctness of the implementation, ideally automatically.\n\nEverything else except for critical bugs, should be irrelevant at the moment and I'm closing PRs and issues aggressively. Many people will be mad at this, and certainly I would be making mistakes closing legitimate things, but for the project to survive, and for the community to grow healthy, I don't see another way.",
+        "createdAt": "Fri Aug 21 06:38:49 +0000 2026",
+        "retweetCount": 20,
+        "replyCount": 12,
+        "likeCount": 199,
+        "quoteCount": 2,
+        "viewCount": 25915,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "7129932",
+          "userName": "zcbenz",
+          "url": "https://x.com/zcbenz",
+          "name": "Cheng",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/524571069483470848/Og82Op_H_normal.jpeg",
+          "coverPicture": null,
+          "description": "maintainer of MLX @apple. creator of @electronjs. check https://t.co/ZDJujd4fAN for the open source things I built.",
+          "location": "Japan",
+          "followers": 7593,
+          "following": 105,
+          "createdAt": "Thu Jun 28 12:40:00 +0000 2007",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089574422466437319",
+      "url": "https://x.com/awnihannun/status/2089574422466437319",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2089574422466437319",
+      "text": "RT @zcbenz: MLX v0.32.1 has been released, with a lot of minor fixes and performance improvements thanks to the contributors. Last 2 releas\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 20,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 407,
+      "createdAt": "Tue Aug 18 04:45:39 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089574422466437319",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "7129932",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "Cheng",
+            "screen_name": "zcbenz"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089565003578024055",
+        "url": "https://x.com/zcbenz/status/2089565003578024055",
+        "text": "MLX v0.32.1 has been released, with a lot of minor fixes and performance improvements thanks to the contributors. Last 2 releases also received much more external contributions than ever.\n\nhttps://github.com/ml-explore/mlx/releases/tag/v0.32.1 https://t.co/IjuV0j80tu",
+        "createdAt": "Tue Aug 18 04:08:13 +0000 2026",
+        "retweetCount": 20,
+        "replyCount": 6,
+        "likeCount": 152,
+        "quoteCount": 2,
+        "viewCount": 21742,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HP-eX0MbQAAISpW.jpg",
+            "expanded_url": "https://x.com/zcbenz/status/2089565003578024055/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "7129932",
+          "userName": "zcbenz",
+          "url": "https://x.com/zcbenz",
+          "name": "Cheng",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/524571069483470848/Og82Op_H_normal.jpeg",
+          "coverPicture": null,
+          "description": "maintainer of MLX @apple. creator of @electronjs. check https://t.co/ZDJujd4fAN for the open source things I built.",
+          "location": "Japan",
+          "followers": 7593,
+          "following": 105,
+          "createdAt": "Thu Jun 28 12:40:00 +0000 2007",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2089015486529130917",
+      "url": "https://x.com/awnihannun/status/2089015486529130917",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2089015486529130917",
+      "text": "RT @jmorgan: @ronaldmannak Ollama\u2019s latest inference on Apple Silicon is also built on MLX: https://ollama.com/blog/mlx. MLX is transformative.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 450,
+      "createdAt": "Sun Aug 16 15:44:38 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089015486529130917",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "ollama.com/blog/mlx",
+            "expanded_url": "https://ollama.com/blog/mlx",
+            "indices": [
+              92,
+              115
+            ],
+            "url": "https://t.co/FfRytoKdBn"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "194006102",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Jeffrey Morgan",
+            "screen_name": "jmorgan"
+          },
+          {
+            "id_str": "14305290",
+            "indices": [
+              13,
+              26
+            ],
+            "name": "Ronald Mannak",
+            "screen_name": "ronaldmannak"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089005335763984401",
+        "url": "https://x.com/jmorgan/status/2089005335763984401",
+        "text": "@ronaldmannak Ollama\u2019s latest inference on Apple Silicon is also built on MLX: https://ollama.com/blog/mlx. MLX is transformative.",
+        "createdAt": "Sun Aug 16 15:04:18 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 4,
+        "likeCount": 46,
+        "quoteCount": 0,
+        "viewCount": 3940,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "194006102",
+          "userName": "jmorgan",
+          "url": "https://x.com/jmorgan",
+          "name": "Jeffrey Morgan",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1517907361473736704/hD4McZi5_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/194006102/1721749302",
+          "description": "@ollama \u2013 prev @docker, @twitter, @google",
+          "location": "Palo Alto",
+          "followers": 6403,
+          "following": 174,
+          "createdAt": "Thu Sep 23 05:39:58 +0000 2010",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2087184976353927412",
+      "url": "https://x.com/awnihannun/status/2087184976353927412",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2087184976353927412",
+      "text": "RT @redp314: Got Meta's new Muse Glimmer 30B running on my MacBook (M3 Max, 96GG) and tested the serving options available so far.\n\nFastest\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 9,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 431,
+      "createdAt": "Tue Aug 11 14:30:51 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087184976353927412",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "3291016846",
+            "indices": [
+              3,
+              11
+            ],
+            "name": "Paolo Rosson",
+            "screen_name": "redp314"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2086930849522409530",
+        "url": "https://x.com/redp314/status/2086930849522409530",
+        "text": "Got Meta's new Muse Glimmer 30B running on my MacBook (M3 Max, 96GG) and tested the serving options available so far.\n\nFastest right now: Ollama's MLX engine (DFlash included) at ~29 tok/s. \nTuned llama.cpp: ~21. Raw mlx-vlm: ~10, not optimized yet.\nNumbers below if you're setting it up \ud83d\udc47",
+        "createdAt": "Mon Aug 10 21:41:02 +0000 2026",
+        "retweetCount": 9,
+        "replyCount": 5,
+        "likeCount": 44,
+        "quoteCount": 0,
+        "viewCount": 8974,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HPZDKFGWIAAA1xv.jpg",
+            "expanded_url": "https://x.com/redp314/status/2086930849522409530/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "3291016846",
+          "userName": "redp314",
+          "url": "https://x.com/redp314",
+          "name": "Paolo Rosson",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1979641018812186624/3wDH_vSD_normal.jpg",
+          "coverPicture": null,
+          "description": "Head of Applied AI at Dext. Building https://t.co/DANgmpZvSA | Quantum physics PhD from Oxford | Former Italian blindfolded Rubik\u2019s cube record holder",
+          "location": "London, England",
+          "followers": 1294,
+          "following": 2175,
+          "createdAt": "Wed May 20 07:59:47 +0000 2015",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2087184923644121494",
+      "url": "https://x.com/awnihannun/status/2087184923644121494",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2087184923644121494",
+      "text": "RT @NasFilippova: I was working on some optimization for mlx and noticed that our rmsnorm backward was hitting significantly lower bandwidt\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 415,
+      "createdAt": "Tue Aug 11 14:30:38 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2087184923644121494",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1585699311299477504",
+            "indices": [
+              3,
+              16
+            ],
+            "name": "Nastya Filippova\ud83c\uddfa\ud83c\udde6",
+            "screen_name": "NasFilippova"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2086614161740501437",
+        "url": "https://x.com/NasFilippova/status/2086614161740501437",
+        "text": "I was working on some optimization for mlx and noticed that our rmsnorm backward was hitting significantly lower bandwidth than forward. I wrote a small note on why that\u2019s the case and how it could be fixed.\nhttps://nastya236.github.io/blog/rmsnorm-backward-persistent/ https://t.co/1NJUAPASd2",
+        "createdAt": "Mon Aug 10 00:42:38 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 1,
+        "likeCount": 23,
+        "quoteCount": 0,
+        "viewCount": 3041,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HPUkIrOWsAAe176.jpg",
+            "expanded_url": "https://x.com/NasFilippova/status/2086614161740501437/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1585699311299477504",
+          "userName": "NasFilippova",
+          "url": "https://x.com/NasFilippova",
+          "name": "Nastya Filippova\ud83c\uddfa\ud83c\udde6",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1686734770397396994/KlHuhMhX_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1585699311299477504/1690983988",
+          "description": "ML research at @apple, previously @EPFL, WorldQuant, MIPT",
+          "location": "Paris ",
+          "followers": 1491,
+          "following": 367,
+          "createdAt": "Thu Oct 27 18:26:10 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2086809725321216327",
+      "url": "https://x.com/awnihannun/status/2086809725321216327",
+      "twitterUrl": "https://twitter.com/awnihannun/status/2086809725321216327",
+      "text": "RT @ollama: Muse Glimmer is now available to run with Ollama.\n\nAvailable today via Ollama\u2019s MLX engine with state-of-the-art-performance on\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 108,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 358,
+      "createdAt": "Mon Aug 10 13:39:44 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2086809725321216327",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1688410127378829312",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "ollama",
+            "screen_name": "ollama"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "awnihannun",
+        "url": "https://x.com/awnihannun",
+        "id": "245262377",
+        "name": "Awni Hannun",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/829414498893123584/P6JytwO8_normal.jpg",
+        "coverPicture": null,
+        "description": "ow knee",
+        "location": "",
+        "followers": 44963,
+        "following": 356,
+        "createdAt": "Mon Jan 31 08:05:27 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2086781863490994267",
+        "url": "https://x.com/ollama/status/2086781863490994267",
+        "text": "Muse Glimmer is now available to run with Ollama.\n\nAvailable today via Ollama\u2019s MLX engine with state-of-the-art-performance on Apple Silicon, Muse Glimmer can power Claude Code, Codex, and more always-on local agent workflows natively using Ollama.\n\nAdditional support and optimizations for Apple Silicon, NVIDIA, AMD, and other platforms will be available shortly.\n\nGo @finkd @alexandr_wang and @Meta !",
+        "createdAt": "Mon Aug 10 11:49:01 +0000 2026",
+        "retweetCount": 108,
+        "replyCount": 73,
+        "likeCount": 1348,
+        "quoteCount": 23,
+        "viewCount": 93696,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1688410127378829312",
+          "userName": "ollama",
+          "url": "https://x.com/ollama",
+          "name": "ollama",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2045273960666071040/rCjCIwiC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1688410127378829312/1771893027",
+          "description": "https://t.co/1JpLwJ9Bdv",
+          "location": "California, USA",
+          "followers": 182400,
+          "following": 258,
+          "createdAt": "Mon Aug 07 04:42:08 +0000 2023",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

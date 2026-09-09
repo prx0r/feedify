@@ -1,5 +1,100 @@
 {
   "handle": "zhouwenda",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:08:17.439082"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2089662721000390751",
+      "url": "https://x.com/zhouwenda/status/2089662721000390751",
+      "twitterUrl": "https://twitter.com/zhouwenda/status/2089662721000390751",
+      "text": "RT @MicahCarroll: These are incredibly misleading headlines  \u2013 @OpenAI Preparedness is very much alive and well by any meaningful definitio\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 28,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6,
+      "createdAt": "Tue Aug 18 10:36:31 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2089662721000390751",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "356711942",
+            "indices": [
+              3,
+              16
+            ],
+            "name": "Micah Carroll",
+            "screen_name": "MicahCarroll"
+          },
+          {
+            "id_str": "4398626122",
+            "indices": [
+              63,
+              70
+            ],
+            "name": "OpenAI",
+            "screen_name": "OpenAI"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "zhouwenda",
+        "url": "https://x.com/zhouwenda",
+        "id": "18599515",
+        "name": "Wenda Zhou",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/74582106/_DSC0037s_normal.jpg",
+        "coverPicture": null,
+        "description": "OpenAI",
+        "location": "United States",
+        "followers": 2536,
+        "following": 305,
+        "createdAt": "Sun Jan 04 09:45:59 +0000 2009",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2089547581374566542",
+        "url": "https://x.com/MicahCarroll/status/2089547581374566542",
+        "text": "These are incredibly misleading headlines  \u2013 @OpenAI Preparedness is very much alive and well by any meaningful definition\n\nOur subteam \u2013 RSI/misalignment Preparedness \u2013 is doing more urgent work than ever, and has never been more empowered to do so!",
+        "createdAt": "Tue Aug 18 02:58:59 +0000 2026",
+        "retweetCount": 28,
+        "replyCount": 16,
+        "likeCount": 392,
+        "quoteCount": 10,
+        "viewCount": 131325,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "356711942",
+          "userName": "MicahCarroll",
+          "url": "https://x.com/MicahCarroll",
+          "name": "Micah Carroll",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1856967054034964480/7UibcoQ4_normal.jpg",
+          "coverPicture": null,
+          "description": "RSI Preparedness lead @openai\nPrev @berkeley_ai /w @ancadianadragan & Stuart Russell",
+          "location": "",
+          "followers": 7053,
+          "following": 802,
+          "createdAt": "Wed Aug 17 07:40:21 +0000 2011",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

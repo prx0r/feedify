@@ -1,5 +1,275 @@
 {
   "handle": "MooreMorrisSemi",
-  "tweets": [],
-  "fetched_at": "2026-09-09T04:34:25.808168"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1956175732666982422",
+      "url": "https://x.com/MooreMorrisSemi/status/1956175732666982422",
+      "twitterUrl": "https://twitter.com/MooreMorrisSemi/status/1956175732666982422",
+      "text": "MS on Rubin Timeline\n\n$nvda Rubin is on track: NVIDIA's first Rubin silicon should be out from the TSMC fab this October (first tape-out was in June). Meanwhile, our checks suggest NVIDIA's Rubin engineering sampling (ES) is on track for 4Q25, although the fine-tuning of the Rubin chip design continues. The chips and their system design should be finalized next March, with the chip entering mass production in 2Q26, followed by server racks ramp in 3Q26. So it appears there will be no delay to the Rubin schedule, despite some investor concerns.",
+      "source": "Twitter Web App",
+      "retweetCount": 15,
+      "replyCount": 7,
+      "likeCount": 132,
+      "quoteCount": 8,
+      "viewCount": 49795,
+      "createdAt": "Fri Aug 15 02:06:53 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 47,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1956175732666982422",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [
+          {
+            "indices": [
+              22,
+              27
+            ],
+            "text": "nvda"
+          },
+          {
+            "indices": [
+              22,
+              27
+            ],
+            "text": "nvda"
+          }
+        ],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "MooreMorrisSemi",
+        "url": "https://x.com/MooreMorrisSemi",
+        "id": "1452988455760302080",
+        "name": "Nomad Semi",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1926462314682748928/qS9jyonf_normal.jpg",
+        "coverPicture": null,
+        "description": "Deep-dive semiconductor research & AI compute",
+        "location": "",
+        "followers": 5242,
+        "following": 505,
+        "createdAt": "Tue Oct 26 13:20:31 +0000 2021",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1955868778623066167",
+      "url": "https://x.com/MooreMorrisSemi/status/1955868778623066167",
+      "twitterUrl": "https://twitter.com/MooreMorrisSemi/status/1955868778623066167",
+      "text": "Please give Fubon\u2019s analyst credit. He did the channel checks and is reporting data. The alternative is for you to purchase @SemiAnalysis_  Accelerator Model. To me, this reads as glass half-full / half-empty for both $NVDA and $AMD. \n\nThis isn\u2019t the first delay, and a 3 months slip doesn\u2019t change the long-term thesis for $NVDA. Take a chill pill. The CoWoS figures still imply FY2027 revenue well above Street expectations. You should be questioning the Street instead. \n\nIt isn\u2019t particularly bullish for $AMD either. We\u2019ve seen higher CoWoS counts before that were later revised lower. Scale-up is still a big hurdle that remains unresolved. \n\nWe need less narrative and more math",
+      "source": "Twitter Web App",
+      "retweetCount": 9,
+      "replyCount": 10,
+      "likeCount": 102,
+      "quoteCount": 3,
+      "viewCount": 23121,
+      "createdAt": "Thu Aug 14 05:47:09 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 55,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1955868778623066167",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [
+          {
+            "indices": [
+              218,
+              223
+            ],
+            "text": "NVDA"
+          },
+          {
+            "indices": [
+              228,
+              232
+            ],
+            "text": "AMD"
+          },
+          {
+            "indices": [
+              218,
+              223
+            ],
+            "text": "NVDA"
+          },
+          {
+            "indices": [
+              228,
+              232
+            ],
+            "text": "AMD"
+          },
+          {
+            "indices": [
+              324,
+              329
+            ],
+            "text": "NVDA"
+          },
+          {
+            "indices": [
+              509,
+              513
+            ],
+            "text": "AMD"
+          }
+        ],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1745106082790318080",
+            "indices": [
+              124,
+              138
+            ],
+            "name": "SemiAnalysis",
+            "screen_name": "SemiAnalysis_"
+          },
+          {
+            "id_str": "1745106082790318080",
+            "indices": [
+              124,
+              138
+            ],
+            "name": "SemiAnalysis",
+            "screen_name": "SemiAnalysis_"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "MooreMorrisSemi",
+        "url": "https://x.com/MooreMorrisSemi",
+        "id": "1452988455760302080",
+        "name": "Nomad Semi",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1926462314682748928/qS9jyonf_normal.jpg",
+        "coverPicture": null,
+        "description": "Deep-dive semiconductor research & AI compute",
+        "location": "",
+        "followers": 5242,
+        "following": 505,
+        "createdAt": "Tue Oct 26 13:20:31 +0000 2021",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "1955547624024727630",
+        "text": "1) Rubin redesign leads to more limited volume\n2) TSMC CoWoS capacity to hit 130k in 2027\n3) Blackwell Volume: 750k in Q1 25, 1.2mn in Q2, 1.5mn in Q3, 1.6mn in Q4\n4) Broadcom is fastest growing CoWoS customer in 2026\n\nSource: Fubon\n\n$tsm $nvda $avgo https://t.co/ckoZswOCkI",
+        "user": {
+          "name": "Nomad Semi",
+          "screen_name": "MooreMorrisSemi"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "1955547624024727630",
+      "url": "https://x.com/MooreMorrisSemi/status/1955547624024727630",
+      "twitterUrl": "https://twitter.com/MooreMorrisSemi/status/1955547624024727630",
+      "text": "1) Rubin redesign leads to more limited volume\n2) TSMC CoWoS capacity to hit 130k in 2027\n3) Blackwell Volume: 750k in Q1 25, 1.2mn in Q2, 1.5mn in Q3, 1.6mn in Q4\n4) Broadcom is fastest growing CoWoS customer in 2026\n\nSource: Fubon\n\n$tsm $nvda $avgo https://t.co/ckoZswOCkI",
+      "source": "Twitter Web App",
+      "retweetCount": 44,
+      "replyCount": 7,
+      "likeCount": 217,
+      "quoteCount": 15,
+      "viewCount": 127924,
+      "createdAt": "Wed Aug 13 08:31:00 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 123,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1955547624024727630",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GyN_W3daEAQdAMy.png",
+          "expanded_url": "https://x.com/MooreMorrisSemi/status/1955547624024727630/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GyN_daoaEAIMPQi.png",
+          "expanded_url": "https://x.com/MooreMorrisSemi/status/1955547624024727630/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GyN_8iNb0AAFV7e.png",
+          "expanded_url": "https://x.com/MooreMorrisSemi/status/1955547624024727630/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GyOAB2saYAA34wb.png",
+          "expanded_url": "https://x.com/MooreMorrisSemi/status/1955547624024727630/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [
+          {
+            "indices": [
+              234,
+              238
+            ],
+            "text": "tsm"
+          },
+          {
+            "indices": [
+              239,
+              244
+            ],
+            "text": "nvda"
+          },
+          {
+            "indices": [
+              245,
+              250
+            ],
+            "text": "avgo"
+          }
+        ],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "MooreMorrisSemi",
+        "url": "https://x.com/MooreMorrisSemi",
+        "id": "1452988455760302080",
+        "name": "Nomad Semi",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1926462314682748928/qS9jyonf_normal.jpg",
+        "coverPicture": null,
+        "description": "Deep-dive semiconductor research & AI compute",
+        "location": "",
+        "followers": 5242,
+        "following": 505,
+        "createdAt": "Tue Oct 26 13:20:31 +0000 2021",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

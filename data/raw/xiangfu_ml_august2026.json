@@ -1,5 +1,199 @@
 {
   "handle": "xiangfu_ml",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:07:32.428198"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2092686525578530912",
+      "url": "https://x.com/xiangfu_ml/status/2092686525578530912",
+      "twitterUrl": "https://twitter.com/xiangfu_ml/status/2092686525578530912",
+      "text": "RT @yusan_lin: Does your boyfriend give keynotes and look this good? MINE DOES!!!!\n\n@LiamFedus https://t.co/I4Fit85s6n",
+      "source": "Twitter for iPhone",
+      "retweetCount": 8,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8,
+      "createdAt": "Wed Aug 26 18:52:02 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092686525578530912",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQqrIyvakAAcy0v.jpg",
+          "expanded_url": "https://x.com/yusan_lin/status/2092673151754977690/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2589878192",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Yusan Lin",
+            "screen_name": "yusan_lin"
+          },
+          {
+            "id_str": "885528008",
+            "indices": [
+              84,
+              94
+            ],
+            "name": "Liam Fedus",
+            "screen_name": "LiamFedus"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "xiangfu_ml",
+        "url": "https://x.com/xiangfu_ml",
+        "id": "1145854474184904705",
+        "name": "Xiang Fu",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2096717681764544512/suKaOv_0_normal.jpg",
+        "coverPicture": null,
+        "description": "mts @periodiclabs. prev @AIatMeta @MIT_CSAIL",
+        "location": "San Francisco, CA",
+        "followers": 2267,
+        "following": 601,
+        "createdAt": "Tue Jul 02 00:39:30 +0000 2019",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092673151754977690",
+        "url": "https://x.com/yusan_lin/status/2092673151754977690",
+        "text": "Does your boyfriend give keynotes and look this good? MINE DOES!!!!\n\n@LiamFedus https://t.co/I4Fit85s6n",
+        "createdAt": "Wed Aug 26 17:58:54 +0000 2026",
+        "retweetCount": 8,
+        "replyCount": 24,
+        "likeCount": 330,
+        "quoteCount": 6,
+        "viewCount": 188262,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQqrIyvakAAcy0v.jpg",
+            "expanded_url": "https://x.com/yusan_lin/status/2092673151754977690/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "2589878192",
+          "userName": "yusan_lin",
+          "url": "https://x.com/yusan_lin",
+          "name": "Yusan Lin",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1929629476406939648/i_-wVnXf_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2589878192/1774147446",
+          "description": "Founder & CEO @mirrormirror_ai | Computer Science PhD | fashion model at Catwalk Asia",
+          "location": "San Francisco, CA",
+          "followers": 11679,
+          "following": 500,
+          "createdAt": "Thu Jun 26 16:32:57 +0000 2014",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2091653326651920763",
+      "url": "https://x.com/xiangfu_ml/status/2091653326651920763",
+      "twitterUrl": "https://twitter.com/xiangfu_ml/status/2091653326651920763",
+      "text": "RT @LiamFedus: Elon's companies are winning in part by co-designing hardware all the way down to the materials. A new alloy unlocked single\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 22,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3,
+      "createdAt": "Sun Aug 23 22:26:28 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091653326651920763",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "885528008",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Liam Fedus",
+            "screen_name": "LiamFedus"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "xiangfu_ml",
+        "url": "https://x.com/xiangfu_ml",
+        "id": "1145854474184904705",
+        "name": "Xiang Fu",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2096717681764544512/suKaOv_0_normal.jpg",
+        "coverPicture": null,
+        "description": "mts @periodiclabs. prev @AIatMeta @MIT_CSAIL",
+        "location": "San Francisco, CA",
+        "followers": 2267,
+        "following": 601,
+        "createdAt": "Tue Jul 02 00:39:30 +0000 2019",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2091647105857425408",
+        "url": "https://x.com/LiamFedus/status/2091647105857425408",
+        "text": "Elon's companies are winning in part by co-designing hardware all the way down to the materials. A new alloy unlocked single-piece gigacasting for the Model Y, and a new steel replaced 301 stainless on Starship.\nMaterials are the deepest layer of the stack, but currently one of the least designable.",
+        "createdAt": "Sun Aug 23 22:01:45 +0000 2026",
+        "retweetCount": 22,
+        "replyCount": 9,
+        "likeCount": 491,
+        "quoteCount": 7,
+        "viewCount": 48991,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "885528008",
+          "userName": "LiamFedus",
+          "url": "https://x.com/LiamFedus",
+          "name": "Liam Fedus",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/946842870916448256/X0_3p45X_normal.jpg",
+          "coverPicture": null,
+          "description": "Building industrial-scale science at @periodiclabs\n\nPast: VP of Post-Training @OpenAI; Google Brain",
+          "location": "San Francisco, CA",
+          "followers": 36563,
+          "following": 1226,
+          "createdAt": "Tue Oct 16 23:14:47 +0000 2012",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

@@ -1,5 +1,91 @@
 {
   "handle": "ritaranx",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:08:11.772405"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2085098792848961545",
+      "url": "https://x.com/ritaranx/status/2085098792848961545",
+      "twitterUrl": "https://twitter.com/ritaranx/status/2085098792848961545",
+      "text": "RT @yue___yu: Muse Spark 1.2 and MuseCode are out\u2014less than a month after Muse Spark 1.1! \ud83d\ude80\nExcited to join the journey and see the pace of\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2,
+      "createdAt": "Wed Aug 05 20:21:06 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085098792848961545",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1298309859729764352",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "Yue Yu",
+            "screen_name": "yue___yu"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ritaranx",
+        "url": "https://x.com/ritaranx",
+        "id": "1572346147938656256",
+        "name": "Ran Xu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1663331042022002688/_hw8Impe_normal.jpg",
+        "coverPicture": null,
+        "description": "Research Scientist @GoogleDeepMind | Prev: CS PhD @EmoryUniversity | LLM, RAG, Agent, Tool-integrated reasoning, RL",
+        "location": "Mountain View, CA",
+        "followers": 668,
+        "following": 307,
+        "createdAt": "Tue Sep 20 22:05:22 +0000 2022",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2085091874621337900",
+        "url": "https://x.com/yue___yu/status/2085091874621337900",
+        "text": "Muse Spark 1.2 and MuseCode are out\u2014less than a month after Muse Spark 1.1! \ud83d\ude80\nExcited to join the journey and see the pace of progress. Give it a try and let us know what you build!\n\ncurl -fsS http://dev.meta.ai/install.sh | bash",
+        "createdAt": "Wed Aug 05 19:53:36 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 2,
+        "likeCount": 32,
+        "quoteCount": 0,
+        "viewCount": 17219,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "1298309859729764352",
+          "userName": "yue___yu",
+          "url": "https://x.com/yue___yu",
+          "name": "Yue Yu",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1597839195598356480/zUrFuTC1_normal.jpg",
+          "coverPicture": null,
+          "description": "FAIR CodeGen @AIatMeta | \ud83e\udd51 1.0/1.1/1.2/1.3 | Alum @Tsinghua_Uni @GTCSE | NLP | Large Language Models",
+          "location": "Mountain View, CA",
+          "followers": 973,
+          "following": 578,
+          "createdAt": "Tue Aug 25 17:22:52 +0000 2020",
+          "canDm": false
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }

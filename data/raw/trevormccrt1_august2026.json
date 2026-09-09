@@ -1,5 +1,268 @@
 {
   "handle": "trevormccrt1",
-  "tweets": [],
-  "fetched_at": "2026-09-08T22:37:11.319986"
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093073623942578657",
+      "url": "https://x.com/trevormccrt1/status/2093073623942578657",
+      "twitterUrl": "https://twitter.com/trevormccrt1/status/2093073623942578657",
+      "text": "RT @Plinz: We should pause MIT",
+      "source": "Twitter Web App",
+      "retweetCount": 7,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 67,
+      "createdAt": "Thu Aug 27 20:30:14 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093073623942578657",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "28131948",
+            "indices": [
+              3,
+              9
+            ],
+            "name": "Joscha Bach",
+            "screen_name": "Plinz"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "trevormccrt1",
+        "url": "https://x.com/trevormccrt1",
+        "id": "1236845758386667520",
+        "name": "Trevor McCourt",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1696153218273992704/SxJuzIC__normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1236845758386667520/1701487522",
+        "description": "\"Life is a beautiful, magnificent thing, even to a jellyfish\"",
+        "location": "Cambridge, MA",
+        "followers": 13638,
+        "following": 269,
+        "createdAt": "Mon Mar 09 02:46:40 +0000 2020",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093023221604131132",
+        "url": "https://x.com/Plinz/status/2093023221604131132",
+        "text": "We should pause MIT",
+        "createdAt": "Thu Aug 27 17:09:57 +0000 2026",
+        "retweetCount": 7,
+        "replyCount": 10,
+        "likeCount": 249,
+        "quoteCount": 0,
+        "viewCount": 32807,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "28131948",
+          "userName": "Plinz",
+          "url": "https://x.com/Plinz",
+          "name": "Joscha Bach",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1924626291078389760/CXMHFvej_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/28131948/1452654142",
+          "description": "",
+          "location": "San Francisco, CA",
+          "followers": 161170,
+          "following": 803,
+          "createdAt": "Wed Apr 01 15:59:34 +0000 2009",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2084776760009269630",
+      "url": "https://x.com/trevormccrt1/status/2084776760009269630",
+      "twitterUrl": "https://twitter.com/trevormccrt1/status/2084776760009269630",
+      "text": "RT @zerohedge: Musk on why SpaceX is best positioned to create AI infrastructure. \u201cThis is frankly the New York Yankees going in and playin\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 144,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2,
+      "createdAt": "Tue Aug 04 23:01:27 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2084776760009269630",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "18856867",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "zerohedge",
+            "screen_name": "zerohedge"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "trevormccrt1",
+        "url": "https://x.com/trevormccrt1",
+        "id": "1236845758386667520",
+        "name": "Trevor McCourt",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1696153218273992704/SxJuzIC__normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1236845758386667520/1701487522",
+        "description": "\"Life is a beautiful, magnificent thing, even to a jellyfish\"",
+        "location": "Cambridge, MA",
+        "followers": 13638,
+        "following": 269,
+        "createdAt": "Mon Mar 09 02:46:40 +0000 2020",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2084750228805030138",
+        "url": "https://x.com/zerohedge/status/2084750228805030138",
+        "text": "Musk on why SpaceX is best positioned to create AI infrastructure. \u201cThis is frankly the New York Yankees going in and playing a Little League team\"",
+        "createdAt": "Tue Aug 04 21:16:01 +0000 2026",
+        "retweetCount": 144,
+        "replyCount": 77,
+        "likeCount": 4322,
+        "quoteCount": 25,
+        "viewCount": 267560,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "18856867",
+          "userName": "zerohedge",
+          "url": "https://x.com/zerohedge",
+          "name": "zerohedge",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg",
+          "coverPicture": null,
+          "description": "",
+          "location": "",
+          "followers": 3380905,
+          "following": 968,
+          "createdAt": "Sun Jan 11 04:08:58 +0000 2009",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2084709539207627091",
+      "url": "https://x.com/trevormccrt1/status/2084709539207627091",
+      "twitterUrl": "https://twitter.com/trevormccrt1/status/2084709539207627091",
+      "text": "RT @extropic: Thermodynamic Computing: From One to One Billion\n\n0:04 - Intro\n1:22  - Recap\n2:04 - Torx\n3:37  - Thermalizers\n4:42 - Hardware\u2026",
+      "source": "Twitter Web App",
+      "retweetCount": 143,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 36,
+      "createdAt": "Tue Aug 04 18:34:20 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2084709539207627091",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1685973304878747650",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "Extropic",
+            "screen_name": "extropic"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "trevormccrt1",
+        "url": "https://x.com/trevormccrt1",
+        "id": "1236845758386667520",
+        "name": "Trevor McCourt",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1696153218273992704/SxJuzIC__normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1236845758386667520/1701487522",
+        "description": "\"Life is a beautiful, magnificent thing, even to a jellyfish\"",
+        "location": "Cambridge, MA",
+        "followers": 13638,
+        "following": 269,
+        "createdAt": "Mon Mar 09 02:46:40 +0000 2020",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2084701185068732718",
+        "url": "https://x.com/extropic/status/2084701185068732718",
+        "text": "Thermodynamic Computing: From One to One Billion\n\n0:04 - Intro\n1:22  - Recap\n2:04 - Torx\n3:37  - Thermalizers\n4:42 - Hardware\n6:45 - API\n7:25 - Conclusion https://t.co/E0GZI1CZB9",
+        "createdAt": "Tue Aug 04 18:01:09 +0000 2026",
+        "retweetCount": 143,
+        "replyCount": 95,
+        "likeCount": 1212,
+        "quoteCount": 69,
+        "viewCount": 341464,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2084692984730468352/img/3qNTxpKEmXNt-H1q.jpg",
+            "expanded_url": "https://x.com/extropic/status/2084701185068732718/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2084692984730468352/vid/avc1/3840x2160/Z94q2_SYI1Bh5gK1.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1685973304878747650",
+          "userName": "extropic",
+          "url": "https://x.com/extropic",
+          "name": "Extropic",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1989506296719065088/SHh03wEp_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1685973304878747650/1784700294",
+          "description": "building the ultimate substrate for intelligence",
+          "location": "",
+          "followers": 59494,
+          "following": 69,
+          "createdAt": "Mon Jul 31 11:19:39 +0000 2023",
+          "canDm": true
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
 }
