@@ -614,5 +614,69 @@
     "priority": "A+",
     "lab": "FutureHouse",
     "role": "AI scientist / automated discovery"
+  },
+  {
+    "handle": "damnang2",
+    "domain": "semiconductors",
+    "kind": "optics_testing",
+    "priority": "S++",
+    "lab": "Independent",
+    "role": "deep optics/laser/SiPh testing decomposition"
+  },
+  {
+    "handle": "ChipsandWafers",
+    "domain": "semiconductors",
+    "kind": "hbm_test_yield",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "HBM test/yield economics"
+  },
+  {
+    "handle": "MooreMorrisSemi",
+    "domain": "semiconductors",
+    "kind": "custom_asic_cowos",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "custom ASIC/CoWoS supply chain"
+  },
+  {
+    "handle": "dnystedt",
+    "domain": "semiconductors",
+    "kind": "taiwan_supply_chain",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "Taiwan semiconductor supply chain"
+  },
+  {
+    "handle": "zephyr_z9",
+    "domain": "semiconductors",
+    "kind": "architecture_analysis",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "architecture-first, bearish calls"
+  },
+  {
+    "handle": "crux_capital_",
+    "domain": "semiconductors",
+    "kind": "photonics_supply_chain",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "photonics supply chain + valuation"
+  },
+  {
+    "handle": "mingchikuo",
+    "domain": "semiconductors",
+    "kind": "industry_surveys",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "industry surveys"
+  },
+  {
+    "handle": "SemiAnalysis_",
+    "domain": "semiconductors",
+    "kind": "ai_infrastructure",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "broad AI infrastructure systems research"
   }
 ]
