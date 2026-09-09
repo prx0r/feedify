@@ -806,5 +806,60 @@
     "priority": "S",
     "lab": "Independent",
     "role": "advanced packaging Europe"
+  },
+  {
+    "handle": "xyru_fawkes",
+    "reason": "Xinyu Ru / Fawkes - Physical bottleneck migration, LEU Oct 2024, LPKF Apr 2026",
+    "tier": "precursor"
+  },
+  {
+    "handle": "firstadopter",
+    "reason": "Tae Kim - Dec 2023 NVDA+VRT+SMCI call",
+    "tier": "precursor"
+  },
+  {
+    "handle": "dylan522p",
+    "reason": "Dylan Patel / SemiAnalysis - CoWoS+HBM scarcity July 2023",
+    "tier": "precursor"
+  },
+  {
+    "handle": "GavinSBaker",
+    "reason": "Gavin Baker - Transformers shift software to compute Mar 2023",
+    "tier": "precursor"
+  },
+  {
+    "handle": "p_ferragu",
+    "reason": "Pierre Ferragu - Giant AI models need system-scale Sep 2021",
+    "tier": "precursor"
+  },
+  {
+    "handle": "ArjunNMurti",
+    "reason": "Arjun Murti - AI reawakens electricity demand",
+    "tier": "precursor"
+  },
+  {
+    "handle": "FootnotesFirst",
+    "reason": "Mike Alkin - Uranium abandoned/mispriced 2018",
+    "tier": "precursor"
+  },
+  {
+    "handle": "jasonschips",
+    "reason": "Jason's Chips - SUSS specialist, tiny foreign semicap",
+    "tier": "precursor"
+  },
+  {
+    "handle": "energybants",
+    "reason": "Mark Nelson - Existing nuclear undervalued",
+    "tier": "precursor"
+  },
+  {
+    "handle": "solar_chase",
+    "reason": "Jenny Chase - Solar economics surprise forecasters",
+    "tier": "precursor"
+  },
+  {
+    "handle": "ramez",
+    "reason": "Ramez Naam - Solar exponential learning curve 2011",
+    "tier": "precursor"
   }
 ]
