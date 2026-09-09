@@ -49,6 +49,20 @@ p { color: var(--muted); font-size: 12px; line-height: 1.4; margin: 2px 0; }
 .hero-card p { font-size: 12px; }
 .pill { display: inline-block; border: 1px solid #343b44; border-radius: 999px; color: var(--accent2); padding: 2px 8px; font-size: 10px; font-weight: 600; }
 
+/* Portfolio */
+.portfolio-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-bottom: 16px; }
+.portfolio-card { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 10px; min-height: 80px; }
+.portfolio-card:hover { border-color: #414955; }
+.portfolio-card .name { font-weight: 600; font-size: 12px; }
+.portfolio-card .ticker { color: var(--muted); font-size: 10px; margin-bottom: 4px; }
+.portfolio-card .weight { color: var(--accent); font-weight: 600; font-size: 11px; margin-bottom: 4px; }
+.portfolio-card .thesis { color: var(--soft); font-size: 10px; }
+.portfolio-card .evidence { color: var(--muted); font-size: 9px; margin-top: 4px; font-style: italic; }
+.portfolio-card .tier { display: inline-block; font-size: 8px; padding: 1px 4px; border-radius: 3px; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.03em; }
+.portfolio-card .tier-1 { background: rgba(47, 158, 68, 0.15); color: #2f9e44; border: 1px solid rgba(47, 158, 68, 0.2); }
+.portfolio-card .tier-2 { background: rgba(255, 212, 0, 0.1); color: #ffd400; border: 1px solid rgba(255, 212, 0, 0.15); }
+.portfolio-card .tier-3 { background: rgba(255, 146, 43, 0.1); color: #ff922b; border: 1px solid rgba(255, 146, 43, 0.15); }
+
 /* Sections */
 .section-head { display: flex; justify-content: space-between; align-items: end; margin: 16px 0 8px; }
 .section-head h2 { font-size: 14px; margin: 0; }

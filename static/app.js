@@ -1,6 +1,21 @@
 const $ = (s) => document.querySelector(s);
 const state = { feeds: [], sources: [], current: null, items: [], chatHistory: [] };
 
+const portfolio = [
+  { name: 'SUSS MicroTec', ticker: 'SMHN.DE', weight: 15, tier: 1, thesis: 'Coating/bonding equipment for advanced packaging. €473M backlog, 38% gross margin.', evidence: 'Actual orders, not pipeline. 30-40% of AI packaging bottleneck.' },
+  { name: 'LPKF', ticker: 'LPKF.DE', weight: 12, tier: 1, thesis: 'LIDE glass packaging technology. €1.7B TAM, 80% customer selection rate.', evidence: 'Production orders, 80% IP protection. €335M cap at 0.2-0.3x TAM.' },
+  { name: 'Centrus Energy', ticker: 'LEU', weight: 10, tier: 1, thesis: 'Only US HALEU producer. $900M DOE contract through 2035.', evidence: 'DOE contract, DMEA funding. Only US source.' },
+  { name: 'Nynomic', ticker: 'M7U.DE', weight: 8, tier: 1, thesis: 'LayTec metrology for epi/wafer inspection. 75% equity ratio.', evidence: 'Backlog +46%, EBIT positive, no debt.' },
+  { name: 'Standard Nuclear', ticker: 'STDN', weight: 8, tier: 2, thesis: 'TRISO fuel for microreactors. $119M funded backlog.', evidence: 'DOD funding, NRC license. Only US TRISO.' },
+  { name: 'Modine', ticker: 'MOD', weight: 7, tier: 2, thesis: 'Data center cooling. $165M prepayment from hyperscaler.', evidence: 'BESS contract, liquid cooling. 30%+ revenue CAGR.' },
+  { name: 'Amkor', ticker: 'AMKR', weight: 8, tier: 2, thesis: 'Advanced packaging. Nvidia $1.5B deal.', evidence: 'TSMC partnership, $1.8B revenue.' },
+  { name: 'TOWA', ticker: '6535.T', weight: 7, tier: 2, thesis: 'HBM compression molding. Sales +100% YoY.', evidence: 'HBM4 tools, 30%+ margin target.' },
+  { name: 'GSI Technology', ticker: 'GSIT', weight: 4, tier: 3, thesis: 'Compute-in-memory. Plato tapeout Mar 2027.', evidence: 'DARPA funding, $57M cash.' },
+  { name: 'Alumina', ticker: 'ALMU', weight: 4, tier: 3, thesis: 'III-V on silicon. $30M CHIPS LOI.', evidence: 'CHIPS Act funding, 10x cost advantage.' },
+  { name: 'IonQ', ticker: 'IONQ', weight: 4, tier: 3, thesis: 'Quantum verification. Measured energy data.', evidence: '$710M revenue pipeline.' },
+  { name: 'Savant Technologies', ticker: 'SVCO', weight: 3, tier: 3, thesis: 'Physics simulation. Pipeline > market cap.', evidence: '$141M orders, 75% gross margin.' },
+];
+
 async function api(path, options={}) {
   const res = await fetch(path, { headers: { 'Content-Type': 'application/json' }, ...options });
   if (!res.ok) throw new Error((await res.text()) || `HTTP ${res.status}`);
@@ -13,9 +28,23 @@ function currentSlug() { const m=location.pathname.match(/^\/f\/([^/]+)/); retur
 async function loadShell() {
   const [feeds, sources] = await Promise.all([api('/api/feeds'), api('/api/sources')]);
   state.feeds = feeds; state.sources = sources;
-  renderNav(); renderSources();
+  renderNav(); renderSources(); renderPortfolio();
   const slug = currentSlug();
   if (slug) await showFeed(slug); else showHome();
+}
+
+function renderPortfolio() {
+  const grid = $('#portfolioGrid');
+  if (!grid) return;
+  grid.innerHTML = portfolio.map(p => `
+    <div class="portfolio-card">
+      <div class="tier tier-${p.tier}">Tier ${p.tier}</div>
+      <div class="name">${esc(p.name)}</div>
+      <div class="ticker">${esc(p.ticker)} · ${p.weight}%</div>
+      <div class="thesis">${esc(p.thesis)}</div>
+      <div class="evidence">${esc(p.evidence)}</div>
+    </div>
+  `).join('');
 }
 
 function renderNav() {
