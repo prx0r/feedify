@@ -758,5 +758,13 @@
     "priority": "S",
     "lab": "Independent",
     "role": "Korean/Taiwan supply chain"
+  },
+  {
+    "handle": "StonkChris",
+    "domain": "semiconductors",
+    "kind": "technical_analysis",
+    "priority": "A",
+    "lab": "Independent",
+    "role": "semiconductor chart analysis, technical setups"
   }
 ]
