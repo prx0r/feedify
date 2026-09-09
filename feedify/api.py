@@ -571,6 +571,51 @@ def synthesize_thesis_endpoint():
     return {"action": "none", "message": "No update warranted"}
 
 
+# ── Stock Thesis Tracking ─────────────────────────────────────────────────────
+
+@app.get("/api/stocks")
+def list_stocks():
+    """List all tracked stocks with thesis alignment."""
+    from feedify.services.stock_registry import STOCK_REGISTRY
+    return STOCK_REGISTRY
+
+
+@app.get("/api/stocks/data")
+def stocks_data(tickers: str = Query("")):
+    """Fetch current market data for stocks."""
+    from feedify.services.stock_registry import get_stock_data
+    ticker_list = [t.strip() for t in tickers.split(",") if t.strip()]
+    if not ticker_list:
+        ticker_list = ["SVCO", "LEU", "EROC", "SDGR", "GSIT", "MOD", "AMKR", "RXRX", "ALMU", "ONTO"]
+    return get_stock_data(ticker_list)
+
+
+@app.get("/api/stocks/report")
+def stocks_report():
+    """Generate comprehensive thesis vs market report."""
+    from feedify.services.stock_registry import generate_stock_report
+    return generate_stock_report()
+
+
+@app.get("/api/stocks/{ticker}")
+def stock_detail(ticker: str):
+    """Get detailed stock info with thesis alignment."""
+    from feedify.services.stock_registry import STOCK_REGISTRY, get_stock_data, get_thesis_alignment
+    
+    stock = next((s for s in STOCK_REGISTRY if s["ticker"] == ticker), None)
+    if not stock:
+        raise HTTPException(404, "Stock not found")
+    
+    market_data = get_stock_data([ticker])
+    alignment = get_thesis_alignment(stock, market_data.get(ticker, {}))
+    
+    return {
+        **stock,
+        "market_data": market_data.get(ticker, {}),
+        "alignment": alignment,
+    }
+
+
 # ── Insiders Intelligence ─────────────────────────────────────────────────────
 
 @app.get("/insiders", response_class=HTMLResponse)
