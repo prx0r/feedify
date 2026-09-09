@@ -14,7 +14,7 @@
     "market_cap_b": 0.27,
     "pe": 12.4,
     "rev_growth_pct": 14.5,
-    "gross_margin_pct": 4.9,
+    "gross_margin_pct": 46.9,
     "profit_margin_pct": 4.9,
     "fcf_m": 9.2,
     "cash_m": 83.1,
@@ -22,7 +22,7 @@
     "insider_pct": 9.1
   },
   "why_agi_cant_do_this": [
-    "Physical thermal processing equipment — can't be generated",
+    "Physical thermal processing equipment \u2014 can't be generated",
     "Customer-specific process calibration",
     "Decades of semiconductor manufacturing knowledge",
     "Supply chain relationships with OSATs"
@@ -30,7 +30,7 @@
   "x_coverage": {
     "mentions": 0,
     "key_accounts": [],
-    "insight": "Minimal Western coverage — hidden node"
+    "insight": "Minimal Western coverage \u2014 hidden node"
   },
   "independent_convergence": [
     "AI packaging revenue inflecting",
@@ -45,8 +45,20 @@
   "action": "BUY",
   "weight": 10,
   "graph_edges": [
-    {"target": "AMKR", "relation": "customer", "weight": 0.7},
-    {"target": "6315.T", "relation": "competitor", "weight": 0.4},
-    {"target": "SMHN.DE", "relation": "competitor", "weight": 0.3}
+    {
+      "target": "AMKR",
+      "relation": "customer",
+      "weight": 0.7
+    },
+    {
+      "target": "6315.T",
+      "relation": "competitor",
+      "weight": 0.4
+    },
+    {
+      "target": "SMHN.DE",
+      "relation": "competitor",
+      "weight": 0.3
+    }
   ]
 }

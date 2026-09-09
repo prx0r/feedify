@@ -4,7 +4,7 @@
   "sector": "semiconductors",
   "category": "equipment",
   "bottleneck": "packaging",
-  "thesis": "Coating/bonding equipment for advanced packaging. €473M order book, AI chip-module value chain.",
+  "thesis": "Coating/bonding equipment for advanced packaging. \u20ac473M order book, AI chip-module value chain.",
   "thesis_score": 8.7,
   "convexity": "HIGH",
   "pop_potential": 4,
@@ -14,13 +14,13 @@
     "market_cap_b": 1.4,
     "pe": 19.2,
     "rev_growth_pct": -18.0,
-    "gross_margin_pct": 5.8,
+    "gross_margin_pct": 34.9,
     "profit_margin_pct": 5.8,
     "fcf_m": 22.4,
     "insider_pct": 7.6
   },
   "why_agi_cant_do_this": [
-    "Physical coating/bonding equipment — can't be generated",
+    "Physical coating/bonding equipment \u2014 can't be generated",
     "Customer-specific process integration",
     "Decades of semiconductor equipment expertise",
     "Supply chain relationships with OSATs"
@@ -33,7 +33,7 @@
   "independent_convergence": [
     "Advanced packaging becoming strategic",
     "Coating/bonding critical for HBM",
-    "€115M coater order from Taiwanese OSAT"
+    "\u20ac115M coater order from Taiwanese OSAT"
   ],
   "risks": [
     "Revenue lagging orders",
@@ -43,8 +43,20 @@
   "action": "WATCH",
   "weight": 8,
   "graph_edges": [
-    {"target": "6315.T", "relation": "competitor", "weight": 0.5},
-    {"target": "AMKR", "relation": "customer", "weight": 0.7},
-    {"target": "ASYS", "relation": "competitor", "weight": 0.4}
+    {
+      "target": "6315.T",
+      "relation": "competitor",
+      "weight": 0.5
+    },
+    {
+      "target": "AMKR",
+      "relation": "customer",
+      "weight": 0.7
+    },
+    {
+      "target": "ASYS",
+      "relation": "competitor",
+      "weight": 0.4
+    }
   ]
 }

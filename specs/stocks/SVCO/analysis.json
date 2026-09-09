@@ -26,12 +26,12 @@
     "Physics models accumulated over 30+ years of semiconductor research",
     "Proprietary fab calibration data not in training sets",
     "Verification requires physical models, not just code generation",
-    "Trust requires provenance — Nvidia/Micron buy accumulated knowledge"
+    "Trust requires provenance \u2014 Nvidia/Micron buy accumulated knowledge"
   ],
   "x_coverage": {
     "mentions": 0,
     "key_accounts": [],
-    "insight": "Almost no X mentions — hidden node status is bullish"
+    "insight": "Almost no X mentions \u2014 hidden node status is bullish"
   },
   "independent_convergence": [
     "Nvidia building digital twins (same thesis)",
@@ -47,10 +47,30 @@
   "action": "BUY",
   "weight": 16,
   "graph_edges": [
-    {"target": "SNPS", "relation": "competitor", "weight": -0.3},
-    {"target": "CDNS", "relation": "competitor", "weight": -0.3},
-    {"target": "NVDA", "relation": "customer", "weight": 0.8},
-    {"target": "MU", "relation": "customer", "weight": 0.7},
-    {"target": "TSM", "relation": "customer", "weight": 0.6}
+    {
+      "target": "SNPS",
+      "relation": "competitor",
+      "weight": -0.3
+    },
+    {
+      "target": "CDNS",
+      "relation": "competitor",
+      "weight": -0.3
+    },
+    {
+      "target": "NVDA",
+      "relation": "customer",
+      "weight": 0.8
+    },
+    {
+      "target": "MU",
+      "relation": "customer",
+      "weight": 0.7
+    },
+    {
+      "target": "TSM",
+      "relation": "customer",
+      "weight": 0.6
+    }
   ]
 }

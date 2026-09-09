@@ -14,7 +14,7 @@
     "market_cap_b": 12.6,
     "pe": 18.1,
     "rev_growth_pct": 25.6,
-    "gross_margin_pct": 7.4,
+    "gross_margin_pct": 15.5,
     "profit_margin_pct": 7.4,
     "fcf_m": -378.8,
     "insider_pct": 49.9
@@ -27,7 +27,10 @@
   ],
   "x_coverage": {
     "mentions": 9,
-    "key_accounts": ["aleabitoreddit", "TheValueist"],
+    "key_accounts": [
+      "aleabitoreddit",
+      "TheValueist"
+    ],
     "insight": "TheValueist identified advanced packaging as strategic"
   },
   "independent_convergence": [
@@ -43,8 +46,20 @@
   "action": "HOLD",
   "weight": 4,
   "graph_edges": [
-    {"target": "6315.T", "relation": "customer", "weight": 0.7},
-    {"target": "SMHN.DE", "relation": "customer", "weight": 0.6},
-    {"target": "TSM", "relation": "partner", "weight": 0.9}
+    {
+      "target": "6315.T",
+      "relation": "customer",
+      "weight": 0.7
+    },
+    {
+      "target": "SMHN.DE",
+      "relation": "customer",
+      "weight": 0.6
+    },
+    {
+      "target": "TSM",
+      "relation": "partner",
+      "weight": 0.9
+    }
   ]
 }

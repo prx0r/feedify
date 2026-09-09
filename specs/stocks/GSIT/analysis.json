@@ -29,7 +29,9 @@
   ],
   "x_coverage": {
     "mentions": 0,
-    "key_accounts": ["TheValueist"],
+    "key_accounts": [
+      "TheValueist"
+    ],
     "insight": "TheValueist had thesis early, minimal other coverage"
   },
   "independent_convergence": [
@@ -40,14 +42,26 @@
   "risks": [
     "Revenue flat (+0.5%)",
     "History of aggressive promises",
-    "Binary outcome — Plato works or doesn't",
+    "Binary outcome \u2014 Plato works or doesn't",
     "Dilution risk"
   ],
   "action": "VENTURE_BET",
   "weight": 5,
   "graph_edges": [
-    {"target": "SVCO", "relation": "complementary", "weight": 0.5},
-    {"target": "NVDA", "relation": "alternative", "weight": -0.3},
-    {"target": "AMD", "relation": "alternative", "weight": -0.2}
+    {
+      "target": "SVCO",
+      "relation": "complementary",
+      "weight": 0.5
+    },
+    {
+      "target": "NVDA",
+      "relation": "alternative",
+      "weight": -0.3
+    },
+    {
+      "target": "AMD",
+      "relation": "alternative",
+      "weight": -0.2
+    }
   ]
 }

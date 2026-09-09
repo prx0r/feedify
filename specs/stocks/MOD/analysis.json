@@ -14,7 +14,7 @@
     "market_cap_b": 10.2,
     "pe": 17.6,
     "rev_growth_pct": 28.0,
-    "gross_margin_pct": 4.3,
+    "gross_margin_pct": 22.2,
     "profit_margin_pct": 4.3,
     "fcf_m": -73.7,
     "insider_pct": 2.0
@@ -27,8 +27,11 @@
   ],
   "x_coverage": {
     "mentions": 198,
-    "key_accounts": ["gin_james", "TheValueist"],
-    "insight": "Widely discussed — already priced in"
+    "key_accounts": [
+      "gin_james",
+      "TheValueist"
+    ],
+    "insight": "Widely discussed \u2014 already priced in"
   },
   "independent_convergence": [
     "Liquid cooling becoming standard",
@@ -43,8 +46,20 @@
   "action": "HOLD",
   "weight": 4,
   "graph_edges": [
-    {"target": "VRT", "relation": "competitor", "weight": 0.6},
-    {"target": "NVT", "relation": "competitor", "weight": 0.5},
-    {"target": "NVDA", "relation": "customer", "weight": 0.7}
+    {
+      "target": "VRT",
+      "relation": "competitor",
+      "weight": 0.6
+    },
+    {
+      "target": "NVT",
+      "relation": "competitor",
+      "weight": 0.5
+    },
+    {
+      "target": "NVDA",
+      "relation": "customer",
+      "weight": 0.7
+    }
   ]
 }
