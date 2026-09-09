@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import mimetypes
+from datetime import datetime, timezone
 from pathlib import Path
 from contextlib import asynccontextmanager
 from typing import Any
@@ -498,6 +499,76 @@ def frontier_graph_endpoint(limit: int = Query(500, ge=1, le=2000)) -> dict[str,
     with SessionLocal() as session:
         graph = build_minimal_graph(session, limit=limit)
         return graph_to_json(graph)
+
+
+@app.get("/api/theses")
+def list_theses():
+    """List all theses."""
+    from feedify.services.thesis_engine import load_theses
+    return load_theses()
+
+
+@app.get("/api/theses/{thesis_id}")
+def get_thesis(thesis_id: str):
+    """Get a specific thesis."""
+    from feedify.services.thesis_engine import load_theses
+    theses = load_theses()
+    for t in theses:
+        if t.get("id") == thesis_id:
+            return t
+    raise HTTPException(404, "Thesis not found")
+
+
+@app.post("/api/theses/synthesize")
+def synthesize_thesis_endpoint():
+    """Synthesize a new thesis or update an existing one."""
+    from feedify.services.thesis_engine import synthesize_thesis, save_thesis, append_to_thesis
+    from feedify.services.frontier_graph import build_minimal_graph
+    
+    with SessionLocal() as session:
+        graph = build_minimal_graph(session, limit=200)
+    
+    # Get recent evidence
+    recent = []
+    with SessionLocal() as session:
+        stmt = select(Signal).options(joinedload(Signal.record)).order_by(Signal.created_at.desc()).limit(50)
+        rows = session.scalars(stmt).all()
+        for s in rows:
+            if s.record:
+                recent.append({
+                    "id": str(s.id),
+                    "title": s.title,
+                    "source": s.record.source_type,
+                    "author": s.record.author,
+                })
+    
+    result = synthesize_thesis(graph, recent)
+    if not result:
+        return {"action": "none", "message": "No new thesis warranted"}
+    
+    if result.get("action") == "create":
+        thesis = {
+            "id": datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S"),
+            "title": result.get("title", "Untitled"),
+            "statement": result.get("statement", ""),
+            "implications": result.get("implications", ""),
+            "falsification": result.get("falsification", ""),
+            "confidence": result.get("confidence", 0.5),
+            "evidence_ids": result.get("evidence_ids", []),
+            "evidence_count": len(result.get("evidence_ids", [])),
+            "created_at": datetime.now(timezone.utc).isoformat(),
+            "last_updated": datetime.now(timezone.utc).isoformat(),
+        }
+        save_thesis(thesis)
+        return {"action": "created", "thesis": thesis}
+    
+    elif result.get("action") == "update":
+        thesis_id = result.get("thesis_id")
+        if thesis_id:
+            thesis = append_to_thesis(thesis_id, recent[:10])
+            return {"action": "updated", "thesis": thesis}
+    
+    return {"action": "none", "message": "No update warranted"}
 
 
 # ── Insiders Intelligence ─────────────────────────────────────────────────────

@@ -1,0 +1,21 @@
+{
+  "id": "20260909-020211",
+  "title": "Physical AI Convergence",
+  "statement": "There is an accelerating convergence of AI research and engineering specifically aimed at bridging the gap between digital intelligence and physical-world applications (robotics, materials discovery, scientific simulation). This is evidenced by a critical mass of top-tier researchers (many S++ priority) leaving or bypassing traditional big-lab structures to form or join focused startups that are already deploying systems in real-world or experimental settings.",
+  "implications": "This represents a second-order acceleration effect. The first wave optimized AI for digital domains (code, text, data). This wave directly targets the *physical* bottleneck of scientific and industrial progress\u2014experimentation, manufacturing, and manipulation. Successful systems here don't just generate intelligence; they can *execute* in the world, creating a positive feedback loop: AI that builds better tools to build better AI and accelerate discovery in physics, chemistry, and engineering.",
+  "falsification": "1) If physical-world deployment (robotics, lab automation) consistently fails to move beyond pilot demonstrations to cost-effective, scalable integration. 2) If the foundational research (neural operators, world models, novel RL) proves insufficient to handle the complexity, noise, and data scarcity of real physical systems compared to simulated environments. 3) If the startups listed fail to attract follow-on funding or fail to show measurable impact within 2-3 years.",
+  "confidence": 0.85,
+  "evidence_ids": [
+    "zhaolebor (Skild AI, deploying S1 at customer sites, robotics bottleneck)",
+    "crisbodnar (Project Prometheus, AI + physics/world models)",
+    "Azizzadenesheli (Project Prometheus, neural operators / physics intelligence)",
+    "shoyer (Periodic Labs, physics/scientific computing)",
+    "bjenik (Accelerated Understanding, cofounder, 4D physics AI)",
+    "gin_james (Orbital Industries, CTO, learning/steering/materials)",
+    "joshim5 (Chai Discovery, protein language models \u2192 molecular CAD)",
+    "I am posting this as I am deploying S1 on a customer site. Words can't describe"
+  ],
+  "evidence_count": 8,
+  "created_at": "2026-09-09T02:02:11.778449+00:00",
+  "last_updated": "2026-09-09T02:02:11.778462+00:00"
+}
