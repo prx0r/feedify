@@ -766,5 +766,45 @@
     "priority": "A",
     "lab": "Independent",
     "role": "semiconductor chart analysis, technical setups"
+  },
+  {
+    "handle": "peterstoffel4",
+    "domain": "european_stocks",
+    "kind": "commentary",
+    "priority": "A",
+    "lab": "Independent",
+    "role": "European semiconductor commentary"
+  },
+  {
+    "handle": "Susslablia",
+    "domain": "european_semis",
+    "kind": "suss_specialist",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "SUSS/MicroTec specialist"
+  },
+  {
+    "handle": "EBacher70",
+    "domain": "european_semis",
+    "kind": "semiconductor_analysis",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "semiconductor analysis"
+  },
+  {
+    "handle": "Pep_Invest",
+    "domain": "european_semis",
+    "kind": "silicon_photonics",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "silicon photonics Europe"
+  },
+  {
+    "handle": "SEMIconex",
+    "domain": "european_semis",
+    "kind": "advanced_packaging",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "advanced packaging Europe"
   }
 ]

@@ -1,0 +1,46 @@
+{
+  "handle": "peterstoffel4",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2091986398077202720",
+      "url": "https://x.com/peterstoffel4/status/2091986398077202720",
+      "twitterUrl": "https://twitter.com/peterstoffel4/status/2091986398077202720",
+      "text": "@ShardiB2 WHO just killed the iranien leader? Did he asked for it?",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 3,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 226,
+      "createdAt": "Mon Aug 24 20:29:59 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "2091983985668747714",
+      "conversationId": "2091983985668747714",
+      "media": [],
+      "inReplyToUserId": "1091099554605395968",
+      "author": {
+        "type": "user",
+        "userName": "peterstoffel4",
+        "url": "https://x.com/peterstoffel4",
+        "id": "1230437145367719936",
+        "name": "Paitaq",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1855650887538012161/1qeKQgPM_normal.jpg",
+        "coverPicture": null,
+        "description": "",
+        "location": "everyland",
+        "followers": 139,
+        "following": 265,
+        "createdAt": "Thu Feb 20 10:20:57 +0000 2020",
+        "canDm": false
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09T05:38:00.209288"
+}
