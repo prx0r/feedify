@@ -1,0 +1,10 @@
+{"run_id": 1, "timestamp": "2026-09-09T07:22:17.905703", "events": 105, "stats": {"total_events": 105, "by_source": {"sec_edgar": 100, "github": 5}, "by_type": {"order": 100, "paper": 5}}}
+{"run_id": 2, "timestamp": "2026-09-09T07:22:19.982085", "events": 105, "stats": {"total_events": 210, "by_source": {"sec_edgar": 200, "github": 10}, "by_type": {"order": 200, "paper": 10}}}
+{"run_id": 3, "timestamp": "2026-09-09T07:22:24.567102", "events": 105, "stats": {"total_events": 315, "by_source": {"sec_edgar": 300, "github": 15}, "by_type": {"order": 300, "paper": 15}}}
+{"run_id": 4, "timestamp": "2026-09-09T07:22:26.571234", "events": 105, "stats": {"total_events": 420, "by_source": {"sec_edgar": 400, "github": 20}, "by_type": {"order": 400, "paper": 20}}}
+{"run_id": 5, "timestamp": "2026-09-09T07:22:29.466372", "events": 105, "stats": {"total_events": 525, "by_source": {"sec_edgar": 500, "github": 25}, "by_type": {"order": 500, "paper": 25}}}
+{"run_id": 6, "timestamp": "2026-09-09T07:22:32.362800", "events": 105, "stats": {"total_events": 630, "by_source": {"sec_edgar": 600, "github": 30}, "by_type": {"order": 600, "paper": 30}}}
+{"run_id": 7, "timestamp": "2026-09-09T07:22:33.844643", "events": 105, "stats": {"total_events": 735, "by_source": {"sec_edgar": 700, "github": 35}, "by_type": {"order": 700, "paper": 35}}}
+{"run_id": 8, "timestamp": "2026-09-09T07:22:35.230862", "events": 105, "stats": {"total_events": 840, "by_source": {"sec_edgar": 800, "github": 40}, "by_type": {"order": 800, "paper": 40}}}
+{"run_id": 9, "timestamp": "2026-09-09T07:22:40.770058", "events": 105, "stats": {"total_events": 945, "by_source": {"sec_edgar": 900, "github": 45}, "by_type": {"order": 900, "paper": 45}}}
+{"run_id": 10, "timestamp": "2026-09-09T07:22:43.320115", "events": 105, "stats": {"total_events": 1050, "by_source": {"sec_edgar": 1000, "github": 50}, "by_type": {"order": 1000, "paper": 50}}}
