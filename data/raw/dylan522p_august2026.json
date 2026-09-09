@@ -1,0 +1,609 @@
+{
+  "handle": "dylan522p",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2093962660492546469",
+      "url": "https://x.com/dylan522p/status/2093962660492546469",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2093962660492546469",
+      "text": "Is there a single good airport in Europe? \nThere's 0 efficiency here",
+      "source": "Twitter for Android",
+      "retweetCount": 9,
+      "replyCount": 581,
+      "likeCount": 692,
+      "quoteCount": 54,
+      "viewCount": 489250,
+      "createdAt": "Sun Aug 30 07:22:56 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 54,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093962660492546469",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2093796699143885023",
+      "url": "https://x.com/dylan522p/status/2093796699143885023",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2093796699143885023",
+      "text": "RT @dylan522p: @luke_drago_ SF people don\u2019t know how to go at 3AM, instigate a fight, and yell worldstar while playing Luda on the jukebox",
+      "source": "Twitter for Android",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sat Aug 29 20:23:28 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093796699143885023",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "985281530070265862",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Dylan Patel",
+            "screen_name": "dylan522p"
+          },
+          {
+            "id_str": "1873849981108637696",
+            "indices": [
+              15,
+              27
+            ],
+            "name": "Luke Drago",
+            "screen_name": "luke_drago_"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093691835050758176",
+        "url": "https://x.com/dylan522p/status/2093691835050758176",
+        "text": "@luke_drago_ SF people don\u2019t know how to go at 3AM, instigate a fight, and yell worldstar while playing Luda on the jukebox",
+        "createdAt": "Sat Aug 29 13:26:47 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 13,
+        "likeCount": 136,
+        "quoteCount": 0,
+        "viewCount": 29080,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "985281530070265862",
+          "userName": "dylan522p",
+          "url": "https://x.com/dylan522p",
+          "name": "Dylan Patel",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+          "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+          "location": "",
+          "followers": 160890,
+          "following": 1032,
+          "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2093383732677759104",
+      "url": "https://x.com/dylan522p/status/2093383732677759104",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2093383732677759104",
+      "text": "RT @agamsh: Double standard @sama . Exactly two years ago, he belittled @dylan522p as the \"SemiAnalysis\" guy after not liking a Google anal\u2026",
+      "source": "Twitter for Android",
+      "retweetCount": 6,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3636,
+      "createdAt": "Fri Aug 28 17:02:29 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2093383732677759104",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "520762548",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "Agam Shah",
+            "screen_name": "agamsh"
+          },
+          {
+            "id_str": "1605",
+            "indices": [
+              28,
+              33
+            ],
+            "name": "Sam Altman",
+            "screen_name": "sama"
+          },
+          {
+            "id_str": "985281530070265862",
+            "indices": [
+              72,
+              82
+            ],
+            "name": "Dylan Patel",
+            "screen_name": "dylan522p"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2093380719565557928",
+        "url": "https://x.com/agamsh/status/2093380719565557928",
+        "text": "Double standard @sama . Exactly two years ago, he belittled @dylan522p as the \"SemiAnalysis\" guy after not liking a Google analysis. Altman's now kissing Dylan's ass, inviting SemiAnalysis to OpenAI labs to analyze Jalape\u00f1o. https://t.co/f6xfB2fhTx",
+        "createdAt": "Fri Aug 28 16:50:31 +0000 2026",
+        "retweetCount": 6,
+        "replyCount": 14,
+        "likeCount": 212,
+        "quoteCount": 0,
+        "viewCount": 62723,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQ0tjEOaMAcnJPG.jpg",
+            "expanded_url": "https://x.com/agamsh/status/2093380719565557928/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "520762548",
+          "userName": "agamsh",
+          "url": "https://x.com/agamsh",
+          "name": "Agam Shah",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1312959112779640832/FaNJhCxJ_normal.jpg",
+          "coverPicture": null,
+          "description": "Journalist, @WSJ alum, Faculty @Cronkite_ASU, Consultant @UN. Bylines: @ESPN @NYTimes . Writing about business, semiconductors, and martial arts.",
+          "location": "New York, New York",
+          "followers": 2297,
+          "following": 266,
+          "createdAt": "Sat Mar 10 21:47:23 +0000 2012",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092299145331737026",
+      "url": "https://x.com/dylan522p/status/2092299145331737026",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2092299145331737026",
+      "text": "RT @dwarkesh_sp: Had a lot of fun chatting again with my twin brother @dylan522p \n\nWe went through lab economics over the next few years -\u2026",
+      "source": "Twitter for Android",
+      "retweetCount": 166,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3050,
+      "createdAt": "Tue Aug 25 17:12:43 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092299145331737026",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1209960539390201864",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Dwarkesh Patel",
+            "screen_name": "dwarkesh_sp"
+          },
+          {
+            "id_str": "985281530070265862",
+            "indices": [
+              70,
+              80
+            ],
+            "name": "Dylan Patel",
+            "screen_name": "dylan522p"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092280377255551320",
+        "url": "https://x.com/dwarkesh_sp/status/2092280377255551320",
+        "text": "Had a lot of fun chatting again with my twin brother @dylan522p \n\nWe went through lab economics over the next few years - the shift from inference to training as RSI draws near; and how Anthropic and OpenAI are on track to control most of the world\u2019s usable FLOPs within the next few years (because they can monetize compute better and thus outbid everyone).\n\nAnd then we discuss whether the >$10T of total AI capex we\u2019ll see by the end of the decade will cause a sovereign debt crisis, where hyperscaler debt raises interest rates, drives non-AI exposed countries into bankruptcy, and crashes non-AI equities.\n\nOne question we weren\u2019t able to resolve is whether there\u2019s anything that can counter all the forces barrelling towards centralization in this industry - the economies of scale in training, the scarcity of compute, and eventually continual learning and RSI.\n\n0:00:00 \u2013 Two labs will soon control most of the world\u2019s compute\n0:07:01 \u2013 $6 billion in fab capex enables $1t+ of end revenue\n0:13:08 \u2013 Compute prices will rise if the labs outbid everyone\n0:18:22 \u2013 Which layer will capture most of the surplus?\n0:25:40 \u2013 Will datacenter regulation slow down AI?\n0:29:43 \u2013 Labs are shifting compute from inference to R&D\n0:33:27 \u2013 China gets less than 10% of new compute, but its labs need less\n0:48:48 \u2013 Will AI cause a sovereign debt crisis?\n1:07:52 \u2013 Will the world's future workforce belong to a few companies?",
+        "createdAt": "Tue Aug 25 15:58:09 +0000 2026",
+        "retweetCount": 166,
+        "replyCount": 131,
+        "likeCount": 1966,
+        "quoteCount": 100,
+        "viewCount": 1015536,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/media/HQlF9bCbYAAUQMo.jpg",
+            "expanded_url": "https://x.com/dwarkesh_sp/status/2092280377255551320/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2092270658524745728/vid/avc1/1920x1080/A6FyZZQS1a2cTCyx.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1209960539390201864",
+          "userName": "dwarkesh_sp",
+          "url": "https://x.com/dwarkesh_sp",
+          "name": "Dwarkesh Patel",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1209960539390201864/1664398958",
+          "description": "Host of @dwarkeshpodcast\n\nhttps://t.co/3SXlu7fy6N\nhttps://t.co/4DPAxODFYi\nhttps://t.co/hQfIWdM1Un",
+          "location": "San Francisco ",
+          "followers": 272351,
+          "following": 1081,
+          "createdAt": "Wed Dec 25 22:14:46 +0000 2019",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2092258594628706778",
+      "url": "https://x.com/dylan522p/status/2092258594628706778",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2092258594628706778",
+      "text": "OpenAI Jalapeno is spicy\nUsually first generation chips aren't competitive, but OpenAI is beating Nvidia Blackwell and even Rubin\nThis is huge news!\nWe got to go into OpenAI's lab to dissect their new chip and dive into the software, architecture, and performance\nIncredible work!",
+      "source": "Twitter Web App",
+      "retweetCount": 122,
+      "replyCount": 87,
+      "likeCount": 2141,
+      "quoteCount": 37,
+      "viewCount": 370763,
+      "createdAt": "Tue Aug 25 14:31:35 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 396,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092258594628706778",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2092253723640598761",
+        "text": "OpenAI Jalape\u00f1o: Better Than Nvidia Blackwell\nOpenAI\u2019s self-designed ASIC compared with Rubin,\nJalape\u00f1o\u2019s TCO, throughput per MW, and spicy deets\n\nhttps://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "user": {
+          "name": "SemiAnalysis",
+          "screen_name": "SemiAnalysis_"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2092011530292433221",
+      "url": "https://x.com/dylan522p/status/2092011530292433221",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2092011530292433221",
+      "text": "I propose there should be a cap on finance people at HotChips \nToo many damn investors at my favorite conference now",
+      "source": "Twitter for iPhone",
+      "retweetCount": 26,
+      "replyCount": 66,
+      "likeCount": 678,
+      "quoteCount": 14,
+      "viewCount": 115603,
+      "createdAt": "Mon Aug 24 22:09:51 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 71,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092011530292433221",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2091694046888792462",
+      "url": "https://x.com/dylan522p/status/2091694046888792462",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2091694046888792462",
+      "text": "There's quite a bit of CCP funded anti datacenter and anti AI organizations.\nJust follow the money.",
+      "source": "Twitter for Android",
+      "retweetCount": 147,
+      "replyCount": 169,
+      "likeCount": 1793,
+      "quoteCount": 41,
+      "viewCount": 256431,
+      "createdAt": "Mon Aug 24 01:08:17 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 242,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091694046888792462",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "user": {}
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2091205226636386810",
+      "url": "https://x.com/dylan522p/status/2091205226636386810",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2091205226636386810",
+      "text": "https://t.co/7IORR6Lbve",
+      "source": "Twitter for iPhone",
+      "retweetCount": 5,
+      "replyCount": 13,
+      "likeCount": 142,
+      "quoteCount": 1,
+      "viewCount": 57048,
+      "createdAt": "Sat Aug 22 16:45:53 +0000 2026",
+      "lang": "zxx",
+      "bookmarkCount": 3,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091205226636386810",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQV0EiaawAA1001.jpg",
+          "expanded_url": "https://x.com/dylan522p/status/2091205226636386810/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQV0EigbUAAx_ps.jpg",
+          "expanded_url": "https://x.com/dylan522p/status/2091205226636386810/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2090957403424776270",
+      "url": "https://x.com/dylan522p/status/2090957403424776270",
+      "twitterUrl": "https://twitter.com/dylan522p/status/2090957403424776270",
+      "text": "God damnit, every one of my AI founder friends who actually have revenue are now just transforming into neoclouds with value add on top",
+      "source": "Twitter for Android",
+      "retweetCount": 50,
+      "replyCount": 102,
+      "likeCount": 1586,
+      "quoteCount": 45,
+      "viewCount": 360332,
+      "createdAt": "Sat Aug 22 00:21:07 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 388,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090957403424776270",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "dylan522p",
+        "url": "https://x.com/dylan522p",
+        "id": "985281530070265862",
+        "name": "Dylan Patel",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/985281530070265862/1591326492",
+        "description": "SemiAnalysis\nAI Infrastructure Research and Consulting\nDMs are open for consulting, quotes, or to talk shop,\nOpinions my own",
+        "location": "",
+        "followers": 160890,
+        "following": 1032,
+        "createdAt": "Sat Apr 14 22:19:57 +0000 2018",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

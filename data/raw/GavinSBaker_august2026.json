@@ -1,0 +1,334 @@
+{
+  "handle": "GavinSBaker",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2094455880867566003",
+      "url": "https://x.com/GavinSBaker/status/2094455880867566003",
+      "twitterUrl": "https://twitter.com/GavinSBaker/status/2094455880867566003",
+      "text": "Always fun with my old friend @DavidGeorge83 whom I deeply respect in every way.\n\nAlso sometime we will have to tell the story of how we first met. https://t.co/8FMvoo3RMY",
+      "source": "Twitter for iPad",
+      "retweetCount": 33,
+      "replyCount": 35,
+      "likeCount": 670,
+      "quoteCount": 9,
+      "viewCount": 125829,
+      "createdAt": "Mon Aug 31 16:02:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 482,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2094455880867566003",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094451123226648578/img/Ie2tpYdrDhzkBa-v.jpg",
+          "expanded_url": "https://x.com/a16z/status/2094452213561057429/video/1",
+          "video_url": "https://video.twimg.com/amplify_video/2094451123226648578/vid/avc1/1920x1080/05ZYIo6chdmfkCnB.mp4?tag=29"
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "441439253",
+            "indices": [
+              30,
+              44
+            ],
+            "name": "David George",
+            "screen_name": "DavidGeorge83"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "GavinSBaker",
+        "url": "https://x.com/GavinSBaker",
+        "id": "340387261",
+        "name": "Gavin Baker",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+        "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+        "location": "Boston, MA",
+        "followers": 343301,
+        "following": 6328,
+        "createdAt": "Fri Jul 22 16:28:32 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2094484981837975672",
+      "url": "https://x.com/GavinSBaker/status/2094484981837975672",
+      "twitterUrl": "https://twitter.com/GavinSBaker/status/2094484981837975672",
+      "text": "Yes:",
+      "source": "Twitter for iPad",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 30,
+      "quoteCount": 0,
+      "viewCount": 28966,
+      "createdAt": "Mon Aug 31 17:58:27 +0000 2026",
+      "lang": "qst",
+      "bookmarkCount": 6,
+      "isReply": true,
+      "inReplyToId": "2094484129517621528",
+      "conversationId": "2094455880867566003",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "GavinSBaker",
+        "url": "https://x.com/GavinSBaker",
+        "id": "340387261",
+        "name": "Gavin Baker",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+        "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+        "location": "Boston, MA",
+        "followers": 343301,
+        "following": 6328,
+        "createdAt": "Fri Jul 22 16:28:32 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2094482564266516943",
+        "text": "Gavin Baker and David George on Cursor building a product, not a \"digital deity\":\n\nGavin: \"Everybody else in the lab space had this idea of, 'we're creating a digital deity,' and AGI and ASI. And the Cursor guys were just like, 'We want to make a great product.'\"\n\n\"Of everybody https://t.co/JCR80l6RCr",
+        "user": {
+          "name": "a16z",
+          "screen_name": "a16z"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2094502381891338307",
+      "url": "https://x.com/GavinSBaker/status/2094502381891338307",
+      "twitterUrl": "https://twitter.com/GavinSBaker/status/2094502381891338307",
+      "text": "Grok bot has been genuinely transformative for me.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 9,
+      "replyCount": 9,
+      "likeCount": 202,
+      "quoteCount": 1,
+      "viewCount": 31142,
+      "createdAt": "Mon Aug 31 19:07:36 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 31,
+      "isReply": true,
+      "inReplyToId": "2094484981837975672",
+      "conversationId": "2094455880867566003",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "GavinSBaker",
+        "url": "https://x.com/GavinSBaker",
+        "id": "340387261",
+        "name": "Gavin Baker",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+        "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+        "location": "Boston, MA",
+        "followers": 343301,
+        "following": 6328,
+        "createdAt": "Fri Jul 22 16:28:32 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2094501606528254378",
+        "text": "Gavin Baker says Grok Bot feels like another ChatGPT moment because it turns hours of Claude Code work into seconds:\n\n\"You see these 23-year-old kids and just the way they use AI, they're just fluent and native in it. I just feel like maybe in a way that no matter how hard I try, https://t.co/pHNUJN1vhj",
+        "user": {
+          "name": "a16z",
+          "screen_name": "a16z"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2094494577298169908",
+      "url": "https://x.com/GavinSBaker/status/2094494577298169908",
+      "twitterUrl": "https://twitter.com/GavinSBaker/status/2094494577298169908",
+      "text": "Here is the podcast with timestamps.",
+      "source": "Twitter for iPad",
+      "retweetCount": 53,
+      "replyCount": 36,
+      "likeCount": 672,
+      "quoteCount": 2,
+      "viewCount": 122311,
+      "createdAt": "Mon Aug 31 18:36:35 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 489,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2094494577298169908",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "GavinSBaker",
+        "url": "https://x.com/GavinSBaker",
+        "id": "340387261",
+        "name": "Gavin Baker",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+        "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+        "location": "Boston, MA",
+        "followers": 343301,
+        "following": 6328,
+        "createdAt": "Fri Jul 22 16:28:32 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2094452213561057429",
+        "text": "Gavin Baker and a16z's David George on the state of the AI boom:\n\nThe future doesn't have to be winner-take-all. Labs, open-source, applications, and the clouds can all capture value.\n\nDemand for intelligence is still dramatically underestimated. Today's power users number in the https://t.co/PQEibIDxu3",
+        "user": {
+          "name": "a16z",
+          "screen_name": "a16z"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2094458712966463724",
+      "url": "https://x.com/GavinSBaker/status/2094458712966463724",
+      "twitterUrl": "https://twitter.com/GavinSBaker/status/2094458712966463724",
+      "text": "A clip from the podcast:",
+      "source": "Twitter for iPad",
+      "retweetCount": 2,
+      "replyCount": 2,
+      "likeCount": 26,
+      "quoteCount": 0,
+      "viewCount": 22178,
+      "createdAt": "Mon Aug 31 16:14:04 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 5,
+      "isReply": true,
+      "inReplyToId": "2094455880867566003",
+      "conversationId": "2094455880867566003",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "GavinSBaker",
+        "url": "https://x.com/GavinSBaker",
+        "id": "340387261",
+        "name": "Gavin Baker",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+        "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+        "location": "Boston, MA",
+        "followers": 343301,
+        "following": 6328,
+        "createdAt": "Fri Jul 22 16:28:32 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2094439466802835942",
+        "text": "Talking to brilliant physicists who have thought about orbital compute for 3 hours and are convinced it will never work makes me think of this Keanu Reeves quote:\n\n\u201cI'm at that stage in life where I stay out of arguments. Even if you say 1+1=5, you're right. Have fun.\"",
+        "user": {
+          "name": "Gavin Baker",
+          "screen_name": "GavinSBaker"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2094439466802835942",
+      "url": "https://x.com/GavinSBaker/status/2094439466802835942",
+      "twitterUrl": "https://twitter.com/GavinSBaker/status/2094439466802835942",
+      "text": "Talking to brilliant physicists who have thought about orbital compute for 3 hours and are convinced it will never work makes me think of this Keanu Reeves quote:\n\n\u201cI'm at that stage in life where I stay out of arguments. Even if you say 1+1=5, you're right. Have fun.\"",
+      "source": "Twitter for iPad",
+      "retweetCount": 427,
+      "replyCount": 377,
+      "likeCount": 7501,
+      "quoteCount": 96,
+      "viewCount": 6711993,
+      "createdAt": "Mon Aug 31 14:57:36 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 1087,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2094439466802835942",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "GavinSBaker",
+        "url": "https://x.com/GavinSBaker",
+        "id": "340387261",
+        "name": "Gavin Baker",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/340387261/1614956274",
+        "description": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+        "location": "Boston, MA",
+        "followers": 343301,
+        "following": 6328,
+        "createdAt": "Fri Jul 22 16:28:32 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2094437988709372153",
+        "text": "Gavin Baker says the physics PhDs calling orbital data centers impossible on X have not out-thought the 10,000 SpaceX engineers who treat it as solved\n\n\"It's very hard for me to engage. There are all these people on X and they're like, I am a physics PhD and this is impossible.\" https://t.co/mKy496ZzCo",
+        "user": {
+          "name": "Fireside Alpha",
+          "screen_name": "firesidealpha"
+        }
+      },
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

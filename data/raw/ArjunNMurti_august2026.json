@@ -1,0 +1,1142 @@
+{
+  "handle": "ArjunNMurti",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2092762417327468688",
+      "url": "https://x.com/ArjunNMurti/status/2092762417327468688",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2092762417327468688",
+      "text": "RT @TeamVeriten: Now Live: \"We\u2019re at the Beginning of a New Industrial Age\" \u2013 Erin Price-Wright, Andreessen Horowitz\ud83c\udf99\ufe0f\n\nToday on #COBT we h\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 259,
+      "createdAt": "Wed Aug 26 23:53:36 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2092762417327468688",
+      "media": [],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              129,
+              134
+            ],
+            "text": "COBT"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2092640907791065484",
+        "url": "https://x.com/TeamVeriten/status/2092640907791065484",
+        "text": "Now Live: \"We\u2019re at the Beginning of a New Industrial Age\" \u2013 Erin Price-Wright, Andreessen Horowitz\ud83c\udf99\ufe0f\n\nToday on #COBT we had the pleasure of hosting Erin Price-Wright, General Partner in American Dynamism at Andreessen Horowitz (a16z). Erin joined a16z from Index Ventures in 2024, where she was a Partner focused on software infrastructure and applied AI. She previously served as Head of Product for Palantir\u2019s data analytics and machine learning program. The American Dynamism practice invests in founders and companies that support the national interest spanning aerospace, defense, public safety, education, housing, supply chain, industrials, and manufacturing. \n\nWe were thrilled to hear Erin\u2019s perspective on the rapidly evolving intersection of AI, energy, and industrial technology.\n\n@espricewright @a16z @SuperSpiked @ArjunNMurti",
+        "createdAt": "Wed Aug 26 15:50:46 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 2,
+        "likeCount": 10,
+        "quoteCount": 2,
+        "viewCount": 3056,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2092640276342824960/img/AZ0T__1yQDCIfXMw.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2092640907791065484/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2092640276342824960/vid/avc1/1920x1080/QyfmYwaC4PzkteM2.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2091951475538747825",
+      "url": "https://x.com/ArjunNMurti/status/2091951475538747825",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2091951475538747825",
+      "text": "RT @JoshYoung: @BobEUnlimited This is remarkable considering the rising US oil rig count. It will be interesting to see if this changes aft\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 160,
+      "createdAt": "Mon Aug 24 18:11:13 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091951475538747825",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "28626088",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "Josh Young",
+            "screen_name": "JoshYoung"
+          },
+          {
+            "id_str": "1499109588674793476",
+            "indices": [
+              15,
+              29
+            ],
+            "name": "Bob Elliott",
+            "screen_name": "BobEUnlimited"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2091909809222086862",
+        "url": "https://x.com/JoshYoung/status/2091909809222086862",
+        "text": "@BobEUnlimited This is remarkable considering the rising US oil rig count. It will be interesting to see if this changes after 6-12 months, due to the lag effect. https://t.co/637RYbRERW",
+        "createdAt": "Mon Aug 24 15:25:38 +0000 2026",
+        "retweetCount": 3,
+        "replyCount": 4,
+        "likeCount": 24,
+        "quoteCount": 0,
+        "viewCount": 3464,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQf04nUXIAArKNp.jpg",
+            "expanded_url": "https://x.com/JoshYoung/status/2091909809222086862/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "28626088",
+          "userName": "JoshYoung",
+          "url": "https://x.com/JoshYoung",
+          "name": "Josh Young",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2024864774782160897/2esFH443_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/28626088/1784324456",
+          "description": "I invest in oil & gas stocks professionally at Bison Interests and I write about them on https://t.co/wrIfEj0SjH\n\nThis is not an offer or solicitation. Caveat emptor",
+          "location": "Houston, TX",
+          "followers": 137588,
+          "following": 2558,
+          "createdAt": "Fri Apr 03 18:45:13 +0000 2009",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2091156641613770764",
+      "url": "https://x.com/ArjunNMurti/status/2091156641613770764",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2091156641613770764",
+      "text": "RT @TeamVeriten: Now Live: Super-Spiked EP226: End of Summer Macro Thoughts\u26a1\n\nWe have another audio only post as we enter the final stretch\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 265,
+      "createdAt": "Sat Aug 22 13:32:49 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2091156641613770764",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2091148383582822447",
+        "url": "https://x.com/TeamVeriten/status/2091148383582822447",
+        "text": "Now Live: Super-Spiked EP226: End of Summer Macro Thoughts\u26a1\n\nWe have another audio only post as we enter the final stretch of summer. Our next episode will most likely be the Saturday following Labor Day. This week we want to share various observations about the energy macro, policy, and corporate strategy\u2014the core topics we focus on with Super-Spiked\u2014that have come up in various events or meetings we\u2019ve attended or in reaction from many of you to prior episodes.\n\nSix points to go through:\n\n(1)\u00a0\u00a0\u00a0Natural gas as a through theme for all aspects of where we are in energy and power\n(2)\u00a0\u00a0\u00a0Legacy Auto OEMs seem bad at autonomous mobility\n(3)\u00a0\u00a0\u00a0Being in a Peer Group of 1\n(4)\u00a0\u00a0\u00a0Under-appreciated areas of energy\n(5)\u00a0\u00a0\u00a0Geopolitical necessity provides clarity of purpose to energy policy\n(6)\u00a0\u00a0\u00a0How will any country overcome China's overwhelming manufacturing dominance in numerous areas?\n\nTimestamps:\n0:00 Introduction\n1:19 Natural gas as a through theme for all aspects of where we are in energy and power.\n8:27 Legacy Auto OEMs seem bad at autonomous mobility\n13:26 Being in a Peer Group of 1\n16:01 Under-appreciated areas of energy\n22:58 Geopolitical necessity provides clarity of purpose to energy policy\n24:28 How will any country overcome China's overwhelming manufacturing dominance in numerous areas?\n29:20 On A Personal Note\n\n#SuperSpiked @SuperSpiked @ArjunNMurti",
+        "createdAt": "Sat Aug 22 13:00:00 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 2,
+        "likeCount": 12,
+        "quoteCount": 0,
+        "viewCount": 1162,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2090941718082334720/img/gOOz5Mw2l3Yo0ll7.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2091148383582822447/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2090941718082334720/vid/avc1/1920x1080/yemK3OqTrRC3SVvq.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090838978903564427",
+      "url": "https://x.com/ArjunNMurti/status/2090838978903564427",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2090838978903564427",
+      "text": "RT @TeamVeriten: Now Live: \"The Responsibilities That Come With A Facility Like This Are Big\"\ud83c\udf99\ufe0f\n\nContinuing our California #COBT Series, we\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 238,
+      "createdAt": "Fri Aug 21 16:30:33 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090838978903564427",
+      "media": [],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              123,
+              128
+            ],
+            "text": "COBT"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090804220983152652",
+        "url": "https://x.com/TeamVeriten/status/2090804220983152652",
+        "text": "Now Live: \"The Responsibilities That Come With A Facility Like This Are Big\"\ud83c\udf99\ufe0f\n\nContinuing our California #COBT Series, we are excited to share this Special Edition featuring PBF Energy. We had the pleasure of touring PBF\u2019s 700-acre Torrance Refinery and met with Jared Wimberley, Refinery Manager. The facility has a nameplate crude capacity of 166,000 barrels per day and a Nelson Complexity Index of 13.8. It produces approximately 1.8 billion gallons of gasoline annually, representing roughly 10 percent of California\u2019s gasoline demand. In addition to blending three grades of gasoline, the refinery produces diesel fuel, jet fuel, liquefied petroleum gases, coke, and sulfur. We were thrilled to visit the facility, meet members of the team, and see firsthand the scale and complexity behind a critical piece of California\u2019s energy infrastructure.\n\n@SuperSpiked @ArjunNMurti",
+        "createdAt": "Fri Aug 21 14:12:26 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 0,
+        "likeCount": 11,
+        "quoteCount": 0,
+        "viewCount": 889,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2090803619561897985/img/gMM0eWaOcM17RWeD.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2090804220983152652/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2090803619561897985/vid/avc1/1920x1080/AyBUuU0c8nbMYDb6.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090403742118031421",
+      "url": "https://x.com/ArjunNMurti/status/2090403742118031421",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2090403742118031421",
+      "text": "RT @TeamVeriten: Now Live: \"Diablo Canyon Is The Largest Generating Facility In California\" \u2013 Maureen Zawalick, PG&amp;E &amp; Matt Crozat, NEI\ud83c\udf99\ufe0f\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 256,
+      "createdAt": "Thu Aug 20 11:41:04 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090403742118031421",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090393407684497546",
+        "url": "https://x.com/TeamVeriten/status/2090393407684497546",
+        "text": "Now Live: \"Diablo Canyon Is The Largest Generating Facility In California\" \u2013 Maureen Zawalick, PG&E & Matt Crozat, NEI\ud83c\udf99\ufe0f\n\nWe are thrilled to share this Special Edition #COBT. Continuing our California Series, we had the opportunity to tour the Diablo Canyon Power Plant and sit down with Maureen Zawalick, Senior Vice President and Chief Risk Officer at Pacific Gas and Electric Company, and Matthew Crozat, Executive Director of Strategy and Policy Development at the Nuclear Energy Institute (NEI).\n\nOur visit was particularly timely as the U.S. Department of Energy recently awarded PG&E $271 million to support extended operations at Diablo Canyon, while Governor Gavin Newsom recently indicated he would leave the decision on extending the plant beyond 2030 to the next administration. Diablo Canyon produces nearly 10% of California\u2019s electricity and is the state\u2019s only operating nuclear power plant.\n\n@NEI @PGE4Me @ArjunNMurti @SuperSpiked",
+        "createdAt": "Thu Aug 20 11:00:00 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 0,
+        "likeCount": 7,
+        "quoteCount": 1,
+        "viewCount": 1508,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2090221504952684544/img/GkmW7WchHYE3KqRX.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2090393407684497546/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2090221504952684544/vid/avc1/1920x1080/OS1kufVsxsCdUuVZ.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2090209112365691375",
+      "url": "https://x.com/ArjunNMurti/status/2090209112365691375",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2090209112365691375",
+      "text": "RT @TeamVeriten: Now Live: \"The Art Of The Possible Is Phenomenal\" \u2013 Francisco Leon, California Resources Corporation\ud83c\udf99\ufe0f\n\nWe are excited to\u2026",
+      "source": "Twitter for iPad",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 258,
+      "createdAt": "Wed Aug 19 22:47:41 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090209112365691375",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090134044755554618",
+        "url": "https://x.com/TeamVeriten/status/2090134044755554618",
+        "text": "Now Live: \"The Art Of The Possible Is Phenomenal\" \u2013 Francisco Leon, California Resources Corporation\ud83c\udf99\ufe0f\n\nWe are excited to continue our California #COBT Series with a discussion featuring Francisco Leon, President and CEO of California Resources Corporation (CRC). This episode was the culmination of a full day with the CRC team studying California\u2019s oil and gas complex firsthand. We started at the Port of Long Beach, traveled north to CRC\u2019s Elk Hills operations near Bakersfield, and ended the day in Santa Clarita, where we sat down with Francisco to discuss what we had seen and the broader outlook for California energy.\n\nAlong the way, we visited with Dean Persinger, Vice President of the Wilmington Production Complex, at the Port of Long Beach; Gabriela Gonzales, Senior External Affairs Advisor, at Elk Hills to discuss CRC\u2019s community engagement efforts; as well as Joe Jephson, Engineering Manager at Carbon TerraVault, and Brent Ilott, Vice President of Operations of the Elk Hills Production Complex. \n\n@ArjunNMurti @SuperSpiked @CAResourcesCorp",
+        "createdAt": "Wed Aug 19 17:49:23 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 1,
+        "likeCount": 12,
+        "quoteCount": 2,
+        "viewCount": 2007,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2090132198904979456/img/wZZf_Fm4-5gdLihV.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2090134044755554618/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2090132198904979456/vid/avc1/1920x1080/--JlnxrB5-j7r-KS.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2088619912008970387",
+      "url": "https://x.com/ArjunNMurti/status/2088619912008970387",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2088619912008970387",
+      "text": "RT @TeamVeriten: Now Live: Super-Spiked EP225: Long-Takes From The Road: Countering Consensus Corporate Strategy Narratives\u26a1\n\nWe have an au\u2026",
+      "source": "Twitter for iPad",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 273,
+      "createdAt": "Sat Aug 15 13:32:46 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088619912008970387",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2088611674244759868",
+        "url": "https://x.com/TeamVeriten/status/2088611674244759868",
+        "text": "Now Live: Super-Spiked EP225: Long-Takes From The Road: Countering Consensus Corporate Strategy Narratives\u26a1\n\nWe have an audio only post due to some travel this week. One of the best parts of not being a covering equity analyst anymore is not having to process the deluge that is quarterly earnings season. But we have kept the discipline of reading transcripts for a wide swath of companies. As always, we want to provide our longer-term perspectives on the sectors and corporate strategy. Here are six areas where we would most push against what we think are consensus narratives.\n\n1) Resist pro cyclical capital return narratives, especially in deeply cyclical sectors like we know exists in refining.\n\n2) Differentiate companies that might be in need of restructuring, typically exemplified by having sub-scale businesses that are earning sub-par returns on capital, versus believing every non-pure play needs to become one.\n\n3) The Strait of Hormuz may never return to pre-war \u201cnormal.\u201d\n\n4) What are the growth opportunities companies should be leaning into?\n\n5) Power sector growth is economic growth. Economic growth is geopolitical security.\n\n6) We are concerned about energy policy risk in the United States.\n\nThere is no more important sector in the world than those involved in energy and power. It's a hedge to Tech. It's an enabler of tech growth. It's a geopolitical hedge. It's about as exciting a time as we have experienced in our 34-year career. Even now, reading upwards of 80-90 earnings season transcripts is borderline fun.\n\n#SuperSpiked @ArjunNMurti @SuperSpiked",
+        "createdAt": "Sat Aug 15 13:00:02 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 1,
+        "likeCount": 3,
+        "quoteCount": 1,
+        "viewCount": 1094,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2088294359737262080/img/P8y0RCWYUWsyid7d.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2088611674244759868/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2088294359737262080/vid/avc1/1920x1080/uC5gl5VmiQuIGSBD.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2088464991477473292",
+      "url": "https://x.com/ArjunNMurti/status/2088464991477473292",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2088464991477473292",
+      "text": "RT @johnarnold: Texas vs Louisiana? no. \nVermont vs Maine. https://t.co/EAqC3qgIMW",
+      "source": "Twitter for iPad",
+      "retweetCount": 62,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 204,
+      "createdAt": "Sat Aug 15 03:17:10 +0000 2026",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088464991477473292",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsqWIdXMAAZ48D.jpg",
+          "expanded_url": "https://x.com/johnarnold/status/2088309550378099032/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1967275506",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "John Arnold",
+            "screen_name": "johnarnold"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2088309550378099032",
+        "url": "https://x.com/johnarnold/status/2088309550378099032",
+        "text": "Texas vs Louisiana? no. \nVermont vs Maine. https://t.co/EAqC3qgIMW",
+        "createdAt": "Fri Aug 14 16:59:30 +0000 2026",
+        "retweetCount": 62,
+        "replyCount": 39,
+        "likeCount": 5767,
+        "quoteCount": 18,
+        "viewCount": 181859,
+        "lang": "fr",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HPsqWIdXMAAZ48D.jpg",
+            "expanded_url": "https://x.com/johnarnold/status/2088309550378099032/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1967275506",
+          "userName": "johnarnold",
+          "url": "https://x.com/johnarnold",
+          "name": "John Arnold",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1844136776249556992/i63epMEo_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1967275506/1591066870",
+          "description": "Co-chair of Arnold Ventures. Reality is more nuanced than the headline.",
+          "location": "Houston",
+          "followers": 136289,
+          "following": 478,
+          "createdAt": "Thu Oct 17 17:57:47 +0000 2013",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2086822183913902133",
+      "url": "https://x.com/ArjunNMurti/status/2086822183913902133",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2086822183913902133",
+      "text": "RT @TeamVeriten: Now Live: Super-Spiked EP224: Mini-Dives: New vs Old Europe\u26a1 \n\nIt is now August, the last month of summer, and we are plan\u2026",
+      "source": "Twitter for iPad",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 241,
+      "createdAt": "Mon Aug 10 14:29:14 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2086822183913902133",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2086818958913544429",
+        "url": "https://x.com/TeamVeriten/status/2086818958913544429",
+        "text": "Now Live: Super-Spiked EP224: Mini-Dives: New vs Old Europe\u26a1 \n\nIt is now August, the last month of summer, and we are planning a series of shorter \u201cmini-dives\u201d that offer insight into our major themes and in some cases, like this week, push back on some of our own biases and perspectives. By now our disdain is well known for what we have called the European mindset of prioritizing climate and net zero as the de facto primary objective of energy policy. We do not believe in an equal-weighted energy trilemma either to be clear. \n\nBut we have been wrong, or perhaps more accurately lazy, in simply saying \"we don't like European energy policy and hope America never goes down that road.\"\u00a0Europe is no more a singular place than is the U.S. From an energy policy standpoint, we regularly differentiate states with favorable energy policy like Texas, North Dakota, Louisiana, and Oklahoma from places with unfavorable policies like California and New York. Pennsylvania is not the same as New Jersey. Florida is different than Connecticut. \n\nOur critique of European economic and energy policy is primarily rooted in its Big-4 economies especially the United Kingdom. What former Secretary of Defense Don Rumsfeld famously derided as \"Old Europe.\" This week we take a look at oil demand trends in Old Europe versus New Europe. \n\nThree key messages:\n\n\u25fe We often discuss the rising prosperity of the other 7 billion people on Earth and our everyone deserves to be energy rich mega theme. We have never before noticed that 250 million of them live in New Europe and are on an upswing. A special shout out this week to Poland and T\u00fcrkiye.\n\u25feOur Obliterating Peak Oil Demand theme is alive and well in Europe, where growth in New Europe is surprisingly offsetting declines in Old Europe.\n\u25feThis is positive not just for oil demand but growth in power markets and the fuels that support general economic and industrial growth. As usual, we advise applying our natural hierarchy of energy needs to the energy sources and technologies that will make the most sense for each country\u2014\u201dsome of the above,\" country specific.\n\nTimestamps:\n0:00 Introduction\n2:50 New Europe and The Other 250 Million People\n11:41 On A Personal Note\n\n#SuperSpiked @ArjunNMurti @SuperSpiked",
+        "createdAt": "Mon Aug 10 14:16:25 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 0,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "viewCount": 991,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2086818811177529344/img/9NkZyGZTNBlUvaRd.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2086818958913544429/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2086818811177529344/vid/avc1/1920x1080/s4d411toK85WWujG.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2085390218597646461",
+      "url": "https://x.com/ArjunNMurti/status/2085390218597646461",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2085390218597646461",
+      "text": "RT @TeamVeriten: Now Live: \"If You Control Food Security, You Can Control National Security\" \u2013 Corey Rosenbusch, The Fertilizer Institute\ud83c\udf99\ufe0f\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 245,
+      "createdAt": "Thu Aug 06 15:39:07 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085390218597646461",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2085010695716814954",
+        "url": "https://x.com/TeamVeriten/status/2085010695716814954",
+        "text": "Now Live: \"If You Control Food Security, You Can Control National Security\" \u2013 Corey Rosenbusch, The Fertilizer Institute\ud83c\udf99\ufe0f\n\nToday on #COBT we had the pleasure of hosting Corey Rosenbusch for a wide-ranging discussion on the fertilizer industry, global energy markets, and the geopolitical forces increasingly shaping both. Corey is the President and CEO of The Fertilizer Institute, headquartered in Arlington, Virginia. Corey joined TFI in 2020 after serving as President and CEO of the Global Cold Chain Alliance. He currently serves as Chair of the Texas A&M University Department of Agricultural Leadership, Education & Communications Advisory Board and the Association Leadership Group. We were thrilled to host Corey to better understand the connections between fertilizer, natural gas, food security, and global supply chains.\n\n@ArjunNMurti @SuperSpiked @Fertilizer_Inst",
+        "createdAt": "Wed Aug 05 14:31:02 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 905,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2085009732813611008/img/MjlS9n2o904bFrYn.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2085010695716814954/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2085009732813611008/vid/avc1/1920x1080/x4IZEnPVxfzKKPJa.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2085390206467727529",
+      "url": "https://x.com/ArjunNMurti/status/2085390206467727529",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2085390206467727529",
+      "text": "RT @TeamVeriten: Now Live: \"Stop Talking, Start Working\" \u2013 Leif Johan Sevland, Offshore Northern Seas Foundation\ud83c\udf99\ufe0f\n\nThis week on we had the\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 237,
+      "createdAt": "Thu Aug 06 15:39:04 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2085390206467727529",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2085319987867107607",
+        "url": "https://x.com/TeamVeriten/status/2085319987867107607",
+        "text": "Now Live: \"Stop Talking, Start Working\" \u2013 Leif Johan Sevland, Offshore Northern Seas Foundation\ud83c\udf99\ufe0f\n\nThis week on we had the privilege of hosting Leif Johan Sevland, President and CEO of the Offshore Northern Seas Foundation (ONS), for a Special Edition #COBT. Leif is a Norwegian business leader and former politician with a distinguished career spanning public service and the energy sector. Prior to joining ONS, Leif served as the Mayor of Stavanger from 2005 to 2011. \n\nThe ONS 2026 Conference is fast approaching, taking place from August 24\u201327 in Stavanger, Norway. The conference is held biennially and attracts 70,000+ global industry leaders representing over 1,100 companies and 35+ countries. We were honored to host Leif to preview this year\u2019s conference, its major themes, and the trends shaping Norway\u2019s, Europe\u2019s and the world\u2019s energy landscape.\n\nWe were fortunate to also have Veriten Venture Partner Karl Liapunov join and share his insights throughout the discussion. Karl is the founder of Starting Cold and is the U.S. Ecosystem Partner at Startuplab, where he previously served as Head of Energy & Climate Tech in Oslo.\n\n@ArjunNMurti @SuperSpiked #ONS #ONS2026",
+        "createdAt": "Thu Aug 06 11:00:03 +0000 2026",
+        "retweetCount": 2,
+        "replyCount": 1,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "viewCount": 990,
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2085183763525271552/img/2SzqNGVYd5CFyQ1R.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2085319987867107607/video/1",
+            "video_url": "https://video.twimg.com/amplify_video/2085183763525271552/vid/avc1/1920x1080/qmeAKYmtZuunxA-4.mp4?tag=29"
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2083595501220307352",
+      "url": "https://x.com/ArjunNMurti/status/2083595501220307352",
+      "twitterUrl": "https://twitter.com/ArjunNMurti/status/2083595501220307352",
+      "text": "RT @TeamVeriten: Now Live: Super-Spiked 223: SoH Crisis Takeaways: Sustainable Prosperity\u26a1\n\nWe conclude our month long series on Strait of\u2026",
+      "source": "Twitter for iPhone",
+      "retweetCount": 3,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 281,
+      "createdAt": "Sat Aug 01 16:47:33 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2083595501220307352",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1489667544004931588",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "Veriten",
+            "screen_name": "TeamVeriten"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "ArjunNMurti",
+        "url": "https://x.com/ArjunNMurti",
+        "id": "319388951",
+        "name": "arjun\u26a1\ufe0fmurti",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2056520205451378688/riRqCw5C_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/319388951/1752262386",
+        "description": "energy macro/equities/policy\u26a1\ufe0f un-retired at @teamveriten \u26a1\ufe0f publish @SuperSpiked, everyone on Earth deserves to be energy rich\u26a1\ufe0f pro capitalism, anti socialism",
+        "location": "New York, USA",
+        "followers": 17350,
+        "following": 732,
+        "createdAt": "Sat Jun 18 01:28:16 +0000 2011",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2083538238212325799",
+        "url": "https://x.com/TeamVeriten/status/2083538238212325799",
+        "text": "Now Live: Super-Spiked 223: SoH Crisis Takeaways: Sustainable Prosperity\u26a1\n\nWe conclude our month long series on Strait of Hormuz (SoH) Crisis takeaways with a look at what this conflict means for the related topics of sustainability, climate, and the environment.\n\nThree key messages this week:\n\n\u25fe Many proponents and opponents of \u201cNet Zero\u201d are drawing the wrong conclusions about what this war means for different energy sources and technologies. Energy\u2019s natural hierarchy of needs applied at the country level mean the optimal mix of various energy sources and technologies will vary for any given country\u2014a reality the crisis reinforces.\n\u25fe The topic of Sustainability needs to be right-sized and recognized for where it fits into corporate level strategies. Companies exist to generate growth and profitability for investors. Certain sustainability objectives are core to being successful over the long run. Sustainability is not a strategy in and of itself.\n\u25fe We shall offer free advice on what hyperscalers can learn from the oil & gas industry.\n\n\ud83d\udcd6 Read the full post here: https://veriten.com/stream/super-spiked-223/\n\n\u25b6\ufe0f Listen to audio recording here: http://www.veriten.com/wp-content/uploads/2026/08/Super-Spiked%20223.mp3\n\n@ArjunNMurti @SuperSpiked",
+        "createdAt": "Sat Aug 01 13:00:00 +0000 2026",
+        "retweetCount": 3,
+        "replyCount": 1,
+        "likeCount": 7,
+        "quoteCount": 0,
+        "viewCount": 1144,
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOlcVuLWAAIFVkP.jpg",
+            "expanded_url": "https://x.com/TeamVeriten/status/2083538238212325799/photo/1",
+            "video_url": null
+          }
+        ],
+        "author": {
+          "type": "user",
+          "id": "1489667544004931588",
+          "userName": "TeamVeriten",
+          "url": "https://x.com/TeamVeriten",
+          "name": "Veriten",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1963271415563538433/QRUxG2wC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489667544004931588/1756916111",
+          "description": "Veriten leverages its deep research and strategic networks to actively deploy capital and forge partnerships to shape the global energy market.",
+          "location": "Houston",
+          "followers": 282,
+          "following": 39,
+          "createdAt": "Fri Feb 04 18:30:02 +0000 2022",
+          "canDm": false
+        }
+      }
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

@@ -1,0 +1,258 @@
+{
+  "handle": "energybants",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2090083096901148693",
+      "url": "https://x.com/energybants/status/2090083096901148693",
+      "twitterUrl": "https://twitter.com/energybants/status/2090083096901148693",
+      "text": "RT @nukebarbarian: There were many things I loved about speaking with\n@JonathanWebbKY at @TheNuclearCo, but what inspired me most is his vi\u2026",
+      "source": "Twitter for Android",
+      "retweetCount": 4,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 578,
+      "createdAt": "Wed Aug 19 14:26:56 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2090083096901148693",
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "825943525179084802",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "Emmet Penney",
+            "screen_name": "nukebarbarian"
+          },
+          {
+            "id_str": "2381407916",
+            "indices": [
+              70,
+              85
+            ],
+            "name": "Jonathan Webb",
+            "screen_name": "JonathanWebbKY"
+          },
+          {
+            "id_str": "1715083902153379840",
+            "indices": [
+              89,
+              102
+            ],
+            "name": "The Nuclear Company",
+            "screen_name": "TheNuclearCo"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "energybants",
+        "url": "https://x.com/energybants",
+        "id": "3337913081",
+        "name": "Mark Nelson",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1975574782054633472/GHPuGLPm_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3337913081/1477367915",
+        "description": "Building nuclear. Chief of Staff @TheNuclearCo. Prev: @RadiantEnergyG @envprogress @cambridge_eng @run4okstate",
+        "location": "Chicago, IL",
+        "followers": 90592,
+        "following": 2078,
+        "createdAt": "Sat Jun 20 23:41:47 +0000 2015",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2090081524309786858",
+        "url": "https://x.com/nukebarbarian/status/2090081524309786858",
+        "text": "There were many things I loved about speaking with\n@JonathanWebbKY at @TheNuclearCo, but what inspired me most is his vision for how AI will supercharge blue collar workers to bring on the nuclear renaissance.   \n\nGive this one a listen.",
+        "createdAt": "Wed Aug 19 14:20:41 +0000 2026",
+        "retweetCount": 4,
+        "replyCount": 0,
+        "likeCount": 25,
+        "quoteCount": 1,
+        "viewCount": 3657,
+        "lang": "en",
+        "media": [],
+        "author": {
+          "type": "user",
+          "id": "825943525179084802",
+          "userName": "nukebarbarian",
+          "url": "https://x.com/nukebarbarian",
+          "name": "Emmet Penney",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2060431782621712384/Z9G8sd_0_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/825943525179084802/1773260769",
+          "description": "Director, Infrastructure and Energy: @joinfai. @TFASorg Novak Fellow. @ClaremontInst Lincoln Fellow.",
+          "location": "Chicago, IL",
+          "followers": 7312,
+          "following": 1941,
+          "createdAt": "Mon Jan 30 05:47:36 +0000 2017",
+          "canDm": true
+        }
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "2083409821580087386",
+      "url": "https://x.com/energybants/status/2083409821580087386",
+      "twitterUrl": "https://twitter.com/energybants/status/2083409821580087386",
+      "text": "Vintage photos from building a nuclear plant in the 1970s on a few hundred acres of corn fields in northern Illinois.\n\nByron still powers two million people in Chicago today and can keep going for at least half a century more.\n\nWe will get back to building.\n\nMore pics below. https://t.co/FH6YEE7jyf",
+      "source": "Twitter for Android",
+      "retweetCount": 42,
+      "replyCount": 12,
+      "likeCount": 439,
+      "quoteCount": 5,
+      "viewCount": 25212,
+      "createdAt": "Sat Aug 01 04:29:44 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 42,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2083409821580087386",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCINgXYAAmCad.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409821580087386/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCJmPXQAADjEx.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409821580087386/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCKYIWsAAHBmi.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409821580087386/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCLV5XoAAP7C0.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409821580087386/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "energybants",
+        "url": "https://x.com/energybants",
+        "id": "3337913081",
+        "name": "Mark Nelson",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1975574782054633472/GHPuGLPm_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3337913081/1477367915",
+        "description": "Building nuclear. Chief of Staff @TheNuclearCo. Prev: @RadiantEnergyG @envprogress @cambridge_eng @run4okstate",
+        "location": "Chicago, IL",
+        "followers": 90592,
+        "following": 2078,
+        "createdAt": "Sat Jun 20 23:41:47 +0000 2015",
+        "canDm": true
+      },
+      "quoted_tweet": {
+        "id": "2082860456239149169",
+        "text": "Chicago folks! Come hang out with @energybants, @captain_rogerb and I on Saturday to talk about America's most nuclear-powered state \u269b\ufe0f\n\nThe event is free and open to the public, register here: https://chipublib.bibliocommons.com/events/6a26f27b90cc4e3a790c7802 https://t.co/WZQEGHuMYa",
+        "user": {
+          "name": "Madi Hilly",
+          "screen_name": "MadiHilly"
+        }
+      },
+      "retweeted_tweet": null
+    },
+    {
+      "type": "tweet",
+      "id": "2083409893256577209",
+      "url": "https://x.com/energybants/status/2083409893256577209",
+      "twitterUrl": "https://twitter.com/energybants/status/2083409893256577209",
+      "text": "Make sure to zoom in on the details, like the steam generators waiting for installation in the background of the 4th photo, taken August 3rd, 1978.\n\nByron consists of two Westinghouse reactors, together putting out 2347 MW.\n\nByron was one of six plants Commonwealth Edison built. https://t.co/GJ11ElHStA",
+      "source": "Twitter for Android",
+      "retweetCount": 0,
+      "replyCount": 4,
+      "likeCount": 68,
+      "quoteCount": 2,
+      "viewCount": 3151,
+      "createdAt": "Sat Aug 01 04:30:01 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 4,
+      "isReply": true,
+      "inReplyToId": "2083409821580087386",
+      "conversationId": "2083409821580087386",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCNDsWYAAEqAa.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409893256577209/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCOGYX0AAM_Sz.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409893256577209/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCO62WAAA7C6m.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409893256577209/photo/1",
+          "video_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOnCPwZWkAAnrFc.jpg",
+          "expanded_url": "https://x.com/energybants/status/2083409893256577209/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "author": {
+        "type": "user",
+        "userName": "energybants",
+        "url": "https://x.com/energybants",
+        "id": "3337913081",
+        "name": "Mark Nelson",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1975574782054633472/GHPuGLPm_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3337913081/1477367915",
+        "description": "Building nuclear. Chief of Staff @TheNuclearCo. Prev: @RadiantEnergyG @envprogress @cambridge_eng @run4okstate",
+        "location": "Chicago, IL",
+        "followers": 90592,
+        "following": 2078,
+        "createdAt": "Sat Jun 20 23:41:47 +0000 2015",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}

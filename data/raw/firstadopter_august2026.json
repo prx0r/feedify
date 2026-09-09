@@ -1,0 +1,70 @@
+{
+  "handle": "firstadopter",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "2088250639134388428",
+      "url": "https://x.com/firstadopter/status/2088250639134388428",
+      "twitterUrl": "https://twitter.com/firstadopter/status/2088250639134388428",
+      "text": "My Substack's stock ideas performance since inception. Thanks to @marketstackfeed for independent third-party verification https://t.co/kUKJXHpoWB",
+      "source": "Twitter Web App",
+      "retweetCount": 3,
+      "replyCount": 10,
+      "likeCount": 116,
+      "quoteCount": 1,
+      "viewCount": 51333,
+      "createdAt": "Fri Aug 14 13:05:24 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 41,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "2088250639134388428",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPr0sKCXwAAx1Pw.jpg",
+          "expanded_url": "https://x.com/firstadopter/status/2088250639134388428/photo/1",
+          "video_url": null
+        }
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2058622023232897024",
+            "indices": [
+              65,
+              81
+            ],
+            "name": "MarketStack",
+            "screen_name": "marketstackfeed"
+          }
+        ]
+      },
+      "author": {
+        "type": "user",
+        "userName": "firstadopter",
+        "url": "https://x.com/firstadopter",
+        "id": "16598957",
+        "name": "tae kim",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/2038758350561607680/NDo0EYpY_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/16598957/1733804569",
+        "description": "\"Key Context\" Substack covering AI and chips. Reached #1 new bestseller first 24 hrs\n\nSubscribe https://t.co/3N2fHOXQfL\n\n\"Be so good they can't ignore you\"",
+        "location": "",
+        "followers": 105911,
+        "following": 10188,
+        "createdAt": "Sun Oct 05 04:47:46 +0000 2008",
+        "canDm": true
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isPinned": true
+    }
+  ],
+  "fetched_at": "2026-09-09"
+}
