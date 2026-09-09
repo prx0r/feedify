@@ -1,0 +1,50 @@
+{
+  "ticker": "AMKR",
+  "company": "Amkor Technology",
+  "sector": "semiconductors",
+  "category": "manufacturing",
+  "bottleneck": "packaging",
+  "thesis": "Advanced packaging assembly. Nvidia $1.5B deal + 10yr TSMC partnership. Cambrian explosion needs assembly.",
+  "thesis_score": 8.5,
+  "convexity": "LOW",
+  "pop_potential": 3,
+  "probability": 5,
+  "financials": {
+    "price": 50.72,
+    "market_cap_b": 12.6,
+    "pe": 18.1,
+    "rev_growth_pct": 25.6,
+    "gross_margin_pct": 7.4,
+    "profit_margin_pct": 7.4,
+    "fcf_m": -378.8,
+    "insider_pct": 49.9
+  },
+  "why_agi_cant_do_this": [
+    "Physical advanced packaging manufacturing",
+    "Customer-specific integration processes",
+    "Decades of packaging expertise",
+    "Supply chain relationships with TSMC, Nvidia"
+  ],
+  "x_coverage": {
+    "mentions": 9,
+    "key_accounts": ["aleabitoreddit", "TheValueist"],
+    "insight": "TheValueist identified advanced packaging as strategic"
+  },
+  "independent_convergence": [
+    "Advanced packaging becoming strategic",
+    "Multiple OSATs positioning for AI",
+    "TSMC/Intel investing in packaging"
+  ],
+  "risks": [
+    "Already rerated",
+    "FCF negative",
+    "Customer concentration risk"
+  ],
+  "action": "HOLD",
+  "weight": 4,
+  "graph_edges": [
+    {"target": "6315.T", "relation": "customer", "weight": 0.7},
+    {"target": "SMHN.DE", "relation": "customer", "weight": 0.6},
+    {"target": "TSM", "relation": "partner", "weight": 0.9}
+  ]
+}

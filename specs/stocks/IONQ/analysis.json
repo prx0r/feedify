@@ -1,0 +1,50 @@
+{
+  "ticker": "IONQ",
+  "company": "IonQ",
+  "sector": "quantum",
+  "category": "quantum_computing",
+  "bottleneck": "quantum_verification",
+  "thesis": "Trapped-ion quantum computing with verified error correction. Papers more conservative than marketing. Owns foundry (SkyWater). Decoding on commodity CPUs.",
+  "thesis_score": 8.5,
+  "convexity": "HIGH",
+  "pop_potential": 4,
+  "probability": 3,
+  "financials": {
+    "price": 45.0,
+    "market_cap_b": 10.0,
+    "pe": -50.0,
+    "rev_growth_pct": 287.0,
+    "fcf_m": -500.0,
+    "cash_m": 3000.0
+  },
+  "why_agi_cant_do_this": [
+    "Physical trapped-ion quantum hardware",
+    "30+ years of quantum physics research",
+    "SkyWater foundry for chip manufacturing",
+    "QEC decoder calibrated against real hardware"
+  ],
+  "x_coverage": {
+    "mentions": 50,
+    "key_accounts": ["sakacc", "nic_delfosse", "TechInnovationz", "Cat_States"],
+    "insight": "Active technical discussion, both bullish and bearish views"
+  },
+  "independent_convergence": [
+    "AstraZeneca validation (reaction barriers pass)",
+    "Measured energy data (IBM only has projections)",
+    "Closed design-to-fab-to-chip loop"
+  ],
+  "risks": [
+    "Still pre-revenue at scale",
+    "High cash burn",
+    "Competitors (IBM, Google) with more resources",
+    "Valuation stretched at ~$10B"
+  ],
+  "action": "WATCH",
+  "weight": 6,
+  "graph_edges": [
+    {"target": "IBM", "relation": "competitor", "weight": -0.5},
+    {"target": "GOOG", "relation": "competitor", "weight": -0.3},
+    {"target": "AZN", "relation": "customer", "weight": 0.8},
+    {"target": "AMZN", "relation": "partner", "weight": 0.7}
+  ]
+}

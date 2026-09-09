@@ -1,0 +1,52 @@
+{
+  "ticker": "ALMU",
+  "company": "Aeluma",
+  "sector": "semiconductors",
+  "category": "hardware",
+  "bottleneck": "photonics",
+  "thesis": "III-V / quantum-dot light sources integrated onto silicon for photonics.",
+  "thesis_score": 8.0,
+  "convexity": "EXTREME",
+  "pop_potential": 5,
+  "probability": 2,
+  "financials": {
+    "price": 13.31,
+    "market_cap_b": 0.24,
+    "pe": -43.6,
+    "rev_growth_pct": -2.6,
+    "gross_margin_pct": -115.6,
+    "profit_margin_pct": -115.6,
+    "fcf_m": -0.4,
+    "cash_m": 37.8,
+    "debt_m": 0,
+    "insider_pct": 16.6
+  },
+  "why_agi_cant_do_this": [
+    "Physical III-V semiconductor manufacturing",
+    "Quantum-dot laser fabrication on silicon",
+    "Tower Semiconductor partnership for foundry access",
+    "Sumitomo Chemical materials relationship"
+  ],
+  "x_coverage": {
+    "mentions": 3,
+    "key_accounts": ["crux_capital_"],
+    "insight": "crux_capital_ tracked it early alongside other photonics names"
+  },
+  "independent_convergence": [
+    "Multiple III-V approaches (AXTI, AAOI, POET)",
+    "Silicon photonics maturing",
+    "Laser capacity becoming scarce"
+  ],
+  "risks": [
+    "Revenue only $1.2M (R&D stage)",
+    "ATM facility (dilution risk)",
+    "Binary outcome — Tier-1 qualification or bust"
+  ],
+  "action": "VENTURE_BET",
+  "weight": 5,
+  "graph_edges": [
+    {"target": "RIBER", "relation": "competitor", "weight": 0.5},
+    {"target": "AXTI", "relation": "competitor", "weight": 0.4},
+    {"target": "TSEM", "relation": "partner", "weight": 0.7}
+  ]
+}

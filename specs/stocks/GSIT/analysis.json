@@ -1,0 +1,53 @@
+{
+  "ticker": "GSIT",
+  "company": "GSI Technology",
+  "sector": "semiconductors",
+  "category": "hardware",
+  "bottleneck": "compute",
+  "thesis": "Compute-in-memory / associative processing attacks data movement energy cost. Plato tapeout March 2027.",
+  "thesis_score": 10.0,
+  "convexity": "EXTREME",
+  "pop_potential": 5,
+  "probability": 2,
+  "financials": {
+    "price": 5.63,
+    "market_cap_b": 0.22,
+    "pe": -10.2,
+    "rev_growth_pct": 0.5,
+    "gross_margin_pct": 53.3,
+    "profit_margin_pct": -62.9,
+    "fcf_m": -9.5,
+    "cash_m": 77.0,
+    "debt_m": 8.2,
+    "insider_pct": 7.8
+  },
+  "why_agi_cant_do_this": [
+    "Physical SRAM/compute-in-memory hardware",
+    "30+ years of memory architecture expertise",
+    "Customer-specific optimization for AI workloads",
+    "Supply chain relationships with hyperscalers"
+  ],
+  "x_coverage": {
+    "mentions": 0,
+    "key_accounts": ["TheValueist"],
+    "insight": "TheValueist had thesis early, minimal other coverage"
+  },
+  "independent_convergence": [
+    "Extropic doing probabilistic compute",
+    "Normal Computing doing thermodynamic chips",
+    "Multiple approaches to compute-in-memory"
+  ],
+  "risks": [
+    "Revenue flat (+0.5%)",
+    "History of aggressive promises",
+    "Binary outcome — Plato works or doesn't",
+    "Dilution risk"
+  ],
+  "action": "VENTURE_BET",
+  "weight": 5,
+  "graph_edges": [
+    {"target": "SVCO", "relation": "complementary", "weight": 0.5},
+    {"target": "NVDA", "relation": "alternative", "weight": -0.3},
+    {"target": "AMD", "relation": "alternative", "weight": -0.2}
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ticker": "STDN",
+  "company": "Standard Nuclear",
+  "sector": "energy",
+  "category": "fuel",
+  "bottleneck": "energy",
+  "thesis": "TRISO/HALEU fuel manufacturing for advanced reactors. First US manufacturer of commercially produced TRISO fuel.",
+  "thesis_score": 8.0,
+  "convexity": "MODERATE",
+  "pop_potential": 5,
+  "probability": 3,
+  "financials": {
+    "price": 13.21,
+    "market_cap_b": 2.1,
+    "pe": -294.2,
+    "rev_growth_pct": 756.5,
+    "gross_margin_pct": -222.3,
+    "profit_margin_pct": -222.3,
+    "insider_pct": 63.2,
+    "backlog_m": 576.9
+  },
+  "why_agi_cant_do_this": [
+    "Physical TRISO fuel manufacturing",
+    "Nuclear regulatory compliance",
+    "HALEU enrichment partnerships",
+    "DOE contract relationships"
+  ],
+  "x_coverage": {
+    "mentions": 0,
+    "key_accounts": [],
+    "insight": "Minimal coverage — early stage"
+  },
+  "independent_convergence": [
+    "Nuclear renaissance thesis",
+    "HALEU supply constraint",
+    "Multiple advanced reactor developers"
+  ],
+  "risks": [
+    "Revenue still tiny ($4.7M/quarter)",
+    "Backlog conversion uncertain",
+    "Regulatory risk",
+    "Execution risk"
+  ],
+  "action": "WATCH",
+  "weight": 6,
+  "graph_edges": [
+    {"target": "LEU", "relation": "supplier", "weight": 0.7},
+    {"target": "OKLO", "relation": "customer", "weight": 0.5}
+  ]
+}

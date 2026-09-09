@@ -1,0 +1,52 @@
+{
+  "ticker": "ASYS",
+  "company": "Amtech Systems",
+  "sector": "semiconductors",
+  "category": "equipment",
+  "bottleneck": "manufacturing",
+  "thesis": "Thermal processing for advanced packaging. AI applications >40% of TPS revenue. Tiny $270M cap with $83M cash.",
+  "thesis_score": 8.5,
+  "convexity": "EXTREME",
+  "pop_potential": 5,
+  "probability": 4,
+  "financials": {
+    "price": 15.49,
+    "market_cap_b": 0.27,
+    "pe": 12.4,
+    "rev_growth_pct": 14.5,
+    "gross_margin_pct": 4.9,
+    "profit_margin_pct": 4.9,
+    "fcf_m": 9.2,
+    "cash_m": 83.1,
+    "debt_m": 0,
+    "insider_pct": 9.1
+  },
+  "why_agi_cant_do_this": [
+    "Physical thermal processing equipment — can't be generated",
+    "Customer-specific process calibration",
+    "Decades of semiconductor manufacturing knowledge",
+    "Supply chain relationships with OSATs"
+  ],
+  "x_coverage": {
+    "mentions": 0,
+    "key_accounts": [],
+    "insight": "Minimal Western coverage — hidden node"
+  },
+  "independent_convergence": [
+    "AI packaging revenue inflecting",
+    "Thermal processing critical for advanced packages",
+    "Multiple equipment makers seeing AI demand"
+  ],
+  "risks": [
+    "Dilution (recent $56.5M equity raise)",
+    "Execution risk on AI revenue ramp",
+    "Small market cap means high volatility"
+  ],
+  "action": "BUY",
+  "weight": 10,
+  "graph_edges": [
+    {"target": "AMKR", "relation": "customer", "weight": 0.7},
+    {"target": "6315.T", "relation": "competitor", "weight": 0.4},
+    {"target": "SMHN.DE", "relation": "competitor", "weight": 0.3}
+  ]
+}

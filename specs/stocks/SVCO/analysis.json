@@ -1,0 +1,56 @@
+{
+  "ticker": "SVCO",
+  "company": "Silvaco",
+  "sector": "semiconductors",
+  "category": "software",
+  "bottleneck": "verification",
+  "thesis": "AI chip design creates explosion of candidate designs. Silvaco owns the physics simulation layer that enables verification without fabrication.",
+  "thesis_score": 9.5,
+  "convexity": "EXTREME",
+  "pop_potential": 5,
+  "probability": 5,
+  "financials": {
+    "price": 6.76,
+    "market_cap_b": 0.23,
+    "pe": 33.0,
+    "rev_growth_pct": 47.8,
+    "gross_margin_pct": 83.2,
+    "profit_margin_pct": -30.4,
+    "fcf_m": 2.9,
+    "cash_m": 13.0,
+    "debt_m": 5.1,
+    "insider_pct": 58.6,
+    "pipeline_m": 292
+  },
+  "why_agi_cant_do_this": [
+    "Physics models accumulated over 30+ years of semiconductor research",
+    "Proprietary fab calibration data not in training sets",
+    "Verification requires physical models, not just code generation",
+    "Trust requires provenance — Nvidia/Micron buy accumulated knowledge"
+  ],
+  "x_coverage": {
+    "mentions": 0,
+    "key_accounts": [],
+    "insight": "Almost no X mentions — hidden node status is bullish"
+  },
+  "independent_convergence": [
+    "Nvidia building digital twins (same thesis)",
+    "Dassault integrating multiphysics (same thesis)",
+    "Micron investing in FTCO (same thesis)"
+  ],
+  "risks": [
+    "Pipeline $292M may not convert to revenue",
+    "SNPS/CDNS could crush them",
+    "Still GAAP loss-making",
+    "Micron convertible dilution"
+  ],
+  "action": "BUY",
+  "weight": 16,
+  "graph_edges": [
+    {"target": "SNPS", "relation": "competitor", "weight": -0.3},
+    {"target": "CDNS", "relation": "competitor", "weight": -0.3},
+    {"target": "NVDA", "relation": "customer", "weight": 0.8},
+    {"target": "MU", "relation": "customer", "weight": 0.7},
+    {"target": "TSM", "relation": "customer", "weight": 0.6}
+  ]
+}

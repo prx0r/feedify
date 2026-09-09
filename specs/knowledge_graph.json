@@ -1,0 +1,393 @@
+{
+  "nodes": [
+    {
+      "id": "stock:STDN",
+      "type": "stock",
+      "name": "Standard Nuclear",
+      "ticker": "STDN",
+      "sector": "energy",
+      "category": "fuel",
+      "bottleneck": "energy",
+      "thesis": "TRISO/HALEU fuel manufacturing for advanced reactors. First US manufacturer of commercially produced TRISO fuel.",
+      "thesis_score": 8.0,
+      "convexity": "MODERATE",
+      "cap_b": 2.1,
+      "pe": -294.2,
+      "rev_growth": 756.5
+    },
+    {
+      "id": "stock:MOD",
+      "type": "stock",
+      "name": "Modine",
+      "ticker": "MOD",
+      "sector": "semiconductors",
+      "category": "equipment",
+      "bottleneck": "cooling",
+      "thesis": "Data center liquid cooling. $165M prepayment for $4B capacity through 2029.",
+      "thesis_score": 8.6,
+      "convexity": "LOW",
+      "cap_b": 10.2,
+      "pe": 17.6,
+      "rev_growth": 28.0
+    },
+    {
+      "id": "stock:IONQ",
+      "type": "stock",
+      "name": "IonQ",
+      "ticker": "IONQ",
+      "sector": "quantum",
+      "category": "quantum_computing",
+      "bottleneck": "quantum_verification",
+      "thesis": "Trapped-ion quantum computing with verified error correction. Papers more conservative than marketing. Owns foundry (SkyWater). Decoding on commodity CPUs.",
+      "thesis_score": 8.5,
+      "convexity": "HIGH",
+      "cap_b": 10.0,
+      "pe": -50.0,
+      "rev_growth": 287.0
+    },
+    {
+      "id": "stock:SMHN_DE",
+      "type": "stock",
+      "name": "SUSS MicroTec",
+      "ticker": "SMHN_DE",
+      "sector": "semiconductors",
+      "category": "equipment",
+      "bottleneck": "packaging",
+      "thesis": "Coating/bonding equipment for advanced packaging. \u20ac473M order book, AI chip-module value chain.",
+      "thesis_score": 8.7,
+      "convexity": "HIGH",
+      "cap_b": 1.4,
+      "pe": 19.2,
+      "rev_growth": -18.0
+    },
+    {
+      "id": "stock:AMKR",
+      "type": "stock",
+      "name": "Amkor Technology",
+      "ticker": "AMKR",
+      "sector": "semiconductors",
+      "category": "manufacturing",
+      "bottleneck": "packaging",
+      "thesis": "Advanced packaging assembly. Nvidia $1.5B deal + 10yr TSMC partnership. Cambrian explosion needs assembly.",
+      "thesis_score": 8.5,
+      "convexity": "LOW",
+      "cap_b": 12.6,
+      "pe": 18.1,
+      "rev_growth": 25.6
+    },
+    {
+      "id": "stock:ASYS",
+      "type": "stock",
+      "name": "Amtech Systems",
+      "ticker": "ASYS",
+      "sector": "semiconductors",
+      "category": "equipment",
+      "bottleneck": "manufacturing",
+      "thesis": "Thermal processing for advanced packaging. AI applications >40% of TPS revenue. Tiny $270M cap with $83M cash.",
+      "thesis_score": 8.5,
+      "convexity": "EXTREME",
+      "cap_b": 0.27,
+      "pe": 12.4,
+      "rev_growth": 14.5
+    },
+    {
+      "id": "stock:6627_T",
+      "type": "stock",
+      "name": "Tera Probe",
+      "ticker": "6627_T",
+      "sector": "semiconductors",
+      "category": "testing",
+      "bottleneck": "verification",
+      "thesis": "AI/HBM physical test capacity. As packages become more complex, test becomes critical bottleneck.",
+      "thesis_score": 9.0,
+      "convexity": "HIGH",
+      "cap_b": 1.0,
+      "pe": 28.0,
+      "rev_growth": 20.4
+    },
+    {
+      "id": "stock:GSIT",
+      "type": "stock",
+      "name": "GSI Technology",
+      "ticker": "GSIT",
+      "sector": "semiconductors",
+      "category": "hardware",
+      "bottleneck": "compute",
+      "thesis": "Compute-in-memory / associative processing attacks data movement energy cost. Plato tapeout March 2027.",
+      "thesis_score": 10.0,
+      "convexity": "EXTREME",
+      "cap_b": 0.22,
+      "pe": -10.2,
+      "rev_growth": 0.5
+    },
+    {
+      "id": "stock:ALMU",
+      "type": "stock",
+      "name": "Aeluma",
+      "ticker": "ALMU",
+      "sector": "semiconductors",
+      "category": "hardware",
+      "bottleneck": "photonics",
+      "thesis": "III-V / quantum-dot light sources integrated onto silicon for photonics.",
+      "thesis_score": 8.0,
+      "convexity": "EXTREME",
+      "cap_b": 0.24,
+      "pe": -43.6,
+      "rev_growth": -2.6
+    },
+    {
+      "id": "stock:SVCO",
+      "type": "stock",
+      "name": "Silvaco",
+      "ticker": "SVCO",
+      "sector": "semiconductors",
+      "category": "software",
+      "bottleneck": "verification",
+      "thesis": "AI chip design creates explosion of candidate designs. Silvaco owns the physics simulation layer that enables verification without fabrication.",
+      "thesis_score": 9.5,
+      "convexity": "EXTREME",
+      "cap_b": 0.23,
+      "pe": 33.0,
+      "rev_growth": 47.8
+    },
+    {
+      "id": "stock:6315_T",
+      "type": "stock",
+      "name": "TOWA",
+      "ticker": "6315_T",
+      "sector": "semiconductors",
+      "category": "equipment",
+      "bottleneck": "packaging",
+      "thesis": "HBM4 molding/encapsulation equipment. As HBM stacks get thinner/taller/hotter, molding becomes critical bottleneck.",
+      "thesis_score": 8.8,
+      "convexity": "HIGH",
+      "cap_b": 1.1,
+      "pe": 11.2,
+      "rev_growth": 100.3
+    },
+    {
+      "id": "bottleneck:packaging",
+      "type": "bottleneck",
+      "name": "packaging"
+    },
+    {
+      "id": "bottleneck:photonics",
+      "type": "bottleneck",
+      "name": "photonics"
+    },
+    {
+      "id": "bottleneck:cooling",
+      "type": "bottleneck",
+      "name": "cooling"
+    },
+    {
+      "id": "bottleneck:manufacturing",
+      "type": "bottleneck",
+      "name": "manufacturing"
+    },
+    {
+      "id": "bottleneck:verification",
+      "type": "bottleneck",
+      "name": "verification"
+    },
+    {
+      "id": "bottleneck:energy",
+      "type": "bottleneck",
+      "name": "energy"
+    },
+    {
+      "id": "bottleneck:compute",
+      "type": "bottleneck",
+      "name": "compute"
+    },
+    {
+      "id": "bottleneck:quantum_verification",
+      "type": "bottleneck",
+      "name": "quantum_verification"
+    },
+    {
+      "id": "sector:semiconductors",
+      "type": "sector",
+      "name": "semiconductors"
+    },
+    {
+      "id": "sector:energy",
+      "type": "sector",
+      "name": "energy"
+    },
+    {
+      "id": "sector:quantum",
+      "type": "sector",
+      "name": "quantum"
+    }
+  ],
+  "edges": [
+    {
+      "source": "stock:STDN",
+      "target": "bottleneck:energy",
+      "relation": "addresses",
+      "weight": 0.8
+    },
+    {
+      "source": "stock:MOD",
+      "target": "bottleneck:cooling",
+      "relation": "addresses",
+      "weight": 0.86
+    },
+    {
+      "source": "stock:IONQ",
+      "target": "bottleneck:quantum_verification",
+      "relation": "addresses",
+      "weight": 0.85
+    },
+    {
+      "source": "stock:SMHN_DE",
+      "target": "bottleneck:packaging",
+      "relation": "addresses",
+      "weight": 0.8699999999999999
+    },
+    {
+      "source": "stock:AMKR",
+      "target": "bottleneck:packaging",
+      "relation": "addresses",
+      "weight": 0.85
+    },
+    {
+      "source": "stock:ASYS",
+      "target": "bottleneck:manufacturing",
+      "relation": "addresses",
+      "weight": 0.85
+    },
+    {
+      "source": "stock:6627_T",
+      "target": "bottleneck:verification",
+      "relation": "addresses",
+      "weight": 0.9
+    },
+    {
+      "source": "stock:GSIT",
+      "target": "bottleneck:compute",
+      "relation": "addresses",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:ALMU",
+      "target": "bottleneck:photonics",
+      "relation": "addresses",
+      "weight": 0.8
+    },
+    {
+      "source": "stock:SVCO",
+      "target": "bottleneck:verification",
+      "relation": "addresses",
+      "weight": 0.95
+    },
+    {
+      "source": "stock:6315_T",
+      "target": "bottleneck:packaging",
+      "relation": "addresses",
+      "weight": 0.8800000000000001
+    },
+    {
+      "source": "stock:STDN",
+      "target": "sector:energy",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:MOD",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:IONQ",
+      "target": "sector:quantum",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:SMHN_DE",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:AMKR",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:ASYS",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:6627_T",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:GSIT",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:ALMU",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:SVCO",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:6315_T",
+      "target": "sector:semiconductors",
+      "relation": "belongs_to",
+      "weight": 1.0
+    },
+    {
+      "source": "stock:SMHN_DE",
+      "target": "stock:AMKR",
+      "relation": "customer",
+      "weight": 0.7
+    },
+    {
+      "source": "stock:SMHN_DE",
+      "target": "stock:ASYS",
+      "relation": "competitor",
+      "weight": 0.4
+    },
+    {
+      "source": "stock:ASYS",
+      "target": "stock:AMKR",
+      "relation": "customer",
+      "weight": 0.7
+    },
+    {
+      "source": "stock:GSIT",
+      "target": "stock:SVCO",
+      "relation": "complementary",
+      "weight": 0.5
+    },
+    {
+      "source": "stock:6315_T",
+      "target": "stock:AMKR",
+      "relation": "customer",
+      "weight": 0.8
+    }
+  ],
+  "metadata": {
+    "created": "2026-09-09",
+    "thesis": "Acceleration thesis: AI reduces cost of search, creating positive feedback loops",
+    "bottleneck_chain": "cognition \u2192 verification \u2192 experimentation \u2192 manufacturing \u2192 energy"
+  }
+}
