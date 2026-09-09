@@ -37,6 +37,10 @@ async def lifespan(_: FastAPI):
 
 app = FastAPI(title="Feedify Alpha", version="0.1.0", lifespan=lifespan)
 
+# Include ML routes
+from .ml_routes import router as ml_router
+app.include_router(ml_router)
+
 
 def _index_html(feed: Feed | None = None) -> str:
     html = (STATIC / "index.html").read_text(encoding="utf-8")
