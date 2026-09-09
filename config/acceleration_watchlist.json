@@ -678,5 +678,85 @@
     "priority": "S",
     "lab": "Independent",
     "role": "broad AI infrastructure systems research"
+  },
+  {
+    "handle": "PhotonCap",
+    "domain": "semiconductors",
+    "kind": "photonics_engineering",
+    "priority": "S++",
+    "lab": "Independent",
+    "role": "photonics PhD/industry engineer"
+  },
+  {
+    "handle": "HyperTechInvest",
+    "domain": "semiconductors",
+    "kind": "supply_chain_bottlenecks",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "HBM/packaging/power bottlenecks"
+  },
+  {
+    "handle": "Semicon_player",
+    "domain": "semiconductors",
+    "kind": "skepticism_analysis",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "semiconductor skepticism"
+  },
+  {
+    "handle": "TheValueist",
+    "domain": "semiconductors",
+    "kind": "cross_layer_research",
+    "priority": "S+",
+    "lab": "Independent",
+    "role": "cross-layer TMT+energy research"
+  },
+  {
+    "handle": "TraceyRyniec",
+    "domain": "semiconductors",
+    "kind": "industrial_equities",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "industrial equities, early MOD call"
+  },
+  {
+    "handle": "Cat_States",
+    "domain": "quantum",
+    "kind": "quantum_skepticism",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "quantum skepticism, fidelity focus"
+  },
+  {
+    "handle": "TechInnovationz",
+    "domain": "quantum",
+    "kind": "quantum_bull",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "trapped-ion/QEC architecture bull"
+  },
+  {
+    "handle": "nanalyzetweets",
+    "domain": "semiconductors",
+    "kind": "deep_tech_filter",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "deep-tech skepticism filter"
+  },
+  {
+    "handle": "aleabitoreddit",
+    "domain": "semiconductors",
+    "kind": "photonics_discovery",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "photonics supply chain, upstream suppliers"
+  },
+  {
+    "handle": "jukan05",
+    "domain": "semiconductors",
+    "kind": "asian_supply_chain",
+    "priority": "S",
+    "lab": "Independent",
+    "role": "Korean/Taiwan supply chain"
   }
 ]
