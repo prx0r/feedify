@@ -1,166 +1,150 @@
-# Feedify Alpha MVP
+# Feedify 2.0
 
-Feedify is a **personal signal compiler**:
+**Knowledge graph compiler for post-AGI scarcity intelligence.**
 
-`Sources → normalized records → typed signals → user algorithms → feeds → web / iOS Home Screen / JSON / RSS / MCP / x402`
+Feedify ingests X/Twitter posts from researchers and engineers, classifies them into typed knowledge objects, builds relationships between objects, and tracks predictions over time. The core thesis: "What does increasing abundance make newly scarce?"
 
-This repo is deliberately a single Python service with a zero-build web UI so a coding agent can run it immediately, then split services only when usage forces it.
+```
+cd /root/feedify2
+source .venv/bin/activate
+uvicorn feedify.api:app --reload --port 8788
 
-## What works now
+# Quick test
+curl http://localhost:8788/api/health
+curl http://localhost:8788/api/convergence?days=30
+curl http://localhost:8788/api/predictions?limit=5
+```
 
-- FastAPI application + SQLite persistence.
-- Polished responsive feed UI; no frontend build step.
-- Prompt-defined feed algorithms with weights, filters, keywords, freshness and source-priority scoring.
-- Feed creation, editing API, forking and public sharing.
-- Per-feed PWA manifest + generated icon so individual feeds can be added to an iOS Home Screen under their own identity.
-- JSON and RSS outputs for every public feed.
-- Standalone Feedify MCP server with `list_feeds`, `get_feed`, `search_feed`.
-- Generic remote MCP bridge for configured Streamable-HTTP servers.
-- Optional x402 v2 paid route for machine-readable feeds.
-- Real source adapters:
-  - TrustMRR verified startup economics (API key)
-  - Store Leads Shopify app/merchant intelligence (API key)
-  - Appfigures estimates for configured app IDs (licensed API credentials)
-  - Glama MCP directory (public)
-  - GitHub repository acceleration (public; token optional)
-  - Hacker News early builder launches (public)
-- Deterministic signal detectors for `REVENUE_ACCELERATION`, `ACQUISITION_MISPRICING`, `NEW_CAPABILITY`, `REPO_ACCELERATION`, `TECH_ADOPTION`, `APP_BREAKOUT`, `EARLY_BUILDER_SIGNAL`, and `PLATFORM_CHANGE`.
-- Optional OpenAI-compatible enrichment hook for OpenRouter / DeepSeek / similar providers.
-- Seeded demo signals and five feeds matching the intended product thesis.
+## What's inside
 
-## 60-second start
+| Module | Role |
+|---|---|
+| `feedify/adapters/` | 9 source adapters (X, GitHub, HN, SEC, OpenInsider, TrustMRR, StoreLeads, Appfigures, Glama) |
+| `feedify/services/` | Core logic (25 files) — classification, scoring, convergence, graph building |
+| `feedify/api.py` | FastAPI server (55+ routes) |
+| `feedify/models.py` | 7 tables: artifacts, objects, edges, feeds, interactions, feed_versions, channels |
+| `feedify/schemas.py` | Pydantic schemas for API |
+| `august/` | Extracted tweet data (101 accounts, 3,357 tweets) |
+| `specs/` | Analysis docs, thesis, account registry |
+| `tests/` | 41 tests, all passing |
+
+## Documentation
+
+- [`AGENTS.md`](AGENTS.md) — binding rules for coding agents
+- [`HANDOVER.md`](HANDOVER.md) — full project state
+- [`NEXT_STEPS.md`](NEXT_STEPS.md) — what's done and what's next
+- [`QUICKSTART.md`](QUICKSTART.md) — fresh agent entry point
+- [`docs/RECIPES.md`](docs/RECIPES.md) — common tasks and patterns
+- [`docs/MCP.md`](docs/MCP.md) — future MCP server design
+- [`specs/canonical-thesis-v2.md`](specs/canonical-thesis-v2.md) — the master equation
+- [`specs/aithesis_people.md`](specs/aithesis_people.md) — 100-account research graph
+
+## One-click bring-up
 
 ```bash
-cp .env.example .env
-uv sync
-uv run python -m feedify.cli seed
-uv run uvicorn feedify.api:app --reload --port 8000
+git clone <this repo> && cd feedify2
+python3 -m venv .venv && source .venv/bin/activate
+pip install -e ".[dev]"
+pytest tests/ -q                       # 41 tests pass
+uvicorn feedify.api:app --reload --port 8788
 ```
 
-Open `http://localhost:8000`.
+## Architecture
 
-No paid API keys are required to boot the product. Public adapters can then be refreshed from the UI or CLI.
-
-```bash
-uv run python -m feedify.cli ingest github hackernews glama --limit 20
+```
+                    X/Twitter Posts
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   ADAPTERS (9)      │
+              │   X, GitHub, HN...  │
+              └─────────────────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   ARTIFACTS         │
+              │   (immutable inputs)│
+              └─────────────────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   SEMANTIC COMPILER │
+              │   classify + extract│
+              └─────────────────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   OBJECTS           │
+              │   (typed knowledge) │
+              │   theory|problem|   │
+              │   prediction|...    │
+              └─────────────────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   EDGES             │
+              │   (relationships)   │
+              │   supports|contradicts│
+              │   temporal|converges│
+              └─────────────────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   DELTA FEEDS       │
+              │   (what changed)    │
+              └─────────────────────┘
 ```
 
-## Credentials
+## DB State
 
-Add only what you have to `.env`:
-
-```dotenv
-TRUSTMRR_API_KEY=tmrr_...
-STORELEADS_API_KEY=...
-GITHUB_TOKEN=github_pat_...
-APPFIGURES_USERNAME=...
-APPFIGURES_PASSWORD=...
-APPFIGURES_CLIENT_KEY=...
-APPFIGURES_PRODUCT_IDS=123,456
-APIFY_TOKEN=apify_api_...
+```
+Artifacts: 3,357 (raw tweets)
+Objects: 7,120 (typed knowledge)
+Edges: 5,685 (relationships)
+Companies: 18 (AI→Atoms interface layer)
+Short candidates: 5 (technical half-life mismatch)
+Contradictions: 3 (world-state inconsistency)
 ```
 
-TrustMRR, Store Leads, and Apify expose remote MCP surfaces. With the MCP extra installed, Feedify can introspect/call Streamable-HTTP MCP servers:
+## API Endpoints
 
-```bash
-uv sync --extra mcp
-```
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/api/health` | GET | System health |
+| `/api/objects` | GET | List objects (filters: domain, kind) |
+| `/api/objects/{id}` | GET | Object detail with edges |
+| `/api/graph` | GET | Knowledge graph context |
+| `/api/graph/stats` | GET | Graph statistics |
+| `/api/convergence` | GET | Multi-author convergence detection |
+| `/api/predictions` | GET | Predictions with connected evidence |
+| `/api/interactions` | POST | Record user actions |
+| `/api/feeds/{slug}/compiled` | GET | Multi-stage compiled feed |
+| `/api/feeds/{slug}/delta` | GET | Delta feed |
+| `/api/import/chatgpt` | POST | Import conversations |
+| `/api/ingest` | POST | Trigger ingestion |
 
-Feedify automatically registers sensible MCP presets:
+## Core thesis
 
-- TrustMRR: authenticated endpoint when `TRUSTMRR_API_KEY` exists; otherwise its bounded discovery endpoint.
-- Store Leads: authenticated endpoint when `STORELEADS_API_KEY` exists.
-- Apify: authenticated endpoint when `APIFY_TOKEN` exists; otherwise anonymous Actor/docs discovery tools.
+> **What does increasing abundance make newly scarce?**
 
-Add arbitrary remote MCPs via `MCP_SOURCES_JSON`.
+AGI makes cognition abundant → verification becomes scarce → verification gets automated → physical experiments become scarce → instruments become scarce → manufacturing scales → energy/permissions become scarce.
 
-## Feed algorithm model
+The master equation:
 
-A feed stores:
+$$
+Alpha_i = (P_{ours} - P_{market}) \times \Delta CF_i \times X_i \times B_i \times R_i - C_i
+$$
 
-- `prompt`: human definition of desired attention.
-- `weights`: importance of novelty/actionability/source proximity/confidence/evidence/freshness.
-- `filters`: domains, signal types, include/exclude terms, source priority, freshness decay, minimum score.
-- `icon`, name and public/share state.
+See [`specs/canonical-thesis-v2.md`](specs/canonical-thesis-v2.md) for the full derivation.
 
-Feed scoring is intentionally transparent and inspectable. A future LLM can propose or evolve the algorithm, but deterministic weights own the final ranking.
+## Cost
 
-Example feed prompt:
+| Item | Cost |
+|------|------|
+| GetXAPI (3,357 tweets) | ~$0.17 |
+| LLM (Muse Spark 1.3 contributor) | ~$0.01 per 1K tokens |
+| **Total** | **~$0.18** |
 
-> Only show me newly buildable commerce opportunities from obscure primary-source engineers, new MCPs/APIs and verified market data. Suppress generic AI commentary and anything I cannot ship against.
+## License
 
-The heuristic compiler raises novelty/actionability/source-proximity weights and sets a stricter minimum score. The API lets a coding agent replace those values directly.
-
-## iOS "feed apps"
-
-Open any feed in Safari, e.g. `/f/agent-commerce-alpha`, then use **Share → Add to Home Screen**. Feedify emits a feed-specific web manifest, `apple-mobile-web-app-title`, and generated icons. Each feed therefore gets a distinct launcher while sharing one underlying engine.
-
-This is separate from a future native Feedify client; the backend contracts are already suitable for one.
-
-## Machine outputs
-
-For `agent-commerce-alpha`:
-
-```text
-GET /api/feeds/agent-commerce-alpha.json
-GET /api/feeds/agent-commerce-alpha.rss
-GET /api/paid/feeds/agent-commerce-alpha.json
-```
-
-The `/paid/` route is identical until x402 is enabled.
-
-### MCP
-
-```bash
-uv sync --extra mcp
-uv run feedify-mcp
-```
-
-Example Claude/Cursor configuration can point at the stdio command. The MCP server exposes public feeds as agent tools.
-
-### x402
-
-See `docs/X402.md`. For a safe first run, use Base Sepolia and the public testnet facilitator. Do not put a mainnet wallet private key into this repo.
-
-## Tests
-
-```bash
-uv run pytest -q
-```
-
-The test suite covers algorithm inference, signal detection, DB/feed ranking, API creation/export and iOS manifest/icon endpoints.
-
-## Repo map
-
-```text
-feedify/
-  adapters/             upstream data integrations
-  services/
-    detector.py         source record -> typed signals
-    ingestion.py        idempotent persistence
-    ranking.py          deterministic personal algorithms
-    feeds.py            ranking + JSON/RSS/icon/manifest output
-    mcp_remote.py       remote MCP bridge
-    llm.py              optional OpenAI-compatible enrichment
-  api.py                product API + static UI
-  mcp_server.py         Feedify as an MCP server
-  x402.py               optional payment middleware
-static/                  no-build responsive web app
-tests/                   regression suite
-config/                  source/watchlist catalogs
-docs/                    coding-agent handoff
-```
-
-## Product rule
-
-Do **not** turn Feedify into another generic social reader. Every new feature should improve one of:
-
-1. source exclusivity,
-2. signal extraction,
-3. personal ranking quality,
-4. cross-source corroboration,
-5. actionability,
-6. low-noise delivery,
-7. portability/monetization of a user's algorithm.
-
-The core product object is the **feed algorithm**, not the post.
+Proprietary. Do not distribute.

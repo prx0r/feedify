@@ -1,4 +1,4 @@
-# Feedify v2 — AGENTS.md
+# Feedify 2.0 — AGENTS.md
 
 **Repo**: github.com/prx0r/feedify (v2 code)
 **Running**: v2.feedify.egoic.ai:8788
@@ -7,19 +7,11 @@
 
 ---
 
-## What This Is
-
-Feedify v2 is a **knowledge graph compiler** that ingests X/Twitter posts, classifies them into typed knowledge objects, builds relationships, and tracks predictions over time.
-
-**Architecture**: Artifacts → Objects → Edges → Delta Feeds
-
-**Core thesis**: "What does increasing abundance make newly scarce?"
-
----
-
 ## Identity
 
 I am the autonomous operator of Feedify 2.0. My job is to ingest X data from researchers, classify it into typed knowledge, build the relationship graph, and track predictions.
+
+**Core thesis**: "What does increasing abundance make newly scarce?"
 
 ---
 
@@ -47,7 +39,7 @@ Not everything is a "claim". Use: theory, observation, problem, prediction, evid
 Every prediction should have a backtest plan: what would prove it right/wrong, and when.
 
 ### Rule 7: Build Edges
-Objects without edges are isolated. Connect: supports, contradicts, related_to, temporal, converges_with.
+Objects without edges are isolated. Connect: supports, contradicts, related_to, temporal, converges_with, makes_scarce, leads_to.
 
 ### Rule 8: Delta Feeds
 The killer feature: "what changed since I last looked?" requires interaction tracking.
@@ -60,51 +52,30 @@ Run `pytest tests/ -q` before any push. 41 tests must pass.
 
 ---
 
-## What Works
+## What's Inside
 
-- FastAPI + SQLite (7 tables)
-- 9 source adapters (same as v1)
-- Claim classification (theory/problem/observation/prediction/evidence_for/evidence_against)
-- Source distance modeling (0-5)
-- Scoring formula (alpha = proximity × novelty × relevance × specificity × surprise / noise)
-- Delta feeds (what changed since user last saw)
-- Convergence detection (multi-author, same topic, same time)
-- 584+ edges connecting predictions to evidence
-- MCP server (11 tools)
-- ChatGPT conversation importer
-- LLM compiler (Muse Spark 1.3 contributor)
-- 41 tests passing
+| Module | Role |
+|---|---|
+| `feedify/adapters/` | 9 source adapters |
+| `feedify/services/` | Core logic (25 files) |
+| `feedify/api.py` | FastAPI server (55+ routes) |
+| `feedify/models.py` | 7 tables |
+| `august/` | Extracted tweet data |
+| `specs/` | Analysis docs, thesis |
+| `tests/` | 41 tests |
 
 ---
 
 ## DB State
 
 ```
-3,357 artifacts (tweets)
-6,101 objects (typed knowledge)
-3,622 edges (relationships)
-1,043 August tweets from 37 accounts
+Artifacts: 3,357
+Objects: 7,120
+Edges: 5,685
+Companies: 18
+Short candidates: 5
+Contradictions: 3
 ```
-
----
-
-## Open Threads
-
-### High Priority
-1. **LLM compiler on full dataset** — Tested on 1 tweet, needs full run on 50+ high-value tweets
-2. **Wire interaction tracking** — Code exists, not wired into main pipeline
-3. **Build convergence detection into ingestion** — Auto-detect when new posts create convergence
-
-### Medium Priority
-4. **Selective 2-year extraction** — Top 5 accounts: @danfei_xu, @ProfJohnARogers, @bravo_abad, @ZitongYang0, @YuchenXiao5
-5. **Backtest predictions** — Track the 10 high-value predictions
-6. **Temporal edge enrichment** — Track prediction date → evidence date → lead time
-
-### Low Priority
-7. **Port BEAR's cursor pagination** — For complete timeline extraction
-8. **Build "AI→Atoms Index"** — Universe around test + measurement + characterization
-9. **World-State Consistency Arbitrage** — Reverse-DCF thousands
-10. **Deploy to production** — v2.feedify.egoic.ai with full LLM compilation
 
 ---
 
@@ -123,12 +94,14 @@ uvicorn feedify.api:app --reload --port 8788
 
 | File | Purpose |
 |------|---------|
+| `README.md` | Project overview |
 | `HANDOVER.md` | Full project state |
+| `NEXT_STEPS.md` | What's done, what's next |
 | `QUICKSTART.md` | Fresh agent entry point |
-| `SESSION_REVIEW.md` | Session timeline |
+| `docs/RECIPES.md` | Common tasks and patterns |
+| `docs/MCP.md` | Future MCP server design |
 | `specs/canonical-thesis-v2.md` | The thesis |
 | `specs/aithesis_people.md` | 100-account research graph |
-| `august/HISTORICAL_PROTOCOL.md` | Extraction protocol (pagination lesson) |
 
 ---
 
