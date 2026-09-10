@@ -31,24 +31,30 @@ $$Alpha_i = (P_{ours} - P_{market}) \times \Delta CF_i \times X_i \times B_i \ti
 
 ```
 feedify2.db:
-  artifacts: 3,076 (raw tweets — corrected with date-filtered August extraction)
+  artifacts: 3,357 (corrected with pagination + date filters)
   objects: 6,101 (typed knowledge)
   edges: 3,622 (relationships)
   feeds: 6
   interactions: 0
 ```
 
-### August Extraction (Corrected)
+### August Extraction (Corrected — Final)
 
-Original extraction missed August tweets because it didn't use date filters. After adding `since:2026-08-01 until:2026-08-31` queries:
+Two bugs found and fixed:
+1. **No date filters** — `product=Latest` returns whatever's in the index, not August
+2. **No pagination** — GetXAPI returns max 20 tweets per page
 
-| Metric | Before | After |
-|--------|--------|-------|
-| August tweets | 163 | 762 |
+After fixing both:
+
+| Metric | Original | After Fix |
+|--------|----------|-----------|
+| August tweets | 163 | 1,043 |
 | August accounts | 33 | 37 |
-| Total artifacts | 2,553 | 3,076 |
+| Total artifacts | 2,553 | 3,357 |
 
-Key: @GenAI_is_real has 100 August tweets (not 24), @arthurcolle has 99, @DeepDishEnjoyer has 94.
+Key: @aleabitoreddit has 197 August tweets (not 0), @DeepDishEnjoyer has 194 (not 23), @arthurcolle has 174 (not 0).
+
+**Lesson**: Always use `since:YYYY-MM-DD until:YYYY-MM-DD` AND paginate with `cursor` for complete extraction.
 
 ### Edge Types
 | Type | Count | Purpose |
