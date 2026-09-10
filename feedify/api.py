@@ -1090,6 +1090,130 @@ async def import_chatgpt(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
         }
 
 
+# ── Convergence Detection (Vision 2.0) ──────────────────────────────────────
+
+@app.get("/api/convergence")
+def convergence_detect(topic: str | None = None, days: int = Query(7, ge=1, le=90)) -> dict[str, Any]:
+    """Detect convergence: multiple source_distance=0 accounts discussing same topic."""
+    from datetime import timedelta
+    from collections import defaultdict
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+
+    with SessionLocal() as session:
+        objects = session.scalars(
+            select(Object).where(Object.created_at >= cutoff)
+        ).all()
+
+    # Group by topic and date
+    by_topic_date = defaultdict(list)
+    for obj in objects:
+        date = (obj.metadata_json or {}).get("date", "")[:10]
+        author = (obj.metadata_json or {}).get("author", "")
+        sd = (obj.metadata_json or {}).get("source_distance", 3)
+        for t in (obj.metadata_json or {}).get("topics", []):
+            if topic and t != topic:
+                continue
+            by_topic_date[f"{t}:{date}"].append({
+                "author": author,
+                "source_distance": sd,
+                "kind": obj.kind,
+                "title": obj.title[:80],
+            })
+
+    # Find convergences (2+ different authors, same topic, same day)
+    convergences = []
+    for key, entries in by_topic_date.items():
+        authors = set(e["author"] for e in entries if e["author"])
+        experimenters = [e for e in entries if e["source_distance"] == 0]
+        if len(authors) >= 2:
+            topic_name, date = key.split(":", 1)
+            convergences.append({
+                "topic": topic_name,
+                "date": date,
+                "authors": list(authors),
+                "total_posts": len(entries),
+                "experimenter_posts": len(experimenters),
+                "kinds": list(set(e["kind"] for e in entries)),
+            })
+
+    convergences.sort(key=lambda x: (-x["experimenter_posts"], -x["total_posts"]))
+
+    return {
+        "days": days,
+        "total_objects": len(objects),
+        "convergences": convergences[:50],
+    }
+
+
+@app.get("/api/predictions")
+def predictions_with_evidence(limit: int = Query(20, ge=1, le=100)) -> list[dict[str, Any]]:
+    """Get predictions with connected evidence for backtesting."""
+    with SessionLocal() as session:
+        predictions = session.scalars(
+            select(Object).where(Object.kind == "prediction").order_by(Object.confidence.desc())
+        ).all()
+
+    # Build edge index
+    with SessionLocal() as session:
+        all_edges = session.scalars(select(Edge)).all()
+        pred_edges = {}
+        for e in all_edges:
+            pred_edges.setdefault(e.target_id, []).append(e)
+
+    results = []
+    for pred in predictions[:limit]:
+        edges = pred_edges.get(pred.id, [])
+        supports = [e for e in edges if e.relation == "supports"]
+        contradicts = [e for e in edges if e.relation == "contradicts"]
+
+        results.append({
+            "id": pred.id,
+            "title": pred.title[:200],
+            "author": (pred.metadata_json or {}).get("author", "?"),
+            "date": (pred.metadata_json or {}).get("date", "?"),
+            "confidence": pred.confidence,
+            "supports": len(supports),
+            "contradicts": len(contradicts),
+            "total_evidence": len(edges),
+        })
+
+    return results
+
+
+@app.get("/api/graph/stats")
+def graph_stats() -> dict[str, Any]:
+    """Knowledge graph statistics."""
+    with SessionLocal() as session:
+        total_objects = session.scalar(select(func.count()).select_from(Object)) or 0
+        total_edges = session.scalar(select(func.count()).select_from(Edge)) or 0
+        total_artifacts = session.scalar(select(func.count()).select_from(Artifact)) or 0
+
+        # By kind
+        kinds = {}
+        for kind, count in session.execute(select(Object.kind, func.count(Object.id)).group_by(Object.kind)).all():
+            kinds[kind] = count
+
+        # By domain
+        domains = {}
+        for domain, count in session.execute(select(Object.domain, func.count(Object.id)).group_by(Object.domain)).all():
+            domains[domain] = count
+
+        # Edge types
+        edge_types = {}
+        for relation, count in session.execute(select(Edge.relation, func.count(Edge.id)).group_by(Edge.relation)).all():
+            edge_types[relation] = count
+
+        return {
+            "artifacts": total_artifacts,
+            "objects": total_objects,
+            "edges": total_edges,
+            "kinds": kinds,
+            "domains": domains,
+            "edge_types": edge_types,
+        }
+
+
 # Install optional payment middleware only after all routes are declared.
 from feedify.x402 import install_x402
 install_x402(app)
