@@ -12,11 +12,12 @@
 | Data model (7 tables) | ✅ |
 | 102 X accounts extracted | ✅ |
 | 3,357 tweets ingested | ✅ |
-| 7,046 objects classified | ✅ |
-| 5,207 edges built | ✅ |
+| 7,088 objects classified | ✅ |
+| 5,613 edges built | ✅ |
 | 145 convergences detected | ✅ |
 | 343 predictions tracked | ✅ |
-| 109 predictions with evidence | ✅ |
+| Scarcity Migration Engine | ✅ |
+| AI→Atoms Index (18 companies) | ✅ |
 | API endpoints working | ✅ |
 | 41 tests passing | ✅ |
 | Deployed at v2.feedify.egoic.ai | ✅ |
@@ -25,27 +26,19 @@
 
 ## What's Next (Priority Order)
 
-### 1. Build the Scarcity Migration Engine
+### 1. ✅ Build the Scarcity Migration Engine (DONE)
 **What**: For every capability shock, trace: what becomes abundant → what complement receives induced demand → can supply respond → what's the next constraint.
 
-**How**:
-- Take the 388 theories in the graph
-- For each, ask: "What does this make scarce?"
-- Create `Edge(relation="makes_scarce")` to the bottleneck
-- Build a chain: abundance → scarcity → investment → relief → next scarcity
+**Result**: 120 scarcity edges + 16 chain edges connecting theories to bottlenecks.
 
-**Files to modify**: `feedify/services/ingestion.py` (add scarcity extraction)
-
-### 2. Build the AI→Atoms Index
+### 2. ✅ Build the AI→Atoms Index (DONE)
 **What**: Universe of companies in the "interface layer" — test, measurement, characterization, automation, control, verification, certification.
 
-**How**:
-- Search for public companies in: Keysight, Oxford Instruments, FormFactor, KLA, Tecan, Bruker, UL Solutions, etc.
-- Score each for cross-world necessity (how many different futures need them?)
-- Build `Object(kind="company")` for each
-- Connect to theories via `Edge(relation="serves_bottleneck")`
-
-**Files to create**: `feedify/services/ai_atoms_index.py`
+**Result**: 18 companies with cross-world necessity scores:
+- Keysight (0.9), Oxford Instruments (0.9), FormFactor (0.85), KLA (0.85)
+- Applied Materials (0.85), Lam Research (0.85)
+- UL Solutions (0.85), Vertiv (0.8)
+- 270 edges connecting companies to bottleneck theories
 
 ### 3. Build World-State Consistency Arbitrage
 **What**: Reverse-DCF thousands of companies. Find pairs whose valuations require contradictory futures.
