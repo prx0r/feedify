@@ -2,6 +2,7 @@
 
 **Created**: 2026-09-10
 **Purpose**: Bring a fresh agent up to speed on everything
+**Status**: Working — v2 deployed at v2.feedify.egoic.ai
 
 ---
 
@@ -23,7 +24,7 @@ $$Alpha_i = (P_{ours} - P_{market}) \times \Delta CF_i \times X_i \times B_i \ti
 | Feedify v1 (original) | feedify.egoic.ai | 8787 | /root/feedify |
 | Feedify v2 (rewrite) | v2.feedify.egoic.ai | 8788 | /root/feedify2 |
 
-**The GitHub repo (prx0r/feedify) currently contains the v2 code** (pushed 2026-09-10). The v1 code still runs on the server but is not in the repo anymore.
+**The GitHub repo (prx0r/feedify) contains the v2 code.**
 
 ---
 
@@ -31,40 +32,36 @@ $$Alpha_i = (P_{ours} - P_{market}) \times \Delta CF_i \times X_i \times B_i \ti
 
 ```
 feedify2.db:
-  artifacts: 3,357 (corrected with pagination + date filters)
+  artifacts: 3,357 (raw tweets)
   objects: 6,101 (typed knowledge)
   edges: 3,622 (relationships)
   feeds: 6
   interactions: 0
 ```
 
-### August Extraction (Corrected — Final)
-
-Two bugs found and fixed:
-1. **No date filters** — `product=Latest` returns whatever's in the index, not August
-2. **No pagination** — GetXAPI returns max 20 tweets per page
-
-After fixing both:
-
-| Metric | Original | After Fix |
-|--------|----------|-----------|
-| August tweets | 163 | 1,043 |
-| August accounts | 33 | 37 |
-| Total artifacts | 2,553 | 3,357 |
-
-Key: @aleabitoreddit has 197 August tweets (not 0), @DeepDishEnjoyer has 194 (not 23), @arthurcolle has 174 (not 0).
-
-**Lesson**: Always use `since:YYYY-MM-DD until:YYYY-MM-DD` AND paginate with `cursor` for complete extraction.
+### Object Kinds
+| Kind | Count | What It Means |
+|------|-------|---------------|
+| claim | 4,550 | Generic (needs LLM to classify properly) |
+| observation | 648 | Empirical report of what was seen |
+| person | 96 | Account entities with source_distance |
+| prediction | 277 | Claim about what will happen |
+| theory | 261 | Causal claim about how something works |
+| problem | 205 | Something broken or suboptimal |
+| evidence_against | 26 | Data contradicting a theory |
+| evidence_for | 25 | Data supporting a theory |
+| company | 9 | Ticker mentions |
+| pick | 2 | Specific recommendations |
 
 ### Edge Types
 | Type | Count | Purpose |
 |------|-------|---------|
-| supports | 196 | Evidence supporting a prediction |
-| contradicts | 25 | Evidence contradicting a prediction |
-| related_to | 359 | Same topic, same author |
 | temporal | 1,760 | Same author, different dates, same topic |
+| related_to | 853 | Same topic, same author |
 | converges_with | 462 | Different authors, same topic, same time |
-| embedding_similarity | 420 | Semantic similarity between objects |
+| supports | 518 | Evidence supporting a prediction |
+| contradicts | 25 | Evidence contradicting a prediction |
+| evidence_for | 4 | Direct evidence connection |
 
 ---
 
@@ -72,33 +69,29 @@ Key: @aleabitoreddit has 197 August tweets (not 0), @DeepDishEnjoyer has 194 (no
 
 ### What's Been Extracted
 
-| Phase | Accounts | Tweets | Months | Status |
-|-------|----------|--------|--------|--------|
-| Phase 1: August | 102 | 2,384 | Aug 2026 | ✅ Complete |
-| Phase 2: July | 15 | 84 | Jul 2026 | ✅ Complete |
-| Phase 3: June | 15 | 85 | Jun 2026 | ✅ Complete |
-| **Total** | **101** | **2,553** | **Aug+Jul+Jun** | |
+| Phase | Accounts | Tweets | August Data |
+|-------|----------|--------|-------------|
+| Phase 1: August (paginated) | 102 | 3,076 | ✅ 1,043 tweets from 37 accounts |
+| Phase 2: July | 15 | 84 | ✅ Complete |
+| Phase 3: June | 15 | 85 | ✅ Complete |
+| **Total** | **101** | **3,357** | **1,043 August tweets** |
 
-### Account Coverage
+### August Coverage (Corrected with Pagination)
 
-| Status | Count | Notes |
-|--------|-------|-------|
-| Full August (10+ tweets) | 9 | @GenAI_is_real (24), @AnnaCiaunica (22), etc. |
-| Partial August (1-9 tweets) | 25 | Mix of sparse posters |
-| No August, has other data | 68 | Researchers who didn't tweet Aug |
-| No data at all | 1 | @theaustinlyons |
+| Account | August | Total | Domain |
+|---------|--------|-------|--------|
+| @aleabitoreddit | 197 | 233 | stocks |
+| @DeepDishEnjoyer | 194 | 200 | stocks |
+| @arthurcolle | 174 | 199 | ai-research |
+| @GenAI_is_real | 106 | 133 | ai-research |
+| @bravo_abad | 76 | 113 | autonomous-science |
+| @AnnaCiaunica | 55 | 55 | cognition |
+| @jxmnop | 49 | 106 | ai-research |
+| @tengyanAI | 33 | 49 | hardware |
+| @ryancjulian | 27 | 81 | robotics |
+| @advaith_sridhar | 23 | 57 | materials |
 
-**Key finding**: 68 accounts simply didn't tweet in August 2026. GetXAPI index is fine — these were on summer break or writing papers.
-
-### Top Alpha Accounts (BEAR-style scoring)
-
-| Rank | Handle | Alpha | Domain | Key Finding |
-|------|--------|-------|--------|-------------|
-| 1 | @danfei_xu | 5.5 | robotics | "No one building robots you can buy" |
-| 2 | @ProfJohnARogers | 4.7 | bio-electronics | Interface layer spawns research |
-| 3 | @bravo_abad | 4.6 | autonomous-science | "AI explores protein architectures evolution never tried" |
-| 4 | @ZitongYang0 | 4.4 | self-improving | Stanford PhD: self-improving AI |
-| 5 | @YuchenXiao5 | 4.1 | robotics | Unitree insider |
+**17 accounts active all 3 months** (Aug+Jul+Jun) — these are the core research graph.
 
 ---
 
@@ -108,25 +101,13 @@ Key: @aleabitoreddit has 197 August tweets (not 0), @DeepDishEnjoyer has 194 (no
 
 | Table | Purpose |
 |-------|---------|
-| `artifacts` | Immutable inputs (tweets) — replaces `source_records` |
-| `objects` | Versioned knowledge (theories, problems, predictions) — replaces `signals` |
+| `artifacts` | Immutable inputs (tweets) |
+| `objects` | Versioned knowledge (theories, problems, predictions) |
 | `edges` | Relationships (supports, contradicts, related_to, temporal, converges_with) |
 | `feeds` | Versioned attention programs |
 | `interactions` | User actions (DONE/SAVE/FOLLOW/NOISE) |
 | `feed_versions` | Immutable snapshots of feed algorithms |
 | `channels` | Producer outputs |
-
-### Object Kinds
-
-| Kind | Count | What It Means |
-|------|-------|---------------|
-| claim | 1,200+ | Generic (needs LLM to classify properly) |
-| theory | 54+ | Causal claim about how something works |
-| problem | 26+ | Something broken or suboptimal |
-| observation | 53+ | Empirical report of what was seen |
-| prediction | 397 | Claim about what will happen |
-| evidence_for | 11+ | Data supporting a theory |
-| evidence_against | 15+ | Data contradicting a theory |
 
 ### Scoring Formula
 
@@ -147,22 +128,36 @@ Posts below 0.15 alpha are filtered out.
 
 ---
 
+## API Endpoints
+
+| Endpoint | Purpose |
+|----------|---------|
+| `GET /api/health` | System health |
+| `GET /api/objects` | List objects (filters: domain, kind) |
+| `GET /api/objects/{id}` | Object detail with edges |
+| `GET /api/graph` | Knowledge graph context |
+| `GET /api/graph/stats` | Graph statistics |
+| `GET /api/convergence` | Multi-author convergence detection |
+| `GET /api/predictions` | Predictions with connected evidence |
+| `POST /api/interactions` | Record user actions |
+| `GET /api/feeds/{slug}/compiled` | Multi-stage compiled feed |
+| `GET /api/feeds/{slug}/delta` | Delta feed (what changed) |
+| `POST /api/import/chatgpt` | Import conversations |
+| `POST /api/ingest` | Trigger ingestion |
+
+---
+
 ## What's In the Repo
 
 ```
 feedify2/
-├── config/              # 5 watchlist files (102 accounts with source_distance)
+├── config/              # 5 watchlist files (102 accounts)
 ├── data/                # Events, raw data, theses
 ├── docs/                # Architecture, vision, build notes
 ├── feedify/             # Python package
 │   ├── adapters/        # X, GitHub, HN, SEC, etc. (9 adapters)
 │   ├── services/        # 25 service files
-│   │   ├── llm_compiler.py     # Muse Spark 1.3 integration
-│   │   ├── compiled_feed.py    # Multi-stage feed pipeline
-│   │   ├── embedding.py        # Semantic similarity
-│   │   ├── chatgpt_importer.py # Conversation importer
-│   │   └── recursive_expansion.py # Account discovery
-│   ├── api.py           # 55 routes
+│   ├── api.py           # 55+ routes
 │   ├── models.py        # 7 tables
 │   └── schemas.py       # ObjectDraft, EdgeDraft
 ├── specs/               # Active specs (8 files)
@@ -171,6 +166,8 @@ feedify2/
 │   ├── analysis/        # Alpha, backtest, convergence reports
 │   └── categories/      # Domain reports
 ├── tests/               # 41 tests, all passing
+├── HANDOVER.md          # This file
+├── SESSION_REVIEW.md    # Session summary
 └── feedify2.db          # SQLite database
 ```
 
@@ -183,7 +180,7 @@ feedify2/
 | `specs/canonical-thesis-v2.md` | The master equation and scarcity migration thesis |
 | `specs/aithesis_people.md` | 100-account research graph with source_distance |
 | `specs/x_account_registry.md` | All 102 accounts categorized by domain |
-| `specs/tweet_bank.md` | All 2,553 tweets grouped by account |
+| `specs/tweet_bank.md` | All 3,357 tweets grouped by account |
 | `specs/extraction_review.md` | How to avoid slop in extraction |
 | `specs/feedify_bear_integration.md` | Future integration with BEAR repo |
 
@@ -192,45 +189,41 @@ feedify2/
 ## Key Findings
 
 ### 1. Sep 9 Convergence
-6 thesis topics converged simultaneously across 15+ authors on September 9, 2026. Worth investigating what event triggered this.
+6 thesis topics converged simultaneously across 15+ authors on September 9, 2026.
 
 ### 2. Biology Is Strongest Cluster
-54 theories from 15 authors. @nicole_delrosso is the top contributor to bottleneck/scarcity theories.
+54 theories from 15 authors. @nicole_delrosso is the top contributor.
 
 ### 3. Original Feedify Watchlist Had Higher Alpha
-The aithesis list was curated for specific research areas. The original feedify watchlist was curated for signal density — accounts that consistently produce falsifiable claims.
+The aithesis list was curated for specific research areas. The original feedify watchlist was curated for signal density.
 
 ### 4. Predictions Have 3-12 Month Lead Times
-The predictions that DO have connected evidence show 3-12 months between prediction and mainstream recognition.
+Validated predictions show 3-12 months between prediction and mainstream recognition.
 
 ---
 
-## What's NOT Working Yet
+## CRITICAL LESSON: Extraction Bugs
 
-1. **LLM compiler not on full dataset** — Tested on 1 tweet, needs full run
-2. **No interaction tracking in production** — Code exists, not wired
-3. **Edges are embedding-based but not temporal enough** — Need more semantic similarity
-4. **No convergence detection in production** — Code exists, not wired
-5. **68 accounts have no August data** — They didn't tweet, not an extraction failure
+**GetXAPI returns max 20 tweets per page.** Without pagination and date filters, you get incomplete data.
 
----
+**Correct extraction pattern:**
+```python
+params = {
+    "q": f"from:{handle} since:2026-08-01 until:2026-08-31",
+    "product": "Latest",
+    "count": 20,
+    "cursor": cursor,  # paginate with this
+}
+```
 
-## Next Steps
+**Without pagination:**
+- @GenAI_is_real: 24 August tweets (actual: 106)
+- @DeepDishEnjoyer: 23 August tweets (actual: 194)
 
-### Immediate
-1. Run LLM compiler on top 50 high-value tweets
-2. Wire interaction tracking into the API
-3. Build convergence detection into the pipeline
-
-### Short-term
-4. Selective 2-year extraction for top 5 accounts
-5. Backtest the 10 high-value predictions
-6. Deploy v2 to production
-
-### Medium-term
-7. Port BEAR's cursor pagination for complete timelines
-8. Build "AI→Atoms Index" — universe around test + measurement
-9. World-State Consistency Arbitrage — reverse-DCF thousands
+**With pagination (10 pages max):**
+- @aleabitoreddit: 197 August tweets
+- @DeepDishEnjoyer: 194 August tweets
+- @arthurcolle: 174 August tweets
 
 ---
 
@@ -256,9 +249,19 @@ curl http://localhost:8788/api/health
 
 | Item | Cost |
 |------|------|
-| GetXAPI (2,553 tweets) | $0.14 |
+| GetXAPI (3,357 tweets) | ~$0.17 |
 | LLM (Muse Spark 1.3 contributor) | ~$0.01 per 1K tokens |
-| **Total so far** | **~$0.15** |
+| **Total so far** | **~$0.18** |
+
+---
+
+## Next Steps
+
+1. Run LLM compiler on top 50 high-value tweets
+2. Wire interaction tracking into the API
+3. Build convergence detection into the pipeline
+4. Selective 2-year extraction for top 5 accounts
+5. Deploy v2 to production
 
 ---
 
@@ -266,6 +269,7 @@ curl http://localhost:8788/api/health
 
 1. **The GitHub repo has v2 code only** — v1 was overwritten by push on 2026-09-10
 2. **Both services still run** — v1 on port 8787, v2 on port 8788
-3. **GetXAPI index has gaps** — Some accounts have no August data because they didn't tweet
-4. **LLM API key is in .env** — Don't commit it
-5. **41 tests pass** — Run `pytest tests/ -q` to verify
+3. **Always paginate GetXAPI** — max 20 tweets per page
+4. **Always use date filters** — `since:YYYY-MM-DD until:YYYY-MM-DD`
+5. **LLM API key is in .env** — Don't commit it
+6. **41 tests pass** — Run `pytest tests/ -q` to verify

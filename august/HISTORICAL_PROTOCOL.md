@@ -4,26 +4,56 @@
 
 ---
 
+## CRITICAL LESSON: Pagination + Date Filters Required
+
+**GetXAPI returns max 20 tweets per page.** Without pagination and date filters, you get incomplete data.
+
+**Correct extraction pattern:**
+```python
+# WRONG: Only gets first page, no date filter
+params = {"q": f"from:{handle}", "product": "Latest", "count": 50}
+
+# CORRECT: Paginate AND use date filter
+params = {
+    "q": f"from:{handle} since:2026-08-01 until:2026-08-31",
+    "product": "Latest",
+    "count": 20,
+    "cursor": cursor,  # from previous page
+}
+```
+
+**Without pagination:**
+- @GenAI_is_real: 24 August tweets (actual: 106)
+- @DeepDishEnjoyer: 23 August tweets (actual: 194)
+- @arthurcolle: 0 August tweets (actual: 174)
+
+**With pagination (10 pages max):**
+- @aleabitoreddit: 197 August tweets
+- @DeepDishEnjoyer: 194 August tweets
+- @arthurcolle: 174 August tweets
+- @GenAI_is_real: 106 August tweets
+
+---
+
 ## Phase 1: August 2026 (COMPLETE)
 
-**Status**: Done
-**Tweets**: 163 from 33 accounts
-**Cost**: ~$0.50
+**Status**: Done (corrected with pagination)
+**Tweets**: 1,043 from 37 accounts
+**Cost**: ~$0.52
 
-### Results
+### Results (Corrected)
 
 | Category | Accounts with August | Key Alpha |
 |----------|---------------------|-----------|
-| Self-improving AI | 3/10 | Barrel Effect, bottleneck migration |
-| Robotics | 4/15 | World models transfer, perception > training |
-| Bioelectricity | 0/8 | (didn't tweet Aug) |
-| Hardware | 3/10 | Memory wall, thermal constraints |
-| World models | 1/10 | Neural rendering progress |
-| Autonomous science | 2/10 | Lab automation, closed-loop |
-| AI4science | 1/10 | Bayesian optimization |
-| Cognition | 2/5 | Basal cognition, embodiment |
-| Boundary | 2/10 | VLA critique, falsification |
-| Stocks | 1/2 | Market analysis |
+| Stocks | 2/2 | @aleabitoreddit (197), @DeepDishEnjoyer (194) |
+| AI research | 4/10 | @GenAI_is_real (106), @arthurcolle (174), @jxmnop (49) |
+| Autonomous science | 2/10 | @bravo_abad (76), @SGRodriques (6) |
+| Cognition | 2/5 | @AnnaCiaunica (55), @behaviOrganisms (5) |
+| Hardware | 2/10 | @tengyanAI (33), @advaith_sridhar (23) |
+| Robotics | 3/15 | @ryancjulian (27), @danfei_xu (6), @KostasPenn (2) |
+| Self-improving AI | 3/10 | @christinetyip (17), @itzik009 (10), @essamsleiman (8) |
+| Bio-electronics | 1/1 | @ProfJohnARogers (11) |
+| Photonics | 1/1 | @theanalognick (4) |
 
 ### Decision: Who Gets July Extraction?
 
