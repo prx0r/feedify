@@ -31,12 +31,24 @@ $$Alpha_i = (P_{ours} - P_{market}) \times \Delta CF_i \times X_i \times B_i \ti
 
 ```
 feedify2.db:
-  artifacts: 2,553 (raw tweets)
+  artifacts: 3,076 (raw tweets — corrected with date-filtered August extraction)
   objects: 6,101 (typed knowledge)
   edges: 3,622 (relationships)
   feeds: 6
   interactions: 0
 ```
+
+### August Extraction (Corrected)
+
+Original extraction missed August tweets because it didn't use date filters. After adding `since:2026-08-01 until:2026-08-31` queries:
+
+| Metric | Before | After |
+|--------|--------|-------|
+| August tweets | 163 | 762 |
+| August accounts | 33 | 37 |
+| Total artifacts | 2,553 | 3,076 |
+
+Key: @GenAI_is_real has 100 August tweets (not 24), @arthurcolle has 99, @DeepDishEnjoyer has 94.
 
 ### Edge Types
 | Type | Count | Purpose |
