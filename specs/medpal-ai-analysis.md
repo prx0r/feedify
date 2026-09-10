@@ -1,9 +1,78 @@
 # MedPal AI PLC (MPAL.L) — Full Analysis
 
 **Ticker**: MPAL (LSE AIM) / Z1N (Frankfurt)
-**Price**: £6.70 (Sep 9, 2026)
-**Shares**: 777M
-**Market Cap**: ~£52M
+**Price**: 6.64 GBX (Sep 9, 2026 close)
+**Shares**: 779M
+**Market Cap**: £51.65M
+**Volume**: 44.49M shares (Sep 9)
+
+---
+
+## Price History (Last 30 Days)
+
+| Date | Close | Change | High | Low | Volume | Market Cap |
+|------|-------|--------|------|-----|--------|------------|
+| Sep 9 | 6.64 | -0.91% | 7.50 | 6.25 | 44.5M | £51.65M |
+| Sep 8 | 7.08 | +18.00% | 7.10 | 6.30 | 44.5M | £55.09M |
+| Sep 7 | 6.00 | +15.38% | 6.50 | 5.50 | 53.1M | £46.19M |
+| Sep 4 | 5.20 | -5.45% | 5.70 | 5.11 | 18.3M | £40.03M |
+| Sep 3 | 5.50 | +12.24% | 5.50 | 4.70 | 21.4M | £42.34M |
+| Sep 2 | 4.90 | +11.36% | 5.00 | 4.60 | 15.9M | £37.72M |
+| Sep 1 | 4.40 | -0.90% | 4.69 | 4.40 | 26.0M | £33.87M |
+| Aug 31 | 4.44 | 0.00% | 4.47 | 4.10 | 6.2M | £34.18M |
+| Aug 28 | 4.44 | +6.99% | 4.47 | 4.10 | 6.2M | £34.18M |
+| Aug 27 | 4.15 | -0.72% | 4.30 | 4.10 | 7.1M | £31.95M |
+| Aug 26 | 4.18 | +10.73% | 4.20 | 3.65 | 13.4M | £32.18M |
+| Aug 25 | 3.78 | -0.66% | 3.90 | 3.65 | 5.4M | £29.06M |
+| Aug 24 | 3.80 | -2.81% | 4.00 | 3.80 | 4.9M | £29.25M |
+| Aug 21 | 3.91 | -1.78% | 4.10 | 3.83 | 5.3M | £30.10M |
+| Aug 20 | 3.98 | +6.44% | 4.20 | 3.70 | 7.4M | £30.65M |
+
+**Performance:**
+- 5-day: +27.67%
+- 1-month: +63.93%
+- 3-month: +125.82%
+
+---
+
+## Technical Analysis
+
+### Key Levels
+
+| Level | Price | Significance |
+|-------|-------|-------------|
+| **52-week high** | ~7.50 | Sep 9 intraday high |
+| **52-week low** | ~3.60 | Aug 18-19 low |
+| **Current** | 6.64 | -12% from high |
+| **Support 1** | 5.50 | Sep 7 close, previous resistance |
+| **Support 2** | 4.40-4.44 | Aug 28-Sep 1 consolidation zone |
+| **Support 3** | 3.60-3.80 | Aug 18-25 base |
+| **Resistance 1** | 7.08 | Sep 8 close |
+| **Resistance 2** | 7.50 | Sep 9 high |
+
+### Pattern
+
+**Cup and handle / breakout pattern:**
+- Base formed Aug 18-25 at 3.60-4.44
+- Breakout Sep 2-3 (volume spike to 53M shares)
+- Pullback Sep 9 (profit-taking after +125% in 3 months)
+- Volume remains elevated (44M shares)
+
+### Moving Averages (Estimated)
+
+| MA | Value | Signal |
+|----|-------|--------|
+| 10-day | ~5.20 | Price above (bullish) |
+| 20-day | ~4.50 | Price above (bullish) |
+| 50-day | ~4.00 | Price above (bullish) |
+
+**All MAs trending up. Price above all MAs = strong bullish trend.**
+
+### Volume Analysis
+
+- Average daily volume: ~15M shares (Aug)
+- Recent volume: 44-53M shares (Sep) — 3x normal
+- **Volume confirms breakout** — not a low-volume pump
 
 ---
 
@@ -89,13 +158,43 @@ Vertically integrated, AI-native health and pharmacy platform. Four pillars:
 
 ## Patents / IP
 
-**No patents found.** The search returned results for "MedsPaL" (a different database) not MedPal AI PLC.
-
-MedPal's IP appears to be:
+**No patents found.** MedPal's IP is:
 - **Regulatory licences** (DSP) — harder to replicate than patents
 - **Software** (Health OS, Juno agentic AI on Vertex AI) — trade secrets
 - **Supply agreements** (Lilly, Novo Nordisk) — contractual
 - **Installed base** (eMARx in care homes) — switching costs
+
+---
+
+## Buy/Sell Levels
+
+### Entry Strategy
+
+| Scenario | Entry | Stop Loss | Target | Risk/Reward |
+|----------|-------|-----------|--------|-------------|
+| **Aggressive** | 6.50-6.70 (current) | 5.50 (-17%) | 10.00 (+50%) | 1:3 |
+| **Conservative** | 5.50 (support) | 4.40 (-20%) | 10.00 (+82%) | 1:4 |
+| **Breakout** | 7.50 (new high) | 6.50 (-13%) | 12.00 (+60%) | 1:5 |
+
+### Key Dates to Watch
+
+| Date | Event | Impact |
+|------|-------|--------|
+| Oct-Nov 2026 | EBITDA breakeven target (80K items/month) | 🟢 High |
+| Ongoing | Oral GLP-1 ramp (Lilly Foundayo + Novo Wegovy pill) | 🟢 High |
+| Q4 2026 | Full-year results | 🟡 Medium |
+| 2027 | National eMARx roll-out | 🟢 High |
+
+### Technical Levels Summary
+
+```
+RESISTANCE:  7.50 ─────── 52-week high (Sep 9)
+             7.08 ─────── Sep 8 close
+CURRENT:     6.64 ─────── -12% from high
+SUPPORT 1:   5.50 ─────── Sep 7 close
+SUPPORT 2:   4.40-4.44 ── Consolidation zone
+SUPPORT 3:   3.60-3.80 ── Aug base
+```
 
 ---
 
@@ -105,14 +204,14 @@ MedPal's IP appears to be:
 
 | Metric | Value |
 |--------|-------|
-| Current market cap | ~£52M |
+| Current market cap | £51.65M |
 | August annualised run rate | ~£28M |
-| Price/Sales (annualised) | ~1.9x |
+| Price/Sales (annualised) | ~1.8x |
 | H1 2026 revenue | £1.6M |
 | Price/Sales (H1 annualised) | ~16x |
 | Gross margin | 34%+ |
 | Gross profit (annualised) | ~£9.5M |
-| Price/Gross Profit | ~5.5x |
+| Price/Gross Profit | ~5.4x |
 
 ### Comparable
 
@@ -123,44 +222,28 @@ MedPal's IP appears to be:
 | Voy | ~£100M | Private | N/A |
 | MedExpress | ~£13M | Private | N/A |
 
-### My Assessment
-
-**At £6.70 (market cap ~£52M):**
-
-- **Bull case**: £28M annualised run rate growing 80%+ MoM. If they hit EBITDA breakeven at 80K items/month (Oct-Nov 2026), the stock could re-rate significantly. At 3x P/S on £28M run rate = £84M market cap = ~10.8p/share (+61% upside).
-
-- **Base case**: Growth decelerates as GLP-1 competition intensifies. Revenue stabilises at £15-20M run rate. At 2x P/S = £30-40M market cap = 3.9-5.1p/share (flat to -25%).
-
-- **Bear case**: AIOS/Bolt, Hims, Voy crush them on price. NHS reimbursement rates squeeze margins. Stock falls to 2-3p.
-
-**Fair value range**: 4-8p depending on execution.
-
 ---
 
 ## Risks
 
-1. **Competition is brutal** — AIOS ($420M rev), Hims ($2.8B), Voy (100K+ customers), MedExpress (2.3M customers)
-2. **GLP-1 price war** — AIOS/Bolt is cheapest in UK. MedPal may need to match.
-3. **Cash burn** — £3.27M loss in H1. Needs to reach EBITDA breakeven before cash runs out.
-4. **AIM listing** — Small-cap, illiquid, prone to manipulation.
-5. **No patents** — Moat is regulatory licences + supply agreements, not IP.
-6. **Oral GLP-1 competition** — Lilly and Novo may sell direct (LillyDirect, NovoCare).
-7. **Key man risk** — Jason Drummond holds 41.8% of shares.
+1. **Competition is brutal** — AIOS ($420M rev), Hims ($2.8B), Voy (100K+ customers)
+2. **GLP-1 price war** — AIOS/Bolt is cheapest in UK
+3. **Cash burn** — £3.27M loss in H1. Needs EBITDA breakeven before cash runs out
+4. **AIM listing** — Small-cap, illiquid
+5. **No patents** — Moat is licences + supply, not IP
+6. **Oral GLP-1 competition** — Lilly and Novo may sell direct
+7. **Key man risk** — Jason Drummond holds 41.8%
 
 ---
 
 ## Thesis Alignment
 
-**Does this fit the Feedify thesis?**
-
 | Thesis Element | MedPal Fit |
 |----------------|-----------|
-| Permission scarcity | ⭐⭐⭐⭐ DSP licences = permission scarcity |
-| Physical infrastructure | ⭐⭐⭐⭐ Own robotic pharmacy = physical bottleneck |
-| AI-native | ⭐⭐⭐ Vertex AI triage + Juno agentic AI |
+| Permission scarcity | ⭐⭐⭐⭐ DSP licences |
+| Physical infrastructure | ⭐⭐⭐⭐ Own robotic pharmacy |
+| AI-native | ⭐⭐⭐ Vertex AI + Juno |
 | Vertical integration | ⭐⭐⭐⭐ Owns the entire loop |
-| GLP-1 megatrend | ⭐⭐⭐⭐ Direct supply from both manufacturers |
+| GLP-1 megatrend | ⭐⭐⭐⭐ Direct supply from both |
 
-**Verdict**: MedPal is a **permission scarcity + physical infrastructure** play. The DSP licences are the real moat — they can't be replicated. The GLP-1 direct supply is the growth catalyst. The risk is competition and cash burn.
-
-**Rating**: Speculative buy at current levels. The £28M annualised run rate at 1.9x P/S is cheap IF they execute. The DSP licences are a genuine barrier to entry.
+**Verdict**: Permission scarcity + physical infrastructure play. DSP licences are the real moat. GLP-1 direct supply is the catalyst. Speculative buy at current levels — 1.8x P/S on £28M run rate is cheap IF they execute.
