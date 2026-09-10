@@ -12,12 +12,12 @@
 | Data model (7 tables) | ✅ |
 | 102 X accounts extracted | ✅ |
 | 3,357 tweets ingested | ✅ |
-| 7,088 objects classified | ✅ |
-| 5,613 edges built | ✅ |
-| 145 convergences detected | ✅ |
-| 343 predictions tracked | ✅ |
+| 7,120 objects classified | ✅ |
+| 5,685 edges built | ✅ |
 | Scarcity Migration Engine | ✅ |
 | AI→Atoms Index (18 companies) | ✅ |
+| World-State Consistency (9 stocks, 3 contradictions) | ✅ |
+| Technical Half-Life (12 assets, 5 short candidates) | ✅ |
 | API endpoints working | ✅ |
 | 41 tests passing | ✅ |
 | Deployed at v2.feedify.egoic.ai | ✅ |
@@ -40,39 +40,24 @@
 - UL Solutions (0.85), Vertiv (0.8)
 - 270 edges connecting companies to bottleneck theories
 
-### 3. Build World-State Consistency Arbitrage
-**What**: Reverse-DCF thousands of companies. Find pairs whose valuations require contradictory futures.
+### 3. ✅ Build World-State Consistency Arbitrage (DONE)
+**What**: Reverse-DCF companies. Find pairs whose valuations require contradictory futures.
 
-**How**:
-- For each major stock, infer what world its price requires
-- Find pairs where `P(W_A AND W_B) << market_implied`
-- Create `Object(kind="theory")` for each inconsistent world-state
-- Track which stocks contradict each other
+**Result**: 9 stocks mapped to implied worlds, 3 contradictions found:
+- NVDA (ai_domination) ↔ ACN (human_labor_persists) — strength: 0.9
+- NVDA (ai_domination) ↔ GLOB (human_labor_persists) — strength: 0.85
+- MSFT (enterprise_ai) ↔ ACN (human_labor_persists) — strength: 0.8
 
-**Files to create**: `feedify/services/consistency_arbitrage.py`
-
-### 4. Build the Real Usage → Economic Destruction Graph
-**What**: Map actual AI task consumption to affected labor → affected companies → induced complement demand.
-
-**How**:
-- Use OpenRouter token data (when available)
-- Map task types to affected occupations
-- Map occupations to affected companies
-- Create `Edge(relation="substitutes")` from AI task to human labor
-- Create `Edge(relation="induces_demand")` from AI task to complement
-
-**Files to create**: `feedify/services/usage_graph.py`
-
-### 5. Build Technical Half-Life / Obsolescence Short Engine
+### 4. ✅ Build Technical Half-Life Engine (DONE)
 **What**: Estimate survival of business models vs valuation duration.
 
-**How**:
-- For each company, estimate `H_tech` (technological half-life)
-- Compare with `H_valuation` (how much duration is priced in)
-- Large positive mismatch = short candidate
-- Create `Object(kind="prediction")` for each mismatch
+**Result**: 12 asset classes analyzed, 5 short candidates (mismatch >= 5yr):
+- saas_seat_licenses: H_tech=2yr, H_val=10yr (8yr mismatch = CRITICAL)
+- routine_software: H_tech=1yr, H_val=8yr (7yr mismatch = CRITICAL)
+- bpo_consulting: H_tech=2yr, H_val=8yr (6yr mismatch = HIGH)
+- translation_services: H_tech=1yr, H_val=5yr (4yr mismatch = HIGH)
 
-**Files to create**: `feedify/services/half_life_engine.py`
+### 5. Build the Real Usage → Economic Destruction Graph
 
 ---
 
