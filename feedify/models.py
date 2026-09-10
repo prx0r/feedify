@@ -184,3 +184,69 @@ class IngestionRun(Base):
     objects_created: Mapped[int] = mapped_column(Integer, default=0)
     edges_created: Mapped[int] = mapped_column(Integer, default=0)
     error: Mapped[str | None] = mapped_column(Text, nullable=True)
+
+
+class Watchlist(Base):
+    """Stocks to monitor daily."""
+    __tablename__ = "watchlist"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    ticker: Mapped[str] = mapped_column(String(16), unique=True, index=True)
+    name: Mapped[str] = mapped_column(String(120))
+    sector: Mapped[str] = mapped_column(String(64), default="general")
+    thesis: Mapped[str] = mapped_column(Text, default="")
+    entry_price: Mapped[float | None] = mapped_column(Float, nullable=True)
+    current_price: Mapped[float | None] = mapped_column(Float, nullable=True)
+    stop_loss: Mapped[float | None] = mapped_column(Float, nullable=True)
+    target_price: Mapped[float | None] = mapped_column(Float, nullable=True)
+    notes: Mapped[str] = mapped_column(Text, default="")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+    updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow, onupdate=utcnow)
+
+
+class StockSnapshot(Base):
+    """Daily price snapshot."""
+    __tablename__ = "stock_snapshots"
+    __table_args__ = (UniqueConstraint("ticker", "date", name="uq_ticker_date"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    ticker: Mapped[str] = mapped_column(String(16), index=True)
+    date: Mapped[str] = mapped_column(String(10))
+    open: Mapped[float | None] = mapped_column(Float, nullable=True)
+    close: Mapped[float | None] = mapped_column(Float, nullable=True)
+    high: Mapped[float | None] = mapped_column(Float, nullable=True)
+    low: Mapped[float | None] = mapped_column(Float, nullable=True)
+    volume: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    market_cap: Mapped[float | None] = mapped_column(Float, nullable=True)
+    news: Mapped[str] = mapped_column(Text, default="[]")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+
+
+class InvestorReport(Base):
+    """Daily investor report for a stock."""
+    __tablename__ = "investor_reports"
+    __table_args__ = (UniqueConstraint("ticker", "date", name="uq_ticker_report_date"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    ticker: Mapped[str] = mapped_column(String(16), index=True)
+    date: Mapped[str] = mapped_column(String(10))
+    summary: Mapped[str] = mapped_column(Text, default="")
+    bull_case: Mapped[str] = mapped_column(Text, default="")
+    bear_case: Mapped[str] = mapped_column(Text, default="")
+    key_levels: Mapped[str] = mapped_column(Text, default="{}")
+    action: Mapped[str] = mapped_column(String(16), default="HOLD")
+    confidence: Mapped[float] = mapped_column(Float, default=0.5)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+
+
+class ChatMemory(Base):
+    """AI chat memory per stock."""
+    __tablename__ = "chat_memory"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    ticker: Mapped[str | None] = mapped_column(String(16), nullable=True, index=True)
+    user_id: Mapped[str] = mapped_column(String(128), default="default")
+    message: Mapped[str] = mapped_column(Text)
+    response: Mapped[str] = mapped_column(Text)
+    context: Mapped[str] = mapped_column(Text, default="{}")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)

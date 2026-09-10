@@ -14,7 +14,7 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import joinedload
 
 from feedify.db import SessionLocal, init_db
-from feedify.models import Feed, FeedVersion, IngestionRun, Object, Edge, Interaction, Artifact
+from feedify.models import Feed, FeedVersion, IngestionRun, Object, Edge, Interaction, Artifact, Watchlist, StockSnapshot, InvestorReport, ChatMemory
 from feedify.schemas import FeedCreate, FeedUpdate
 from feedify.seed import seed
 from feedify.services.feeds import feed_to_dict, feed_to_rss, get_delta_feed, icon_png, manifest, slugify
@@ -598,49 +598,171 @@ def synthesize_thesis_endpoint():
     return {"action": "none", "message": "No update warranted"}
 
 
-# ── Stock Thesis Tracking ─────────────────────────────────────────────────────
+# ── Stock Watchlist (Vision 2.0) ──────────────────────────────────────────────
 
 @app.get("/api/stocks")
-def list_stocks():
-    """List all tracked stocks with thesis alignment."""
-    from feedify.services.stock_registry import STOCK_REGISTRY
-    return STOCK_REGISTRY
+def stocks_list() -> list[dict[str, Any]]:
+    """List all watched stocks."""
+    with SessionLocal() as session:
+        rows = session.scalars(select(Watchlist).order_by(Watchlist.ticker)).all()
+        return [
+            {
+                "ticker": w.ticker, "name": w.name, "sector": w.sector,
+                "thesis": w.thesis, "entry_price": w.entry_price,
+                "current_price": w.current_price, "stop_loss": w.stop_loss,
+                "target_price": w.target_price, "notes": w.notes,
+            }
+            for w in rows
+        ]
 
 
-@app.get("/api/stocks/data")
-def stocks_data(tickers: str = Query("")):
-    """Fetch current market data for stocks."""
-    from feedify.services.stock_registry import get_stock_data
-    ticker_list = [t.strip() for t in tickers.split(",") if t.strip()]
-    if not ticker_list:
-        ticker_list = ["SVCO", "LEU", "EROC", "SDGR", "GSIT", "MOD", "AMKR", "RXRX", "ALMU", "ONTO"]
-    return get_stock_data(ticker_list)
-
-
-@app.get("/api/stocks/report")
-def stocks_report():
-    """Generate comprehensive thesis vs market report."""
-    from feedify.services.stock_registry import generate_stock_report
-    return generate_stock_report()
+@app.post("/api/stocks")
+def stocks_add(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """Add a stock to the watchlist."""
+    ticker = payload.get("ticker", "").upper()
+    if not ticker:
+        raise HTTPException(400, "ticker required")
+    with SessionLocal() as session:
+        existing = session.scalar(select(Watchlist).where(Watchlist.ticker == ticker))
+        if existing:
+            return {"ok": True, "ticker": ticker, "message": "already watched"}
+        session.add(Watchlist(
+            ticker=ticker,
+            name=payload.get("name", ticker),
+            sector=payload.get("sector", "general"),
+            thesis=payload.get("thesis", ""),
+            entry_price=payload.get("entry_price"),
+            stop_loss=payload.get("stop_loss"),
+            target_price=payload.get("target_price"),
+        ))
+        session.commit()
+        return {"ok": True, "ticker": ticker}
 
 
 @app.get("/api/stocks/{ticker}")
-def stock_detail(ticker: str):
-    """Get detailed stock info with thesis alignment."""
-    from feedify.services.stock_registry import STOCK_REGISTRY, get_stock_data, get_thesis_alignment
-    
-    stock = next((s for s in STOCK_REGISTRY if s["ticker"] == ticker), None)
-    if not stock:
-        raise HTTPException(404, "Stock not found")
-    
-    market_data = get_stock_data([ticker])
-    alignment = get_thesis_alignment(stock, market_data.get(ticker, {}))
-    
-    return {
-        **stock,
-        "market_data": market_data.get(ticker, {}),
-        "alignment": alignment,
-    }
+def stock_detail(ticker: str) -> dict[str, Any]:
+    """Stock detail with latest report."""
+    ticker = ticker.upper()
+    with SessionLocal() as session:
+        stock = session.scalar(select(Watchlist).where(Watchlist.ticker == ticker))
+        if not stock:
+            raise HTTPException(404, "Stock not found")
+        latest_report = session.scalars(
+            select(InvestorReport).where(InvestorReport.ticker == ticker).order_by(InvestorReport.date.desc())
+        ).first()
+        return {
+            "ticker": stock.ticker, "name": stock.name, "sector": stock.sector,
+            "thesis": stock.thesis, "entry_price": stock.entry_price,
+            "current_price": stock.current_price, "stop_loss": stock.stop_loss,
+            "target_price": stock.target_price, "notes": stock.notes,
+            "latest_report": {
+                "date": latest_report.date, "summary": latest_report.summary,
+                "bull_case": latest_report.bull_case, "bear_case": latest_report.bear_case,
+                "action": latest_report.action, "confidence": latest_report.confidence,
+            } if latest_report else None,
+        }
+
+
+@app.get("/api/stocks/{ticker}/report")
+def stock_report(ticker: str) -> dict[str, Any]:
+    """Latest investor report for a stock."""
+    ticker = ticker.upper()
+    with SessionLocal() as session:
+        report = session.scalars(
+            select(InvestorReport).where(InvestorReport.ticker == ticker).order_by(InvestorReport.date.desc())
+        ).first()
+        if not report:
+            raise HTTPException(404, "No report found")
+        return {
+            "ticker": report.ticker, "date": report.date,
+            "summary": report.summary, "bull_case": report.bull_case,
+            "bear_case": report.bear_case, "key_levels": json.loads(report.key_levels),
+            "action": report.action, "confidence": report.confidence,
+        }
+
+
+@app.post("/api/stocks/{ticker}/chat")
+async def stock_chat(ticker: str, payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """AI chat about a stock. Saves to memory."""
+    ticker = ticker.upper()
+    message = payload.get("message", "")
+    user_id = payload.get("user_id", "default")
+    if not message:
+        raise HTTPException(400, "message required")
+
+    with SessionLocal() as session:
+        stock = session.scalar(select(Watchlist).where(Watchlist.ticker == ticker))
+        if not stock:
+            raise HTTPException(404, "Stock not found")
+
+        memory = session.scalars(
+            select(ChatMemory).where(ChatMemory.ticker == ticker).order_by(ChatMemory.created_at.desc()).limit(10)
+        ).all()
+        report = session.scalars(
+            select(InvestorReport).where(InvestorReport.ticker == ticker).order_by(InvestorReport.date.desc())
+        ).first()
+
+        context = f"Stock: {ticker} ({stock.name})\nThesis: {stock.thesis}\n"
+        if stock.current_price:
+            context += f"Price: {stock.current_price}\n"
+        if report:
+            context += f"Latest Report ({report.date}):\n{report.summary}\n"
+            context += f"Action: {report.action}\n"
+        if memory:
+            context += "\nRecent chat:\n"
+            for m in memory[:5]:
+                context += f"User: {m.message}\nAssistant: {m.response[:200]}\n"
+
+    settings = get_settings()
+    url = "https://opencode.ai/zen/go/v1/chat/completions"
+    api_key = settings.llm_api_key or ""
+
+    try:
+        async with httpx.AsyncClient() as client:
+            resp = await client.post(url,
+                headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json",
+                         "x-opencode-session": "feedify-stock-chat"},
+                json={"model": "mimo-v2.5", "messages": [
+                    {"role": "system", "content": f"You are a stock analyst. {context}"},
+                    {"role": "user", "content": message},
+                ], "max_tokens": 1000, "temperature": 0.4},
+                timeout=30,
+            )
+            if resp.status_code != 200:
+                return {"response": "AI temporarily unavailable."}
+            data = resp.json()
+            response_text = data["choices"][0]["message"]["content"]
+    except Exception as e:
+        response_text = f"AI error: {e}"
+
+    with SessionLocal() as session:
+        session.add(ChatMemory(
+            ticker=ticker, user_id=user_id,
+            message=message, response=response_text,
+            context=json.dumps({"price": stock.current_price}),
+        ))
+        session.commit()
+
+    return {"response": response_text}
+
+
+@app.get("/api/stocks/daily-report")
+def daily_report() -> list[dict[str, Any]]:
+    """All stocks daily summary."""
+    with SessionLocal() as session:
+        stocks = session.scalars(select(Watchlist)).all()
+        reports = []
+        for stock in stocks:
+            report = session.scalars(
+                select(InvestorReport).where(InvestorReport.ticker == stock.ticker).order_by(InvestorReport.date.desc())
+            ).first()
+            reports.append({
+                "ticker": stock.ticker, "name": stock.name,
+                "price": stock.current_price, "thesis": stock.thesis[:100],
+                "action": report.action if report else "N/A",
+                "summary": report.summary[:200] if report else "No report yet",
+            })
+        return reports
 
 
 # ── Insiders Intelligence ─────────────────────────────────────────────────────
