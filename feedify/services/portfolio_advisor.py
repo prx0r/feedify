@@ -153,32 +153,51 @@ RULES:
         for m in chat_memory[:5]:
             context += f"Chris: {m.get('message', '')}\nYou: {m.get('response', '')[:200]}\n"
     
-    try:
-        async with httpx.AsyncClient() as client:
-            resp = await client.post(url,
-                headers={
-                    "Authorization": f"Bearer {api_key}",
-                    "Content-Type": "application/json",
-                    "x-opencode-session": "feedify-chris-prior",
-                },
-                json={
-                    "model": "mimo-v2.5",
-                    "messages": [
-                        {"role": "system", "content": context},
-                        {"role": "user", "content": message},
-                    ],
-                    "max_tokens": 1500,
-                    "temperature": 0.3,
-                },
-                timeout=30,
-            )
-            if resp.status_code != 200:
-                return "AI temporarily unavailable."
-            data = resp.json()
-            return data["choices"][0]["message"]["content"]
-    except Exception as e:
-        return f"AI error: {e}"
+    # Try up to 3 times
+    for attempt in range(3):
+        try:
+            async with httpx.AsyncClient() as client:
+                ticker = portfolio[0].get("ticker", "?")
+                name = portfolio[0].get("name", "?")
+                value = portfolio[0].get("value", 0)
+                pct = portfolio[0].get("pct", 0)
+                simplified_context = f"You are a trading advisor. Stock: {ticker} ({name}). Value: {value:,.0f}. Gain: {pct:+.1f}%."
+                
+                resp = await client.post(url,
+                    headers={
+                        "Authorization": f"Bearer {api_key}",
+                        "Content-Type": "application/json",
+                        "x-opencode-session": _session_id(user_id),
+                    },
+                    json={
+                        "model": "mimo-v2.5",
+                        "messages": [
+                            {"role": "system", "content": f"{simplified_context}\n\n{TRADING_RULES[:1500]}"},
+                            {"role": "user", "content": message},
+                        ],
+                        "max_tokens": 1000,
+                        "temperature": 0.3,
+                    },
+                    timeout=30,
+                )
+                if resp.status_code != 200:
+                    continue
+                data = resp.json()
+                content = data.get("choices", [{}])[0].get("message", {}).get("content")
+                if content:
+                    return content
+        except Exception:
+            continue
+    
+    return "AI temporarily unavailable. Please try again."
 
+
+import time
+
+def _session_id(user_id: str) -> str:
+    """Generate unique session ID."""
+    import random
+    return f"feedify-{user_id}-{random.randint(100000, 999999)}"
 
 TRADING_RULES = """
 TRADING THEORY:
@@ -193,7 +212,7 @@ POSITION SIZING:
 - Risk no more than 1-2% of portfolio per trade
 - Stop loss below key support
 - Risk/reward minimum 1:2
-- Scale in on pullbacks, don't buy full position at once
+- Scale in on pullbacks, do not buy full position at once
 
 PORTFOLIO MANAGEMENT:
 - Diversification across sectors

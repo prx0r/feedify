@@ -14,7 +14,7 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import joinedload
 
 from feedify.db import SessionLocal, init_db
-from feedify.models import Feed, FeedVersion, IngestionRun, Object, Edge, Interaction, Artifact, Watchlist, StockSnapshot, InvestorReport, ChatMemory
+from feedify.models import Feed, FeedVersion, IngestionRun, Object, Edge, Interaction, Artifact, Watchlist, StockSnapshot, InvestorReport, ChatMemory, PaperTrade, AiSuggestion
 from feedify.schemas import FeedCreate, FeedUpdate
 from feedify.seed import seed
 from feedify.services.feeds import feed_to_dict, feed_to_rss, get_delta_feed, icon_png, manifest, slugify
@@ -1387,6 +1387,169 @@ async def portfolio_chat(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
         session.commit()
     
     return {"response": response_text}
+
+
+# ── Paper Trading (AI vs Human) ───────────────────────────────────────────────
+
+@app.get("/api/trading/suggestions")
+def trading_suggestions(user_id: str = Query("chris")) -> list[dict[str, Any]]:
+    """AI trade suggestions for the portfolio."""
+    with SessionLocal() as session:
+        suggestions = session.scalars(
+            select(AiSuggestion).where(
+                AiSuggestion.user_id == user_id,
+                AiSuggestion.status == "pending",
+            ).order_by(AiSuggestion.created_at.desc())
+        ).all()
+        return [
+            {
+                "id": s.id, "ticker": s.ticker, "action": s.action,
+                "qty": s.qty, "price": s.price, "reasoning": s.reasoning,
+                "confidence": s.confidence, "status": s.status,
+                "created_at": s.created_at.isoformat(),
+            }
+            for s in suggestions
+        ]
+
+
+@app.post("/api/trading/suggest")
+async def trading_suggest(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """AI generates a trade suggestion."""
+    from feedify.services.portfolio_advisor import chat_with_agent
+    ticker = payload.get("ticker", "").upper()
+    user_id = payload.get("user_id", "chris")
+    if not ticker:
+        raise HTTPException(400, "ticker required")
+
+    with SessionLocal() as session:
+        stock = session.scalar(select(Watchlist).where(Watchlist.ticker == ticker))
+        if not stock:
+            raise HTTPException(404, "Stock not found")
+        
+        portfolio = session.scalars(select(Watchlist)).all()
+        portfolio_data = [{
+            "ticker": w.ticker, "name": w.name, "account": "Dealing" if "ISA" not in w.ticker else "ISA",
+            "value": json.loads(w.notes or "{}").get("value", 0),
+            "gain": json.loads(w.notes or "{}").get("gain", 0),
+            "pct": json.loads(w.notes or "{}").get("pct", 0),
+        } for w in portfolio]
+        
+        prompt = f"Analyze {ticker} and give me a specific trade suggestion: BUY or SELL, quantity, price, reasoning, confidence, stop loss, target. Format as JSON."
+        response = await chat_with_agent(prompt, portfolio_data, [], user_id)
+        
+        # Parse response into suggestion
+        try:
+            json_start = response.find("{")
+            json_end = response.rfind("}") + 1
+            if json_start >= 0 and json_end > json_start:
+                trade_data = json.loads(response[json_start:json_end])
+            else:
+                trade_data = {"action": "HOLD", "reasoning": response, "confidence": 0.5}
+        except:
+            trade_data = {"action": "HOLD", "reasoning": response, "confidence": 0.5}
+        
+        # Parse confidence to float
+        conf = trade_data.get("confidence", 0.5)
+        if isinstance(conf, str):
+            import re
+            match = re.search(r'(\d+)', conf)
+            conf = float(match.group(1)) / 100 if match else 0.5
+        elif isinstance(conf, bool):
+            conf = 0.8 if conf else 0.3
+        elif not isinstance(conf, (int, float)):
+            conf = 0.5
+        else:
+            conf = float(conf)
+        
+        suggestion = AiSuggestion(
+            user_id=user_id, ticker=ticker,
+            action=str(trade_data.get("action", "HOLD")),
+            qty=float(trade_data.get("qty", 0) or 0),
+            price=float(trade_data.get("price", 0) or 0),
+            reasoning=str(trade_data.get("reasoning", response)),
+            confidence=conf,
+        )
+        session.add(suggestion)
+        session.commit()
+        
+        return {
+            "id": suggestion.id, "ticker": ticker,
+            "action": suggestion.action, "reasoning": suggestion.reasoning,
+            "confidence": suggestion.confidence, "status": "pending",
+        }
+
+
+@app.post("/api/trading/decide")
+def trading_decide(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """User decides on AI suggestion: accept, reject, or modify."""
+    suggestion_id = payload.get("suggestion_id")
+    decision = payload.get("decision")  # 'accepted'/'rejected'/'modified'
+    if not suggestion_id or not decision:
+        raise HTTPException(400, "suggestion_id and decision required")
+    
+    with SessionLocal() as session:
+        suggestion = session.get(AiSuggestion, suggestion_id)
+        if not suggestion:
+            raise HTTPException(404, "Suggestion not found")
+        
+        suggestion.status = decision
+        session.commit()
+        
+        # If accepted, create paper trade
+        if decision == "accepted":
+            session.add(PaperTrade(
+                user_id=suggestion.user_id,
+                ticker=suggestion.ticker,
+                action=suggestion.action,
+                qty=suggestion.qty or 0,
+                price=suggestion.price or 0,
+                reason=suggestion.reasoning,
+                source="ai",
+                ai_score=suggestion.confidence,
+                ai_reasoning=suggestion.reasoning,
+                user_decision="accepted",
+            ))
+            session.commit()
+        
+        return {"ok": True, "suggestion_id": suggestion_id, "decision": decision}
+
+
+@app.post("/api/trading/paper")
+def paper_trade(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """Log a paper trade (user or AI)."""
+    with SessionLocal() as session:
+        session.add(PaperTrade(
+            user_id=payload.get("user_id", "chris"),
+            ticker=payload.get("ticker", ""),
+            action=payload.get("action", "BUY"),
+            qty=payload.get("qty", 0),
+            price=payload.get("price", 0),
+            reason=payload.get("reason", ""),
+            source=payload.get("source", "user"),
+        ))
+        session.commit()
+        return {"ok": True}
+
+
+@app.get("/api/trading/performance")
+def trading_performance(user_id: str = Query("chris")) -> dict[str, Any]:
+    """Compare AI vs Human performance."""
+    with SessionLocal() as session:
+        trades = session.scalars(
+            select(PaperTrade).where(PaperTrade.user_id == user_id).order_by(PaperTrade.created_at)
+        ).all()
+        
+        ai_trades = [t for t in trades if t.source == "ai"]
+        user_trades = [t for t in trades if t.source == "user"]
+        
+        ai_buys = [t for t in ai_trades if t.action == "BUY"]
+        user_buys = [t for t in user_trades if t.action == "BUY"]
+        
+        return {
+            "ai": {"trades": len(ai_trades), "buys": len(ai_buys)},
+            "user": {"trades": len(user_trades), "buys": len(user_buys)},
+            "total_trades": len(trades),
+        }
 
 
 # Install optional payment middleware only after all routes are declared.

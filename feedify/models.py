@@ -250,3 +250,37 @@ class ChatMemory(Base):
     response: Mapped[str] = mapped_column(Text)
     context: Mapped[str] = mapped_column(Text, default="{}")
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+
+
+class PaperTrade(Base):
+    """Paper trade log — AI vs Human performance tracking."""
+    __tablename__ = "paper_trades"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[str] = mapped_column(String(128), index=True)
+    ticker: Mapped[str] = mapped_column(String(16), index=True)
+    action: Mapped[str] = mapped_column(String(8), comment="BUY/SELL")
+    qty: Mapped[float] = mapped_column(Float)
+    price: Mapped[float] = mapped_column(Float)
+    reason: Mapped[str] = mapped_column(Text, default="")
+    source: Mapped[str] = mapped_column(String(8), comment="ai/user")
+    ai_score: Mapped[float | None] = mapped_column(Float, nullable=True)
+    ai_reasoning: Mapped[str] = mapped_column(Text, default="")
+    user_decision: Mapped[str] = mapped_column(String(16), default="pending")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
+
+
+class AiSuggestion(Base):
+    """AI trade suggestion awaiting user decision."""
+    __tablename__ = "ai_suggestions"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[str] = mapped_column(String(128), index=True)
+    ticker: Mapped[str] = mapped_column(String(16), index=True)
+    action: Mapped[str] = mapped_column(String(8))
+    qty: Mapped[float | None] = mapped_column(Float, nullable=True)
+    price: Mapped[float | None] = mapped_column(Float, nullable=True)
+    reasoning: Mapped[str] = mapped_column(Text, default="")
+    confidence: Mapped[float] = mapped_column(Float, default=0.5)
+    status: Mapped[str] = mapped_column(String(16), default="pending")
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
