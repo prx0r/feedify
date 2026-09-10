@@ -1,5 +1,5 @@
 [project]
-name = "feedify-alpha-mvp"
+name = "fish"
 version = "0.1.0"
 description = "Personal signal compiler: sources -> signals -> algorithms -> feeds -> RSS/JSON/MCP/PWA"
 requires-python = ">=3.11"

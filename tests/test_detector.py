@@ -1,5 +1,5 @@
-from feedify.schemas import NormalizedItem
-from feedify.services.detector import compile_artifact
+from fish.schemas import NormalizedItem
+from fish.services.detector import compile_artifact
 
 
 def test_trustmrr_breakout_signal():

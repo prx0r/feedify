@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from math import log10
 from typing import Iterable
 
-from feedify.schemas import NormalizedItem, SignalDraft
+from fish.schemas import NormalizedItem, SignalDraft
 
 
 def clamp(value: float, lo: float = 0.0, hi: float = 1.0) -> float:

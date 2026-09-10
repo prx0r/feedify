@@ -10,7 +10,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from feedify.reality.registry import RealityRegistry
+from fish.reality.registry import RealityRegistry
 
 
 def run_test(run_id: int):

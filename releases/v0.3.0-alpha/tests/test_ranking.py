@@ -1,4 +1,4 @@
-from feedify.services.ranking import infer_algorithm_from_prompt
+from fish.services.ranking import infer_algorithm_from_prompt
 
 
 def test_prompt_inference_prefers_alpha_and_actionability():

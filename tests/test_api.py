@@ -1,6 +1,6 @@
 from fastapi.testclient import TestClient
 
-from feedify.api import app
+from fish.api import app
 
 
 def test_product_flow():

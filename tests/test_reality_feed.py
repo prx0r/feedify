@@ -12,13 +12,13 @@ from pathlib import Path
 # Add parent to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from feedify.reality import (
+from fish.reality import (
     EvidenceLevel, SourceType, StateTransition, 
     BottleneckSignal, RealityEvent
 )
-from feedify.reality.bottleneck_engine import BottleneckMigrationEngine, BottleneckType
-from feedify.reality.L0.reality_layer import RealityLayer, SECParser, Form4Parser
-from feedify.reality.L2.institutional_layer import InstitutionalLayer, CHIPSActParser, HALEUAllocator
+from fish.reality.bottleneck_engine import BottleneckMigrationEngine, BottleneckType
+from fish.reality.L0.reality_layer import RealityLayer, SECParser, Form4Parser
+from fish.reality.L2.institutional_layer import InstitutionalLayer, CHIPSActParser, HALEUAllocator
 
 
 class TestResults:

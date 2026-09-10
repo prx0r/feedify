@@ -4,8 +4,8 @@ from __future__ import annotations
 
 import pytest
 
-from feedify.services import brief
-from feedify.services.brief import alpha_score, build_brief, cluster_items, synthesize_brief
+from fish.services import brief
+from fish.services.brief import alpha_score, build_brief, cluster_items, synthesize_brief
 
 
 def _item(title, score=0.9, tags=None, **kw):
@@ -59,11 +59,11 @@ class TestAlphaScore:
 
 class TestBrief:
     def _feed(self):
-        from feedify.models import Feed
+        from fish.models import Feed
         return Feed(slug="q", name="Q", prompt="quantum", weights={}, filters={})
 
     def test_build_orders_by_alpha(self, monkeypatch):
-        import feedify.services.brief as b
+        import fish.services.brief as b
 
         items = [_item("lone story", score=0.82),
                  _item("big story A", score=0.8),
@@ -86,7 +86,7 @@ class TestBrief:
 
 class TestPrices:
     def test_stooq_parse(self, monkeypatch):
-        import feedify.services.prices as p
+        import fish.services.prices as p
 
         class Resp:
             text = ('Date,Open,High,Low,Close,Volume\n'
@@ -104,7 +104,7 @@ class TestPrices:
         assert "NOPE" not in moves
 
     def test_cache_serves_stale_on_error(self, monkeypatch):
-        import feedify.services.prices as p
+        import fish.services.prices as p
         p._cache.clear()
         p._cache["stooq:GFS"] = (9999999999.0, {"GFS": {"price": 1.0}})
 
@@ -115,7 +115,7 @@ class TestPrices:
         assert p.get_moves(["GFS"]) == {"GFS": {"price": 1.0}}
 
     def test_unmoved_threshold(self, monkeypatch):
-        import feedify.services.prices as p
+        import fish.services.prices as p
         monkeypatch.setattr(p, "get_moves",
                             lambda t: {"A": {"pct_1d": 0.5}, "B": {"pct_1d": 9.0}})
         assert p.unmoved(["A", "B"]) == ["A"]

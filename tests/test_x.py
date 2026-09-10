@@ -4,9 +4,9 @@ from __future__ import annotations
 
 import pytest
 
-from feedify.adapters.x import XAdapter
-from feedify.schemas import NormalizedItem
-from feedify.services import detector
+from fish.adapters.x import XAdapter
+from fish.schemas import NormalizedItem
+from fish.services import detector
 
 
 SAMPLE_TWEET = {
@@ -121,7 +121,7 @@ class TestBudgetGuards:
         assert adapter.configured is False
 
     def test_watchlist_missing_file_returns_empty(self, tmp_path, monkeypatch):
-        from feedify.settings import get_settings
+        from fish.settings import get_settings
         monkeypatch.setenv("GETXAPI_WATCHLIST_PATH", str(tmp_path / "nope.json"))
         get_settings.cache_clear()
         try:
@@ -147,11 +147,11 @@ class TestBudgetGuards:
 
 class TestQuantumFeed:
     def test_quantum_domain_inference(self):
-        from feedify.services.detector import infer_domain
+        from fish.services.detector import infer_domain
         item = _item(body="trapped ion fidelity milestone")
         assert infer_domain(item) == "quantum"
 
     def test_quantum_feed_seeded(self):
-        from feedify.seed import FEEDS
+        from fish.seed import FEEDS
         slugs = [f[0] for f in FEEDS]
         assert "quantum-scarcity" in slugs

@@ -6,7 +6,7 @@ from typing import Iterable
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from feedify.adapters import (
+from fish.adapters import (
     AppfiguresAdapter,
     GitHubAdapter,
     GlamaAdapter,
@@ -14,9 +14,9 @@ from feedify.adapters import (
     StoreLeadsAdapter,
     TrustMRRAdapter,
 )
-from feedify.models import IngestionRun, Signal, SourceRecord
-from feedify.schemas import NormalizedItem
-from feedify.settings import get_settings
+from fish.models import IngestionRun, Signal, SourceRecord
+from fish.schemas import NormalizedItem
+from fish.settings import get_settings
 
 from .detector import calculate_base_score, detect
 

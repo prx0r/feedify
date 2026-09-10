@@ -11,15 +11,15 @@ from fastapi.responses import FileResponse, HTMLResponse, JSONResponse, Response
 from sqlalchemy import func, select
 from sqlalchemy.orm import joinedload
 
-from feedify.db import SessionLocal, init_db
-from feedify.models import Feed, IngestionRun, Signal
-from feedify.schemas import FeedCreate, FeedUpdate
-from feedify.seed import seed
-from feedify.services.feeds import feed_to_dict, feed_to_rss, icon_png, manifest, slugify
-from feedify.services.ingestion import ADAPTERS, ingest_all
-from feedify.services.mcp_remote import call_tool, list_tools, source_configs
-from feedify.services.ranking import infer_algorithm_from_prompt
-from feedify.settings import get_settings
+from fish.db import SessionLocal, init_db
+from fish.models import Feed, IngestionRun, Signal
+from fish.schemas import FeedCreate, FeedUpdate
+from fish.seed import seed
+from fish.services.feeds import feed_to_dict, feed_to_rss, icon_png, manifest, slugify
+from fish.services.ingestion import ADAPTERS, ingest_all
+from fish.services.mcp_remote import call_tool, list_tools, source_configs
+from fish.services.ranking import infer_algorithm_from_prompt
+from fish.settings import get_settings
 
 ROOT = Path(__file__).resolve().parent.parent
 STATIC = ROOT / "static"
@@ -337,5 +337,5 @@ async def mcp_call(name: str, payload: dict[str, Any]) -> dict[str, Any]:
 
 
 # Install optional payment middleware only after all routes are declared.
-from feedify.x402 import install_x402
+from fish.x402 import install_x402
 install_x402(app)

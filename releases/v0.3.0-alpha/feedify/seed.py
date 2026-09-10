@@ -4,9 +4,9 @@ from datetime import datetime, timedelta, timezone
 
 from sqlalchemy import select
 
-from feedify.db import SessionLocal, init_db
-from feedify.models import Feed, Signal, SourceRecord
-from feedify.services.ranking import infer_algorithm_from_prompt
+from fish.db import SessionLocal, init_db
+from fish.models import Feed, Signal, SourceRecord
+from fish.services.ranking import infer_algorithm_from_prompt
 
 
 FEEDS = [

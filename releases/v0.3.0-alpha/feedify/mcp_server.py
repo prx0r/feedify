@@ -2,9 +2,9 @@ from __future__ import annotations
 
 from sqlalchemy import select
 
-from feedify.db import SessionLocal, init_db
-from feedify.models import Feed
-from feedify.services.feeds import feed_to_dict
+from fish.db import SessionLocal, init_db
+from fish.models import Feed
+from fish.services.feeds import feed_to_dict
 
 
 def build_server():

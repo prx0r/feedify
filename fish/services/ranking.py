@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from math import exp
 from typing import Any
 
-from fish.models import Feed, Signal
+from fish.models import Feed, Object
 
 STOPWORDS = {
     "and", "are", "but", "can", "concrete", "from", "into", "new", "not", "only",
@@ -14,11 +14,9 @@ STOPWORDS = {
 }
 
 DEFAULT_WEIGHTS = {
-    "novelty": 1.0,
-    "actionability": 1.15,
-    "source_proximity": 1.0,
-    "confidence": 0.8,
-    "evidence_strength": 0.95,
+    "confidence": 1.0,
+    "novelty": 1.15,
+    "actionability": 1.0,
     "freshness": 1.0,
 }
 
@@ -31,37 +29,38 @@ def _words(text: str) -> set[str]:
     }
 
 
-def score_signal(signal: Signal, feed: Feed) -> tuple[float, list[str]]:
+def score_object(obj: Object, feed: Feed) -> tuple[float, list[str]]:
     weights = {**DEFAULT_WEIGHTS, **(feed.weights or {})}
     filters = feed.filters or {}
     now = datetime.now(timezone.utc)
-    created = signal.created_at
+    created = obj.created_at
     if created.tzinfo is None:
         created = created.replace(tzinfo=timezone.utc)
     age_hours = max((now - created).total_seconds() / 3600, 0)
     freshness = exp(-age_hours / (24 * float(filters.get("half_life_days", 10))))
 
+    metadata = obj.metadata_json or {}
+    confidence = obj.confidence or 0.5
+
     numerator = (
-        signal.novelty * weights["novelty"]
-        + signal.actionability * weights["actionability"]
-        + signal.source_proximity * weights["source_proximity"]
-        + signal.confidence * weights["confidence"]
-        + signal.evidence_strength * weights["evidence_strength"]
+        confidence * weights["confidence"]
         + freshness * weights["freshness"]
+        + metadata.get("novelty", 0.5) * weights.get("novelty", 1.0)
+        + metadata.get("actionability", 0.5) * weights.get("actionability", 1.0)
     )
     denominator = sum(max(v, 0) for v in weights.values()) or 1
     score = numerator / denominator
     reasons: list[str] = []
 
     allowed_domains = set(filters.get("domains") or [])
-    if allowed_domains and signal.domain not in allowed_domains:
+    if allowed_domains and obj.domain not in allowed_domains:
         return 0.0, ["domain-filtered"]
 
-    allowed_types = set(filters.get("signal_types") or [])
-    if allowed_types and signal.signal_type not in allowed_types:
-        return 0.0, ["type-filtered"]
+    allowed_kinds = set(filters.get("kinds") or [])
+    if allowed_kinds and obj.kind not in allowed_kinds:
+        return 0.0, ["kind-filtered"]
 
-    haystack = " ".join([signal.title, signal.summary, signal.why_it_matters, " ".join(signal.tags or [])]).lower()
+    haystack = " ".join([obj.title, obj.summary, " ".join(metadata.get("tags", []))]).lower()
     include = set(filters.get("include_keywords") or []) | _words(feed.prompt or "")
     exclude = set(filters.get("exclude_keywords") or [])
 
@@ -75,17 +74,12 @@ def score_signal(signal: Signal, feed: Feed) -> tuple[float, list[str]]:
         score += boost
         reasons.append(f"matched:{','.join(matched[:4])}")
 
-    priority_sources = set(filters.get("priority_sources") or [])
-    if signal.record and signal.record.source_type in priority_sources:
-        score += 0.08
-        reasons.append("priority-source")
-
-    if signal.actionability >= 0.82:
-        reasons.append("high-actionability")
-    if signal.source_proximity >= 0.9:
-        reasons.append("primary/proprietary-source")
-    if signal.novelty >= 0.82:
-        reasons.append("high-novelty")
+    if confidence >= 0.82:
+        reasons.append("high-confidence")
+    if metadata.get("viral"):
+        reasons.append("viral")
+    if metadata.get("insider_score", 0) >= 70:
+        reasons.append("high-insider-score")
 
     min_score = float(filters.get("min_score", 0.0))
     if score < min_score:
@@ -109,6 +103,9 @@ def infer_algorithm_from_prompt(prompt: str) -> tuple[dict[str, float], dict[str
         "mcp": "agents",
         "meta": "distribution",
         "ads": "distribution",
+        "quantum": "quantum",
+        "insider": "insiders",
+        "sec": "insiders",
     }
     for needle, domain in mapping.items():
         if needle in text and domain not in domains:
@@ -117,8 +114,6 @@ def infer_algorithm_from_prompt(prompt: str) -> tuple[dict[str, float], dict[str
         weights["novelty"] = 1.35
     if "build" in text or "ship" in text or "opportunity" in text:
         weights["actionability"] = 1.45
-    if "insider" in text or "engineer" in text or "primary" in text:
-        weights["source_proximity"] = 1.45
     if "less noise" in text or "high signal" in text or "only" in text:
         min_score = 0.69
     else:

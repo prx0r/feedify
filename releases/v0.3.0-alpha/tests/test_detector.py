@@ -1,5 +1,5 @@
-from feedify.schemas import NormalizedItem
-from feedify.services.detector import calculate_base_score, detect
+from fish.schemas import NormalizedItem
+from fish.services.detector import calculate_base_score, detect
 
 
 def test_trustmrr_breakout_signal():
