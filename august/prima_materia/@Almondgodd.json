@@ -1,0 +1,425 @@
+{
+  "handle": "Almondgodd",
+  "total_tweets": 22,
+  "august_tweets": 2,
+  "tweets": [
+    {
+      "id": "2095571329739379045",
+      "title": "@aaravwattal @Etched Let\u2019s goo congrats king!",
+      "body": "@aaravwattal @Etched Let\u2019s goo congrats king!",
+      "url": "https://x.com/Almondgodd/status/2095571329739379045",
+      "author": "1100834144651759623",
+      "published_at": "2026-09-03T17:55:13",
+      "observed_at": "2026-09-10T03:56:57.505333",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 1,
+        "views": 366,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2093070396186603839",
+      "title": "@DynaRobotics congrats @JasonMa2020 @Lindon_Gao!",
+      "body": "@DynaRobotics congrats @JasonMa2020 @Lindon_Gao!",
+      "url": "https://x.com/Almondgodd/status/2093070396186603839",
+      "author": "1100834144651759623",
+      "published_at": "2026-08-27T20:17:24",
+      "observed_at": "2026-09-10T03:56:57.507247",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 6,
+        "views": 640,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093069446021628110",
+      "title": "Generational moment",
+      "body": "Generational moment",
+      "url": "https://x.com/Almondgodd/status/2093069446021628110",
+      "author": "1100834144651759623",
+      "published_at": "2026-08-27T20:13:37",
+      "observed_at": "2026-09-10T03:56:57.508787",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 28,
+        "views": 4326,
+        "reposts": 3,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2039912502121640397",
+      "title": "@RishiAmba truly changing the game",
+      "body": "@RishiAmba truly changing the game",
+      "url": "https://x.com/Almondgodd/status/2039912502121640397",
+      "author": "1100834144651759623",
+      "published_at": "2026-04-03T03:46:54",
+      "observed_at": "2026-09-10T03:56:57.510208",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 2,
+        "views": 57,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2039907908679356878",
+      "title": "@RishiAmba so cool! So, even if hosted on internet, this wouldn't be accessible?",
+      "body": "@RishiAmba so cool! So, even if hosted on internet, this wouldn't be accessible?",
+      "url": "https://x.com/Almondgodd/status/2039907908679356878",
+      "author": "1100834144651759623",
+      "published_at": "2026-04-03T03:28:39",
+      "observed_at": "2026-09-10T03:56:57.511633",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 1,
+        "views": 258,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2027431402845745619",
+      "title": "@MajmudarAdam in reference to this right https://t.co/W2zCM0l5dY",
+      "body": "@MajmudarAdam in reference to this right https://t.co/W2zCM0l5dY",
+      "url": "https://x.com/Almondgodd/status/2027431402845745619",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-27T17:11:28",
+      "observed_at": "2026-09-10T03:56:57.513155",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 1,
+        "views": 138,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2027429576805118170",
+      "title": "@MajmudarAdam What do you think are the best representations/visions of this world",
+      "body": "@MajmudarAdam What do you think are the best representations/visions of this world",
+      "url": "https://x.com/Almondgodd/status/2027429576805118170",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-27T17:04:13",
+      "observed_at": "2026-09-10T03:56:57.514819",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 4,
+        "views": 630,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2026816775229186260",
+      "title": "@MajmudarAdam I noticed this intention density in drawing (now that AI image gen has been \u201csolved\u201d I\u2019ve been drawing so much more because I realized the value (",
+      "body": "@MajmudarAdam I noticed this intention density in drawing (now that AI image gen has been \u201csolved\u201d I\u2019ve been drawing so much more because I realized the value (and enjoyability) of making each decision myself)",
+      "url": "https://x.com/Almondgodd/status/2026816775229186260",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-26T00:29:10",
+      "observed_at": "2026-09-10T03:56:57.516405",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 4,
+        "views": 448,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023848500291866985",
+      "title": "@aaravwattal @hackwithtrees @_apple_314 @slimtun3 @andgiuri hoho v cool",
+      "body": "@aaravwattal @hackwithtrees @_apple_314 @slimtun3 @andgiuri hoho v cool",
+      "url": "https://x.com/Almondgodd/status/2023848500291866985",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-17T19:54:18",
+      "observed_at": "2026-09-10T03:56:57.519647",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 2,
+        "views": 559,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2020976229315469632",
+      "title": "@PhillipYan2 @Eli_BullockPapa @ryzhang22 @ycombinator can't wait to see :)",
+      "body": "@PhillipYan2 @Eli_BullockPapa @ryzhang22 @ycombinator can't wait to see :)",
+      "url": "https://x.com/Almondgodd/status/2020976229315469632",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-09T21:40:55",
+      "observed_at": "2026-09-10T03:56:57.522409",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 1,
+        "views": 38,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2020924601753346217",
+      "title": "@PhillipYan2 @Eli_BullockPapa @ryzhang22 @ycombinator very cool",
+      "body": "@PhillipYan2 @Eli_BullockPapa @ryzhang22 @ycombinator very cool",
+      "url": "https://x.com/Almondgodd/status/2020924601753346217",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-09T18:15:46",
+      "observed_at": "2026-09-10T03:56:57.525377",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 3,
+        "views": 162,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2019528651583422670",
+      "title": "@hopes_revenge newt is a student of gods creations",
+      "body": "@hopes_revenge newt is a student of gods creations",
+      "url": "https://x.com/Almondgodd/status/2019528651583422670",
+      "author": "1100834144651759623",
+      "published_at": "2026-02-05T21:48:46",
+      "observed_at": "2026-09-10T03:56:57.526980",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 3,
+        "views": 67,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2013376532551524491",
+      "title": "@lcastricato Holy banger",
+      "body": "@lcastricato Holy banger",
+      "url": "https://x.com/Almondgodd/status/2013376532551524491",
+      "author": "1100834144651759623",
+      "published_at": "2026-01-19T22:22:26",
+      "observed_at": "2026-09-10T03:56:57.528178",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 5,
+        "views": 1116,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1996682681753768235",
+      "title": "https://t.co/gxMojAQC8F",
+      "body": "https://t.co/gxMojAQC8F",
+      "url": "https://x.com/Almondgodd/status/1996682681753768235",
+      "author": "1100834144651759623",
+      "published_at": "2025-12-04T20:47:02",
+      "observed_at": "2026-09-10T03:56:57.529747",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 15,
+        "views": 5193,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1996682680289964436",
+      "title": "I deleted my old personal site and remade a new one:\n\nthe eye of almondgod.\n\npeer inside :) https://t.co/gixbilEp9s",
+      "body": "I deleted my old personal site and remade a new one:\n\nthe eye of almondgod.\n\npeer inside :) https://t.co/gixbilEp9s",
+      "url": "https://x.com/Almondgodd/status/1996682680289964436",
+      "author": "1100834144651759623",
+      "published_at": "2025-12-04T20:47:02",
+      "observed_at": "2026-09-10T03:56:57.531624",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 1241,
+        "views": 51559,
+        "reposts": 36,
+        "replies": 62,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1993819612207518017",
+      "title": "@kylerywang @ronawang The wangs never miss",
+      "body": "@kylerywang @ronawang The wangs never miss",
+      "url": "https://x.com/Almondgodd/status/1993819612207518017",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-26T23:10:13",
+      "observed_at": "2026-09-10T03:56:57.532948",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 26,
+        "views": 49659,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1993756252028194872",
+      "title": "@palak_agarwal6 w vid",
+      "body": "@palak_agarwal6 w vid",
+      "url": "https://x.com/Almondgodd/status/1993756252028194872",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-26T18:58:27",
+      "observed_at": "2026-09-10T03:56:57.534271",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 3,
+        "views": 749,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1992363821055570146",
+      "title": "@nonieengel @xai congrats!",
+      "body": "@nonieengel @xai congrats!",
+      "url": "https://x.com/Almondgodd/status/1992363821055570146",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-22T22:45:25",
+      "observed_at": "2026-09-10T03:56:57.535366",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 3,
+        "views": 844,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1990634416457363560",
+      "title": "@svlevine @alexjswerdlow banger",
+      "body": "@svlevine @alexjswerdlow banger",
+      "url": "https://x.com/Almondgodd/status/1990634416457363560",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-18T04:13:23",
+      "observed_at": "2026-09-10T03:56:57.536549",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 3,
+        "views": 209,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989472664843669823",
+      "title": "@pavanjayasinha Soldiddlyoldidogz",
+      "body": "@pavanjayasinha Soldiddlyoldidogz",
+      "url": "https://x.com/Almondgodd/status/1989472664843669823",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-14T23:17:00",
+      "observed_at": "2026-09-10T03:56:57.537773",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 2,
+        "views": 182,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989462771944280246",
+      "title": "@abhijeetpawar Try chrome",
+      "body": "@abhijeetpawar Try chrome",
+      "url": "https://x.com/Almondgodd/status/1989462771944280246",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-14T22:37:41",
+      "observed_at": "2026-09-10T03:56:57.538917",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 2,
+        "views": 65,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989242116942492062",
+      "title": "@Baldstah Watch steins gate ud like it",
+      "body": "@Baldstah Watch steins gate ud like it",
+      "url": "https://x.com/Almondgodd/status/1989242116942492062",
+      "author": "1100834144651759623",
+      "published_at": "2025-11-14T08:00:53",
+      "observed_at": "2026-09-10T03:56:57.540146",
+      "metrics": {
+        "author_handle": "Almondgodd",
+        "author_followers": 4273,
+        "likes": 2,
+        "views": 114,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

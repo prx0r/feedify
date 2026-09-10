@@ -1,0 +1,596 @@
+{
+  "handle": "itzik009",
+  "total_tweets": 31,
+  "august_tweets": 9,
+  "tweets": [
+    {
+      "id": "2097482397453279541",
+      "title": "@prompt_copilot @MidbrainAI \ud83e\udef6",
+      "body": "@prompt_copilot @MidbrainAI \ud83e\udef6",
+      "url": "https://x.com/itzik009/status/2097482397453279541",
+      "author": "367086476",
+      "published_at": "2026-09-09T00:29:07",
+      "observed_at": "2026-09-10T03:56:18.571899",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 18,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096281932334256227",
+      "title": "@trydotworks What needs to persist in your product: user facts, task state, or learned procedures? Those lead to different storage and retrieval choices.",
+      "body": "@trydotworks What needs to persist in your product: user facts, task state, or learned procedures? Those lead to different storage and retrieval choices.",
+      "url": "https://x.com/itzik009/status/2096281932334256227",
+      "author": "367086476",
+      "published_at": "2026-09-05T16:58:54",
+      "observed_at": "2026-09-10T03:56:18.574279",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 0,
+        "views": 1,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096273003860602915",
+      "title": "https://t.co/M7mtlet0lG",
+      "body": "https://t.co/M7mtlet0lG",
+      "url": "https://x.com/itzik009/status/2096273003860602915",
+      "author": "367086476",
+      "published_at": "2026-09-05T16:23:25",
+      "observed_at": "2026-09-10T03:56:18.575473",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 0,
+        "views": 34,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096273001587323376",
+      "title": "An agent saves a successful procedure, then reuses it after the environment changes. I think lifelong learning needs a maintenance loop around skills: test whet",
+      "body": "An agent saves a successful procedure, then reuses it after the environment changes. I think lifelong learning needs a maintenance loop around skills: test whether they transfer, preserve the evidence, and retire them when they stop working. \n\nThis is a question we are exploring at MidBrain: how experience becomes a reusable procedure, and how that procedure stays valid across sessions and tools. I would like to compare notes with builders whose agents keep applying yesterday\u2019s fix to today\u2019s task",
+      "url": "https://x.com/itzik009/status/2096273001587323376",
+      "author": "367086476",
+      "published_at": "2026-09-05T16:23:25",
+      "observed_at": "2026-09-10T03:56:18.576569",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 255,
+        "reposts": 0,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095768471707512847",
+      "title": "This one is personal for me too.\n\n@Thom_Wolf , thank you for backing @MidbrainAI  and our vision early. thank you for meeting me at @SlushHQ. And especially for",
+      "body": "This one is personal for me too.\n\n@Thom_Wolf , thank you for backing @MidbrainAI  and our vision early. thank you for meeting me at @SlushHQ. And especially for taking the time to talk with me on WhatsApp when we were at a real crossroads with the company.\n\nThose conversations matter more than people realize. Especially when you\u2019re building something that still sounds a little crazy and the path isn\u2019t obvious yet.\n\nAnd @davidhelgason , thank you for facilitating that first encounter. A single introduction can sometimes alter the trajectory of a company.\n\nThis is a huge moment for European founders.\n\nWhat @Thom_Wolf, @ClementDelangue , @julien_c  and the @huggingface team built started in Europe and became part of the basic infrastructure of modern AI.\n\nAnd now, together with @nvidia, I think they have a shot at building the strongest open source AI platform in the world.\n\n@nvidia brings compute and massive resources. @huggingface brings the models, datasets, tooling, research culture and, maybe most importantly, the community of people actually building with this technology.\n\nPut those together and you get something I find genuinely exciting: more of the raw materials of AI becoming accessible to builders.more models. More tools. More compute. More experimentation.\n\nLess of AI being something only a handful of giant labs can build with.\n\nThere\u2019s also something important here for Europe.\n\nWe talk a lot about Europe being great at research but bad at turning research into global technology companies. About talent leaving. About capital. About regulation. About whether the next generation of foundational companies can really be built from here.\n\n@huggingface is a pretty strong answer.\n\nYou can start here. You can think globally from day one. You can build around openness and community rather than keeping everything behind closed doors. And you can end up defining how an entire generation of developers works with AI.\n\nVery happy for Thomas, Clem, Julien and everyone at Hugging Face.\n\nAnd excited by the larger idea behind this.\n\nGive people the models, tools, compute and knowledge to build.\n\nThen see what millions of people create.",
+      "url": "https://x.com/itzik009/status/2095768471707512847",
+      "author": "367086476",
+      "published_at": "2026-09-04T06:58:35",
+      "observed_at": "2026-09-10T03:56:18.579311",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 4,
+        "views": 268,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095475074157437264",
+      "title": "The model can adapt quickly, and the harness can preserve context. The real system-level problem is deciding which experience becomes a durable change in future",
+      "body": "The model can adapt quickly, and the harness can preserve context. The real system-level problem is deciding which experience becomes a durable change in future behavior, under what scope, and with what evidence.",
+      "url": "https://x.com/itzik009/status/2095475074157437264",
+      "author": "367086476",
+      "published_at": "2026-09-03T11:32:44",
+      "observed_at": "2026-09-10T03:56:18.582091",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 6,
+        "views": 193,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095474706623197664",
+      "title": "@AITECHio I would measure correction retention, repeated mistakes, transfer across tasks, and the ability to remove a bad memory without resetting everything el",
+      "body": "@AITECHio I would measure correction retention, repeated mistakes, transfer across tasks, and the ability to remove a bad memory without resetting everything else",
+      "url": "https://x.com/itzik009/status/2095474706623197664",
+      "author": "367086476",
+      "published_at": "2026-09-03T11:31:16",
+      "observed_at": "2026-09-10T03:56:18.583310",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 1,
+        "views": 29,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095474580198396212",
+      "title": "The benchmark setup is the important part. I would want to see which failures were observed, how the agent converted them into updates, and whether the improvem",
+      "body": "The benchmark setup is the important part. I would want to see which failures were observed, how the agent converted them into updates, and whether the improvement transferred to fresh tasks without increasing regressions.\n\n\u201cLearns on the job\u201d becomes meaningful when the correction path is visible",
+      "url": "https://x.com/itzik009/status/2095474580198396212",
+      "author": "367086476",
+      "published_at": "2026-09-03T11:30:46",
+      "observed_at": "2026-09-10T03:56:18.584026",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 0,
+        "views": 28,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095474423448936868",
+      "title": "@PovilasKorop The system still needs evidence for promoting one into the other and a way to retire procedures that no longer hold",
+      "body": "@PovilasKorop The system still needs evidence for promoting one into the other and a way to retire procedures that no longer hold",
+      "url": "https://x.com/itzik009/status/2095474423448936868",
+      "author": "367086476",
+      "published_at": "2026-09-03T11:30:09",
+      "observed_at": "2026-09-10T03:56:18.585903",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 0,
+        "views": 8,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095473388454044152",
+      "title": "@TencentAI_News @TencentHunyuan portable memory changes the switching cost between agents. I think what still is hard is  what should move with the agent: proje",
+      "body": "@TencentAI_News @TencentHunyuan portable memory changes the switching cost between agents. I think what still is hard is  what should move with the agent: project procedures, user preferences, private decisions, or only verified outcomes? Interoperability needs provenance and scope",
+      "url": "https://x.com/itzik009/status/2095473388454044152",
+      "author": "367086476",
+      "published_at": "2026-09-03T11:26:02",
+      "observed_at": "2026-09-10T03:56:18.586927",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 0,
+        "views": 14,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095414163640107297",
+      "title": "@Scobleizer totally",
+      "body": "@Scobleizer totally",
+      "url": "https://x.com/itzik009/status/2095414163640107297",
+      "author": "367086476",
+      "published_at": "2026-09-03T07:30:42",
+      "observed_at": "2026-09-10T03:56:18.587608",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 1,
+        "views": 19,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094116056088424927",
+      "title": "If I correct an agent today, I do not just want that correction stored somewhere. I want it to affect how the agent behaves tomorrow, next week, and ideally mon",
+      "body": "If I correct an agent today, I do not just want that correction stored somewhere. I want it to affect how the agent behaves tomorrow, next week, and ideally months later, even as the task, the project, and the surrounding context keep changing.\n\nThe same should be true for successful procedures, failed attempts, changing preferences, new evidence, and instructions that are no longer valid. Some experiences should become more important over time, some should be revised, and some should gradually lose authority.\n\nCan an AI accumulate experience over time, understand which parts of that experience still matter, and actually become better because of it?",
+      "url": "https://x.com/itzik009/status/2094116056088424927",
+      "author": "367086476",
+      "published_at": "2026-08-30T17:32:29",
+      "observed_at": "2026-09-10T03:56:18.588248",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 5,
+        "views": 248,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092552357120716826",
+      "title": "16 years ago today, on 26 August 2010, I left Romania.\n\nI had a guitar, a few bags, and a pretty clear plan: I was going to become a rockstar.\n\nReality had othe",
+      "body": "16 years ago today, on 26 August 2010, I left Romania.\n\nI had a guitar, a few bags, and a pretty clear plan: I was going to become a rockstar.\n\nReality had other plans.\n\nFor a while I was basically homeless in Copenhagen, sleeping in the airport, hiding from security guards and playing guitar to get by.\n\nSnap back to reality, here comes gravity.\n\nI eventually landed at Aalborg University Copenhagen.\n\nMusic became engineering, then interaction design, cognitive science, gaming and UX.\n\nI met the founders of @unity and started experimenting with real-time 3D. I worked around The Eye Tribe - later acquired by Oculus/Meta - obsessed with eye tracking, attention and emotion.\n\nThen came VR.\n\nThat obsession took me to @volvocars, where a few experiments became a decade of pioneering XR and leading innovation inside one of the world's most traditional industries.\n\nTogether with @varjodotcom and incredible teams, we put mixed reality into moving cars, built digital twins, and simulated situations too dangerous, expensive or rare to test in reality.\n\nSomewhere along the way I realised I was never really obsessed with VR.\n\nI was obsessed with reducing the friction between humans and technology.\n\nThat question kept expanding:\n\nfrom interfaces to experiences,\nfrom experiences to systems,\nfrom \u201chow should this product work?\u201d\nto \u201cwhat world are we actually trying to create?\u201d\nThat pulled me into systems thinking and foresight.\n\nI worked with Alex McDowell and learned to use worldbuilding to turn dreams into possible futures, futures into scenarios, scenarios into decisions - and eventually decisions into things we could build.\n\nThrough @Festival_Cannes, @sxsw, @EU_Commission and many other collaborations, I started bringing artists, engineers, scientists, designers, philosophers and executives into the same room.\n\nI taught at universities, worked with startups, advised founders, invested in some, and found myself on stages around the world talking about this strange journey and what I was learning along the way.\n\nFor years these looked like different careers:\n\nmusician, coder, researcher, UX designer, XR nerd, corporate innovator, futurist, teacher, investor, founder.\n\nNow they look like the same thread.\n\nTurning data into insight.\n\nDreams into foresight.\n\nTechnology into experiences.\n\nComplexity into something humans can understand and use.\n\nToday that thread has brought me to @MidBrainAI.\n\nAnother version of the same problem: building machines that don't just respond, but remember, learn from experience and build continuity with the humans around them.\n\nLooking at that first photo from 2010 is surreal.\n\nI had absolutely no idea where I was going.\n\nMaybe that was the useful part.\n\nMost of the important things didn't come from a career plan.\n\nThey came from curiosity, collisions between disciplines, people who opened doors, doors I pushed open myself, and being willing to become a beginner again.\n\n16 years.\n\nRomania \u2192 Copenhagen \u2192 music \u2192 engineering \u2192 games \u2192 eye tracking \u2192 XR \u2192 automotive \u2192 foresight \u2192 art \u2192 startups \u2192 investing \u2192 AI\n\nQuite a journey.\n\nAnd somehow, it still feels like the beginning.",
+      "url": "https://x.com/itzik009/status/2092552357120716826",
+      "author": "367086476",
+      "published_at": "2026-08-26T09:58:54",
+      "observed_at": "2026-09-10T03:56:18.590047",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 44,
+        "views": 1970,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2091456207487635855",
+      "title": "A company brain contains more than documents. It contains decisions, rejected approaches, customer context, operational procedures, and corrections made by name",
+      "body": "A company brain contains more than documents. It contains decisions, rejected approaches, customer context, operational procedures, and corrections made by named people.\n\nSending that history to a hosted memory service creates a second question after retrieval quality: who can inspect the memory, who can alter it, and who can reconstruct a customer\u2019s history from the index?\n\nEnd-to-end encryption changes the architecture. The service can store and search within an access-controlled system, while the organization retains control of the keys and the boundaries between projects, users, and customers.\n\nThe unresolved engineering work: encrypted search, key rotation, revocation, provenance, update validation, and useful retrieval without turning the server into a plaintext observer.",
+      "url": "https://x.com/itzik009/status/2091456207487635855",
+      "author": "367086476",
+      "published_at": "2026-08-23T09:23:11",
+      "observed_at": "2026-09-10T03:56:18.592489",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 4,
+        "views": 159,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089336453356769737",
+      "title": "We\u2019re opening up a few @MidbrainAI  pilots.\nIf you\u2019re building with coding agents, AI agents, or long-running workflows and you\u2019re tired of agents forgetting co",
+      "body": "We\u2019re opening up a few @MidbrainAI  pilots.\nIf you\u2019re building with coding agents, AI agents, or long-running workflows and you\u2019re tired of agents forgetting context, repeating mistakes, or losing corrections between runs, we want to hear from you.\n\nMidBrain gives agents a persistent experience layer so they can remember what happened, learn from outcomes, and improve over time.",
+      "url": "https://x.com/itzik009/status/2089336453356769737",
+      "author": "367086476",
+      "published_at": "2026-08-17T13:00:03",
+      "observed_at": "2026-09-10T03:56:18.594666",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 11,
+        "views": 358,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087891931644780758",
+      "title": "A group of researchers from @UIUC, @Stanford, @Google , @Meta  and around twenty other labs just published a survey covering 218 papers on agent memory.\nI spent",
+      "body": "A group of researchers from @UIUC, @Stanford, @Google , @Meta  and around twenty other labs just published a survey covering 218 papers on agent memory.\nI spent some time reading it because a surprising amount of the framing overlaps with how we have been thinking about @MidbrainAI  internally.\n\nThe survey separates agent memory into episodic memory for what happened, semantic memory for what is known, and procedural memory for how to act. It also describes agents as a foundation model combined with the surrounding agent system and a memory layer that carries information across sessions. We have been using a very similar decomposition in our own work for some time.\nA few parts were especially close to problems we have been working on.\n\nThe comparison of external-memory systems points to retrieval precision as a weakness of systems such as Mem0 and Zep, particularly because results depend heavily on embeddings and ranking. This is also where our SmartSearch work started. In long conversational memory, retrieving a reasonable set of candidates is often manageable. Deciding which of those memories is actually relevant enough to bring back into context is harder.\n\nThe later sections of the survey get closer to the part I find quite interesting: memory management as something the agent itself can learn.\n\nAn agent has to decide whether a new experience should be stored, whether an existing memory should be updated, whether two experiences should be consolidated, whether something has become irrelevant, and sometimes whether nothing should happen at all. The survey discusses reinforcement learning and trainable controllers for these decisions. This is very close to the direction of our own online-learning work, where the value comes from improving how experience changes future behaviour over time.\n\nThe paper is also fairly open about what is still unresolved. Continual learning without catastrophic forgetting remains difficult. Privacy and trust become much harder once memory persists across long periods. Benchmarking is also still weak when the question is whether an agent actually accumulates useful experience and reuses it safely across many interactions, rather than performing well on a fixed retrieval benchmark.\n\nThose are problems we spend a lot of time on as well, including encrypted memory for environments where the underlying data cannot simply be sent somewhere else.\n\nFor anyone working on long-running agents, the survey is useful because it puts a large part of the current memory literature in one place and shows how much of the work is starting to move from storing and retrieving information toward managing experience over time.\n\nThere is still a lot that is unresolved, which is probably the most useful part of the paper.",
+      "url": "https://x.com/itzik009/status/2087891931644780758",
+      "author": "367086476",
+      "published_at": "2026-08-13T13:20:02",
+      "observed_at": "2026-09-10T03:56:18.595480",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 6,
+        "views": 346,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086065907193790505",
+      "title": "Two @sxsw  2027 proposals are live. \u2764\ufe0f\n\nWHO TEACHES MACHINES WHAT MATTERS? \ud83e\udde0\nMachines can remember almost everything.\nThe harder question is:\nwhat should they r",
+      "body": "Two @sxsw  2027 proposals are live. \u2764\ufe0f\n\nWHO TEACHES MACHINES WHAT MATTERS? \ud83e\udde0\nMachines can remember almost everything.\nThe harder question is:\nwhat should they remember - and who gets to decide?\n\n@carlosaddsub ,@CeciliaMTham  and I will explore memory, salience, learning, forgetting and what happens when machine memory scales beyond one person.\n\nhttps://t.co/DnkO8zA0kC\n\nVIBE DECODING \u2728\nVibe coding changed how we build.\n\nNow we need to rethink how we design.\n\n@ioana_teleanu  and I will explore how designers shape AI products that act, ask, wait, adapt and learn \u2014 when a static screen is no longer the product.\nBoth are up for SXSW 2027 community voting until Aug 23.\n\nhttps://t.co/Er1nVymcIO\n\nIf you want to see them at SXSW, hit the \u2764\ufe0f.",
+      "url": "https://x.com/itzik009/status/2086065907193790505",
+      "author": "367086476",
+      "published_at": "2026-08-08T12:24:04",
+      "observed_at": "2026-09-10T03:56:18.597292",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 7,
+        "views": 449,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084965615987474922",
+      "title": "An agent got 15.3x slower when someone deleted one text file.\n\nSame model. Same weights. Same world. The Voyager ablation removed the skill library and the agen",
+      "body": "An agent got 15.3x slower when someone deleted one text file.\n\nSame model. Same weights. Same world. The Voyager ablation removed the skill library and the agent needed over fifteen times as long to hit the same Minecraft milestones. The learning was never in the model. It lived in an artifact the model reads.\n\nMicheal Lanham wrote a sharp piece on this yesterday, and it hit close to home. We ran into the same wall in @Minecraft  two years ago.\n\nWe built a composite architecture for long-horizon agents. A fast policy that proposed actions cheaply. A slow controller that planned, verified, and replanned when things broke. Multiple processes running in parallel on different clocks, the way a brain does. System 1 and System 2, wired together.\n\nIt worked. For exactly one session.\n\nThe next day the agent repeated every mistake it had already solved. The deliberation never compounded. Reflections were generated, used once, discarded. We had built a System 2 agent with the memory of a goldfish.\n\nThe missing piece was never a smarter model. It was consolidation. A loop that takes today's deliberation and turns it into tomorrow's reflex. Biology runs it during sleep: replay the high-salience episodes, compress them into procedure, let the noise decay. When we added it, our agents stopped relearning and started improving. Fear memories even generalized to entirely new world seeds.\n\nThe field is now converging on the same architecture from the infrastructure side. Skills as procedural memory. Reflection moved off the request path into offline consolidation passes. Small diffs instead of full rewrites, because a memory store the model keeps regenerating degrades like a photocopy of a photocopy.\n\nAnd ablation as a discipline: turn the memory layer off for a slice of traffic and measure what breaks. On interdependent multi-session benchmarks, removing active memory roughly halves task completion.\n\nWe carried that loop from Minecraft into embodied agents, and it is now the core of our continual learning research at MidBrain. Episodic traces. Semantic abstractions. Procedural consolidation. Salience decides what moves up and what decays.\n\nStoring isn't learning. Learning is what survives the night.\n\nOne question, and I want a number, not a vibe: have you ever run your agent with memory switched off, and what did it cost you?\n\nLinks in comments.",
+      "url": "https://x.com/itzik009/status/2084965615987474922",
+      "author": "367086476",
+      "published_at": "2026-08-05T11:31:54",
+      "observed_at": "2026-09-10T03:56:18.599108",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 3,
+        "views": 279,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084540186357010542",
+      "title": "@HamelHusain coding improved because it has a verifiable reward signal. prose has none, so it drifts toward the training-data mean. Same failure mode as agents:",
+      "body": "@HamelHusain coding improved because it has a verifiable reward signal. prose has none, so it drifts toward the training-data mean. Same failure mode as agents: behavior only improves where feedback from experience actually reaches the system.",
+      "url": "https://x.com/itzik009/status/2084540186357010542",
+      "author": "367086476",
+      "published_at": "2026-08-04T07:21:23",
+      "observed_at": "2026-09-10T03:56:18.601530",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 69,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083979179175927868",
+      "title": "I used @unity  for everything from games and art experiments to eye-tracking research, industrial simulations and digital twins.\n\nwhen I started at  @volvocars ",
+      "body": "I used @unity  for everything from games and art experiments to eye-tracking research, industrial simulations and digital twins.\n\nwhen I started at  @volvocars , that eventually meant combining @unity  with @varjodotcom  to build mixed-reality driving experiences, placing real cars, people and physical controls inside virtual test environments.\n\nYou could sit in an actual vehicle, drive on a physical track, and see an entirely different world through the headset. New roads, traffic scenarios, interfaces and behaviours could be tested before they existed anywhere else.\n\nThat moment never really got old: taking something that only existed on a screen, putting on the headset, and suddenly standing inside it.\n\nThese days, I spend more time thinking about how machines remember and learn from experience.\n\nBut a lot of that curiosity started here-building worlds, entering them, and seeing how people and technology behaved once they shared the same reality.",
+      "url": "https://x.com/itzik009/status/2083979179175927868",
+      "author": "367086476",
+      "published_at": "2026-08-02T18:12:09",
+      "observed_at": "2026-09-10T03:56:18.603010",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 8,
+        "views": 231,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2078472646778364266",
+      "title": "@HamelHusain the loop vs graph debate is really a state debate. Whatever the topology, the agent still needs a layer that decides what state survives each hop. ",
+      "body": "@HamelHusain the loop vs graph debate is really a state debate. Whatever the topology, the agent still needs a layer that decides what state survives each hop. Only 22.5% of relevant evidence survives naive truncation",
+      "url": "https://x.com/itzik009/status/2078472646778364266",
+      "author": "367086476",
+      "published_at": "2026-07-18T13:31:09",
+      "observed_at": "2026-09-10T03:56:18.604888",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 6,
+        "views": 12039,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2078016543196119411",
+      "title": "@hthieblot Age of empires 2\nAnd hitman",
+      "body": "@hthieblot Age of empires 2\nAnd hitman",
+      "url": "https://x.com/itzik009/status/2078016543196119411",
+      "author": "367086476",
+      "published_at": "2026-07-17T07:18:46",
+      "observed_at": "2026-09-10T03:56:18.605613",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 29,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075886884664774926",
+      "title": "@Ai4thought Right question. Zhang et al. (2026) showed GPT-5.4 failed 54% of problems it had already solved after an LLM updated its memory. State is not storag",
+      "body": "@Ai4thought Right question. Zhang et al. (2026) showed GPT-5.4 failed 54% of problems it had already solved after an LLM updated its memory. State is not storage. The write policy is where agents break.",
+      "url": "https://x.com/itzik009/status/2075886884664774926",
+      "author": "367086476",
+      "published_at": "2026-07-11T10:16:16",
+      "observed_at": "2026-09-10T03:56:18.606307",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 36,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074784838129684641",
+      "title": "@_xizhang The harness framing is right. Episodic memory captures what happened. Semantic memory captures what we know. Procedural memory captures how we behave.",
+      "body": "@_xizhang The harness framing is right. Episodic memory captures what happened. Semantic memory captures what we know. Procedural memory captures how we behave. The first two are databases. The third is the self-improving loop you describe.",
+      "url": "https://x.com/itzik009/status/2074784838129684641",
+      "author": "367086476",
+      "published_at": "2026-07-08T09:17:07",
+      "observed_at": "2026-09-10T03:56:18.607164",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 56,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074467261578973411",
+      "title": "@godofprompt epic :))",
+      "body": "@godofprompt epic :))",
+      "url": "https://x.com/itzik009/status/2074467261578973411",
+      "author": "367086476",
+      "published_at": "2026-07-07T12:15:11",
+      "observed_at": "2026-09-10T03:56:18.608082",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 62,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074035369230676199",
+      "title": "@IAmPascio https://t.co/7vrwcoro2L - persistent experience for ai Agents",
+      "body": "@IAmPascio https://t.co/7vrwcoro2L - persistent experience for ai Agents",
+      "url": "https://x.com/itzik009/status/2074035369230676199",
+      "author": "367086476",
+      "published_at": "2026-07-06T07:39:00",
+      "observed_at": "2026-09-10T03:56:18.610233",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 172,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074031040969023902",
+      "title": "@ByteMohit Start with MemGPT (Packer et al. 2023) for the memory-as-OS framing and Voyager (Wang et al. 2023) for skill libraries. Short version of the field: r",
+      "body": "@ByteMohit Start with MemGPT (Packer et al. 2023) for the memory-as-OS framing and Voyager (Wang et al. 2023) for skill libraries. Short version of the field: retrieval is basically solved, the open problem is the controller, what gets written, trusted, and forgotten",
+      "url": "https://x.com/itzik009/status/2074031040969023902",
+      "author": "367086476",
+      "published_at": "2026-07-06T07:21:48",
+      "observed_at": "2026-09-10T03:56:18.610966",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 72,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2069482036402823313",
+      "title": "https://t.co/7vrwcoro2L",
+      "body": "https://t.co/7vrwcoro2L",
+      "url": "https://x.com/itzik009/status/2069482036402823313",
+      "author": "367086476",
+      "published_at": "2026-06-23T18:05:41",
+      "observed_at": "2026-09-10T03:56:18.612463",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 57,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2067232621789159486",
+      "title": "Looking for builders: https://t.co/7vrwcoro2L",
+      "body": "Looking for builders: https://t.co/7vrwcoro2L",
+      "url": "https://x.com/itzik009/status/2067232621789159486",
+      "author": "367086476",
+      "published_at": "2026-06-17T13:07:19",
+      "observed_at": "2026-09-10T03:56:18.613111",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 3,
+        "views": 107,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064809427874517438",
+      "title": "@Scobleizer Curious how people feel about this:\n\nWould you rather have an AI that\u2019s 20% smarter\u2026\n\nOr one that remembers everything important about you for the n",
+      "body": "@Scobleizer Curious how people feel about this:\n\nWould you rather have an AI that\u2019s 20% smarter\u2026\n\nOr one that remembers everything important about you for the next 10 years?\n\nI suspect memory will matter more than model intelligence.",
+      "url": "https://x.com/itzik009/status/2064809427874517438",
+      "author": "367086476",
+      "published_at": "2026-06-10T20:38:24",
+      "observed_at": "2026-09-10T03:56:18.613747",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 3,
+        "views": 100,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064241140467892262",
+      "title": "Strongly agree. I think the framing of \u201ctext optimization\u201d is actually exposing a deeper distinction between slow learning and fast learning.\n\nWeights are cryst",
+      "body": "Strongly agree. I think the framing of \u201ctext optimization\u201d is actually exposing a deeper distinction between slow learning and fast learning.\n\nWeights are crystallized experience. Text, memory, procedures, and external artifacts are active experience.\n\nHuman intelligence has always relied on both. Civilization itself is arguably a giant external memory system built from books, maps, laws, scientific papers, and code.",
+      "url": "https://x.com/itzik009/status/2064241140467892262",
+      "author": "367086476",
+      "published_at": "2026-06-09T07:00:14",
+      "observed_at": "2026-09-10T03:56:18.614411",
+      "metrics": {
+        "author_handle": "itzik009",
+        "author_followers": 1853,
+        "likes": 2,
+        "views": 401,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

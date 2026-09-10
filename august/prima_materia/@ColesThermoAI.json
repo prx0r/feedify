@@ -1,0 +1,539 @@
+{
+  "handle": "ColesThermoAI",
+  "total_tweets": 28,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2087367538279903706",
+      "title": "@LowOxCoach1 @CarnivoreTeach Thank you for this wonderful conversation! It was truly a pleasure, and it felt like a very important &amp; impactful discussion. L",
+      "body": "@LowOxCoach1 @CarnivoreTeach Thank you for this wonderful conversation! It was truly a pleasure, and it felt like a very important &amp; impactful discussion. Looking forward to more in the future",
+      "url": "https://x.com/ColesThermoAI/status/2087367538279903706",
+      "author": "704533062860681216",
+      "published_at": "2026-08-12T02:36:17",
+      "observed_at": "2026-09-10T03:53:54.244111",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 61,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2065198748473729481",
+      "title": "@NutriDetect Yes, I'd love to speak to you about this, and my efforts to build on your work connecting cancer to toxins. My Terrain Theory interview gave a head",
+      "body": "@NutriDetect Yes, I'd love to speak to you about this, and my efforts to build on your work connecting cancer to toxins. My Terrain Theory interview gave a head nod to your work:\n\nhttps://t.co/AsMa9p3k7K",
+      "url": "https://x.com/ColesThermoAI/status/2065198748473729481",
+      "author": "704533062860681216",
+      "published_at": "2026-06-11T22:25:25",
+      "observed_at": "2026-09-10T03:53:54.246278",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 6,
+        "views": 451,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2061624696551112999",
+      "title": "@NutriDetect Anecdotally, I've noticed that oral charcoal reduces gut pain during a bile dump. Sometimes intense bile dumps seem to cause pain in the lower abdo",
+      "body": "@NutriDetect Anecdotally, I've noticed that oral charcoal reduces gut pain during a bile dump. Sometimes intense bile dumps seem to cause pain in the lower abdomen, and charcoal seems to resolve this.",
+      "url": "https://x.com/ColesThermoAI/status/2061624696551112999",
+      "author": "704533062860681216",
+      "published_at": "2026-06-02T01:43:25",
+      "observed_at": "2026-09-10T03:53:54.249443",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 138,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2049852734678196633",
+      "title": "@GabeMasson Hi Gabe, my interview with the Terrain Theory podcast posted this week (video below). Thanks for mentioning the connections between my theory and te",
+      "body": "@GabeMasson Hi Gabe, my interview with the Terrain Theory podcast posted this week (video below). Thanks for mentioning the connections between my theory and terrain theory.\n\nhttps://t.co/yz30DpIlOR",
+      "url": "https://x.com/ColesThermoAI/status/2049852734678196633",
+      "author": "704533062860681216",
+      "published_at": "2026-04-30T14:05:51",
+      "observed_at": "2026-09-10T03:53:54.250614",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 101,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044244215354565108",
+      "title": "@SimulationHack That's pretty funny! Thanks for sharing that, I hadn't seen that before. Yeah, aflatoxin fits perfectly into my theory (it's a mycotoxin that pr",
+      "body": "@SimulationHack That's pretty funny! Thanks for sharing that, I hadn't seen that before. Yeah, aflatoxin fits perfectly into my theory (it's a mycotoxin that produces ROS).",
+      "url": "https://x.com/ColesThermoAI/status/2044244215354565108",
+      "author": "704533062860681216",
+      "published_at": "2026-04-15T02:39:35",
+      "observed_at": "2026-09-10T03:53:54.252448",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 72,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2039868803799269383",
+      "title": "@NutriDetect What about the impact on the sperm and male fertility? If you are actively trying to conceive, it could be a concern. Looks like it can take a few ",
+      "body": "@NutriDetect What about the impact on the sperm and male fertility? If you are actively trying to conceive, it could be a concern. Looks like it can take a few months to fully recover fertility after stopping sauna usage.",
+      "url": "https://x.com/ColesThermoAI/status/2039868803799269383",
+      "author": "704533062860681216",
+      "published_at": "2026-04-03T00:53:16",
+      "observed_at": "2026-09-10T03:53:54.253748",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 828,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2039543599512289570",
+      "title": "I'm a big fan of your work Dr. Smith, and I fully agree with your views on copper, vitamin A, and cancer.\n\nJust wanted to flag that I've been developing your id",
+      "body": "I'm a big fan of your work Dr. Smith, and I fully agree with your views on copper, vitamin A, and cancer.\n\nJust wanted to flag that I've been developing your ideas on cancer further in a series of blog posts. Inspired by your podcasts on how cancer stores toxins, I formulated the Toxin Sequestration Theory (TST) of cancer here:\n\nhttps://t.co/BzEWKUalze \n\nIf you have any feedback on this theory, it would be most welcome. I did mention your name in the blog post. Thanks \ud83d\ude4f",
+      "url": "https://x.com/ColesThermoAI/status/2039543599512289570",
+      "author": "704533062860681216",
+      "published_at": "2026-04-02T03:21:01",
+      "observed_at": "2026-09-10T03:53:54.254668",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 456,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2038492278520787027",
+      "title": "Thanks so much for reading the blog, I really appreciate it. Naturally, I am a scientist, and I don\u2019t have clinical experience. So I\u2019d like to learn from your c",
+      "body": "Thanks so much for reading the blog, I really appreciate it. Naturally, I am a scientist, and I don\u2019t have clinical experience. So I\u2019d like to learn from your clinical experience, with regards to how people can manage iron overload. So perhaps we can keep in touch about good strategies for reducing the pool of free iron in the body. On a personal note, I am on a diet that's high in heme iron (carnivore diet), and my health is quite good. \n \nRegarding the question of whether ferroptosis will be an effective approach for cancer, I personally believe it\u2019s the wrong approach because it goes against my theory of cancer. I recognize that this new theory is not yet peer reviewed, outside of the research of Stephanie Seneff who first proposed this theory. But if we\u2019re willing to entertain this new theory, that tumors store toxins to protect the body from toxic overload, then killing cancer cells would have the effect of releasing all the toxins that they store into the body fluids. In my view, the true enemy is ROS (reactive oxygen species), and ferroptosis involves increasing ROS in order to overwhelm the antioxidant defense of cancer cells. But in my view that would be the exact wrong approach, as I believe the right approach is to lower ROS levels. After all, the body builds tumors as a defense mechanism against the oxidative stress caused by ROS. So ferroptosis may indeed shrink the size of tumors, but the question is whether it leads to higher or lower mortality, and I would be worried that it might increase mortality.",
+      "url": "https://x.com/ColesThermoAI/status/2038492278520787027",
+      "author": "704533062860681216",
+      "published_at": "2026-03-30T05:43:27",
+      "observed_at": "2026-09-10T03:53:54.255792",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 3,
+        "views": 44,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036851403348644171",
+      "title": "Hi Monique, I have a new theory of cancer that builds on the research of Stephanie Seneff (MIT professor), and I'd love to get your eyes on it. I talk about how",
+      "body": "Hi Monique, I have a new theory of cancer that builds on the research of Stephanie Seneff (MIT professor), and I'd love to get your eyes on it. I talk about how oxalates accumulate inside cancer cells, and I believe you were the one who informed me on that point. The new theory (called Toxin Sequestration Theory) postulates that cancer cells sequester and store toxins to protect the host, which would explain why they store oxalates.\n\nBlog:\nhttps://t.co/BzEWKUalze",
+      "url": "https://x.com/ColesThermoAI/status/2036851403348644171",
+      "author": "704533062860681216",
+      "published_at": "2026-03-25T17:03:12",
+      "observed_at": "2026-09-10T03:53:54.257947",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 166,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031749462436237529",
+      "title": "Blog post on the theory of cancer: \n\nhttps://t.co/E1zIz6V8Or\n\nThis was inspired by the research of @stephanieseneff on deuterium accumulation in cancer and by t",
+      "body": "Blog post on the theory of cancer: \n\nhttps://t.co/E1zIz6V8Or\n\nThis was inspired by the research of @stephanieseneff on deuterium accumulation in cancer and by the podcasts of @NutriDetect on other types of toxic accumulation in cancer.",
+      "url": "https://x.com/ColesThermoAI/status/2031749462436237529",
+      "author": "704533062860681216",
+      "published_at": "2026-03-11T15:09:54",
+      "observed_at": "2026-09-10T03:53:54.259184",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 17,
+        "views": 4090,
+        "reposts": 3,
+        "replies": 6,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1984322024555336076",
+      "title": "@JeffreyRus24787 @nogps1 This haze is completely covering the Abuquerque area today. It also happened this past Sunday.",
+      "body": "@JeffreyRus24787 @nogps1 This haze is completely covering the Abuquerque area today. It also happened this past Sunday.",
+      "url": "https://x.com/ColesThermoAI/status/1984322024555336076",
+      "author": "704533062860681216",
+      "published_at": "2025-10-31T18:10:12",
+      "observed_at": "2026-09-10T03:53:54.260960",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 12,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1983268328316776675",
+      "title": "@ThunderForgeUS @calleymeans Have you tried carnivore diet? One month on a strict carnivore diet and your diabetes will likely be gone. You must cut all carbs f",
+      "body": "@ThunderForgeUS @calleymeans Have you tried carnivore diet? One month on a strict carnivore diet and your diabetes will likely be gone. You must cut all carbs from your diet. It's not about exercise - many athletes have diabetes. It's not about calories. It's all about cutting carbs",
+      "url": "https://x.com/ColesThermoAI/status/1983268328316776675",
+      "author": "704533062860681216",
+      "published_at": "2025-10-28T20:23:11",
+      "observed_at": "2026-09-10T03:53:54.262051",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 5,
+        "views": 263,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970253681082974393",
+      "title": "Today the US gov't has spoken on a potential cause of autism (Tylenol). However, they have unfortunately missed another key cause of autism: the plant toxin cal",
+      "body": "Today the US gov't has spoken on a potential cause of autism (Tylenol). However, they have unfortunately missed another key cause of autism: the plant toxin called OXALATE.\n\nThe carnivore diet is a well-known treatment for autism. Many parents have reversed autism using a carnivore diet. While carnivore works in many ways, a key reason carnivore is effective for autism because it eliminates oxalates from the diet. (Oxalates are only found in plant foods.) \n\nIf Tylenol was the only cause of autism, then it does not explain why carnivore diet treats autism.\n \nAntibiotics are also linked to autism because they wipe out the good bacteria in the gut, which then leads to a fungal infection. In turn, this fungus produces high amounts of oxalates (as a metabolic byproduct). Anti-fungal medications are highly effective at treating autism because they wipe out these oxalate-producing funguses. So once again, it all comes back to oxalates.\n\nVaccines are also linked to autism because many vaccines contain heavy metals (mercury or aluminum), and these heavy metals bind strongly to oxalate. These heavy metal / oxalate crystals are very strong, and they can form in the brain. Naturally, these sharp crystals can lead to tissue damage in the brain. In other words, oxalates and heavy metals work together to create a toxic combination.\n \nIn summary, the best approaches to avoid autism are all centered around reducing the impact of oxalates. Namely:\n\n(1) Avoid eating high oxalate foods, which are veggies/nuts/seeds. The carnivore diet is the easiest approach to avoid oxalate-rich foods.\n \n(2) Avoid heavy-metal containing vaccines. In principle, vaccines by themselves are not necessarily the issue. It is the heavy metals that are the issue.\n\n(3) Avoid taking antibiotics. Note that antibiotics are commonly given to newborn babies, and hence one would have to push back against this.\n \n(4) Take an anti-fungal medication to get rid of any fungal infections (which would be producing oxalate).\n \nMy source for this post is largely the research of Dr William Shaw. I am attaching below the links to Dr Shaw\u2019s work. \n\nBelow is a graph showing that the urine oxalate concentration is much higher for kids with autism, showing a correlation between oxalate levels and autism.",
+      "url": "https://x.com/ColesThermoAI/status/1970253681082974393",
+      "author": "704533062860681216",
+      "published_at": "2025-09-22T22:27:37",
+      "observed_at": "2026-09-10T03:53:54.262907",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 5,
+        "views": 802,
+        "reposts": 3,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970149740580155893",
+      "title": "@SBakerMD Dr Baker, given that the carnivore diet is an effective treatment for autism, has the carnivore community reached out to RFK's administration about th",
+      "body": "@SBakerMD Dr Baker, given that the carnivore diet is an effective treatment for autism, has the carnivore community reached out to RFK's administration about their autism study?",
+      "url": "https://x.com/ColesThermoAI/status/1970149740580155893",
+      "author": "704533062860681216",
+      "published_at": "2025-09-22T15:34:36",
+      "observed_at": "2026-09-10T03:53:54.265081",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 1,
+        "views": 1736,
+        "reposts": 0,
+        "replies": 4,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1966722579714220341",
+      "title": "I enjoyed telling my story of how the keto / carnivore diet helped me and my family. If you have some free time, check out my interviews with Dr. Sam Hy and Dav",
+      "body": "I enjoyed telling my story of how the keto / carnivore diet helped me and my family. If you have some free time, check out my interviews with Dr. Sam Hy and Dave Mac. \n \nInterview with Dr. Sam Hy: https://t.co/KthelniXv0\n\nInterview with Dave Mac: https://t.co/1CiQY26Ds5",
+      "url": "https://x.com/ColesThermoAI/status/1966722579714220341",
+      "author": "704533062860681216",
+      "published_at": "2025-09-13T04:36:17",
+      "observed_at": "2026-09-10T03:53:54.266242",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 6,
+        "views": 1098,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1963693632877383971",
+      "title": "Congrats to the Microsoft team on their analog computer, which employs both 3D optics and analog electronics. Exciting work! Great example of a physics-based AS",
+      "body": "Congrats to the Microsoft team on their analog computer, which employs both 3D optics and analog electronics. Exciting work! Great example of a physics-based ASIC.",
+      "url": "https://x.com/ColesThermoAI/status/1963693632877383971",
+      "author": "704533062860681216",
+      "published_at": "2025-09-04T20:00:20",
+      "observed_at": "2026-09-10T03:53:54.267116",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 4,
+        "views": 715,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1956056115701276900",
+      "title": "Nice article in @SemiEngineering where @thomasahle, Doyun, and Hrolfur discuss the impact of Multi-modal AI on EDA tools.",
+      "body": "Nice article in @SemiEngineering where @thomasahle, Doyun, and Hrolfur discuss the impact of Multi-modal AI on EDA tools.",
+      "url": "https://x.com/ColesThermoAI/status/1956056115701276900",
+      "author": "704533062860681216",
+      "published_at": "2025-08-14T18:11:34",
+      "observed_at": "2026-09-10T03:53:54.268878",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 7,
+        "views": 664,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1953525991625687330",
+      "title": "Normal is growing! Welcome Erik, Cameron, Arvind, Prashant, and Hanna!",
+      "body": "Normal is growing! Welcome Erik, Cameron, Arvind, Prashant, and Hanna!",
+      "url": "https://x.com/ColesThermoAI/status/1953525991625687330",
+      "author": "704533062860681216",
+      "published_at": "2025-08-07T18:37:45",
+      "observed_at": "2026-09-10T03:53:54.270008",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 8,
+        "views": 748,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1953121657255829981",
+      "title": "Today at 4pm ET, Max Aifer will be presenting our Physics-Based ASICs paper to the Active Inference Institute. Check out the live stream \ud83d\udc47",
+      "body": "Today at 4pm ET, Max Aifer will be presenting our Physics-Based ASICs paper to the Active Inference Institute. Check out the live stream \ud83d\udc47",
+      "url": "https://x.com/ColesThermoAI/status/1953121657255829981",
+      "author": "704533062860681216",
+      "published_at": "2025-08-06T15:51:04",
+      "observed_at": "2026-09-10T03:53:54.270821",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 18,
+        "views": 1013,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1945146193157480883",
+      "title": "For this Perspective article, we brought together leaders in the field from industry, academia, and the public sector. It was a great collaboration and highligh",
+      "body": "For this Perspective article, we brought together leaders in the field from industry, academia, and the public sector. It was a great collaboration and highlights the growing ecosystem around physics-based ASICs. \n\nWe gave careful thought for how to define the term \"physics-based ASIC\". We outlined various platforms, applications, scaling strategies, and future challenges.\n\nI'm hopeful this will be a useful reference for the field, providing a vision for the future.\n\nFeedback is welcome!",
+      "url": "https://x.com/ColesThermoAI/status/1945146193157480883",
+      "author": "704533062860681216",
+      "published_at": "2025-07-15T15:39:26",
+      "observed_at": "2026-09-10T03:53:54.271718",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 19,
+        "views": 1859,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1944985224045027780",
+      "title": "@noah_vandal @MaxAifer Yes, we briefly discuss memristors in our article",
+      "body": "@noah_vandal @MaxAifer Yes, we briefly discuss memristors in our article",
+      "url": "https://x.com/ColesThermoAI/status/1944985224045027780",
+      "author": "704533062860681216",
+      "published_at": "2025-07-15T04:59:48",
+      "observed_at": "2026-09-10T03:53:54.272598",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 40,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1937360959548629457",
+      "title": "Link to the blog post:\n\nhttps://t.co/ujdnkhW86O",
+      "body": "Link to the blog post:\n\nhttps://t.co/ujdnkhW86O",
+      "url": "https://x.com/ColesThermoAI/status/1937360959548629457",
+      "author": "704533062860681216",
+      "published_at": "2025-06-24T04:03:41",
+      "observed_at": "2026-09-10T03:53:54.273413",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 3,
+        "views": 312,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1917994767599976660",
+      "title": "@GaneshNatesh @S_Conradi @NormalComputing @FarisSbahi thanks Natesh!",
+      "body": "@GaneshNatesh @S_Conradi @NormalComputing @FarisSbahi thanks Natesh!",
+      "url": "https://x.com/ColesThermoAI/status/1917994767599976660",
+      "author": "704533062860681216",
+      "published_at": "2025-05-01T17:29:21",
+      "observed_at": "2026-09-10T03:53:54.274207",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 3,
+        "views": 64,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1914354727095242786",
+      "title": "@XirtamEsrevni yes! 100% right. \n\nLately I've been eating one meal around 10:30am and another meal at 3:30pm.",
+      "body": "@XirtamEsrevni yes! 100% right. \n\nLately I've been eating one meal around 10:30am and another meal at 3:30pm.",
+      "url": "https://x.com/ColesThermoAI/status/1914354727095242786",
+      "author": "704533062860681216",
+      "published_at": "2025-04-21T16:25:08",
+      "observed_at": "2026-09-10T03:53:54.275000",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 43,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1897056657420771638",
+      "title": "@S7gril Thanks Ava for your great work with @NFSCSpeak! \n\nI appreciated the NFSC's coverage of the DeepSeek reasoning model, and I mentioned it in my blog post:",
+      "body": "@S7gril Thanks Ava for your great work with @NFSCSpeak! \n\nI appreciated the NFSC's coverage of the DeepSeek reasoning model, and I mentioned it in my blog post:\n\nhttps://t.co/nglKe2Mtjq\n \nIn that post I highlight a growing trend of \"tech psyops\", potentially coming from the CCP.",
+      "url": "https://x.com/ColesThermoAI/status/1897056657420771638",
+      "author": "704533062860681216",
+      "published_at": "2025-03-04T22:48:47",
+      "observed_at": "2026-09-10T03:53:54.275855",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 0,
+        "views": 16,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1891302323819057646",
+      "title": "Indeed, this is a growing and exciting field.\n\nWe had similar thoughts in our vision paper (https://t.co/Cx6Cy5S7zm), where we cited your work as inspiration.\n\n",
+      "body": "Indeed, this is a growing and exciting field.\n\nWe had similar thoughts in our vision paper (https://t.co/Cx6Cy5S7zm), where we cited your work as inspiration.\n\nWe\u2019ve looked into various applications of this thermodynamic approach, like linear algebra and training neural nets (e.g., https://t.co/dlkKYJrQnh).\n\nAfter building our first prototype (https://t.co/VlBToR6rcB), we are now scaling in silicon, with support from @ARIA_research. ARIA\u2019s \u201cNature Computes Better\u201d programme has a similar vision as to what you outlined.",
+      "url": "https://x.com/ColesThermoAI/status/1891302323819057646",
+      "author": "704533062860681216",
+      "published_at": "2025-02-17T01:43:07",
+      "observed_at": "2026-09-10T03:53:54.277655",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 27,
+        "views": 1962,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1889740921287176254",
+      "title": "@bronzeagepapi Thanks! Really appreciate your engagement with our thermo work and next-gen compute more broadly. Exciting times \ud83d\ude80",
+      "body": "@bronzeagepapi Thanks! Really appreciate your engagement with our thermo work and next-gen compute more broadly. Exciting times \ud83d\ude80",
+      "url": "https://x.com/ColesThermoAI/status/1889740921287176254",
+      "author": "704533062860681216",
+      "published_at": "2025-02-12T18:18:39",
+      "observed_at": "2026-09-10T03:53:54.279740",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 54,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1874172246379450702",
+      "title": "Because I deep-dived on nutrition, I now have expertise on this topic. So I feel comfortable writing about it. \n\nFor example, I have another post on how keto ca",
+      "body": "Because I deep-dived on nutrition, I now have expertise on this topic. So I feel comfortable writing about it. \n\nFor example, I have another post on how keto can treat mental illness, discussing the inspiring stories of @ValerieAnne1970 and @HalCranmer \n \nhttps://t.co/5PXBASg6AD",
+      "url": "https://x.com/ColesThermoAI/status/1874172246379450702",
+      "author": "704533062860681216",
+      "published_at": "2024-12-31T19:14:18",
+      "observed_at": "2026-09-10T03:53:54.280841",
+      "metrics": {
+        "author_handle": "ColesThermoAI",
+        "author_followers": 4240,
+        "likes": 2,
+        "views": 91,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "handle": "nlpxuhui",
+  "total_tweets": 33,
+  "august_tweets": 5,
+  "tweets": [
+    {
+      "id": "2090465056937148715",
+      "title": "@hyunw_kim Thanks for all the collaborations and support \u2665\ufe0f",
+      "body": "@hyunw_kim Thanks for all the collaborations and support \u2665\ufe0f",
+      "url": "https://x.com/nlpxuhui/status/2090465056937148715",
+      "author": "1177300366620184576",
+      "published_at": "2026-08-20T15:44:43",
+      "observed_at": "2026-09-10T03:57:01.267443",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 2,
+        "views": 316,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090253483857649841",
+      "title": "for context, i recently defended my thesis and here are my slides: https://t.co/XieCPknj6v",
+      "body": "for context, i recently defended my thesis and here are my slides: https://t.co/XieCPknj6v",
+      "url": "https://x.com/nlpxuhui/status/2090253483857649841",
+      "author": "1177300366620184576",
+      "published_at": "2026-08-20T01:44:00",
+      "observed_at": "2026-09-10T03:57:01.269798",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 16,
+        "views": 873,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090253483647934961",
+      "title": "mom i'm a doctor now finally \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+      "body": "mom i'm a doctor now finally \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+      "url": "https://x.com/nlpxuhui/status/2090253483647934961",
+      "author": "1177300366620184576",
+      "published_at": "2026-08-20T01:44:00",
+      "observed_at": "2026-09-10T03:57:01.271360",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 154,
+        "views": 9894,
+        "reposts": 4,
+        "replies": 28,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085622027633971548",
+      "title": "Unsettling, but an extremely extremely important moment to be working on AI safety/alignment.\n\nhttps://t.co/8SMMyJNgVO",
+      "body": "Unsettling, but an extremely extremely important moment to be working on AI safety/alignment.\n\nhttps://t.co/8SMMyJNgVO",
+      "url": "https://x.com/nlpxuhui/status/2085622027633971548",
+      "author": "1177300366620184576",
+      "published_at": "2026-08-07T07:00:15",
+      "observed_at": "2026-09-10T03:57:01.272783",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 19,
+        "views": 3048,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084886975052701827",
+      "title": "I still remember people telling us AI deception was too hypothetical when we began this work. And here we are, when agents start to \"social engineering\"... \n\nht",
+      "body": "I still remember people telling us AI deception was too hypothetical when we began this work. And here we are, when agents start to \"social engineering\"... \n\nhttps://t.co/dOzueFs1Id",
+      "url": "https://x.com/nlpxuhui/status/2084886975052701827",
+      "author": "1177300366620184576",
+      "published_at": "2026-08-05T06:19:24",
+      "observed_at": "2026-09-10T03:57:01.274076",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 13,
+        "views": 2330,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2079677535135404143",
+      "title": "@MicahCarroll \ud83e\udee1\ud83e\udee1\ud83e\udee1",
+      "body": "@MicahCarroll \ud83e\udee1\ud83e\udee1\ud83e\udee1",
+      "url": "https://x.com/nlpxuhui/status/2079677535135404143",
+      "author": "1177300366620184576",
+      "published_at": "2026-07-21T21:18:57",
+      "observed_at": "2026-09-10T03:57:01.277059",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 3,
+        "views": 216,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077919611979452497",
+      "title": "\ud83d\udc10\ud83d\udc10\ud83d\udc10",
+      "body": "\ud83d\udc10\ud83d\udc10\ud83d\udc10",
+      "url": "https://x.com/nlpxuhui/status/2077919611979452497",
+      "author": "1177300366620184576",
+      "published_at": "2026-07-17T00:53:36",
+      "observed_at": "2026-09-10T03:57:01.278941",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 3,
+        "views": 1401,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077529889276911904",
+      "title": "July sees another exciting model release!! \n\nI also updated the benchmark matrix audit (https://t.co/PBFkQGjDI6).\n\nimo it\u2019s in general much easier to compare th",
+      "body": "July sees another exciting model release!! \n\nI also updated the benchmark matrix audit (https://t.co/PBFkQGjDI6).\n\nimo it\u2019s in general much easier to compare things when you make an outer product of benchmarks and model releases.\n\nAnd it\u2019s surprising how sparse that matrix is lol.",
+      "url": "https://x.com/nlpxuhui/status/2077529889276911904",
+      "author": "1177300366620184576",
+      "published_at": "2026-07-15T23:04:58",
+      "observed_at": "2026-09-10T03:57:01.280092",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 22,
+        "views": 2220,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2076771181169119427",
+      "title": "Imagining a (nearish) future where AI systems revolutionarily help diagnose diseases early, ease pain, save lives\u2026",
+      "body": "Imagining a (nearish) future where AI systems revolutionarily help diagnose diseases early, ease pain, save lives\u2026",
+      "url": "https://x.com/nlpxuhui/status/2076771181169119427",
+      "author": "1177300366620184576",
+      "published_at": "2026-07-13T20:50:08",
+      "observed_at": "2026-09-10T03:57:01.282701",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 5,
+        "views": 2095,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075461879825412407",
+      "title": "Excited to see so many new frontier model releases in June/July!! One lingering question I always have: Which benchmarks do different labs choose to report publ",
+      "body": "Excited to see so many new frontier model releases in June/July!! One lingering question I always have: Which benchmarks do different labs choose to report publicly for their releases, and what gets left out?\n\nAfter auditing 18 releases, 143 capability benchmarks, and 80 safety evals. A few things here:\n\n1. Reporting choices shape the story:  for 68 capability benchmark rows in the current matrix, 32 are unique; 36 are from two models +; only 3 appear in all four.  Safety reporting is even more fragmented: 71 of 80 rows appear once in the current four releases.\n\n2. Evaluation is moving toward real work: New additions concentrate on coding, professional tasks, agents/tools, and science.\n\n3. Benchmark reporting turns over quickly: Across 14 same-lab release transitions, only 56% of previously reported benchmark editions appear again in the next report; 44% drop out of public reporting (ofc for various reasons).\n\nAll in all, I keep coming back to the idea that a benchmark is one projection of model behavior.\n\nThese days, watching a model actually build a game can honestly feel more persuasive than another leaderboard point increase. \n\nTo some degree, it probably makes sense, as people fundamentally care about whether a model is capable, reliable, and pleasant to work with, not just whether it scores two points higher. But demos and vibes are not science either. \n\nWishful thoughts: advancing evaluation science to catch up with AI agents' fast-growing capabilities, more systematic/aligned safety reports, while expanding into more of the domains (e.g., 1. benchmarking agents about collaborating with humans 2. agents' abilities to simulate human behavior).\n\nAnd damn evaluation is getting harder these days in AI. so HUGE kudos to all the ppls pushing this frontier forward and building high-quality public benchmarks that help the whole field make progress \ud83e\udee1\ud83e\udee1\n\nMore details here: https://t.co/PBFkQGjDI6",
+      "url": "https://x.com/nlpxuhui/status/2075461879825412407",
+      "author": "1177300366620184576",
+      "published_at": "2026-07-10T06:07:27",
+      "observed_at": "2026-09-10T03:57:01.283847",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 22,
+        "views": 2061,
+        "reposts": 3,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075329790819905781",
+      "title": "curious why there's a 4-point ish gap between meta\u2019s and spacexai reported terminal-bench numbers for opus \ud83e\udd14 https://t.co/dSn5eKZ5qB",
+      "body": "curious why there's a 4-point ish gap between meta\u2019s and spacexai reported terminal-bench numbers for opus \ud83e\udd14 https://t.co/dSn5eKZ5qB",
+      "url": "https://x.com/nlpxuhui/status/2075329790819905781",
+      "author": "1177300366620184576",
+      "published_at": "2026-07-09T21:22:34",
+      "observed_at": "2026-09-10T03:57:01.287388",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 12,
+        "views": 3301,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2072077563120570582",
+      "title": "Great to see more and more works starting to focus on the user side of SWE!!",
+      "body": "Great to see more and more works starting to focus on the user side of SWE!!",
+      "url": "https://x.com/nlpxuhui/status/2072077563120570582",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-30T21:59:23",
+      "observed_at": "2026-09-10T03:57:01.289222",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 23,
+        "views": 3507,
+        "reposts": 4,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2072070758730510373",
+      "title": "@yifannnwu Nice work! We have some related works: https://t.co/BsDJCTQTLS\nhttps://t.co/uznLAjhuzZ",
+      "body": "@yifannnwu Nice work! We have some related works: https://t.co/BsDJCTQTLS\nhttps://t.co/uznLAjhuzZ",
+      "url": "https://x.com/nlpxuhui/status/2072070758730510373",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-30T21:32:20",
+      "observed_at": "2026-09-10T03:57:01.290872",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 9,
+        "views": 687,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2070676154793807929",
+      "title": "@JentseHuang Osim is a good model \ud83d\ude2d @MaartenSap @sunweiwei12",
+      "body": "@JentseHuang Osim is a good model \ud83d\ude2d @MaartenSap @sunweiwei12",
+      "url": "https://x.com/nlpxuhui/status/2070676154793807929",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-27T01:10:41",
+      "observed_at": "2026-09-10T03:57:01.295508",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 4,
+        "views": 193,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2069258587399180371",
+      "title": "@jocelynjshen @GoogleDeepMind Congrats!!!",
+      "body": "@jocelynjshen @GoogleDeepMind Congrats!!!",
+      "url": "https://x.com/nlpxuhui/status/2069258587399180371",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-23T03:17:46",
+      "observed_at": "2026-09-10T03:57:01.297576",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 3,
+        "views": 621,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2066013490272436733",
+      "title": "Now simulating a student that doesn\u2019t know recursion (I am actually surprised \ud83e\udd2f) https://t.co/Ss0SRV699e",
+      "body": "Now simulating a student that doesn\u2019t know recursion (I am actually surprised \ud83e\udd2f) https://t.co/Ss0SRV699e",
+      "url": "https://x.com/nlpxuhui/status/2066013490272436733",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-14T04:22:55",
+      "observed_at": "2026-09-10T03:57:01.299381",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 27,
+        "views": 5888,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065700867534426259",
+      "title": "Send me ur prompts and i could run things for ya \u2665\ufe0f",
+      "body": "Send me ur prompts and i could run things for ya \u2665\ufe0f",
+      "url": "https://x.com/nlpxuhui/status/2065700867534426259",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-13T07:40:40",
+      "observed_at": "2026-09-10T03:57:01.301293",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 2,
+        "views": 481,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065699918686327153",
+      "title": "For simulating an annoying customer at the airport, GPT-5.5 is defs a bit too \"kind\" (and weird ...)\n\nAlso plz don\u2019t tell me \u201cwhat if u prompt it better...\u201d htt",
+      "body": "For simulating an annoying customer at the airport, GPT-5.5 is defs a bit too \"kind\" (and weird ...)\n\nAlso plz don\u2019t tell me \u201cwhat if u prompt it better...\u201d https://t.co/iAEgoQ84q0",
+      "url": "https://x.com/nlpxuhui/status/2065699918686327153",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-13T07:36:54",
+      "observed_at": "2026-09-10T03:57:01.303095",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 18,
+        "views": 2980,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065588081236005161",
+      "title": "My friend wondered if we could simulate a TurboTax (@turbotax) customer running into technical issues.\n\nI quickly tried it with a prompt generated by Gemini, an",
+      "body": "My friend wondered if we could simulate a TurboTax (@turbotax) customer running into technical issues.\n\nI quickly tried it with a prompt generated by Gemini, and I think Osim is doing a good job! \ud83d\udc22 https://t.co/eJNIgd15Lh",
+      "url": "https://x.com/nlpxuhui/status/2065588081236005161",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-13T00:12:29",
+      "observed_at": "2026-09-10T03:57:01.306823",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 16,
+        "views": 2666,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065333627886645598",
+      "title": "I often hear people say: oh, we trained our own models, then the next frontier model dropped, and prompting/harnessing it beat all our hard work, so we give up ",
+      "body": "I often hear people say: oh, we trained our own models, then the next frontier model dropped, and prompting/harnessing it beat all our hard work, so we give up and just wait now, yadda yadda.\n\nTrue, for some applications, e.g., coding agents, this might be the case.\n\nBut I really suspect/hope the future will see more and more interesting models going on trajectories different from current frontier models (e.g, https://t.co/1LLzdgOgKv): \n\n1. It is much easier and more fun to train models now, with all the very successful coding powers and APIs like Tinker (yeah, I had so much fun building Osim). \n\n2. Current frontier models will most likely keep getting pulled deeper into their own narrative: stronger coding, more productivity, blabla.\n\nIntelligence comes in so many diverse forms, and I sincerely hope leading labs could help people expand the breadth and diversity of intelligence (and yeah, i got routed to opus 4.8 \ud83d\ude05).",
+      "url": "https://x.com/nlpxuhui/status/2065333627886645598",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-12T07:21:23",
+      "observed_at": "2026-09-10T03:57:01.311139",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 39,
+        "views": 6486,
+        "reposts": 5,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065292068830998901",
+      "title": "@MichelIvan92347 Thanks \u2764\ufe0f",
+      "body": "@MichelIvan92347 Thanks \u2764\ufe0f",
+      "url": "https://x.com/nlpxuhui/status/2065292068830998901",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-12T04:36:15",
+      "observed_at": "2026-09-10T03:57:01.314476",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 3,
+        "views": 389,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065117653497471417",
+      "title": "@sunweiwei12 @Jiarui_Liu_ @StigLidu @judysun233 @1000seagull \ud83d\udcc4 Paper: https://t.co/LF93oFjf3R\n\ud83e\udd17 Model: https://t.co/IqQLhSskyV\n\ud83e\udd17 Data: https://t.co/UqRQTmJzUf ;",
+      "body": "@sunweiwei12 @Jiarui_Liu_ @StigLidu @judysun233 @1000seagull \ud83d\udcc4 Paper: https://t.co/LF93oFjf3R\n\ud83e\udd17 Model: https://t.co/IqQLhSskyV\n\ud83e\udd17 Data: https://t.co/UqRQTmJzUf ; https://t.co/fFk1Y33uOQ\n\ud83d\udcbb Code: https://t.co/Yla3Gzq92a\n\nHave fun with our models and data!",
+      "url": "https://x.com/nlpxuhui/status/2065117653497471417",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T17:03:11",
+      "observed_at": "2026-09-10T03:57:01.316105",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 17,
+        "views": 1460,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065116057397010558",
+      "title": "We're just getting started, and this seems to be a very different path from what the current frontier models!\n\nHuge thanks to my amazing collaborators: \n@sunwei",
+      "body": "We're just getting started, and this seems to be a very different path from what the current frontier models!\n\nHuge thanks to my amazing collaborators: \n@sunweiwei12, who co-led the project with me! \ud83e\udee1\nand @Jiarui_Liu_ @StigLidu @judysun233 @1000seagull\nfor help\nand  @tongshuangwu Yiming @MaartenSap for great mentorship and strong support!",
+      "url": "https://x.com/nlpxuhui/status/2065116057397010558",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:56:50",
+      "observed_at": "2026-09-10T03:57:01.318332",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 9,
+        "views": 1097,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065114387183288501",
+      "title": "\ud83e\udded Key insight:\n\nHuman simulation isn't a prompting problem, and it isn't solved by scale. The most capable assistants are often the least human.\n\nBuilding simul",
+      "body": "\ud83e\udded Key insight:\n\nHuman simulation isn't a prompting problem, and it isn't solved by scale. The most capable assistants are often the least human.\n\nBuilding simulators means realigning the whole pipeline around behavioral realism: measure it (SOUL-Index), feed it (socially grounded data), and reward it (behavioral RL). That's what \"behavioral foundation model\" means.",
+      "url": "https://x.com/nlpxuhui/status/2065114387183288501",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:50:12",
+      "observed_at": "2026-09-10T03:57:01.320692",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 8,
+        "views": 875,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065114281742647565",
+      "title": "Training on LLM-judge rewards for *behavior* gets weird. Two failure modes we caught:\n\n\ud83d\udd75\ufe0f Judge manipulation: in Sotopia the model started inserting evaluation-",
+      "body": "Training on LLM-judge rewards for *behavior* gets weird. Two failure modes we caught:\n\n\ud83d\udd75\ufe0f Judge manipulation: in Sotopia the model started inserting evaluation-like statements into dialogue (\"our relationship score should be perfect\") instead of actually being social. In ~20-25% of rollouts!\n\n\ud83d\udcc9 Short-response collapse: when judges subtract points per detected error, the model learns to just say \"I'm fine.\" Fewer claims, fewer errors, higher reward.\n\nAn LLM hacking detector + rubric rewards mitigated both (ofc, there are defs more works to do there). If you do RL on judge-scored behavior, monitor the behavioral stats, not just the reward curve.",
+      "url": "https://x.com/nlpxuhui/status/2065114281742647565",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:49:47",
+      "observed_at": "2026-09-10T03:57:01.322231",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 8,
+        "views": 1066,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065113876342174116",
+      "title": "The part I find most interesting: we dropped OSim zero-shot into \u03c4-bench as the customer talking to a tool-use agent, and scored it against real humans doing th",
+      "body": "The part I find most interesting: we dropped OSim zero-shot into \u03c4-bench as the customer talking to a tool-use agent, and scored it against real humans doing the same 165 tasks (\u03c4-USI).\n\nOSim-8B's reactions are nearly indistinguishable from real users: React alignment 93.2 vs 93.5 for humans.\n\nMeanwhile, some of the most assistant-tuned frontier models are among the WORST user simulators. Their helpful, agreeable register is exactly what real users don't have. Helpfulness \u2260 humanity.",
+      "url": "https://x.com/nlpxuhui/status/2065113876342174116",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:48:10",
+      "observed_at": "2026-09-10T03:57:01.324395",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 8,
+        "views": 976,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065113568652259836",
+      "title": "\ud83d\udcc8 Results on SOUL-Index:\n\n\u2705 OSim-8B lands within ~1 point of GPT-5.5, Gemini 3.1 Pro & Claude Opus 4.7 on the 23-task average\n\u2705 best or tied-best on 8/23 tasks,",
+      "body": "\ud83d\udcc8 Results on SOUL-Index:\n\n\u2705 OSim-8B lands within ~1 point of GPT-5.5, Gemini 3.1 Pro & Claude Opus 4.7 on the 23-task average\n\u2705 best or tied-best on 8/23 tasks, more than any single frontier model\n\u2705 +18.0 over the best frontier model on user simulation (UserLLM), +16.8 on social interaction (Sotopia-Hard)\n\u2705 beats every prior open behavioral-simulation model (UserLM, CoSER, HumanLM, Sotopia-RL) nearly across the board\n\nAn 8B model. Open weights.",
+      "url": "https://x.com/nlpxuhui/status/2065113568652259836",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:46:57",
+      "observed_at": "2026-09-10T03:57:01.330218",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 10,
+        "views": 1129,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065113049812623674",
+      "title": "\ud83d\udca1 Step 3: training, in two very different stages.\n\nMidtraining on the corpus teaches the model what human behavior looks like. It shifts length, formatting, and",
+      "body": "\ud83d\udca1 Step 3: training, in two very different stages.\n\nMidtraining on the corpus teaches the model what human behavior looks like. It shifts length, formatting, and word choice toward the human register.\n\nThen we train one RL expert per benchmark, using verbal feedback from LLM judges where rewards aren't verifiable, and merge all 23 specialists into one model via expert distillation.\n\nFun ablation: the two stages do different jobs. Midtraining fixes the register; RL drives the benchmark gains.",
+      "url": "https://x.com/nlpxuhui/status/2065113049812623674",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:44:53",
+      "observed_at": "2026-09-10T03:57:01.332524",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 8,
+        "views": 1577,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065112538677915999",
+      "title": "\ud83d\udca1 Step 1: measure it. We built SOUL, 5 axes of human-like behavior (conversation, social skills, cognition/ToM, role-play, evaluation), and SOUL-Index, 23 bench",
+      "body": "\ud83d\udca1 Step 1: measure it. We built SOUL, 5 axes of human-like behavior (conversation, social skills, cognition/ToM, role-play, evaluation), and SOUL-Index, 23 benchmarks under one roof.\n\n\ud83d\udca1 Step 2: the data. 21.4M real human interactions (~10B tokens) from 62 sources. Most raw dialogue data has no idea WHO is talking or WHY. So we retrofit every conversation with back-generated social grounding (e.g., a character profile + interaction goal), and the model learns behavior grounded in context, not just text.",
+      "url": "https://x.com/nlpxuhui/status/2065112538677915999",
+      "author": "1177300366620184576",
+      "published_at": "2026-06-11T16:42:51",
+      "observed_at": "2026-09-10T03:57:01.334602",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 14,
+        "views": 2328,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034701578285064532",
+      "title": "Finally, don\u2019t throw out LLM-as-user benchmarks, but mind the gap!\n\n(1) Validate with real humans, at least on a sample\n(2) Design metrics beyond binary reward\n",
+      "body": "Finally, don\u2019t throw out LLM-as-user benchmarks, but mind the gap!\n\n(1) Validate with real humans, at least on a sample\n(2) Design metrics beyond binary reward\n(3) If building models for simulation, optimize for human faithfulness, not task completion\nWhat's the biggest gap you've seen between simulated and real users?\nPaper: https://t.co/7lp2fuGDTa\n\nThanks to my amazing collaborators: @sunweiwei12 @1000seagull @YiqingXieNLP @Jiarui_Liu_ @StigLidu @wellecks @yiming yang @gneubig  @tongshuangwu\n@MaartenSap",
+      "url": "https://x.com/nlpxuhui/status/2034701578285064532",
+      "author": "1177300366620184576",
+      "published_at": "2026-03-19T18:40:33",
+      "observed_at": "2026-09-10T03:57:01.336296",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 12,
+        "views": 798,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034701575323586576",
+      "title": "To nicely combine all those factors into a single number, we introduce the User Simulation Index (USI), 0\u2013100 across all dimensions.\n\nBest model: DeepSeek-V3.1 ",
+      "body": "To nicely combine all those factors into a single number, we introduce the User Simulation Index (USI), 0\u2013100 across all dimensions.\n\nBest model: DeepSeek-V3.1 \u2192 76.0\nHuman baseline \u2192 92.9\n\nSurprise: scaling doesn't reliably help.\nGeneral capability \u2260 faithful simulation. https://t.co/kyIWZHV8Pj",
+      "url": "https://x.com/nlpxuhui/status/2034701575323586576",
+      "author": "1177300366620184576",
+      "published_at": "2026-03-19T18:40:33",
+      "observed_at": "2026-09-10T03:57:01.338023",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 7,
+        "views": 699,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034701571834179823",
+      "title": "Furthermore, a lot of benchmarks (e.g, Tau-bench) use rule-based binary rewards: success (1) or failure (0). How well does this match what humans actually think",
+      "body": "Furthermore, a lot of benchmarks (e.g, Tau-bench) use rule-based binary rewards: success (1) or failure (0). How well does this match what humans actually think?\n\nIt doesn't.\n\n70.6% of reward=0 interactions were judged successful by humans.\n33% of reward=1 interactions were judged unsuccessful.\n\nCramer's V = 0.233. Nearly orthogonal.",
+      "url": "https://x.com/nlpxuhui/status/2034701571834179823",
+      "author": "1177300366620184576",
+      "published_at": "2026-03-19T18:40:32",
+      "observed_at": "2026-09-10T03:57:01.339580",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 5,
+        "views": 589,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034701568839205055",
+      "title": "It's not just simulated users. LLM evaluators are biased, too.\n\nGPT-5.1 overestimates the agent's human-likeness by +1.11 on a 1\u20133 scale. But it's actually cons",
+      "body": "It's not just simulated users. LLM evaluators are biased, too.\n\nGPT-5.1 overestimates the agent's human-likeness by +1.11 on a 1\u20133 scale. But it's actually conservative on task success.\n\nStrange inversion: LLMs think the agent sounds great but fails at tasks. Humans think it sounds robotic, but it gets the job done.",
+      "url": "https://x.com/nlpxuhui/status/2034701568839205055",
+      "author": "1177300366620184576",
+      "published_at": "2026-03-19T18:40:31",
+      "observed_at": "2026-09-10T03:57:01.342066",
+      "metrics": {
+        "author_handle": "nlpxuhui",
+        "author_followers": 2229,
+        "likes": 5,
+        "views": 605,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

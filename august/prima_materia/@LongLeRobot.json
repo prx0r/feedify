@@ -1,0 +1,520 @@
+{
+  "handle": "LongLeRobot",
+  "total_tweets": 27,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2095912093912355154",
+      "title": "Super thrilled that our paper has just been accepted to #CoRL2026! \ud83c\udf89\ud83e\udd73 See you in Texas!",
+      "body": "Super thrilled that our paper has just been accepted to #CoRL2026! \ud83c\udf89\ud83e\udd73 See you in Texas!",
+      "url": "https://x.com/LongLeRobot/status/2095912093912355154",
+      "author": "1002411537871433728",
+      "published_at": "2026-09-04T16:29:18",
+      "observed_at": "2026-09-10T03:57:23.361199",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 57,
+        "views": 5728,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2071637718786888054",
+      "title": "@JunyaoShi @sundayrobotics Congrats! \ud83c\udf8a",
+      "body": "@JunyaoShi @sundayrobotics Congrats! \ud83c\udf8a",
+      "url": "https://x.com/LongLeRobot/status/2071637718786888054",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-29T16:51:35",
+      "observed_at": "2026-09-10T03:57:23.362357",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 329,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2067493234469667101",
+      "title": "@JunyaoShi What academic reviewers also look for is **complexity**. Throw 20 random tricks in the stir and they\u2019d eat it up. Meanwhile, its the simple algorithm",
+      "body": "@JunyaoShi What academic reviewers also look for is **complexity**. Throw 20 random tricks in the stir and they\u2019d eat it up. Meanwhile, its the simple algorithms that scale and stand the test of time",
+      "url": "https://x.com/LongLeRobot/status/2067493234469667101",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-18T06:22:53",
+      "observed_at": "2026-09-10T03:57:23.363233",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 8,
+        "views": 234,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065179379886354478",
+      "title": "@zhiyuan_zhou_ @TimSong52005757 @hagsaeng_bag Yeah we decided to do the \u201cmathematically correct\u201d thing but lowkey the previous \u201cbug\u201d was just as performant and ",
+      "body": "@zhiyuan_zhou_ @TimSong52005757 @hagsaeng_bag Yeah we decided to do the \u201cmathematically correct\u201d thing but lowkey the previous \u201cbug\u201d was just as performant and **much** faster bc no backward pass",
+      "url": "https://x.com/LongLeRobot/status/2065179379886354478",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-11T21:08:27",
+      "observed_at": "2026-09-10T03:57:23.365136",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 66,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065106137804841037",
+      "title": "@zhiyuan_zhou_ Nice! When we (@TimSong52005757 @hagsaeng_bag ) were working on omniguide, we had a bug on our classifier guidance when we didn\u2019t enable grad, ef",
+      "body": "@zhiyuan_zhou_ Nice! When we (@TimSong52005757 @hagsaeng_bag ) were working on omniguide, we had a bug on our classifier guidance when we didn\u2019t enable grad, effectively setting Jacobian to 1 and it worked surprisingly well \ud83e\udee8Glad that this is observed by others as well \ud83d\ude0a",
+      "url": "https://x.com/LongLeRobot/status/2065106137804841037",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-11T16:17:25",
+      "observed_at": "2026-09-10T03:57:23.367353",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 5,
+        "views": 252,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2063280211932618828",
+      "title": "This continues our PIXIE line on fast 3D physics from pixels (https://t.co/hICbFk30KL) but \n- With a flow-matching backbone + generative model loss\n-  Support f",
+      "body": "This continues our PIXIE line on fast 3D physics from pixels (https://t.co/hICbFk30KL) but \n- With a flow-matching backbone + generative model loss\n-  Support for many physics solvers within a shared latent space. https://t.co/0I4TugWbUM",
+      "url": "https://x.com/LongLeRobot/status/2063280211932618828",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-06T15:21:51",
+      "observed_at": "2026-09-10T03:57:23.369200",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 3,
+        "views": 302,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2063280210154328196",
+      "title": "Project: https://t.co/qmwAtsILdg\nPaper: https://t.co/TiHQZ2Tpej\n\nBig idea: instead of predicting one deterministic material estimate, learn the physically plaus",
+      "body": "Project: https://t.co/qmwAtsILdg\nPaper: https://t.co/TiHQZ2Tpej\n\nBig idea: instead of predicting one deterministic material estimate, learn the physically plausible range and let \u03b1 move from soft \u2192 stiff. https://t.co/NBxa8nKpyh",
+      "url": "https://x.com/LongLeRobot/status/2063280210154328196",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-06T15:21:50",
+      "observed_at": "2026-09-10T03:57:23.370804",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 5,
+        "views": 440,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2063280207687991487",
+      "title": "From PIXIE \u2192 UniPixie: physics from pixels becomes *generative*.\n\nUniPixie learns a controllable soft\u2194stiff spectrum of 3D physical properties from visual input",
+      "body": "From PIXIE \u2192 UniPixie: physics from pixels becomes *generative*.\n\nUniPixie learns a controllable soft\u2194stiff spectrum of 3D physical properties from visual input, across simulators: MPM/LBS/spring-mass.\n\n#CVPR2026 Highlight \u2728\nPoster: ExHall F, 11:45 AM today. Come say hi! https://t.co/wVyOrtycYc",
+      "url": "https://x.com/LongLeRobot/status/2063280207687991487",
+      "author": "1002411537871433728",
+      "published_at": "2026-06-06T15:21:50",
+      "observed_at": "2026-09-10T03:57:23.372540",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 62,
+        "views": 13445,
+        "reposts": 8,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2053191648432046230",
+      "title": "@Huangyu58589918 @GoogleDeepMind yes!!! I\u2019ll probably can catch you in the office!",
+      "body": "@Huangyu58589918 @GoogleDeepMind yes!!! I\u2019ll probably can catch you in the office!",
+      "url": "https://x.com/LongLeRobot/status/2053191648432046230",
+      "author": "1002411537871433728",
+      "published_at": "2026-05-09T19:13:30",
+      "observed_at": "2026-09-10T03:57:23.374264",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 5,
+        "views": 496,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2053136969396285819",
+      "title": "Personal news: I\u2019m joining @GoogleDeepMind NYC this summer as a Student Researcher on the Robotics team!\n \n4 years ago, I left Google to start my PhD. Now I get",
+      "body": "Personal news: I\u2019m joining @GoogleDeepMind NYC this summer as a Student Researcher on the Robotics team!\n \n4 years ago, I left Google to start my PhD. Now I get to come back and work on humanoid robot learning.  \n\nFull loop closure, as the SLAM nerds would say. NYC folks\u2014say hi! https://t.co/O3M0nhJYM7",
+      "url": "https://x.com/LongLeRobot/status/2053136969396285819",
+      "author": "1002411537871433728",
+      "published_at": "2026-05-09T15:36:13",
+      "observed_at": "2026-09-10T03:57:23.374916",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 943,
+        "views": 42062,
+        "reposts": 23,
+        "replies": 47,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032860332704866430",
+      "title": "For this project, we\u2019ve also optimized the speed significantly and shown real-time demos to several visitors coming to Penn including @chris_j_paxton and @DJiaf",
+      "body": "For this project, we\u2019ve also optimized the speed significantly and shown real-time demos to several visitors coming to Penn including @chris_j_paxton and @DJiafei. Here\u2019s a video of the robot finishing a task in 20 secs autonomously https://t.co/f58K6Rbi1Q",
+      "url": "https://x.com/LongLeRobot/status/2032860332704866430",
+      "author": "1002411537871433728",
+      "published_at": "2026-03-14T16:44:06",
+      "observed_at": "2026-09-10T03:57:23.376287",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 63,
+        "views": 13762,
+        "reposts": 12,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032274334094672195",
+      "title": "Check out my most recent project that I've been working on for more than half a year -- co-led with Tim @TimSong52005757!\nWe showed a flexible and effective rec",
+      "body": "Check out my most recent project that I've been working on for more than half a year -- co-led with Tim @TimSong52005757!\nWe showed a flexible and effective recipe for improving generalist VLAs leveraging non-robotic foundation models! The key is guidance in 3D!\nMore details @ https://t.co/aBauZS5TiT",
+      "url": "https://x.com/LongLeRobot/status/2032274334094672195",
+      "author": "1002411537871433728",
+      "published_at": "2026-03-13T01:55:33",
+      "observed_at": "2026-09-10T03:57:23.378009",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 31,
+        "views": 7587,
+        "reposts": 8,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1983975475224469705",
+      "title": "Nice to see more works on feed-forward prediction of physics!",
+      "body": "Nice to see more works on feed-forward prediction of physics!",
+      "url": "https://x.com/LongLeRobot/status/1983975475224469705",
+      "author": "1002411537871433728",
+      "published_at": "2025-10-30T19:13:08",
+      "observed_at": "2026-09-10T03:57:23.378936",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 8,
+        "views": 851,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961278888405061810",
+      "title": "Those who works in robot sim2real knows that the visual gap is very real and non-trivial \ud83d\ude24\nso it was very exciting to see Pixie zero-shot generalize to real-wor",
+      "body": "Those who works in robot sim2real knows that the visual gap is very real and non-trivial \ud83d\ude24\nso it was very exciting to see Pixie zero-shot generalize to real-world scenes out of the box!\n\n(P.S. I also had a lot of fun making these web visualization @ https://t.co/Gb2OhPf3a7)",
+      "url": "https://x.com/LongLeRobot/status/1961278888405061810",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-29T04:05:00",
+      "observed_at": "2026-09-10T03:57:23.379582",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 14,
+        "views": 723,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961139702028964211",
+      "title": "For more details, please see our:\n\n\ud83c\udf10 https://t.co/hICbFk3yAj\n\ud83d\udcd6 https://t.co/7bmEK6TlQe\n\ud83d\udcbb https://t.co/U82w13TFlP\n\n\ud83e\udef6 Joint work with my amazing collaborators @bu",
+      "body": "For more details, please see our:\n\n\ud83c\udf10 https://t.co/hICbFk3yAj\n\ud83d\udcd6 https://t.co/7bmEK6TlQe\n\ud83d\udcbb https://t.co/U82w13TFlP\n\n\ud83e\udef6 Joint work with my amazing collaborators @burrhhh , @chenwangcw, @MorPhLingXD, and the faculty @dineshjayaraman, @EricREaton and @LingjieLiu1!",
+      "url": "https://x.com/LongLeRobot/status/1961139702028964211",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-28T18:51:55",
+      "observed_at": "2026-09-10T03:57:23.380979",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 5,
+        "views": 467,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961139700443361679",
+      "title": "Despite ever only been trained on synthetic data, Pixie can zero-shot generalize to real-world scenes, which I found very surprising \ud83e\udd2f! \ud83d\udc47 are the NeRF scenes th",
+      "body": "Despite ever only been trained on synthetic data, Pixie can zero-shot generalize to real-world scenes, which I found very surprising \ud83e\udd2f! \ud83d\udc47 are the NeRF scenes that you know and love but now interactable with physics! https://t.co/jbRM9xvUVD",
+      "url": "https://x.com/LongLeRobot/status/1961139700443361679",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-28T18:51:55",
+      "observed_at": "2026-09-10T03:57:23.382561",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 6,
+        "views": 323,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961139697888948734",
+      "title": "The result? Pixie produces physics that are 1.5\u20134.4\u00d7 more realistic while running 10\u00b3\u00d7 faster than prior works! \ud83d\udd25",
+      "body": "The result? Pixie produces physics that are 1.5\u20134.4\u00d7 more realistic while running 10\u00b3\u00d7 faster than prior works! \ud83d\udd25",
+      "url": "https://x.com/LongLeRobot/status/1961139697888948734",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-28T18:51:54",
+      "observed_at": "2026-09-10T03:57:23.384321",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 5,
+        "views": 271,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961139696278405575",
+      "title": "Pixie overcome these drawbacks by learning one single feed-forward data-driven model across all scenes on our custom PixieVerse dataset, making inference fast, ",
+      "body": "Pixie overcome these drawbacks by learning one single feed-forward data-driven model across all scenes on our custom PixieVerse dataset, making inference fast, generalizable and accurate!",
+      "url": "https://x.com/LongLeRobot/status/1961139696278405575",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-28T18:51:54",
+      "observed_at": "2026-09-10T03:57:23.385023",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 7,
+        "views": 273,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961139694609059880",
+      "title": "Prior work extends diff rendering to also optimize physics params. But this needs ground-truth motion or multi-view videos (hard to obtain), or substitutes vide",
+      "body": "Prior work extends diff rendering to also optimize physics params. But this needs ground-truth motion or multi-view videos (hard to obtain), or substitutes video diffusion priors. The catch: these methods are scene-specific, (very) slow, and often inaccurate (need good initialization).",
+      "url": "https://x.com/LongLeRobot/status/1961139694609059880",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-28T18:51:54",
+      "observed_at": "2026-09-10T03:57:23.387331",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 4,
+        "views": 335,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961139692218294729",
+      "title": "Why Learn Physics Field?\n\nNeRF/3DGS capture static appearance but no dynamics.\n\nPhysGaussian showed that in addition to the usual learned colors, appending phys",
+      "body": "Why Learn Physics Field?\n\nNeRF/3DGS capture static appearance but no dynamics.\n\nPhysGaussian showed that in addition to the usual learned colors, appending physics params to each 3D point makes things move. But how would you even get those physics params in the first place?",
+      "url": "https://x.com/LongLeRobot/status/1961139692218294729",
+      "author": "1002411537871433728",
+      "published_at": "2025-08-28T18:51:53",
+      "observed_at": "2026-09-10T03:57:23.388457",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 6,
+        "views": 567,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1930099178291470808",
+      "title": "@AlexHe00880585 Wow, this website is really nice \ud83d\ude40",
+      "body": "@AlexHe00880585 Wow, this website is really nice \ud83d\ude40",
+      "url": "https://x.com/LongLeRobot/status/1930099178291470808",
+      "author": "1002411537871433728",
+      "published_at": "2025-06-04T03:07:58",
+      "observed_at": "2026-09-10T03:57:23.392097",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 3,
+        "views": 185,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1927552511876977094",
+      "title": "@PeterHndrsn @marcel_hussing has also done a lot of work in replicable RL that might be interesting to you",
+      "body": "@PeterHndrsn @marcel_hussing has also done a lot of work in replicable RL that might be interesting to you",
+      "url": "https://x.com/LongLeRobot/status/1927552511876977094",
+      "author": "1002411537871433728",
+      "published_at": "2025-05-28T02:28:25",
+      "observed_at": "2026-09-10T03:57:23.393314",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 772,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1923578042917777434",
+      "title": "@YueYangAI @allen_ai Congrats Yue!",
+      "body": "@YueYangAI @allen_ai Congrats Yue!",
+      "url": "https://x.com/LongLeRobot/status/1923578042917777434",
+      "author": "1002411537871433728",
+      "published_at": "2025-05-17T03:15:18",
+      "observed_at": "2026-09-10T03:57:23.394077",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 99,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1893490508078489820",
+      "title": "@g_k_swamy Is this some indexing bug \ud83d\ude02? He\u2019s not actually in the papers listed",
+      "body": "@g_k_swamy Is this some indexing bug \ud83d\ude02? He\u2019s not actually in the papers listed",
+      "url": "https://x.com/LongLeRobot/status/1893490508078489820",
+      "author": "1002411537871433728",
+      "published_at": "2025-02-23T02:38:11",
+      "observed_at": "2026-09-10T03:57:23.394778",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 72,
+        "views": 24017,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1886953748779463097",
+      "title": "@Stone_Tao @andersonbcdefg Do you mind sharing the list? This sounds super interesting!",
+      "body": "@Stone_Tao @andersonbcdefg Do you mind sharing the list? This sounds super interesting!",
+      "url": "https://x.com/LongLeRobot/status/1886953748779463097",
+      "author": "1002411537871433728",
+      "published_at": "2025-02-05T01:43:26",
+      "observed_at": "2026-09-10T03:57:23.395509",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 36,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1882631454292926645",
+      "title": "@_k_sridhar @atemyipod For humans at least, keyboard and mouse for teleportation is pretty awkward. I collected some demos using keyboard and mouse and it was p",
+      "body": "@_k_sridhar @atemyipod For humans at least, keyboard and mouse for teleportation is pretty awkward. I collected some demos using keyboard and mouse and it was painful \ud83d\ude23 People usually use gello arm or VR.",
+      "url": "https://x.com/LongLeRobot/status/1882631454292926645",
+      "author": "1002411537871433728",
+      "published_at": "2025-01-24T03:28:10",
+      "observed_at": "2026-09-10T03:57:23.397303",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 57,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1882109071739990383",
+      "title": "@KyleVedder congrats \ud83c\udf89!",
+      "body": "@KyleVedder congrats \ud83c\udf89!",
+      "url": "https://x.com/LongLeRobot/status/1882109071739990383",
+      "author": "1002411537871433728",
+      "published_at": "2025-01-22T16:52:25",
+      "observed_at": "2026-09-10T03:57:23.398248",
+      "metrics": {
+        "author_handle": "LongLeRobot",
+        "author_followers": 841,
+        "likes": 2,
+        "views": 47,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

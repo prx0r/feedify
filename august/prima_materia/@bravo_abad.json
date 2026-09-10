@@ -1,0 +1,710 @@
+{
+  "handle": "bravo_abad",
+  "total_tweets": 37,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2097741471793270823",
+      "title": "Train on what you know, let the biology emerge in the representation\n\nScientific labels are often noisy or incomplete. Sometimes the better strategy is not to t",
+      "body": "Train on what you know, let the biology emerge in the representation\n\nScientific labels are often noisy or incomplete. Sometimes the better strategy is not to train the model on the biological concept you ultimately want to discover.\n\nKrentzel and coauthors train an EfficientNet-B0 on a much cleaner task: given a brightfield image of bacteria, predict which antibiotic and concentration produced it.\n\nThe network is never explicitly trained to recognize how the drug works. Yet antibiotics with the same mechanism naturally end up close together in the learned feature space. The representation captures biological similarity even though the supervision contains only experimental-condition labels.\n\nThat becomes useful for compounds the model has never seen. A simple nearest-neighbour search in this feature space assigns unseen antibiotics to known mechanisms, and even predicted that relebactam targets PBP2, a result the authors then confirmed experimentally with an independent binding assay.\n\nWhen the scientific label is uncertain, train on the experimental facts you know reliably and ask whether the biology organizes itself in the learned representation.\n\nKrentzel et al., Nature Communications (2026), CC BY 4.0. https://t.co/vdW9sPgBzh",
+      "url": "https://x.com/bravo_abad/status/2097741471793270823",
+      "author": "1976371410",
+      "published_at": "2026-09-09T17:38:35",
+      "observed_at": "2026-09-10T03:55:56.191317",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 8,
+        "views": 318,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097717919467905221",
+      "title": "Better AI-for-science should mean smarter use of the same budget\n\nA fair AI benchmark should ask whether the model can use the same resources more intelligently",
+      "body": "Better AI-for-science should mean smarter use of the same budget\n\nA fair AI benchmark should ask whether the model can use the same resources more intelligently, not whether it can win by using more.\n\nThat is exactly what Zimmer and coauthors do for glioblastoma radiotherapy. A model could trivially cover more of a future tumor recurrence by treating a larger region of the brain, so they forbid that. Every AI-generated treatment region must have exactly the same volume as the standard plan.\n\nThe U-Net predicts where the tumor is most likely to return and redistributes that fixed treatment volume toward those higher-risk areas.\n\nWith no extra treatment volume, coverage of future recurrence increases from 77.34% to 79.37%, with gains of at least 5 percentage points in 19.3% of patients.\n\nThe idea is much broader than medicine: whether the scarce resource is experiments, simulation calls, measurements, energy, or treatment volume, compare AI systems at the same budget. Otherwise, \u201cbetter\u201d may simply mean \u201cmore.\u201d\n\nZimmer et al., npj Digital Medicine (2026), CC BY 4.0. https://t.co/LACWCn6hFw",
+      "url": "https://x.com/bravo_abad/status/2097717919467905221",
+      "author": "1976371410",
+      "published_at": "2026-09-09T16:05:00",
+      "observed_at": "2026-09-10T03:55:56.195362",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 3,
+        "views": 355,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097702066785288552",
+      "title": "Bayesian optimization turns a trusted physics simulator into an autonomous surface-structure solver\n\nFor electron diffraction, predicting the spectrum from a kn",
+      "body": "Bayesian optimization turns a trusted physics simulator into an autonomous surface-structure solver\n\nFor electron diffraction, predicting the spectrum from a known surface is already possible. The difficult part is running that physics backward: finding the atomic structure that produced the measured spectrum.\n\nTang and coauthors do not train a neural network to learn that inverse map. They keep the full multiple-scattering simulator inside the loop and use Bayesian optimization to decide which candidate structure should be simulated next.\n\nThe clever part is the division of labor: physics evaluates each candidate; ML decides where to search. Crystallographic symmetry reduces the search space, while adaptive trust regions move between broad exploration and local refinement.\n\nThat also lets quantities normally tuned in separate manual steps (atomic positions, thermal vibrations, even experimental beam alignment) be optimized together.\n\nFor the more complex Fe\u2082O\u2083 surface, the method handles a 53-variable inverse problem in a single automated loop, recovering a physically consistent structure and experimental incidence angle without the usual manually defined refinement hierarchy.\n\nIf the forward physics is trustworthy but inversion is expensive, don\u2019t necessarily learn the inverse model. Keep the simulator and learn how to search it efficiently.\n\nTang et al., npj Computational Materials (2026), CC BY 4.0. https://t.co/912kl91BKb",
+      "url": "https://x.com/bravo_abad/status/2097702066785288552",
+      "author": "1976371410",
+      "published_at": "2026-09-09T15:02:00",
+      "observed_at": "2026-09-10T03:55:56.198746",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 16,
+        "views": 678,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097689198534758623",
+      "title": "Inteligencia artificial para estudiantes de ciencias, Ediciones Pir\u00e1mide, 2026.\nAvailable here:\n\nhttps://t.co/9g5EjiZcMy",
+      "body": "Inteligencia artificial para estudiantes de ciencias, Ediciones Pir\u00e1mide, 2026.\nAvailable here:\n\nhttps://t.co/9g5EjiZcMy",
+      "url": "https://x.com/bravo_abad/status/2097689198534758623",
+      "author": "1976371410",
+      "published_at": "2026-09-09T14:10:52",
+      "observed_at": "2026-09-10T03:55:56.201311",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 0,
+        "views": 128,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097689113155572016",
+      "title": "In science, model capacity is only useful if your data can support it\n\nData scarcity is common in scientific problems. In that regime, increasing complexity oft",
+      "body": "In science, model capacity is only useful if your data can support it\n\nData scarcity is common in scientific problems. In that regime, increasing complexity often buys you variance before it buys you performance.\n\nA classical ML model or a shallow network may reach its useful regime quickly, while a deeper model can require much more data before its extra capacity becomes an advantage.\n\nSo the relevant question is not:\n\n\u201cWhich model is more powerful?\u201d\n\nIt is:\n\n\u201cDo I have enough data to exploit that power?\u201d\n\nA practical way to check is with a learning curve: train on progressively larger fractions of the dataset and track validation performance. If the curve has already saturated, more capacity may not help. If performance is still climbing strongly, a more expressive model may have room to win.\n\nIn experimental science, model selection is partly a question of where you are on the data axis.\n\nThis is one of the ideas I discuss in my textbook Inteligencia artificial para estudiantes de ciencias (Ediciones Pir\u00e1mide).",
+      "url": "https://x.com/bravo_abad/status/2097689113155572016",
+      "author": "1976371410",
+      "published_at": "2026-09-09T14:10:32",
+      "observed_at": "2026-09-10T03:55:56.202895",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 15,
+        "views": 588,
+        "reposts": 6,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097676773890687300",
+      "title": "The right pretraining data lets a 110M DNA model rival a 7B model at finding hidden viral DNA\n\nBigger is not always better if the model has learned from the wro",
+      "body": "The right pretraining data lets a 110M DNA model rival a 7B model at finding hidden viral DNA\n\nBigger is not always better if the model has learned from the wrong biology.\n\nFinding prophages means locating viral DNA embedded inside bacterial genomes. Lindsey and coauthors use this as a stress test for genomic language models trained on very different kinds of DNA.\n\nThe striking comparison is ProkBERT-mini-long, a BERT-style model pretrained specifically on prokaryotic DNA, against EVO2, a 7-billion-parameter genomic model trained across many species.\n\nProkBERT-mini-long is roughly 60\u00d7 smaller, yet its genome-wide detection performance is almost the same: 0.700 versus 0.719.\n\nThe useful lesson goes well beyond genomics: before scaling a scientific foundation model, ask whether its pretraining data actually contain the world you want it to understand. Better domain alignment can buy more than billions of extra parameters.\n\nLindsey et al., NAR Genomics and Bioinformatics (2026), https://t.co/6no6lI3y9Y",
+      "url": "https://x.com/bravo_abad/status/2097676773890687300",
+      "author": "1976371410",
+      "published_at": "2026-09-09T13:21:30",
+      "observed_at": "2026-09-10T03:55:56.204231",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 7,
+        "views": 626,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097330028979573206",
+      "title": "Physical feature learning in a random laser enables few-shot vision\n\nA random laser doesn\u2019t need to be trained to become a neural network. Its physics already d",
+      "body": "Physical feature learning in a random laser enables few-shot vision\n\nA random laser doesn\u2019t need to be trained to become a neural network. Its physics already does much of the feature extraction.\n\nIn the 150-\u03bcm InP network, many lasing modes overlap and compete for the same optical gain. Some modes are activated while others are suppressed, creating excitatory and inhibitory nonlinear responses that make different modes sensitive to different image features in parallel.\n\nNg and coauthors then keep that physical network fixed and train only a simple linear readout on the resulting hyperspectral responses. The useful representation comes from the device\u2019s disorder, mode competition, and heterogeneous nonlinearities, not from backpropagating through millions of weights.\n\nOn the BreakHis breast-cancer histology task, the system reaches 77.7% accuracy from just 10 training images, and outperforms their pretrained vision-transformer benchmark up to 200 training images.\n\nWhen the physics already gives you a useful representation, train around it, not through it.\n\nNg et al., Science Advances (2026), CC BY 4.0. https://t.co/meHI2Ey3Ah",
+      "url": "https://x.com/bravo_abad/status/2097330028979573206",
+      "author": "1976371410",
+      "published_at": "2026-09-08T14:23:40",
+      "observed_at": "2026-09-10T03:55:56.206606",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 9,
+        "views": 537,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097237561722683446",
+      "title": "Inteligencia artificial para estudiantes de ciencias, Ediciones Pir\u00e1mide, 2026.\nAvailable here: https://t.co/cIe9qS5dhz",
+      "body": "Inteligencia artificial para estudiantes de ciencias, Ediciones Pir\u00e1mide, 2026.\nAvailable here: https://t.co/cIe9qS5dhz",
+      "url": "https://x.com/bravo_abad/status/2097237561722683446",
+      "author": "1976371410",
+      "published_at": "2026-09-08T08:16:14",
+      "observed_at": "2026-09-10T03:55:56.211635",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 0,
+        "views": 192,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097236763932496036",
+      "title": "The most useful machine-learning model in a scientific lab is often not a neural network.\n\nA biologist with 50 patient samples, a chemist with 100 synthesized c",
+      "body": "The most useful machine-learning model in a scientific lab is often not a neural network.\n\nA biologist with 50 patient samples, a chemist with 100 synthesized compounds, or a physicist with a few hundred expensive measurements is working in a very different regime from the datasets that made deep learning famous.\n\nIn that regime, regularized regression, random forests, SVMs or Gaussian processes can be the better tools, especially when uncertainty and honest validation matter as much as raw accuracy.\n\nDeep learning is extraordinarily powerful. But sophistication is not the goal. The goal is to use the model that matches the science and the data.\n\nThat is one of the first ideas in my new textbook, \"Inteligencia artificial para estudiantes de ciencias\" (Ediciones Pir\u00e1mide).",
+      "url": "https://x.com/bravo_abad/status/2097236763932496036",
+      "author": "1976371410",
+      "published_at": "2026-09-08T08:13:03",
+      "observed_at": "2026-09-10T03:55:56.212637",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 17,
+        "views": 881,
+        "reposts": 5,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097218881118969988",
+      "title": "Teach a graph neural network where a protein starts shouldn\u2019t matter and hidden structural relationships emerge\n\nTwo proteins can have essentially the same 3D f",
+      "body": "Teach a graph neural network where a protein starts shouldn\u2019t matter and hidden structural relationships emerge\n\nTwo proteins can have essentially the same 3D fold even when their chains start and end at different positions. Yet structure-search models can miss that relationship because their embeddings still encode where the protein chain begins and ends.\n\nKolodziej and coauthors take a very direct approach with CIRPIN. They train an E(n)-equivariant graph neural network on synthetic circular permutations of protein structures, using supervised contrastive learning so that different reorderings of the same structural topology land close together in embedding space.\n\nThe important point is that they do not throw away positional information. They teach the model which changes in that information should not matter.\n\nThat is enough to uncover protein relationships hidden from conventional searches, including four distinct topological forms of the PDZ domain related by circular permutation.\n\nFor AI for Science: if you already know which transformations should preserve scientific meaning, don\u2019t make the model rediscover that invariance from scratch. Put it into the training process.\n\nKolodziej et al., PNAS (2026), CC BY 4.0. https://t.co/Du8OoxAqnU",
+      "url": "https://x.com/bravo_abad/status/2097218881118969988",
+      "author": "1976371410",
+      "published_at": "2026-09-08T07:02:00",
+      "observed_at": "2026-09-10T03:55:56.214868",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 63,
+        "views": 2628,
+        "reposts": 13,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096986260610994331",
+      "title": "Una distinci\u00f3n mil veces contada.\n\nLa IA contiene al aprendizaje autom\u00e1tico. El aprendizaje autom\u00e1tico contiene al deep learning.\n\nLa lectura habitual: lo inter",
+      "body": "Una distinci\u00f3n mil veces contada.\n\nLa IA contiene al aprendizaje autom\u00e1tico. El aprendizaje autom\u00e1tico contiene al deep learning.\n\nLa lectura habitual: lo interesante est\u00e1 en el centro.\n\nLa realidad en un laboratorio cient\u00edfico: lo interesante a veces est\u00e1 en el anillo de en medio.\n\nDoscientos puntos de un experimento a veces no piden una red profunda. Piden un proceso gaussiano, un bosque aleatorio o una regresi\u00f3n con regularizaci\u00f3n. Y sobre todo piden barras de error, porque la barra de error es lo que decide qu\u00e9 mides despu\u00e9s.\n\nNo todo el aprendizaje autom\u00e1tico es deep learning. Y en IA para ciencia, lo cl\u00e1sico a veces no es lo antiguo sino lo adecuado.\n\nhttps://t.co/OHyit1aHnA",
+      "url": "https://x.com/bravo_abad/status/2096986260610994331",
+      "author": "1976371410",
+      "published_at": "2026-09-07T15:37:39",
+      "observed_at": "2026-09-10T03:55:56.217499",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 510,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096965093594394682",
+      "title": "Muy necesario este debate. Es tambi\u00e9n una de las razones por las que escrib\u00ed \"Inteligencia artificial para estudiantes de ciencias\": necesitamos formar a los fu",
+      "body": "Muy necesario este debate. Es tambi\u00e9n una de las razones por las que escrib\u00ed \"Inteligencia artificial para estudiantes de ciencias\": necesitamos formar a los futuros cient\u00edficos/as no solo para usar IA, sino para entender qu\u00e9 est\u00e1 haciendo realmente, c\u00f3mo validarla y cu\u00e1ndo debemos confiar en ella. La IA puede acelerar la ciencia, pero el criterio cient\u00edfico sigue siendo insustituible.",
+      "url": "https://x.com/bravo_abad/status/2096965093594394682",
+      "author": "1976371410",
+      "published_at": "2026-09-07T14:13:32",
+      "observed_at": "2026-09-10T03:55:56.220223",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 3,
+        "views": 167,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096963366937837955",
+      "title": "Don\u2019t make ML solve a bad intermediate problem\n\nMany scientific pipelines contain an intermediate step that exists mostly because that is how the field has trad",
+      "body": "Don\u2019t make ML solve a bad intermediate problem\n\nMany scientific pipelines contain an intermediate step that exists mostly because that is how the field has traditionally processed the data.\n\nHere, multiview calcium imaging is usually turned into a reconstructed 3D volume before neurons are extracted. But that reconstruction is itself ill-posed: scattering and noise can create errors before the biological analysis even starts.\n\nChen and coauthors avoid that step. DeepWonder3D works directly on the multiview projections, using 3D U-Nets for denoising, background removal and neuronal extraction, then combining temporal agreement across views with a physics-based optical model to recover each neuron\u2019s 3D position.\n\nOn terabyte-scale cortical recordings, the pipeline extracts thousands of neurons in hours and runs about 10\u00d7 faster than the reconstruction-based comparison method.\n\nSometimes the best model improvement is not a better network, but removing an unstable intermediate representation from the workflow.\n\nChen et al., Nature Methods (2026), journal license, https://t.co/89emL8mO3u",
+      "url": "https://x.com/bravo_abad/status/2096963366937837955",
+      "author": "1976371410",
+      "published_at": "2026-09-07T14:06:41",
+      "observed_at": "2026-09-10T03:55:56.221852",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 11,
+        "views": 772,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096911442888822872",
+      "title": "Synthetic-physics training lets a vision transformer detect weaker methane plumes from space\n\nTraining a model to find methane leaks from space runs into a fami",
+      "body": "Synthetic-physics training lets a vision transformer detect weaker methane plumes from space\n\nTraining a model to find methane leaks from space runs into a familiar problem for the AI-for-science community: satellite images are abundant, but exact labels for where each plume is, how strong it is, and where it starts are not.\n\nBatchu and coauthors solve this by simulating 3.6 million methane plumes with a physical dispersion model and radiative-transfer calculations, then injecting them into real EMIT satellite observations. The plume is synthetic (and therefore perfectly labeled) but the terrain, atmosphere, surface reflectance, and sensor noise remain real.\n\nMAPL-EMIT then uses a Swin Transformer encoder inside a U-Net-like architecture to combine the full hyperspectral signal with spatial context. From the same input, it predicts methane enhancement, plume boundaries, and source location, even when several plumes overlap.\n\nThat training strategy matters. Instead of trying to simulate an entire satellite scene realistically, the authors simulate only the physical phenomenon for which ground truth is missing.\n\nOn real observations, the model recovers 84% of NASA\u2019s expert-annotated plume complexes while identifying about 1.5\u00d7 as many plausible plumes overall, with much of the gain coming from weaker emissions.\n\nThe broader lesson is: when ground truth is scarce, simulate the phenomenon you need to learn, but keep the surrounding world real.\n\nBatchu et al., PNAS (2026), CC BY 4.0. https://t.co/Fj5jgLkH3B",
+      "url": "https://x.com/bravo_abad/status/2096911442888822872",
+      "author": "1976371410",
+      "published_at": "2026-09-07T10:40:21",
+      "observed_at": "2026-09-10T03:55:56.224178",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 3,
+        "views": 569,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096621942459531704",
+      "title": "Don\u2019t optimize the proxy. Optimize your whole scientific system.\n\nHere, making the enzyme faster does not necessarily make the cell produce more.\n\nThe terminal ",
+      "body": "Don\u2019t optimize the proxy. Optimize your whole scientific system.\n\nHere, making the enzyme faster does not necessarily make the cell produce more.\n\nThe terminal enzyme NeuB consumes phosphoenolpyruvate, a metabolite the cell also needs for growth and central metabolism. Pushing that reaction too hard can therefore hurt the pathway as a whole.\n\nWang and coauthors use DLCatalysis to rank 6,612 NeuB variants. The model combines ProtT5 protein-sequence embeddings with molecular fingerprints and graph-based substrate representations, then uses bidirectional cross-attention to learn how the enzyme and substrate interact.\n\nCrucially, they do not test only the highest-ranked mutants. They deliberately sample across the predicted activity range.\n\nThat reveals the important result: a less active NeuB variant raises NeuAc production from 8.54 to 9.27 g L\u207b\u00b9, because it better balances product formation with the cell\u2019s competing metabolic needs.\n\nUse ML to explore the trade-offs of the whole system, not just to maximize a local score.\n\nWang et al., Nature Communications (2026), CC BY-NC-ND 4.0. https://t.co/y0fxwjUlOo",
+      "url": "https://x.com/bravo_abad/status/2096621942459531704",
+      "author": "1976371410",
+      "published_at": "2026-09-06T15:29:59",
+      "observed_at": "2026-09-10T03:55:56.227364",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 17,
+        "views": 1169,
+        "reposts": 6,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096561595182629099",
+      "title": "A better way to judge foundation models: not only by what they can predict zero-shot, but by how much expensive science they can amortize.\n\nThe real test of a s",
+      "body": "A better way to judge foundation models: not only by what they can predict zero-shot, but by how much expensive science they can amortize.\n\nThe real test of a scientific foundation model may not be zero-shot accuracy. It may be how little new high-quality data it needs to become trustworthy on a new problem.\n\nThermal conductivity is a demanding case because it depends on subtle anharmonic atomic interactions, not just getting energies approximately right.\n\nP\u00f3ta and coauthors use a pretrained atomistic foundation model as the reusable prior, then fine-tune only what is material-specific. The learned potential provides the interatomic forces, while the Wigner transport equation keeps the heat-transport physics explicit. For LiBr, that adaptation requires just 3 new DFT configurations.\n\nWith those 3 configurations, the thermal-conductivity error drops from about 47% to 2%.\n\nP\u00f3ta et al., Nature Communications (2026), CC BY 4.0. https://t.co/0U1L0eOXsi",
+      "url": "https://x.com/bravo_abad/status/2096561595182629099",
+      "author": "1976371410",
+      "published_at": "2026-09-06T11:30:11",
+      "observed_at": "2026-09-10T03:55:56.230315",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 25,
+        "views": 1643,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096206060046491680",
+      "title": "Generative AI explores protein architectures evolution never tried\n\nViruses are extraordinarily good at transporting genetic material, yet evolution has repeate",
+      "body": "Generative AI explores protein architectures evolution never tried\n\nViruses are extraordinarily good at transporting genetic material, yet evolution has repeatedly converged on a relatively narrow family of capsid shapes. That does not mean those shapes are optimal for an RNA delivery vehicle built for the laboratory.\n\nHere, generative protein design is used to step outside that evolutionary search space. RFdiffusion creates synthetic protein assemblies with unusual cyclic and dihedral symmetries. Known biological domains are then retained for membrane binding, budding and RNA capture. AI designs the scaffold, while biology supplies the functions that already work. \n\nThe best design, based on an unusual C8 planar assembly, required more than 10,000\u00d7 less mRNA than a lipid nanoparticle to produce the same expression level in the reported cellular comparison.\n\nGenerative AI can search physically possible biology that evolution never had a reason to explore.\n\nSchuhmacher et al., Nature (2026), CC BY 4.0. https://t.co/eKtoHQCvZt",
+      "url": "https://x.com/bravo_abad/status/2096206060046491680",
+      "author": "1976371410",
+      "published_at": "2026-09-05T11:57:24",
+      "observed_at": "2026-09-10T03:55:56.233396",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 120,
+        "views": 6778,
+        "reposts": 19,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096180461521285431",
+      "title": "New students, new questions, new possibilities. Welcome to @UAM_Madrid. It all starts with curiosity \ud83c\udf93",
+      "body": "New students, new questions, new possibilities. Welcome to @UAM_Madrid. It all starts with curiosity \ud83c\udf93",
+      "url": "https://x.com/bravo_abad/status/2096180461521285431",
+      "author": "1976371410",
+      "published_at": "2026-09-05T10:15:41",
+      "observed_at": "2026-09-10T03:55:56.235972",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 967,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095456550655582558",
+      "title": "AI may matter most when it stops tuning experiments and starts inventing them\n\nWith just 10 interferometry components, there can already be more than a billion ",
+      "body": "AI may matter most when it stops tuning experiments and starts inventing them\n\nWith just 10 interferometry components, there can already be more than a billion possible experimental topologies. Human intuition can explore only a tiny fraction of that space.\n\nOne particularly powerful idea is to start with an overcomplete experiment: deliberately include more components than necessary, let optimization continuously change their importance and physical parameters, evaluate every candidate with a physics simulator, and then prune away what is not needed.\n\nThe clever part is the division of labour: physics predicts what each experiment would do, AI searches for which experiment should exist.\n\nThat changes experimental design from optimizing a known apparatus into searching over the apparatus itself.\n\nAI for Science may become most consequential not by replacing scientific models, but by exploring experimental possibilities that humans would never think to test.\n\nKlimesch et al., Nature (2026), journal license, https://t.co/zFeGTEBYrt",
+      "url": "https://x.com/bravo_abad/status/2095456550655582558",
+      "author": "1976371410",
+      "published_at": "2026-09-03T10:19:08",
+      "observed_at": "2026-09-10T03:55:56.237321",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 45,
+        "views": 3204,
+        "reposts": 11,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095415246622257614",
+      "title": "Hoy es el d\u00eda: ya est\u00e1 disponible \"Inteligencia artificial para estudiantes de ciencias\" (Ediciones Pir\u00e1mide, Grupo Anaya). \ud83d\udcd8\n\nEs el libro de IA que me habr\u00eda g",
+      "body": "Hoy es el d\u00eda: ya est\u00e1 disponible \"Inteligencia artificial para estudiantes de ciencias\" (Ediciones Pir\u00e1mide, Grupo Anaya). \ud83d\udcd8\n\nEs el libro de IA que me habr\u00eda gustado tener cuando empec\u00e9 a aplicar aprendizaje autom\u00e1tico a problemas cient\u00edficos.\n\nEst\u00e1 pensado para estudiantes e investigadores/as de f\u00edsica, qu\u00edmica, biolog\u00eda, matem\u00e1ticas y otras disciplinas cient\u00edficas. Por eso, los ejemplos no parten de problemas gen\u00e9ricos de inform\u00e1tica, sino de ciencia: espectroscop\u00eda, propiedades moleculares, el modelo de Ising o el dise\u00f1o de materiales para bater\u00edas.\n\nEl recorrido va desde los fundamentos (generalizaci\u00f3n, sobreajuste, las matem\u00e1ticas del aprendizaje) hasta las redes neuronales profundas, los modelos generativos, los transformers y el aprendizaje por refuerzo.\n\nLa idea es entender no solo c\u00f3mo utilizar estas t\u00e9cnicas, sino qu\u00e9 est\u00e1n haciendo, por qu\u00e9 funcionan y cu\u00e1ndo tiene sentido aplicarlas a un problema cient\u00edfico, incluso en el r\u00e9gimen de pocos datos tan habitual en la ciencia experimental.\n\nY hab\u00eda algo que para m\u00ed era especialmente importante: cada cap\u00edtulo viene acompa\u00f1ado de un notebook disponible en abierto en GitHub, preparado para ejecutarse directamente en Google Colab, sin instalar nada. Los notebooks permiten trabajar de forma pr\u00e1ctica los conceptos del cap\u00edtulo y hacen que el libro pueda utilizarse tanto para el estudio individual como directamente en el aula.\n\nYa est\u00e1 disponible en las principales librer\u00edas y plataformas online:\n\n\ud83d\udcd8 https://t.co/OHyit1bfd8\n\n\u2014\u2014\u2014\n\n\ud83c\uddec\ud83c\udde7 Artificial Intelligence for Science Students is out today with Ediciones Pir\u00e1mide.\n\nA bridge between traditional scientific training and machine learning, from the fundamentals of generalization and regression to deep learning, transformers and reinforcement learning, with examples drawn throughout from real scientific problems.\n\nWritten in Spanish, with an open, Colab-ready notebook accompanying every chapter, available on GitHub.\n\nNow available in bookstores and online:\n\nhttps://t.co/OHyit1bfd8",
+      "url": "https://x.com/bravo_abad/status/2095415246622257614",
+      "author": "1976371410",
+      "published_at": "2026-09-03T07:35:00",
+      "observed_at": "2026-09-10T03:55:56.239607",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 6,
+        "views": 1063,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2024423562799452522",
+      "title": "@ifimacuam @GEFES_RSEF @fmcatuam @ftmcatuam @fismat_UAM @UAM_Madrid @UCCUAM @CienciasUAM @RSEF_ESP @FundacionAreces \u00a1Muchas gracias por compartirlo! Espero que ",
+      "body": "@ifimacuam @GEFES_RSEF @fmcatuam @ftmcatuam @fismat_UAM @UAM_Madrid @UCCUAM @CienciasUAM @RSEF_ESP @FundacionAreces \u00a1Muchas gracias por compartirlo! Espero que sea \u00fatil para quienes quieran asomarse al di\u00e1logo cada vez m\u00e1s intenso entre la f\u00edsica y la IA \u2014 y a las preguntas fascinantes que surgen en esa frontera.",
+      "url": "https://x.com/bravo_abad/status/2024423562799452522",
+      "author": "1976371410",
+      "published_at": "2026-02-19T09:59:23",
+      "observed_at": "2026-09-10T03:55:56.242970",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 240,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1894695828423606333",
+      "title": "@_amayamendiko \u00a1Qu\u00e9 barbaridad!",
+      "body": "@_amayamendiko \u00a1Qu\u00e9 barbaridad!",
+      "url": "https://x.com/bravo_abad/status/1894695828423606333",
+      "author": "1976371410",
+      "published_at": "2025-02-26T10:27:41",
+      "observed_at": "2026-09-10T03:55:56.244395",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 3,
+        "views": 197,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1839698837935370557",
+      "title": "In terms of the used ML implementation, pySTED employs deep learning architectures, such as U-Net, to generate realistic data maps of biological structures, whi",
+      "body": "In terms of the used ML implementation, pySTED employs deep learning architectures, such as U-Net, to generate realistic data maps of biological structures, which are then used to create synthetic images. These images are used to train convolutional neural networks (CNNs) for tasks like semantic segmentation, enhancing AI model performance in microscopy. \n\nAdditionally, pySTED supports RL training via an OpenAI Gym environment, allowing agents to interact with the simulation to optimize imaging parameters, such as laser power and pixel dwell time. This setup enables RL agents to be trained entirely in simulation, then deployed successfully on real microscopes without the need for fine-tuning, bridging the gap between simulation and reality. (2/2)",
+      "url": "https://x.com/bravo_abad/status/1839698837935370557",
+      "author": "1976371410",
+      "published_at": "2024-09-27T16:09:17",
+      "observed_at": "2026-09-10T03:55:56.245146",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 1,
+        "views": 240,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1814306398819221626",
+      "title": "@ionerrea @RSEF_ESP @upvehu Thanks so much Ion, Jenaro, Idoia, Mikel and Mikel, and all the organizing team for a truly amazing conference, full of great physic",
+      "body": "@ionerrea @RSEF_ESP @upvehu Thanks so much Ion, Jenaro, Idoia, Mikel and Mikel, and all the organizing team for a truly amazing conference, full of great physics and great colleagues!",
+      "url": "https://x.com/bravo_abad/status/1814306398819221626",
+      "author": "1976371410",
+      "published_at": "2024-07-19T14:28:48",
+      "observed_at": "2026-09-10T03:55:56.247333",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 5,
+        "views": 105,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1809236617762140637",
+      "title": "@AIhubCSIC @IIIACSIC @IFICorpuscular @Educaixa @MartaGMatos @mcanosan @therfer @CARobotica_ @sierra_carles \u00a1Gran equipo! \ud83d\udc4f\ud83c\udffb",
+      "body": "@AIhubCSIC @IIIACSIC @IFICorpuscular @Educaixa @MartaGMatos @mcanosan @therfer @CARobotica_ @sierra_carles \u00a1Gran equipo! \ud83d\udc4f\ud83c\udffb",
+      "url": "https://x.com/bravo_abad/status/1809236617762140637",
+      "author": "1976371410",
+      "published_at": "2024-07-05T14:43:18",
+      "observed_at": "2026-09-10T03:55:56.247994",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 59,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1804148256328310967",
+      "title": "@garciadearquer @ranit_ram @Lu_ICFO_Xia @anku_guha Amazing work, congrats!",
+      "body": "@garciadearquer @ranit_ram @Lu_ICFO_Xia @anku_guha Amazing work, congrats!",
+      "url": "https://x.com/bravo_abad/status/1804148256328310967",
+      "author": "1976371410",
+      "published_at": "2024-06-21T13:43:58",
+      "observed_at": "2026-09-10T03:55:56.248659",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 111,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1791363378104902024",
+      "title": "@julian__arnold @_Frank_Schaefer Congrats, great work!",
+      "body": "@julian__arnold @_Frank_Schaefer Congrats, great work!",
+      "url": "https://x.com/bravo_abad/status/1791363378104902024",
+      "author": "1976371410",
+      "published_at": "2024-05-17T07:01:25",
+      "observed_at": "2026-09-10T03:55:56.249333",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 80,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1775783157599523212",
+      "title": "@olexandr Great idea for a special issue indeed!",
+      "body": "@olexandr Great idea for a special issue indeed!",
+      "url": "https://x.com/bravo_abad/status/1775783157599523212",
+      "author": "1976371410",
+      "published_at": "2024-04-04T07:11:11",
+      "observed_at": "2026-09-10T03:55:56.249995",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 115,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1775427976567668903",
+      "title": "@MLSTjournal @KyleCranmer @zdeborova @FrankNoeBerlin @cosmo_shirley @gppcarleo @ProfvLilienfeld @ElenaCuoco @corminboeuf_lab @keeeto2000 @olexandr @wangleiphy @",
+      "body": "@MLSTjournal @KyleCranmer @zdeborova @FrankNoeBerlin @cosmo_shirley @gppcarleo @ProfvLilienfeld @ElenaCuoco @corminboeuf_lab @keeeto2000 @olexandr @wangleiphy @tristanbereau @KrippendorfSven @IOPPublishing @jhhalverson @GroupTuckerman @TeruyasuMizogu1 @iamalphalee @LucasLamata @eunahkim @A_Aspuru_Guzik Congrats! \ud83d\udc4f\ud83c\udffb",
+      "url": "https://x.com/bravo_abad/status/1775427976567668903",
+      "author": "1976371410",
+      "published_at": "2024-04-03T07:39:50",
+      "observed_at": "2026-09-10T03:55:56.250739",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 3,
+        "views": 166,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1578074590626156544",
+      "title": "@Andres_2DMat @CienciaGob @2d_foundry @icmm_csic Congrats Andr\u00e9s, very well deserved!",
+      "body": "@Andres_2DMat @CienciaGob @2d_foundry @icmm_csic Congrats Andr\u00e9s, very well deserved!",
+      "url": "https://x.com/bravo_abad/status/1578074590626156544",
+      "author": "1976371410",
+      "published_at": "2022-10-06T17:27:56",
+      "observed_at": "2026-09-10T03:55:56.252340",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1552655196391583745",
+      "title": "@jjgarciaripoll Amazing! Congrats Juanjo!",
+      "body": "@jjgarciaripoll Amazing! Congrats Juanjo!",
+      "url": "https://x.com/bravo_abad/status/1552655196391583745",
+      "author": "1976371410",
+      "published_at": "2022-07-28T14:00:20",
+      "observed_at": "2026-09-10T03:55:56.254235",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1547249266116235265",
+      "title": "@gppcarleo @BienalRSEF @RSEF_ESP @GEFES_RSEF @adauphin4 Too bad! We\u2019ll definitely keep you on the loop of our next meeting (hopefully very soon, the Spanish AI ",
+      "body": "@gppcarleo @BienalRSEF @RSEF_ESP @GEFES_RSEF @adauphin4 Too bad! We\u2019ll definitely keep you on the loop of our next meeting (hopefully very soon, the Spanish AI for condmat community is taking off very quickly!)",
+      "url": "https://x.com/bravo_abad/status/1547249266116235265",
+      "author": "1976371410",
+      "published_at": "2022-07-13T15:59:06",
+      "observed_at": "2026-09-10T03:55:56.254932",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1545347901286670338",
+      "title": "@GemmaMinero @UAM_Madrid Qu\u00e9 tendr\u00e1 la @UAM_Madrid: hice la misma reflexi\u00f3n (y foto similar) esta ma\u00f1ana tambi\u00e9n! https://t.co/Dzut6mY4db",
+      "body": "@GemmaMinero @UAM_Madrid Qu\u00e9 tendr\u00e1 la @UAM_Madrid: hice la misma reflexi\u00f3n (y foto similar) esta ma\u00f1ana tambi\u00e9n! https://t.co/Dzut6mY4db",
+      "url": "https://x.com/bravo_abad/status/1545347901286670338",
+      "author": "1976371410",
+      "published_at": "2022-07-08T10:03:45",
+      "observed_at": "2026-09-10T03:55:56.256418",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1545060038540070912",
+      "title": "@ifimacuam @AntnSo @Paloma_a_h @jacopo_fregoni @SOMM_alliance @UAM_Madrid Congrats to all, very well deserved",
+      "body": "@ifimacuam @AntnSo @Paloma_a_h @jacopo_fregoni @SOMM_alliance @UAM_Madrid Congrats to all, very well deserved",
+      "url": "https://x.com/bravo_abad/status/1545060038540070912",
+      "author": "1976371410",
+      "published_at": "2022-07-07T14:59:53",
+      "observed_at": "2026-09-10T03:55:56.257324",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1544602155289661440",
+      "title": "@livecomsj @andrewwhite01 A great reference indeed, congrats and thanks @andrewwhite01 for the amazing contribution to the community.",
+      "body": "@livecomsj @andrewwhite01 A great reference indeed, congrats and thanks @andrewwhite01 for the amazing contribution to the community.",
+      "url": "https://x.com/bravo_abad/status/1544602155289661440",
+      "author": "1976371410",
+      "published_at": "2022-07-06T08:40:25",
+      "observed_at": "2026-09-10T03:55:56.257953",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1538919048746082304",
+      "title": "@TheorHetCatICIQ @catalysis_eth @FedeDat @NCCR_Catalysis @ICIQchem @BSC_CNS Wow, congrats for the amazing work!",
+      "body": "@TheorHetCatICIQ @catalysis_eth @FedeDat @NCCR_Catalysis @ICIQchem @BSC_CNS Wow, congrats for the amazing work!",
+      "url": "https://x.com/bravo_abad/status/1538919048746082304",
+      "author": "1976371410",
+      "published_at": "2022-06-20T16:17:47",
+      "observed_at": "2026-09-10T03:55:56.258615",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1527563099523403776",
+      "title": "@Gvamvim @mpi_CPfS @DIPCehu Amazing work Maia! congrats!",
+      "body": "@Gvamvim @mpi_CPfS @DIPCehu Amazing work Maia! congrats!",
+      "url": "https://x.com/bravo_abad/status/1527563099523403776",
+      "author": "1976371410",
+      "published_at": "2022-05-20T08:13:18",
+      "observed_at": "2026-09-10T03:55:56.259334",
+      "metrics": {
+        "author_handle": "bravo_abad",
+        "author_followers": 12066,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "handle": "xielablife",
+  "total_tweets": 31,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1991543251132964890",
+      "title": "@aemonten @molbiosystems Thanks Alejandro. It is a great conference and certainly happy to chat more!",
+      "body": "@aemonten @molbiosystems Thanks Alejandro. It is a great conference and certainly happy to chat more!",
+      "url": "https://x.com/xielablife/status/1991543251132964890",
+      "author": "1208068957845934080",
+      "published_at": "2025-11-20T16:24:46",
+      "observed_at": "2026-09-10T03:53:15.993782",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 72,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1991137510840221763",
+      "title": "@a_z_usa__ Thanks Azusa!",
+      "body": "@a_z_usa__ Thanks Azusa!",
+      "url": "https://x.com/xielablife/status/1991137510840221763",
+      "author": "1208068957845934080",
+      "published_at": "2025-11-19T13:32:30",
+      "observed_at": "2026-09-10T03:53:15.995085",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 77,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989723309043298474",
+      "title": "We propose that this is why DNMT3A, a more accurate 5mC writer, is selectively used during mouse gametogenesis, when precise 5mC deposition is required to estab",
+      "body": "We propose that this is why DNMT3A, a more accurate 5mC writer, is selectively used during mouse gametogenesis, when precise 5mC deposition is required to establish imprints. Hope this finding may also help improve epigenome editing tools. Read the paper if you are interested!",
+      "url": "https://x.com/xielablife/status/1989723309043298474",
+      "author": "1208068957845934080",
+      "published_at": "2025-11-15T15:52:58",
+      "observed_at": "2026-09-10T03:53:15.996099",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 10,
+        "views": 1308,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989723293444608073",
+      "title": "Happy to share our paper on the reprogramming of H3K36me2 in early mouse embryos and its role in gene regulation! Heroic work and really huge efforts by Xukun L",
+      "body": "Happy to share our paper on the reprogramming of H3K36me2 in early mouse embryos and its role in gene regulation! Heroic work and really huge efforts by Xukun Lu, Lijuan Wang and Yu Zhang. Many interesting findings for H3K36me2. Check it out! \nhttps://t.co/6L3YArM8z2",
+      "url": "https://x.com/xielablife/status/1989723293444608073",
+      "author": "1208068957845934080",
+      "published_at": "2025-11-15T15:52:55",
+      "observed_at": "2026-09-10T03:53:15.998446",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 156,
+        "views": 19217,
+        "reposts": 30,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1982118959995621756",
+      "title": "Happy to share our latest work on Polycomb repression reprogramming in early development, spearheaded by two super talented Ph.D students Yitian Zeng and Feng K",
+      "body": "Happy to share our latest work on Polycomb repression reprogramming in early development, spearheaded by two super talented Ph.D students Yitian Zeng and Feng Kong. https://t.co/kHbOyBC1zZ",
+      "url": "https://x.com/xielablife/status/1982118959995621756",
+      "author": "1208068957845934080",
+      "published_at": "2025-10-25T16:16:00",
+      "observed_at": "2026-09-10T03:53:16.005578",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 97,
+        "views": 10600,
+        "reposts": 15,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1960727082063045007",
+      "title": "Abstract deadline (Sept 5) approaching soon for CSH-Asia Systems Biology of Gene Regulation and Gene Editing (Oct. 20-24) in beautiful Suzhou, China (visa free ",
+      "body": "Abstract deadline (Sept 5) approaching soon for CSH-Asia Systems Biology of Gene Regulation and Gene Editing (Oct. 20-24) in beautiful Suzhou, China (visa free for most European countries), a city known for Chinese classic garden (UNESCO heritage). Do not miss it! https://t.co/HOS89mvnLC",
+      "url": "https://x.com/xielablife/status/1960727082063045007",
+      "author": "1208068957845934080",
+      "published_at": "2025-08-27T15:32:19",
+      "observed_at": "2026-09-10T03:53:16.008002",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 26,
+        "views": 2102,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1957112251166622101",
+      "title": "An incredible journey, starting from a surprising finding by Zhenhai Du in the lab 8 years ago (Du et al., 2017) that TADs are dissolved after fertilization. Gl",
+      "body": "An incredible journey, starting from a surprising finding by Zhenhai Du in the lab 8 years ago (Du et al., 2017) that TADs are dissolved after fertilization. Glad that we now have a sequel. Grateful for collaborators/friends Huili Wang, Haiqiang Dai, Hongtao Yu, Zhubing Shi!",
+      "url": "https://x.com/xielablife/status/1957112251166622101",
+      "author": "1208068957845934080",
+      "published_at": "2025-08-17T16:08:16",
+      "observed_at": "2026-09-10T03:53:16.011130",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 1,
+        "views": 519,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1957112234347475115",
+      "title": "Happy to share our work on how chromatin organization is established for the first time in early mouse embryos, in part via interplay with remarkable hypertrans",
+      "body": "Happy to share our work on how chromatin organization is established for the first time in early mouse embryos, in part via interplay with remarkable hypertranscription. Marvelous work by Guang Yu, Kai Xu, Weikun Xia and Ke Zhang!\nhttps://t.co/ZYwqamCi9v",
+      "url": "https://x.com/xielablife/status/1957112234347475115",
+      "author": "1208068957845934080",
+      "published_at": "2025-08-17T16:08:12",
+      "observed_at": "2026-09-10T03:53:16.014316",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 237,
+        "views": 14823,
+        "reposts": 54,
+        "replies": 8,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1947528674472771947",
+      "title": "@jmuiuc @iscb Congratulations Jian!",
+      "body": "@jmuiuc @iscb Congratulations Jian!",
+      "url": "https://x.com/xielablife/status/1947528674472771947",
+      "author": "1208068957845934080",
+      "published_at": "2025-07-22T05:26:33",
+      "observed_at": "2026-09-10T03:53:16.016745",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 280,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1939266908962115645",
+      "title": "The Cold Spring Harbor Asia (CSHA) meeting - Nuclear Architecture and Function is coming up soon! (Sept 1-5, 2025). Abstract submission deadline extended to Jul",
+      "body": "The Cold Spring Harbor Asia (CSHA) meeting - Nuclear Architecture and Function is coming up soon! (Sept 1-5, 2025). Abstract submission deadline extended to July 18. Fantastic speakers &amp; beautiful city (Suzhou) with Royal Garden. Check out here: https://t.co/jER6uINI8D",
+      "url": "https://x.com/xielablife/status/1939266908962115645",
+      "author": "1208068957845934080",
+      "published_at": "2025-06-29T10:17:15",
+      "observed_at": "2026-09-10T03:53:16.017807",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 24,
+        "views": 3202,
+        "reposts": 7,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936640790308266398",
+      "title": "Many thanks for the terrific collaboration with Yu Zhang and Yunlong Xiang (two former lab members who are running their own groups now) as well as Jie Na and G",
+      "body": "Many thanks for the terrific collaboration with Yu Zhang and Yunlong Xiang (two former lab members who are running their own groups now) as well as Jie Na and Guohong Li. Also check out the nice study from Azusa Inoue' group (co-submitted &amp; published)! https://t.co/CrQMtApgH4",
+      "url": "https://x.com/xielablife/status/1936640790308266398",
+      "author": "1208068957845934080",
+      "published_at": "2025-06-22T04:22:00",
+      "observed_at": "2026-09-10T03:53:16.019811",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 370,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936640789079372252",
+      "title": "Interestingly, it is briefly depleted from Polycomb targets specifically in grown oocytes (its significance still unclear). Loss of H2A.Z impairs meiosis gene e",
+      "body": "Interestingly, it is briefly depleted from Polycomb targets specifically in grown oocytes (its significance still unclear). Loss of H2A.Z impairs meiosis gene expression and oocyte maturation, ultimately causing female infertility.",
+      "url": "https://x.com/xielablife/status/1936640789079372252",
+      "author": "1208068957845934080",
+      "published_at": "2025-06-22T04:21:59",
+      "observed_at": "2026-09-10T03:53:16.021832",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 403,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936640787913265659",
+      "title": "Histone variant H2A.Z, which may be perfectly suited for gene regulation in oocytes which lack DNA replication, is installed at active promoters and enhancers, ",
+      "body": "Histone variant H2A.Z, which may be perfectly suited for gene regulation in oocytes which lack DNA replication, is installed at active promoters and enhancers, where it is widely acetylated and promotes regulatory activities.",
+      "url": "https://x.com/xielablife/status/1936640787913265659",
+      "author": "1208068957845934080",
+      "published_at": "2025-06-22T04:21:59",
+      "observed_at": "2026-09-10T03:53:16.023831",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 222,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936640786814394414",
+      "title": "Happy to share our recent study, spearheaded by Qianhua Xu and Chunyi Huang, on the essential role of H2A.Z in mouse oocyte development, published back-to-back ",
+      "body": "Happy to share our recent study, spearheaded by Qianhua Xu and Chunyi Huang, on the essential role of H2A.Z in mouse oocyte development, published back-to-back with work from Azusa Inoue's team @a_z_usa__  https://t.co/ihoOGyTjWo",
+      "url": "https://x.com/xielablife/status/1936640786814394414",
+      "author": "1208068957845934080",
+      "published_at": "2025-06-22T04:21:59",
+      "observed_at": "2026-09-10T03:53:16.025854",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 96,
+        "views": 8707,
+        "reposts": 14,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1923448111445188800",
+      "title": "Super interesting finding on marsupial. Congratulations to James Turner and the team!",
+      "body": "Super interesting finding on marsupial. Congratulations to James Turner and the team!",
+      "url": "https://x.com/xielablife/status/1923448111445188800",
+      "author": "1208068957845934080",
+      "published_at": "2025-05-16T18:39:00",
+      "observed_at": "2026-09-10T03:53:16.027851",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 703,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1906342389301842185",
+      "title": "Congratulations to Bing!!",
+      "body": "Congratulations to Bing!!",
+      "url": "https://x.com/xielablife/status/1906342389301842185",
+      "author": "1208068957845934080",
+      "published_at": "2025-03-30T13:46:58",
+      "observed_at": "2026-09-10T03:53:16.028912",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 11,
+        "views": 1450,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1893478168125907452",
+      "title": "Less than one month away from abstract submission deadline for the 2025 GRC/GRS Genome Architecture meeting at the beautiful beach in California. Don't miss it!",
+      "body": "Less than one month away from abstract submission deadline for the 2025 GRC/GRS Genome Architecture meeting at the beautiful beach in California. Don't miss it!",
+      "url": "https://x.com/xielablife/status/1893478168125907452",
+      "author": "1208068957845934080",
+      "published_at": "2025-02-23T01:49:09",
+      "observed_at": "2026-09-10T03:53:16.029687",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 43,
+        "views": 6330,
+        "reposts": 11,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1881388679169782261",
+      "title": "Chromatin folks: don't miss GRC/GRS Genome Architecture in Cell Fate and Disease, June 15-20 2025 Ventura, CA. Registration deadline: Mar 18, 2025. https://t.co",
+      "body": "Chromatin folks: don't miss GRC/GRS Genome Architecture in Cell Fate and Disease, June 15-20 2025 Ventura, CA. Registration deadline: Mar 18, 2025. https://t.co/Wc1h5YTKDq https://t.co/P1CKREpwhn",
+      "url": "https://x.com/xielablife/status/1881388679169782261",
+      "author": "1208068957845934080",
+      "published_at": "2025-01-20T17:09:50",
+      "observed_at": "2026-09-10T03:53:16.031442",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 72,
+        "views": 11217,
+        "reposts": 19,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1852376172174389697",
+      "title": "@a_z_usa__ @NatureCellBio Congratulations Azusa! Beautiful work on Polycomb repression re-establishment!",
+      "body": "@a_z_usa__ @NatureCellBio Congratulations Azusa! Beautiful work on Polycomb repression re-establishment!",
+      "url": "https://x.com/xielablife/status/1852376172174389697",
+      "author": "1208068957845934080",
+      "published_at": "2024-11-01T15:44:29",
+      "observed_at": "2026-09-10T03:53:16.033518",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 341,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1845821972036657580",
+      "title": "A legendary journey of a pioneer in the field of epigenetics. Thanks for sharing it.",
+      "body": "A legendary journey of a pioneer in the field of epigenetics. Thanks for sharing it.",
+      "url": "https://x.com/xielablife/status/1845821972036657580",
+      "author": "1208068957845934080",
+      "published_at": "2024-10-14T13:40:26",
+      "observed_at": "2026-09-10T03:53:16.034439",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 11,
+        "views": 1726,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1845816668356030919",
+      "title": "@VashKurdistani @theNASciences Thanks Siavash for writing this beautiful article about Michael and for sharing all these stories. A remarkable person and career",
+      "body": "@VashKurdistani @theNASciences Thanks Siavash for writing this beautiful article about Michael and for sharing all these stories. A remarkable person and career.",
+      "url": "https://x.com/xielablife/status/1845816668356030919",
+      "author": "1208068957845934080",
+      "published_at": "2024-10-14T13:19:22",
+      "observed_at": "2026-09-10T03:53:16.035166",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 366,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1842417194304667826",
+      "title": "@pablonavarroLAB @NicolaFestuccia @ScienceMagazine Congratulations Nicola and Pablo! Really happy to see the paper is out now, which has been expanded tremendou",
+      "body": "@pablonavarroLAB @NicolaFestuccia @ScienceMagazine Congratulations Nicola and Pablo! Really happy to see the paper is out now, which has been expanded tremendously from the preprint. Enormous amount of work and beautiful mouse genetics!",
+      "url": "https://x.com/xielablife/status/1842417194304667826",
+      "author": "1208068957845934080",
+      "published_at": "2024-10-05T04:11:04",
+      "observed_at": "2026-09-10T03:53:16.035922",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 5,
+        "views": 183,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1841495319135359487",
+      "title": "@EddaGSchulz @AlexandraMMar @NatureGenet Thanks Edda and Alex! Really happy to see this nice N&amp;V coming out.",
+      "body": "@EddaGSchulz @AlexandraMMar @NatureGenet Thanks Edda and Alex! Really happy to see this nice N&amp;V coming out.",
+      "url": "https://x.com/xielablife/status/1841495319135359487",
+      "author": "1208068957845934080",
+      "published_at": "2024-10-02T15:07:52",
+      "observed_at": "2026-09-10T03:53:16.036700",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 288,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1833915367170957365",
+      "title": "Final model: strong enhancers near Xist not only jumpstart Xist in early embryos, but also bring cohesin which insulates enhancer activities to local regions. T",
+      "body": "Final model: strong enhancers near Xist not only jumpstart Xist in early embryos, but also bring cohesin which insulates enhancer activities to local regions. This achieves an intricate balance on chrX between expression of essential genes and chromosome-wide silencing.",
+      "url": "https://x.com/xielablife/status/1833915367170957365",
+      "author": "1208068957845934080",
+      "published_at": "2024-09-11T17:07:50",
+      "observed_at": "2026-09-10T03:53:16.037454",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 5,
+        "views": 1072,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1833915365057090023",
+      "title": "Loss of cohesin or the Xist regulatory region not only disrupts X-megadomains, but also causes ectopic enhancer activation and gene derepression near Xist.",
+      "body": "Loss of cohesin or the Xist regulatory region not only disrupts X-megadomains, but also causes ectopic enhancer activation and gene derepression near Xist.",
+      "url": "https://x.com/xielablife/status/1833915365057090023",
+      "author": "1208068957845934080",
+      "published_at": "2024-09-11T17:07:50",
+      "observed_at": "2026-09-10T03:53:16.038261",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 702,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1833915362544623798",
+      "title": "X-megadomains are specific to early development and correlate with strong enhancer activities near Xist. X-megadomains require cohesin, a regulatory region of X",
+      "body": "X-megadomains are specific to early development and correlate with strong enhancer activities near Xist. X-megadomains require cohesin, a regulatory region of Xist with strong enhancers, as well as Xist expression.",
+      "url": "https://x.com/xielablife/status/1833915362544623798",
+      "author": "1208068957845934080",
+      "published_at": "2024-09-11T17:07:49",
+      "observed_at": "2026-09-10T03:53:16.040742",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 864,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1833915360309039381",
+      "title": "Using Hi-C, we found a new configuration - megadomains hinged at the Xist region on the inactive X chromosome (termed X-megadomains) in mouse embryos. DXZ4-hing",
+      "body": "Using Hi-C, we found a new configuration - megadomains hinged at the Xist region on the inactive X chromosome (termed X-megadomains) in mouse embryos. DXZ4-hinged megadomains occurred later and surprisingly in a strain-specific manner due to loss of DXZ4 repeats in some strains.",
+      "url": "https://x.com/xielablife/status/1833915360309039381",
+      "author": "1208068957845934080",
+      "published_at": "2024-09-11T17:07:49",
+      "observed_at": "2026-09-10T03:53:16.041625",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 387,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1833915358090330352",
+      "title": "A study led by the most talented and persistent young scholars, Zhenhai Du, Liangjun Hu, Zhuoning Zou and Meishuo Liu. Joint efforts with labs of Sundeep Kalant",
+      "body": "A study led by the most talented and persistent young scholars, Zhenhai Du, Liangjun Hu, Zhuoning Zou and Meishuo Liu. Joint efforts with labs of Sundeep Kalantry@XFactorsLab and Haifeng Wang.",
+      "url": "https://x.com/xielablife/status/1833915358090330352",
+      "author": "1208068957845934080",
+      "published_at": "2024-09-11T17:07:48",
+      "observed_at": "2026-09-10T03:53:16.043375",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 3,
+        "views": 526,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1798755403595182375",
+      "title": "@ControllingLMNT @NatureCellBio Thanks Edward and Qiqi! This beautiful N&amp;V came as a surprise. Indeed, \"strange\" is the word that constantly jumps out in la",
+      "body": "@ControllingLMNT @NatureCellBio Thanks Edward and Qiqi! This beautiful N&amp;V came as a surprise. Indeed, \"strange\" is the word that constantly jumps out in lab discussion. Well summarized and really enjoyed reading it \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+      "url": "https://x.com/xielablife/status/1798755403595182375",
+      "author": "1208068957845934080",
+      "published_at": "2024-06-06T16:34:42",
+      "observed_at": "2026-09-10T03:53:16.044446",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 381,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1798753752184467549",
+      "title": "Many thanks to METP @METorresPadilla and Mrinmoy Pal for the beautiful DamID experiments and Alex Stark @AlexanderStark8 for advising STARR-seq! Really powerful",
+      "body": "Many thanks to METP @METorresPadilla and Mrinmoy Pal for the beautiful DamID experiments and Alex Stark @AlexanderStark8 for advising STARR-seq! Really powerful methods! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+      "url": "https://x.com/xielablife/status/1798753752184467549",
+      "author": "1208068957845934080",
+      "published_at": "2024-06-06T16:28:08",
+      "observed_at": "2026-09-10T03:53:16.046302",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 4,
+        "views": 4097,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1798753749818839393",
+      "title": "Terrific collaboration with the lab of Jing Li for the remarkable work on TCF3/12. Spearheaded by Bofeng Liu, Yuanlin He, Xiaotong Wu, Zili Lin and Jing Ma, who",
+      "body": "Terrific collaboration with the lab of Jing Li for the remarkable work on TCF3/12. Spearheaded by Bofeng Liu, Yuanlin He, Xiaotong Wu, Zili Lin and Jing Ma, who are super persistent in chasing the mechanisms of gene regulation in oocytes and embryos over the years.",
+      "url": "https://x.com/xielablife/status/1798753749818839393",
+      "author": "1208068957845934080",
+      "published_at": "2024-06-06T16:28:07",
+      "observed_at": "2026-09-10T03:53:16.048129",
+      "metrics": {
+        "author_handle": "xielablife",
+        "author_followers": 2352,
+        "likes": 2,
+        "views": 608,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

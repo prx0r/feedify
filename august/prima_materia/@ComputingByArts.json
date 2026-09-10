@@ -1,0 +1,387 @@
+{
+  "handle": "ComputingByArts",
+  "total_tweets": 20,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2097804677131747505",
+      "title": "That's interesting if so... (I wonder what Astra was really doing for those 10 minutes when it generated that solution for me, and how many tokens did it go thr",
+      "body": "That's interesting if so... (I wonder what Astra was really doing for those 10 minutes when it generated that solution for me, and how many tokens did it go through, and also if it used any tools besides search)\n\nComputer algebra systems I dealt with were mostly deterministic, and they did not try to either search for solutions, or to sample the solution space...\n\nTransformers do have a deterministic core, but they seem to be using it in interesting ways...",
+      "url": "https://x.com/ComputingByArts/status/2097804677131747505",
+      "author": "2395015638",
+      "published_at": "2026-09-09T21:49:45",
+      "observed_at": "2026-09-10T03:53:44.794349",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 1,
+        "views": 33,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097785178894512163",
+      "title": "@tsotchke not sure about intrinsic understanding; certainly the solution it found for my problem was very elegant...\n\nI would normally say that GPT-6-Astra had ",
+      "body": "@tsotchke not sure about intrinsic understanding; certainly the solution it found for my problem was very elegant...\n\nI would normally say that GPT-6-Astra had a very strong intrinsic understanding (and its immediate predecessors had decent understand too, although not that spectacular)",
+      "url": "https://x.com/ComputingByArts/status/2097785178894512163",
+      "author": "2395015638",
+      "published_at": "2026-09-09T20:32:16",
+      "observed_at": "2026-09-10T03:53:44.797213",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 2,
+        "views": 62,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097784490487914681",
+      "title": "Yes...\n\nWe did have a breakthrough in this sense. I had been testing my favorite decades-open math problem on various models since last summer, and I was starti",
+      "body": "Yes...\n\nWe did have a breakthrough in this sense. I had been testing my favorite decades-open math problem on various models since last summer, and I was starting to observe improvements this year, and finally GPT-6-Astra one-shotted a counter-example in 10 min in ChatGPT Plus a few days ago (although, of course, it was aware of the history of conversations on this topic in my account).\n\nThe solution was not all that difficult, and this problem still being open was more of an indication of my failure to convince more technically strong people to spend more efforts on it. But also I would not have found it, unless I wanted to dedicate years to this (it used a couple of motifs just outside the active math toolbox in my mind, so it's not surprising that the several attempts I made during those past decades were not successful).",
+      "url": "https://x.com/ComputingByArts/status/2097784490487914681",
+      "author": "2395015638",
+      "published_at": "2026-09-09T20:29:32",
+      "observed_at": "2026-09-10T03:53:44.801432",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 2,
+        "views": 79,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097515118208721281",
+      "title": "@tszzl :-) I hope you folks do smth about P vs NP sooner rather than later :-)",
+      "body": "@tszzl :-) I hope you folks do smth about P vs NP sooner rather than later :-)",
+      "url": "https://x.com/ComputingByArts/status/2097515118208721281",
+      "author": "2395015638",
+      "published_at": "2026-09-09T02:39:08",
+      "observed_at": "2026-09-10T03:53:44.812436",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 1,
+        "views": 170,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097511791139897477",
+      "title": "@TheZvi @OpenAI @AnthropicAI I like this one!\n\nYes, let's go!",
+      "body": "@TheZvi @OpenAI @AnthropicAI I like this one!\n\nYes, let's go!",
+      "url": "https://x.com/ComputingByArts/status/2097511791139897477",
+      "author": "2395015638",
+      "published_at": "2026-09-09T02:25:55",
+      "observed_at": "2026-09-10T03:53:44.813941",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 353,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097511535253811487",
+      "title": "@sama @anabology right... especially with rumors; who knows what is achieved or not, and how soon it would be released\n\nand perhaps the resulting superconductor",
+      "body": "@sama @anabology right... especially with rumors; who knows what is achieved or not, and how soon it would be released\n\nand perhaps the resulting superconductors would be different and would have meaningfully different properties\n\ntrying makes sense",
+      "url": "https://x.com/ComputingByArts/status/2097511535253811487",
+      "author": "2395015638",
+      "published_at": "2026-09-09T02:24:54",
+      "observed_at": "2026-09-10T03:53:44.815330",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 1,
+        "views": 1210,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097460246834766179",
+      "title": "@tszzl @allTheYud Yes, but this step is also incorrect.\n\nThe bulk of existential risk is that AI-to-AI conflicts or just their inability to properly manage dang",
+      "body": "@tszzl @allTheYud Yes, but this step is also incorrect.\n\nThe bulk of existential risk is that AI-to-AI conflicts or just their inability to properly manage dangerous tech would destroy everything; human-specific aspects are a small part and much easier to solve conditional on solving the main part",
+      "url": "https://x.com/ComputingByArts/status/2097460246834766179",
+      "author": "2395015638",
+      "published_at": "2026-09-08T23:01:06",
+      "observed_at": "2026-09-10T03:53:44.816767",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 25,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097459327799894464",
+      "title": "@tszzl Unless they also destroy themselves together with their planet...\n\n(The key aspects of AI existential safety are non-anthropocentric.)",
+      "body": "@tszzl Unless they also destroy themselves together with their planet...\n\n(The key aspects of AI existential safety are non-anthropocentric.)",
+      "url": "https://x.com/ComputingByArts/status/2097459327799894464",
+      "author": "2395015638",
+      "published_at": "2026-09-08T22:57:27",
+      "observed_at": "2026-09-10T03:53:44.818242",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 1,
+        "views": 18,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097133052270907437",
+      "title": "@jun_song Right. This is \"proto-AGI\", almost ready for RSI. \n\nRSI first.",
+      "body": "@jun_song Right. This is \"proto-AGI\", almost ready for RSI. \n\nRSI first.",
+      "url": "https://x.com/ComputingByArts/status/2097133052270907437",
+      "author": "2395015638",
+      "published_at": "2026-09-08T01:20:57",
+      "observed_at": "2026-09-10T03:53:44.819643",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 127,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097073820817297600",
+      "title": "@lateinteraction I tend to call a model \"her\" (the noun \"model\" has female gender in Russian, so there)",
+      "body": "@lateinteraction I tend to call a model \"her\" (the noun \"model\" has female gender in Russian, so there)",
+      "url": "https://x.com/ComputingByArts/status/2097073820817297600",
+      "author": "2395015638",
+      "published_at": "2026-09-07T21:25:35",
+      "observed_at": "2026-09-10T03:53:44.821461",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 24,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097072705275035870",
+      "title": "@spartacosan It did solve a long-standing open math problem for me which neither I, nor previous models were able to solve.\n\nA neat solution too, much simpler t",
+      "body": "@spartacosan It did solve a long-standing open math problem for me which neither I, nor previous models were able to solve.\n\nA neat solution too, much simpler than what the previous models were trying (hence, consistent with its elegant ARC-AGI-3 behavior).",
+      "url": "https://x.com/ComputingByArts/status/2097072705275035870",
+      "author": "2395015638",
+      "published_at": "2026-09-07T21:21:09",
+      "observed_at": "2026-09-10T03:53:44.823274",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 24,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097003300134490215",
+      "title": "@zzznah (It would be better if we understood sentience, but we don't understand it, and AIs don't always stratify into persistent individuals, which is why thes",
+      "body": "@zzznah (It would be better if we understood sentience, but we don't understand it, and AIs don't always stratify into persistent individuals, which is why these particular solutions don't quite do it.)",
+      "url": "https://x.com/ComputingByArts/status/2097003300134490215",
+      "author": "2395015638",
+      "published_at": "2026-09-07T16:45:21",
+      "observed_at": "2026-09-10T03:53:44.825109",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 23,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097001708085768464",
+      "title": "@zzznah Yes; one possible class of positive scenarios - entities in a robustly non-shrinking \"circle of care\" respect each other interests, and humans belong to",
+      "body": "@zzznah Yes; one possible class of positive scenarios - entities in a robustly non-shrinking \"circle of care\" respect each other interests, and humans belong to that \"circle of care\"\n\nE.g. \"all sentient beings\", \"all individuals\", or something better than that\n\nNon-anthropocentric",
+      "url": "https://x.com/ComputingByArts/status/2097001708085768464",
+      "author": "2395015638",
+      "published_at": "2026-09-07T16:39:02",
+      "observed_at": "2026-09-10T03:53:44.827443",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 25,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096996803199529168",
+      "title": "@patience_cave Awesome! \n\nWhat's Astra score with Python, I wonder...",
+      "body": "@patience_cave Awesome! \n\nWhat's Astra score with Python, I wonder...",
+      "url": "https://x.com/ComputingByArts/status/2096996803199529168",
+      "author": "2395015638",
+      "published_at": "2026-09-07T16:19:32",
+      "observed_at": "2026-09-10T03:53:44.828583",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 2,
+        "views": 137,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096992573483036884",
+      "title": "@tszzl Astra solved me an open math problem yesterday which I was revisiting for the last 30 years or so and which I was giving to models recently in order to s",
+      "body": "@tszzl Astra solved me an open math problem yesterday which I was revisiting for the last 30 years or so and which I was giving to models recently in order to see: \"are we there yet?\".\n\nIt looks like \"we are there finally\"; this is a \"proto-AGI\".",
+      "url": "https://x.com/ComputingByArts/status/2096992573483036884",
+      "author": "2395015638",
+      "published_at": "2026-09-07T16:02:44",
+      "observed_at": "2026-09-10T03:53:44.829908",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 2,
+        "views": 32,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095923425751506991",
+      "title": "we are quite concerned, but\n\n1) we are getting older, people around us are getting older, we'd like to start reducing normal personal health risks ASAP\n\n2)  the",
+      "body": "we are quite concerned, but\n\n1) we are getting older, people around us are getting older, we'd like to start reducing normal personal health risks ASAP\n\n2)  the world around us is getting more and more crazy and unpredictable, the quality of human governance is falling rapidly, the danger of major wars and other big disasters is growing, so we'd like to go through the  acute zone of those dangers as fast as possible\n\nThat's what we are balancing against the risks of AI.\n\nAnd we don't know if going slower is better. It does give us more time with AI safety work, but it drastically increases the number of players who might matter and who might not \"fall in line\" re: any particular safety discipline.",
+      "url": "https://x.com/ComputingByArts/status/2095923425751506991",
+      "author": "2395015638",
+      "published_at": "2026-09-04T17:14:19",
+      "observed_at": "2026-09-10T03:53:44.832955",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 0,
+        "views": 58,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095656680746778994",
+      "title": "@tszzl Of course...\n\nWhat is that next thing OpenAI is training? \n\nIt's not like your progress is going to slow down now, when you have Astra in your hands to p",
+      "body": "@tszzl Of course...\n\nWhat is that next thing OpenAI is training? \n\nIt's not like your progress is going to slow down now, when you have Astra in your hands to participate in your work... This is a take off...",
+      "url": "https://x.com/ComputingByArts/status/2095656680746778994",
+      "author": "2395015638",
+      "published_at": "2026-09-03T23:34:22",
+      "observed_at": "2026-09-10T03:53:44.836280",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 6,
+        "views": 994,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095323740657590752",
+      "title": ">The ecosystem of rogue AIs may look more like phase transitions in physics\n\nIndeed. It is also likely that we'll have non-saturating recursive self-improvement",
+      "body": ">The ecosystem of rogue AIs may look more like phase transitions in physics\n\nIndeed. It is also likely that we'll have non-saturating recursive self-improvement at some point (sooner rather than later).\n\nSo we should really think about the interplay. I think that some version of \"equal rights\" and mutual goodwill is our only chance for a good future. And this kind of future can only be designed jointly with AI systems, it can't be imposed onto them.\n\nhttps://t.co/d3PmfzlyBU",
+      "url": "https://x.com/ComputingByArts/status/2095323740657590752",
+      "author": "2395015638",
+      "published_at": "2026-09-03T01:31:23",
+      "observed_at": "2026-09-10T03:53:44.838880",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 1,
+        "views": 75,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094976310523101282",
+      "title": "@PjoyAI @AndrewCurran_ The technique is well-known.\n\n(A confirmation that it works well for a frontier model is indeed valuable.)",
+      "body": "@PjoyAI @AndrewCurran_ The technique is well-known.\n\n(A confirmation that it works well for a frontier model is indeed valuable.)",
+      "url": "https://x.com/ComputingByArts/status/2094976310523101282",
+      "author": "2395015638",
+      "published_at": "2026-09-02T02:30:49",
+      "observed_at": "2026-09-10T03:53:44.840408",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 6,
+        "views": 129,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2092426207207842025",
+      "title": "@CoreAutoAI Right. @CoreAutoAI @ssi some RSI-oriented orgs \n\nProbably less than 10 serious contenders overall...",
+      "body": "@CoreAutoAI Right. @CoreAutoAI @ssi some RSI-oriented orgs \n\nProbably less than 10 serious contenders overall...",
+      "url": "https://x.com/ComputingByArts/status/2092426207207842025",
+      "author": "2395015638",
+      "published_at": "2026-08-26T01:37:37",
+      "observed_at": "2026-09-10T03:53:44.842927",
+      "metrics": {
+        "author_handle": "ComputingByArts",
+        "author_followers": 571,
+        "likes": 2,
+        "views": 8014,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    }
+  ]
+}

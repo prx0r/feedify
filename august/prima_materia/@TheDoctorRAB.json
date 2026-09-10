@@ -1,0 +1,634 @@
+{
+  "handle": "TheDoctorRAB",
+  "total_tweets": 33,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2049655962831855646",
+      "title": "I'm part of a committee for Title II compliance at @uidaho, and I'm building some resources in my latex-templates repository. Right now I have a syllabus templa",
+      "body": "I'm part of a committee for Title II compliance at @uidaho, and I'm building some resources in my latex-templates repository. Right now I have a syllabus template and will be adding more. I'd like to talk more about what everyone is doing @ANS_org.",
+      "url": "https://x.com/TheDoctorRAB/status/2049655962831855646",
+      "author": "372427049",
+      "published_at": "2026-04-30T01:03:56",
+      "observed_at": "2026-09-10T03:54:23.113822",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 68,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2048947025807651167",
+      "title": "@nuclearkatie We got a student at Nets. I'd be thankful if you could meet him.",
+      "body": "@nuclearkatie We got a student at Nets. I'd be thankful if you could meet him.",
+      "url": "https://x.com/TheDoctorRAB/status/2048947025807651167",
+      "author": "372427049",
+      "published_at": "2026-04-28T02:06:53",
+      "observed_at": "2026-09-10T03:54:23.115655",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 3,
+        "views": 95,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1968849619023962277",
+      "title": "@ANSIdaho Dinner meeting at @cwcareers in @IdahoFallsGov with @INL Dr. Sean O'Kelly about the history of #ATR @ans_org https://t.co/HGkJ19AQfF",
+      "body": "@ANSIdaho Dinner meeting at @cwcareers in @IdahoFallsGov with @INL Dr. Sean O'Kelly about the history of #ATR @ans_org https://t.co/HGkJ19AQfF",
+      "url": "https://x.com/TheDoctorRAB/status/1968849619023962277",
+      "author": "372427049",
+      "published_at": "2025-09-19T01:28:23",
+      "observed_at": "2026-09-10T03:54:23.117241",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 4,
+        "views": 548,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1920654232123850754",
+      "title": "@ANS_org Lisa Marshall on award tour #idahofalls talking about all the good #nuclear with @ANSIdaho and @UIdahoANS at the May dinner meeting. https://t.co/xw56N",
+      "body": "@ANS_org Lisa Marshall on award tour #idahofalls talking about all the good #nuclear with @ANSIdaho and @UIdahoANS at the May dinner meeting. https://t.co/xw56NGmjFL",
+      "url": "https://x.com/TheDoctorRAB/status/1920654232123850754",
+      "author": "372427049",
+      "published_at": "2025-05-09T01:37:07",
+      "observed_at": "2026-09-10T03:54:23.120422",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 6,
+        "views": 608,
+        "reposts": 4,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1919429601249398939",
+      "title": "@ANSIdaho, @UIdahoANS took to the streets on I-15 for the 65th highway cleanup north of Idaho Falls. @ANS_org https://t.co/IzBHFZTwnk",
+      "body": "@ANSIdaho, @UIdahoANS took to the streets on I-15 for the 65th highway cleanup north of Idaho Falls. @ANS_org https://t.co/IzBHFZTwnk",
+      "url": "https://x.com/TheDoctorRAB/status/1919429601249398939",
+      "author": "372427049",
+      "published_at": "2025-05-05T16:30:52",
+      "observed_at": "2026-09-10T03:54:23.124811",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 5,
+        "views": 575,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1913031750147592546",
+      "title": "@ANSIdaho dinner meeting with an #artificialntelligence panel at the @museumofidaho\n@ANS_org https://t.co/hd4IACutBX",
+      "body": "@ANSIdaho dinner meeting with an #artificialntelligence panel at the @museumofidaho\n@ANS_org https://t.co/hd4IACutBX",
+      "url": "https://x.com/TheDoctorRAB/status/1913031750147592546",
+      "author": "372427049",
+      "published_at": "2025-04-18T00:48:06",
+      "observed_at": "2026-09-10T03:54:23.126823",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 3,
+        "views": 598,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1902015798547517902",
+      "title": "Outlook goes down way too much to be a reliable product.",
+      "body": "Outlook goes down way too much to be a reliable product.",
+      "url": "https://x.com/TheDoctorRAB/status/1902015798547517902",
+      "author": "372427049",
+      "published_at": "2025-03-18T15:14:38",
+      "observed_at": "2026-09-10T03:54:23.128311",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 3,
+        "views": 675,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1881720865102205314",
+      "title": "@whignewtons I don't think this is new though.",
+      "body": "@whignewtons I don't think this is new though.",
+      "url": "https://x.com/TheDoctorRAB/status/1881720865102205314",
+      "author": "372427049",
+      "published_at": "2025-01-21T15:09:49",
+      "observed_at": "2026-09-10T03:54:23.129556",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 1,
+        "views": 628,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1857791764456968303",
+      "title": "@ans_org",
+      "body": "@ans_org",
+      "url": "https://x.com/TheDoctorRAB/status/1857791764456968303",
+      "author": "372427049",
+      "published_at": "2024-11-16T14:24:07",
+      "observed_at": "2026-09-10T03:54:23.130700",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 54,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1839362397213253960",
+      "title": "@ANSIdaho is at @cwcareers in #idahofalls with @WomenInNuclear and newly created #VIEW for a lunch panel on mentorship and allies for success funded in part by ",
+      "body": "@ANSIdaho is at @cwcareers in #idahofalls with @WomenInNuclear and newly created #VIEW for a lunch panel on mentorship and allies for success funded in part by a strategic grant from @ANS_org https://t.co/jLkTz1AKWK",
+      "url": "https://x.com/TheDoctorRAB/status/1839362397213253960",
+      "author": "372427049",
+      "published_at": "2024-09-26T17:52:23",
+      "observed_at": "2026-09-10T03:54:23.131864",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 5,
+        "views": 535,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1818392420658319780",
+      "title": "@nuclearkatie 10 years on social media promoting nuclear. #OG",
+      "body": "@nuclearkatie 10 years on social media promoting nuclear. #OG",
+      "url": "https://x.com/TheDoctorRAB/status/1818392420658319780",
+      "author": "372427049",
+      "published_at": "2024-07-30T21:05:11",
+      "observed_at": "2026-09-10T03:54:23.134301",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 59,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803122806592512125",
+      "title": "@nuclearkatie If we put half the effort into public communication and outreach that we do in making up silly acronyms, everyone everywhere would love nuclear al",
+      "body": "@nuclearkatie If we put half the effort into public communication and outreach that we do in making up silly acronyms, everyone everywhere would love nuclear all day every day.",
+      "url": "https://x.com/TheDoctorRAB/status/1803122806592512125",
+      "author": "372427049",
+      "published_at": "2024-06-18T17:49:12",
+      "observed_at": "2026-09-10T03:54:23.135766",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 9,
+        "views": 621,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1802020446558425278",
+      "title": "@nuclearkatie I'm thinking I should apply to @katyhuff even.",
+      "body": "@nuclearkatie I'm thinking I should apply to @katyhuff even.",
+      "url": "https://x.com/TheDoctorRAB/status/1802020446558425278",
+      "author": "372427049",
+      "published_at": "2024-06-15T16:48:49",
+      "observed_at": "2026-09-10T03:54:23.136841",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 25,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1798007017724088582",
+      "title": "@d0tslash @LaneNuclear Where's the meme for Latex though?",
+      "body": "@d0tslash @LaneNuclear Where's the meme for Latex though?",
+      "url": "https://x.com/TheDoctorRAB/status/1798007017724088582",
+      "author": "372427049",
+      "published_at": "2024-06-04T15:00:53",
+      "observed_at": "2026-09-10T03:54:23.137872",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 3,
+        "views": 488,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1793456441900368184",
+      "title": "@ans_org President Kenneth Petersen continues his Idaho Falls tour with an @ANSIdaho dinner meeting talk https://t.co/YasWT9GTfH",
+      "body": "@ans_org President Kenneth Petersen continues his Idaho Falls tour with an @ANSIdaho dinner meeting talk https://t.co/YasWT9GTfH",
+      "url": "https://x.com/TheDoctorRAB/status/1793456441900368184",
+      "author": "372427049",
+      "published_at": "2024-05-23T01:38:31",
+      "observed_at": "2026-09-10T03:54:23.138929",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 4,
+        "views": 541,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1776426601384710193",
+      "title": "@PennStateGov @GovNuclear And @katyhuff is so great she took time to talk to our @UIdahoANS student at his first conference and so many other students.",
+      "body": "@PennStateGov @GovNuclear And @katyhuff is so great she took time to talk to our @UIdahoANS student at his first conference and so many other students.",
+      "url": "https://x.com/TheDoctorRAB/status/1776426601384710193",
+      "author": "372427049",
+      "published_at": "2024-04-06T01:48:00",
+      "observed_at": "2026-09-10T03:54:23.140109",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 30,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1773520769928351988",
+      "title": "@ANSIdaho Spring dinner meeting featuring Colin Judge @INL\n@ANS_org https://t.co/ZFpszDWQVJ",
+      "body": "@ANSIdaho Spring dinner meeting featuring Colin Judge @INL\n@ANS_org https://t.co/ZFpszDWQVJ",
+      "url": "https://x.com/TheDoctorRAB/status/1773520769928351988",
+      "author": "372427049",
+      "published_at": "2024-03-29T01:21:16",
+      "observed_at": "2026-09-10T03:54:23.141250",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 482,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1760049968113664367",
+      "title": "@amanda_bachmann @katyhuff I'm hoping to be the warm up act when Late Night Huff Nuke Chat debuts. I've been working on my material all year.",
+      "body": "@amanda_bachmann @katyhuff I'm hoping to be the warm up act when Late Night Huff Nuke Chat debuts. I've been working on my material all year.",
+      "url": "https://x.com/TheDoctorRAB/status/1760049968113664367",
+      "author": "372427049",
+      "published_at": "2024-02-20T21:13:07",
+      "observed_at": "2026-09-10T03:54:23.142338",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 1,
+        "views": 41,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1757834405895418360",
+      "title": "I feel weird being in a zoom breakout room without @Heather_mom4nuk on consent based siting because we're usually grouped together.",
+      "body": "I feel weird being in a zoom breakout room without @Heather_mom4nuk on consent based siting because we're usually grouped together.",
+      "url": "https://x.com/TheDoctorRAB/status/1757834405895418360",
+      "author": "372427049",
+      "published_at": "2024-02-14T18:29:16",
+      "observed_at": "2026-09-10T03:54:23.143422",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 3,
+        "views": 92,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1757444959601574062",
+      "title": "I live with unabated optimism that someday someone would cite one of my 8 papers in pyroprocessing safeguards. Not holding my breath though.",
+      "body": "I live with unabated optimism that someday someone would cite one of my 8 papers in pyroprocessing safeguards. Not holding my breath though.",
+      "url": "https://x.com/TheDoctorRAB/status/1757444959601574062",
+      "author": "372427049",
+      "published_at": "2024-02-13T16:41:44",
+      "observed_at": "2026-09-10T03:54:23.145828",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 0,
+        "views": 53,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1725275977159262680",
+      "title": "@NuclearQuaffle I assumed on the order of 0.01 b for thermal neutrons.",
+      "body": "@NuclearQuaffle I assumed on the order of 0.01 b for thermal neutrons.",
+      "url": "https://x.com/TheDoctorRAB/status/1725275977159262680",
+      "author": "372427049",
+      "published_at": "2023-11-16T22:13:41",
+      "observed_at": "2026-09-10T03:54:23.148744",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 1,
+        "views": 21,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1722398160059068760",
+      "title": "@nuclearkatie @NuScale_Power @UAMPS_ They don't say whether they're still going to deploy 2 units @INL for research.",
+      "body": "@nuclearkatie @NuScale_Power @UAMPS_ They don't say whether they're still going to deploy 2 units @INL for research.",
+      "url": "https://x.com/TheDoctorRAB/status/1722398160059068760",
+      "author": "372427049",
+      "published_at": "2023-11-08T23:38:16",
+      "observed_at": "2026-09-10T03:54:23.150615",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 496,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1720112842362544367",
+      "title": "@amanda_bachmann I'll have enough for the both of us.",
+      "body": "@amanda_bachmann I'll have enough for the both of us.",
+      "url": "https://x.com/TheDoctorRAB/status/1720112842362544367",
+      "author": "372427049",
+      "published_at": "2023-11-02T16:17:14",
+      "observed_at": "2026-09-10T03:54:23.152050",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 1,
+        "views": 29,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1714681293580177616",
+      "title": "@amanda_bachmann @tokamak990 I took a summer program at Berkeley like this.",
+      "body": "@amanda_bachmann @tokamak990 I took a summer program at Berkeley like this.",
+      "url": "https://x.com/TheDoctorRAB/status/1714681293580177616",
+      "author": "372427049",
+      "published_at": "2023-10-18T16:34:12",
+      "observed_at": "2026-09-10T03:54:23.153230",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 52,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1712207066843009387",
+      "title": "@PhysInHistory @LaneNuclear And the cat is the last author too.",
+      "body": "@PhysInHistory @LaneNuclear And the cat is the last author too.",
+      "url": "https://x.com/TheDoctorRAB/status/1712207066843009387",
+      "author": "372427049",
+      "published_at": "2023-10-11T20:42:30",
+      "observed_at": "2026-09-10T03:54:23.154380",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 730,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1707166463050846552",
+      "title": "@PeterHotvedt @LaneNuclear I only got 8 and free drink tickets at TapNFill.",
+      "body": "@PeterHotvedt @LaneNuclear I only got 8 and free drink tickets at TapNFill.",
+      "url": "https://x.com/TheDoctorRAB/status/1707166463050846552",
+      "author": "372427049",
+      "published_at": "2023-09-27T22:52:57",
+      "observed_at": "2026-09-10T03:54:23.155406",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 17,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1694365641489400238",
+      "title": "@nuclearkatie Did that lady delete her tweets?",
+      "body": "@nuclearkatie Did that lady delete her tweets?",
+      "url": "https://x.com/TheDoctorRAB/status/1694365641489400238",
+      "author": "372427049",
+      "published_at": "2023-08-23T15:07:03",
+      "observed_at": "2026-09-10T03:54:23.156458",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 4,
+        "views": 510,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1694083827919134842",
+      "title": "@Beazy_Rampezy @J_Lovering @drvolts @nuclearzak I only go twice a year. Benefits - bringing dog, hiking, beer garden with students. In reality, you're not going",
+      "body": "@Beazy_Rampezy @J_Lovering @drvolts @nuclearzak I only go twice a year. Benefits - bringing dog, hiking, beer garden with students. In reality, you're not going to gain any university traction unless you go up there in person to get your face in front of faculty and admin.",
+      "url": "https://x.com/TheDoctorRAB/status/1694083827919134842",
+      "author": "372427049",
+      "published_at": "2023-08-22T20:27:13",
+      "observed_at": "2026-09-10T03:54:23.157508",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 0,
+        "views": 28,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1694016834205618216",
+      "title": "@nuclearkatie I'm sure any of her public appearances were recorded. Anyone objectively listening to any of her speaking engagements can see she knows what she's",
+      "body": "@nuclearkatie I'm sure any of her public appearances were recorded. Anyone objectively listening to any of her speaking engagements can see she knows what she's talking about. I don't see anything wrong with using any platform to promote a good cause like nuclear energy.",
+      "url": "https://x.com/TheDoctorRAB/status/1694016834205618216",
+      "author": "372427049",
+      "published_at": "2023-08-22T16:01:01",
+      "observed_at": "2026-09-10T03:54:23.158944",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 4,
+        "views": 222,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1692911200064110904",
+      "title": "@nuclearkatie It must have been so much fun to publish papers before Reviewer #2 was born.",
+      "body": "@nuclearkatie It must have been so much fun to publish papers before Reviewer #2 was born.",
+      "url": "https://x.com/TheDoctorRAB/status/1692911200064110904",
+      "author": "372427049",
+      "published_at": "2023-08-19T14:47:37",
+      "observed_at": "2026-09-10T03:54:23.160242",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 13,
+        "views": 720,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1692212831012499485",
+      "title": "@amanda_bachmann @nuclearkatie Keep in mind though that I'm going to screeching \"Hai Doctor Mummah!\" \"Hai Doctor Bachmann!\" at least three times a year for the ",
+      "body": "@amanda_bachmann @nuclearkatie Keep in mind though that I'm going to screeching \"Hai Doctor Mummah!\" \"Hai Doctor Bachmann!\" at least three times a year for the rest of your lives.\n\nMy advisor couldn't be bothered to hood me, so everyone who graduates is like I'm doing it all over again.",
+      "url": "https://x.com/TheDoctorRAB/status/1692212831012499485",
+      "author": "372427049",
+      "published_at": "2023-08-17T16:32:33",
+      "observed_at": "2026-09-10T03:54:23.161346",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 3,
+        "views": 44,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1691911277122301984",
+      "title": "@amanda_bachmann @nuclearzak I used these to show the team in the consent based proposal.",
+      "body": "@amanda_bachmann @nuclearzak I used these to show the team in the consent based proposal.",
+      "url": "https://x.com/TheDoctorRAB/status/1691911277122301984",
+      "author": "372427049",
+      "published_at": "2023-08-16T20:34:17",
+      "observed_at": "2026-09-10T03:54:23.162546",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 1,
+        "views": 10,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1668975044205109250",
+      "title": "@nuclearkatie @ANS_org Techically @amanda_bachmann was there; so, same person.",
+      "body": "@nuclearkatie @ANS_org Techically @amanda_bachmann was there; so, same person.",
+      "url": "https://x.com/TheDoctorRAB/status/1668975044205109250",
+      "author": "372427049",
+      "published_at": "2023-06-14T13:33:53",
+      "observed_at": "2026-09-10T03:54:23.163808",
+      "metrics": {
+        "author_handle": "TheDoctorRAB",
+        "author_followers": 442,
+        "likes": 2,
+        "views": 30,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

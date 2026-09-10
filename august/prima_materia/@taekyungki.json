@@ -1,0 +1,83 @@
+{
+  "handle": "taekyungki",
+  "total_tweets": 4,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2063309117029323016",
+      "title": "Can we make head avatars more interactive?\nCheck out our work, Avatar Forcing, at #CVPR2026.\n\n\ud83d\uddd3 Sat, Jun 6 | 11:45 AM\u20131:45 PM\n\ud83d\udccd ExHall F #357\n\nPaper: https://t.",
+      "body": "Can we make head avatars more interactive?\nCheck out our work, Avatar Forcing, at #CVPR2026.\n\n\ud83d\uddd3 Sat, Jun 6 | 11:45 AM\u20131:45 PM\n\ud83d\udccd ExHall F #357\n\nPaper: https://t.co/o9Z5zXCCCJ\nPage: https://t.co/FXf9XWCyo0\nCode: https://t.co/Glle3jBRb0 https://t.co/wTGgqj7gt4",
+      "url": "https://x.com/taekyungki/status/2063309117029323016",
+      "author": "1537455681288404994",
+      "published_at": "2026-06-06T17:16:42",
+      "observed_at": "2026-09-10T03:54:43.547453",
+      "metrics": {
+        "author_handle": "taekyungki",
+        "author_followers": 78,
+        "likes": 5,
+        "views": 518,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1939236279612514393",
+      "title": "(1/n) \ud83c\udf89Excited to share that FLOAT has been accepted to #ICCV2025!\nIt can generate high-fidelity talking portrait videos in real-time and supports test-time hea",
+      "body": "(1/n) \ud83c\udf89Excited to share that FLOAT has been accepted to #ICCV2025!\nIt can generate high-fidelity talking portrait videos in real-time and supports test-time head pose editing via the learned motion orthonormal basis.\n\nWe\u2019ve released the code and weights \u2014 enjoy exploring FLOAT! https://t.co/aFlh0TDS6t",
+      "url": "https://x.com/taekyungki/status/1939236279612514393",
+      "author": "1537455681288404994",
+      "published_at": "2025-06-29T08:15:32",
+      "observed_at": "2026-09-10T03:54:43.549771",
+      "metrics": {
+        "author_handle": "taekyungki",
+        "author_followers": 78,
+        "likes": 13,
+        "views": 13356,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1924399830136406427",
+      "title": "@kangsan_kim_ congrats!",
+      "body": "@kangsan_kim_ congrats!",
+      "url": "https://x.com/taekyungki/status/1924399830136406427",
+      "author": "1537455681288404994",
+      "published_at": "2025-05-19T09:40:47",
+      "observed_at": "2026-09-10T03:54:43.552422",
+      "metrics": {
+        "author_handle": "taekyungki",
+        "author_followers": 78,
+        "likes": 2,
+        "views": 64,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1864099802751136246",
+      "title": "You can find preprint here:\nhttps://t.co/zFf9JhhxDR",
+      "body": "You can find preprint here:\nhttps://t.co/zFf9JhhxDR",
+      "url": "https://x.com/taekyungki/status/1864099802751136246",
+      "author": "1537455681288404994",
+      "published_at": "2024-12-04T00:10:00",
+      "observed_at": "2026-09-10T03:54:43.553614",
+      "metrics": {
+        "author_handle": "taekyungki",
+        "author_followers": 78,
+        "likes": 2,
+        "views": 252,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

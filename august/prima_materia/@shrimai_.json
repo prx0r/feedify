@@ -1,0 +1,615 @@
+{
+  "handle": "shrimai_",
+  "total_tweets": 32,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2078290473806966958",
+      "title": "Some mentors change your career. The best ones change how you think. Forever grateful to @rsalakhu for making my PhD a rewarding journey.",
+      "body": "Some mentors change your career. The best ones change how you think. Forever grateful to @rsalakhu for making my PhD a rewarding journey.",
+      "url": "https://x.com/shrimai_/status/2078290473806966958",
+      "author": "409006348",
+      "published_at": "2026-07-18T01:27:16",
+      "observed_at": "2026-09-10T03:56:47.179535",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 31,
+        "views": 8433,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2049171872042852732",
+      "title": "Thrilled to be joining @MistralAI \ud83d\ude3b! Looking forward to pushing the frontier of pretraining and advancing the next generation of LLMs.\n\n\ud83d\udc9aGrateful for my time at",
+      "body": "Thrilled to be joining @MistralAI \ud83d\ude3b! Looking forward to pushing the frontier of pretraining and advancing the next generation of LLMs.\n\n\ud83d\udc9aGrateful for my time at @nvidia -- it's  been an incredible foundation for this next chapter.",
+      "url": "https://x.com/shrimai_/status/2049171872042852732",
+      "author": "409006348",
+      "published_at": "2026-04-28T17:00:20",
+      "observed_at": "2026-09-10T03:56:47.181453",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 346,
+        "views": 18597,
+        "reposts": 9,
+        "replies": 21,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036792984037978354",
+      "title": "Excited to share Nemotron-CrossThink @eaclmeeting  \ud83d\ude80\n\nWe move beyond math-only RL by bringing multi-domain reasoning into RL training with scalable, verifiable ",
+      "body": "Excited to share Nemotron-CrossThink @eaclmeeting  \ud83d\ude80\n\nWe move beyond math-only RL by bringing multi-domain reasoning into RL training with scalable, verifiable rewards.\n\nDon't miss the oral presentation tomorrow at 9.00am in Salle Le Riad by @__SyedaAkter\n\nLink: https://t.co/DMW9iLMNuL",
+      "url": "https://x.com/shrimai_/status/2036792984037978354",
+      "author": "409006348",
+      "published_at": "2026-03-25T13:11:03",
+      "observed_at": "2026-09-10T03:56:47.183103",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 14,
+        "views": 706,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032151983851774019",
+      "title": "\ud83d\udce2 Thrilled to see Nemotron-3 Super out in the world. \ud83d\ude80\n\nA hybrid MoE model with long-context support and strong reasoning capabilities \u2014 designed for scalable a",
+      "body": "\ud83d\udce2 Thrilled to see Nemotron-3 Super out in the world. \ud83d\ude80\n\nA hybrid MoE model with long-context support and strong reasoning capabilities \u2014 designed for scalable agentic AI systems and efficient inference.\n\n\ud83c\udf89 Proud to be part of the team pushing forward open, efficient, and scalable AI systems. @NVIDIAAI @nvidia",
+      "url": "https://x.com/shrimai_/status/2032151983851774019",
+      "author": "409006348",
+      "published_at": "2026-03-12T17:49:23",
+      "observed_at": "2026-09-10T03:56:47.186537",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 37,
+        "views": 1348,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2016585503860982148",
+      "title": "3\ufe0f\u20e3 Nemotron-CC-Math\n\nHigh-quality reasoning starts with high-quality data.\n\nNemotron-CC-Math is a 133B-token math-focused pretraining dataset, carefully curate",
+      "body": "3\ufe0f\u20e3 Nemotron-CC-Math\n\nHigh-quality reasoning starts with high-quality data.\n\nNemotron-CC-Math is a 133B-token math-focused pretraining dataset, carefully curated for diversity, correctness, and scale \u2014 designed to support reasoning during pretraining.\n\n\ud83e\udd17Dataset: https://t.co/AfpyhtvJtM\n\ud83d\udcc4 Paper: https://t.co/6sNF6k2fPC\nHuge thanks to all the collaborators @KarimiRabeeh @issanjeev @MostofaPatwary @MohammadShoeybi @ctnzr !!",
+      "url": "https://x.com/shrimai_/status/2016585503860982148",
+      "author": "409006348",
+      "published_at": "2026-01-28T18:53:45",
+      "observed_at": "2026-09-10T03:56:47.191267",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 6,
+        "views": 350,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2016584301744173562",
+      "title": "2\ufe0f\u20e3 Front-Loading Reasoning\n\nWhen should reasoning data be introduced \u2014 pretraining or post-training?\n\nOur answer: earlier is better. We show that front-loading",
+      "body": "2\ufe0f\u20e3 Front-Loading Reasoning\n\nWhen should reasoning data be introduced \u2014 pretraining or post-training?\n\nOur answer: earlier is better. We show that front-loading diverse reasoning data during pretraining creates durable reasoning capabilities that later SFT cannot fully recover, even with more data.\n\ud83d\udcc4 Paper: https://t.co/b9ixkRKmqR\nHuge thanks to all the collaborators @__SyedaAkter Eric Nyberg, @MostofaPatwary @MohammadShoeybi @YejinChoinka @ctnzr !!",
+      "url": "https://x.com/shrimai_/status/2016584301744173562",
+      "author": "409006348",
+      "published_at": "2026-01-28T18:48:58",
+      "observed_at": "2026-09-10T03:56:47.194910",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 7,
+        "views": 455,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2016583305097818384",
+      "title": "1\ufe0f\u20e3 RLP: Reinforcement as a Pretraining Objective\n\nReinforcement learning is usually saved for post-training.\n\ud83d\ude80RLP flips that script.\nWe introduce an informatio",
+      "body": "1\ufe0f\u20e3 RLP: Reinforcement as a Pretraining Objective\n\nReinforcement learning is usually saved for post-training.\n\ud83d\ude80RLP flips that script.\nWe introduce an information-driven reinforcement objective during pretraining, encouraging models to explore chain-of-thought as an action and teaching models how to think before fine-tuning.\n\n\ud83d\udcc4 Paper: https://t.co/y51qJ8rkcH\nHuge thanks to the collaborators @ahatamiz1 @__SyedaAkter @jankautz @MostofaPatwary @MohammadShoeybi @ctnzr @YejinChoinka !! \ud83c\udf89",
+      "url": "https://x.com/shrimai_/status/2016583305097818384",
+      "author": "409006348",
+      "published_at": "2026-01-28T18:45:00",
+      "observed_at": "2026-09-10T03:56:47.197536",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 7,
+        "views": 3494,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2016572779894546894",
+      "title": "Thrilled to share that all three of our papers were accepted to @iclr_conf   \ud83c\udf89\n\n1\u20e3RLP: Reinforcement as a Pretraining Objective\n2\u20e3Front-Loading Reasoning: The S",
+      "body": "Thrilled to share that all three of our papers were accepted to @iclr_conf   \ud83c\udf89\n\n1\u20e3RLP: Reinforcement as a Pretraining Objective\n2\u20e3Front-Loading Reasoning: The Synergy between Pretraining & Post-Training Data\n3\u20e3Nemotron-CC-Math: A 133B-token High-Quality Math Pretraining Dataset\n\nTogether, they explore how data, reasoning, and reinforcement during pretraining shape stronger LLMs.",
+      "url": "https://x.com/shrimai_/status/2016572779894546894",
+      "author": "409006348",
+      "published_at": "2026-01-28T18:03:11",
+      "observed_at": "2026-09-10T03:56:47.200170",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 80,
+        "views": 13395,
+        "reposts": 10,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2000646253575569549",
+      "title": "Excited to be part of the launch of @nvidia Nemotron 3 Nano (30B) \ud83d\ude80 A hybrid MoE reasoning model with 1M context, SWE-Bench-leading performance, and 1.5\u20133.3\u00d7 fa",
+      "body": "Excited to be part of the launch of @nvidia Nemotron 3 Nano (30B) \ud83d\ude80 A hybrid MoE reasoning model with 1M context, SWE-Bench-leading performance, and 1.5\u20133.3\u00d7 faster inference. Super and Ultra are coming in the next few months. Open, fast, frontier-level \ud83d\udd25",
+      "url": "https://x.com/shrimai_/status/2000646253575569549",
+      "author": "409006348",
+      "published_at": "2025-12-15T19:16:51",
+      "observed_at": "2026-09-10T03:56:47.202799",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 32,
+        "views": 2069,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1995983927480025513",
+      "title": "I\u2019ll be at #NeurIPS this week. Check out our paper let by @jaehunjung_com !",
+      "body": "I\u2019ll be at #NeurIPS this week. Check out our paper let by @jaehunjung_com !",
+      "url": "https://x.com/shrimai_/status/1995983927480025513",
+      "author": "409006348",
+      "published_at": "2025-12-02T22:30:26",
+      "observed_at": "2026-09-10T03:56:47.205255",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 3,
+        "views": 481,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1976387545890992320",
+      "title": "Thank you @rohanpaul_ai for highlighting our work!\ud83d\udcab\n\nFront-Loading Reasoning shows that inclusion of reasoning data in pretraining is beneficial, does not lead ",
+      "body": "Thank you @rohanpaul_ai for highlighting our work!\ud83d\udcab\n\nFront-Loading Reasoning shows that inclusion of reasoning data in pretraining is beneficial, does not lead to overfitting after SFT, & has latent effect unlocked by SFT!\n\nPaper: https://t.co/u0mIgVdYNT\nBlog: https://t.co/WEYOhBR0c0",
+      "url": "https://x.com/shrimai_/status/1976387545890992320",
+      "author": "409006348",
+      "published_at": "2025-10-09T20:41:25",
+      "observed_at": "2026-09-10T03:56:47.206576",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 9,
+        "views": 1118,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1973859343943761975",
+      "title": "Thanks to the whole team! @__SyedaAkter , Eric Nyberg, @MostofaPatwary , @MohammadShoeybi , @ctnzr and @YejinChoinka ! \ud83d\udcab\ud83c\udf89",
+      "body": "Thanks to the whole team! @__SyedaAkter , Eric Nyberg, @MostofaPatwary , @MohammadShoeybi , @ctnzr and @YejinChoinka ! \ud83d\udcab\ud83c\udf89",
+      "url": "https://x.com/shrimai_/status/1973859343943761975",
+      "author": "409006348",
+      "published_at": "2025-10-02T21:15:14",
+      "observed_at": "2026-09-10T03:56:47.208778",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 175,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1973858976984187327",
+      "title": "Front-loading reasoning data in pretraining = a durable, compounding edge \ud83d\udd25\n\ud83d\udd39Pretraining:\ud83d\ude80+16% gains right out of the gate\n\ud83d\udd39SFT:\ud83d\udcdaAdvantage grows to +9.3%\n\ud83d\udd39RL:\ud83c\udfc6F",
+      "body": "Front-loading reasoning data in pretraining = a durable, compounding edge \ud83d\udd25\n\ud83d\udd39Pretraining:\ud83d\ude80+16% gains right out of the gate\n\ud83d\udd39SFT:\ud83d\udcdaAdvantage grows to +9.3%\n\ud83d\udd39RL:\ud83c\udfc6Finishes with a massive +19% on expert benchmarks\n\u2728SFT &amp; RL can amplify strong foundations\u2014but can\u2019t create them. https://t.co/ChDmtBafIF",
+      "url": "https://x.com/shrimai_/status/1973858976984187327",
+      "author": "409006348",
+      "published_at": "2025-10-02T21:13:47",
+      "observed_at": "2026-09-10T03:56:47.210128",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 229,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1973857488807350686",
+      "title": "When should LLMs learn to reason\u2014early in pretraining or late in fine-tuning?\ud83e\udd14\nFront-Loading Reasoning, shows that injecting reasoning data early creates durabl",
+      "body": "When should LLMs learn to reason\u2014early in pretraining or late in fine-tuning?\ud83e\udd14\nFront-Loading Reasoning, shows that injecting reasoning data early creates durable, compounding gains that post-training alone cannot recover\nPaper:https://t.co/Bj8MUtDQnm\nBlog:https://t.co/c7u6sfFMC2 https://t.co/4UneyfvGH6",
+      "url": "https://x.com/shrimai_/status/1973857488807350686",
+      "author": "409006348",
+      "published_at": "2025-10-02T21:07:52",
+      "observed_at": "2026-09-10T03:56:47.212550",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 47,
+        "views": 3798,
+        "reposts": 12,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1973117389450649957",
+      "title": "Thanks to the whole team! @ahatamiz1 @SNAT02792153 @jankautz @MostofaPatwary @MohammadShoeybi @ctnzr @YejinChoinka",
+      "body": "Thanks to the whole team! @ahatamiz1 @SNAT02792153 @jankautz @MostofaPatwary @MohammadShoeybi @ctnzr @YejinChoinka",
+      "url": "https://x.com/shrimai_/status/1973117389450649957",
+      "author": "409006348",
+      "published_at": "2025-09-30T20:06:59",
+      "observed_at": "2026-09-10T03:56:47.214992",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 413,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1973116521833714091",
+      "title": "\ud83d\udcc8 RLP delivers consistent gains (+7\u20139%)\n\ud83c\udf0d True cross-domain transfer across all benchmarks\n\ud83d\udd78\ufe0f Finds reasoning signals even in web crawl\u2014no curated data needed.\n",
+      "body": "\ud83d\udcc8 RLP delivers consistent gains (+7\u20139%)\n\ud83c\udf0d True cross-domain transfer across all benchmarks\n\ud83d\udd78\ufe0f Finds reasoning signals even in web crawl\u2014no curated data needed.\n\ud83d\udcc2 Works with data of any format, no special curation required\n\ud83d\ude80 A scalable way to make LLMs reason everywhere. \ud83e\udde0 https://t.co/pYy0aZwO8L",
+      "url": "https://x.com/shrimai_/status/1973116521833714091",
+      "author": "409006348",
+      "published_at": "2025-09-30T20:03:32",
+      "observed_at": "2026-09-10T03:56:47.216236",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 4,
+        "views": 605,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1973113867455832096",
+      "title": "\ud83d\udcab Introducing RLP: Reinforcement Learning Pretraining\u2014information-driven, verifier-free objective that teaches models to think before they predict\n \ud83d\udd25+19% vs BAS",
+      "body": "\ud83d\udcab Introducing RLP: Reinforcement Learning Pretraining\u2014information-driven, verifier-free objective that teaches models to think before they predict\n \ud83d\udd25+19% vs BASE on Qwen3-1.7B\n \ud83d\ude80+35% vs BASE on Nemotron-Nano-12B\n\ud83d\udcc4Paper: https://t.co/j5nk3s7k54\n \ud83d\udcddBlog: https://t.co/Yxoyx0ZUSW https://t.co/rK1ccRbiqr",
+      "url": "https://x.com/shrimai_/status/1973113867455832096",
+      "author": "409006348",
+      "published_at": "2025-09-30T19:52:59",
+      "observed_at": "2026-09-10T03:56:47.218327",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 230,
+        "views": 16702,
+        "reposts": 42,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1920864787795198204",
+      "title": "Nemotron-CrossThink is trending on HuggingFace! @huggingface #huggingface",
+      "body": "Nemotron-CrossThink is trending on HuggingFace! @huggingface #huggingface",
+      "url": "https://x.com/shrimai_/status/1920864787795198204",
+      "author": "409006348",
+      "published_at": "2025-05-09T15:33:48",
+      "observed_at": "2026-09-10T03:56:47.220421",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 8,
+        "views": 690,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1917976300184297876",
+      "title": "\ud83d\udcc2Dataset: https://t.co/YxK6POQ9TI\n\ud83e\udde0Blog: https://t.co/bmL9Vz922V\n\ud83d\udcc4Paper: https://t.co/hyIu7VnuOI\nThanks @SNAT02792153, whose internship drove project forward &a",
+      "body": "\ud83d\udcc2Dataset: https://t.co/YxK6POQ9TI\n\ud83e\udde0Blog: https://t.co/bmL9Vz922V\n\ud83d\udcc4Paper: https://t.co/hyIu7VnuOI\nThanks @SNAT02792153, whose internship drove project forward &amp; Matvei Novikov, @SeungjuHan3, Ying Lin, Evelina Bakhturina, @YejinChoinka, @MostofaPatwary, @MohammadShoeybi, @ctnzr!",
+      "url": "https://x.com/shrimai_/status/1917976300184297876",
+      "author": "409006348",
+      "published_at": "2025-05-01T16:15:58",
+      "observed_at": "2026-09-10T03:56:47.221792",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 3,
+        "views": 140,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1917976294886928763",
+      "title": "Announcing Nemotron-CrossThink: pushes RL for LLMs beyond math into general purpose reasoning.\nWe curate diverse, verifiable QA from web crawl + open sets &amp;",
+      "body": "Announcing Nemotron-CrossThink: pushes RL for LLMs beyond math into general purpose reasoning.\nWe curate diverse, verifiable QA from web crawl + open sets &amp; apply structured templates.\n\ud83d\udcc9 28% token efficiency gain per correct answer.\n\ud83d\udcc2 Dataset now released! https://t.co/slr5shWPMh",
+      "url": "https://x.com/shrimai_/status/1917976294886928763",
+      "author": "409006348",
+      "published_at": "2025-05-01T16:15:57",
+      "observed_at": "2026-09-10T03:56:47.223849",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 29,
+        "views": 2188,
+        "reposts": 8,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1848414366367940989",
+      "title": "Work done by @SNAT02792153 during her internship at ADLR @nvidia \nPaper: https://t.co/0AMWbhqJZD\nThanks to all the collaborators for making this a success: John",
+      "body": "Work done by @SNAT02792153 during her internship at ADLR @nvidia \nPaper: https://t.co/0AMWbhqJZD\nThanks to all the collaborators for making this a success: John Kamalu, @issanjeev, Eric Nyberg, @MostofaPatwary, @MohammadShoeybi, @ctnzr !",
+      "url": "https://x.com/shrimai_/status/1848414366367940989",
+      "author": "409006348",
+      "published_at": "2024-10-21T17:21:41",
+      "observed_at": "2026-09-10T03:56:47.226297",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 3,
+        "views": 210,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1801656874145878337",
+      "title": "Nemotron-4-340B-Base: \n* Trained for 9T tokens on 6144 H100 GPUs  \n* Using Megatron-Core at 41% MFU\n* Competitive across many tasks\nLink: https://t.co/1EPpwgXfz",
+      "body": "Nemotron-4-340B-Base: \n* Trained for 9T tokens on 6144 H100 GPUs  \n* Using Megatron-Core at 41% MFU\n* Competitive across many tasks\nLink: https://t.co/1EPpwgXfzQ https://t.co/QYU87etTME",
+      "url": "https://x.com/shrimai_/status/1801656874145878337",
+      "author": "409006348",
+      "published_at": "2024-06-14T16:44:06",
+      "observed_at": "2026-09-10T03:56:47.228290",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 6,
+        "views": 328,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1734223447922774233",
+      "title": "I'm interested in building LLMs, aligning them, reducing bias and toxicity in LLMs and everything else in the vast neighborhood. I'm happy to chat on these topi",
+      "body": "I'm interested in building LLMs, aligning them, reducing bias and toxicity in LLMs and everything else in the vast neighborhood. I'm happy to chat on these topics!",
+      "url": "https://x.com/shrimai_/status/1734223447922774233",
+      "author": "409006348",
+      "published_at": "2023-12-11T14:47:44",
+      "observed_at": "2026-09-10T03:56:47.229775",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 261,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1550547263331504128",
+      "title": "@zacharylipton I\u2019m so sorry you had to live through that. Thank you for sharing the story.",
+      "body": "@zacharylipton I\u2019m so sorry you had to live through that. Thank you for sharing the story.",
+      "url": "https://x.com/shrimai_/status/1550547263331504128",
+      "author": "409006348",
+      "published_at": "2022-07-22T18:24:10",
+      "observed_at": "2026-09-10T03:56:47.230634",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1451085279708680193",
+      "title": "@Shreyagupta08 Thank you!  ... And I'm glad that it helped you. Best of luck in your future endeavors!",
+      "body": "@Shreyagupta08 Thank you!  ... And I'm glad that it helped you. Best of luck in your future endeavors!",
+      "url": "https://x.com/shrimai_/status/1451085279708680193",
+      "author": "409006348",
+      "published_at": "2021-10-21T07:17:45",
+      "observed_at": "2026-09-10T03:56:47.231347",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1400526125533515776",
+      "title": "@dan_fried @LTIatCMU @SCSatCMU Congratulations!!",
+      "body": "@dan_fried @LTIatCMU @SCSatCMU Congratulations!!",
+      "url": "https://x.com/shrimai_/status/1400526125533515776",
+      "author": "409006348",
+      "published_at": "2021-06-03T18:53:43",
+      "observed_at": "2026-09-10T03:56:47.232018",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1390345002727903233",
+      "title": "@Zhou_Yu_AI Congratulations!!",
+      "body": "@Zhou_Yu_AI Congratulations!!",
+      "url": "https://x.com/shrimai_/status/1390345002727903233",
+      "author": "409006348",
+      "published_at": "2021-05-06T16:37:34",
+      "observed_at": "2026-09-10T03:56:47.232630",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1384353522066526208",
+      "title": "@swabhz @CSatUSC @nlp_usc Congrats Swabha!!",
+      "body": "@swabhz @CSatUSC @nlp_usc Congrats Swabha!!",
+      "url": "https://x.com/shrimai_/status/1384353522066526208",
+      "author": "409006348",
+      "published_at": "2021-04-20T03:49:34",
+      "observed_at": "2026-09-10T03:56:47.233404",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1383148308131147776",
+      "title": "@pliang279 @lpmorency @LTIatCMU @mldcmu Welcome to Twitter @lpmorency !!",
+      "body": "@pliang279 @lpmorency @LTIatCMU @mldcmu Welcome to Twitter @lpmorency !!",
+      "url": "https://x.com/shrimai_/status/1383148308131147776",
+      "author": "409006348",
+      "published_at": "2021-04-16T20:00:28",
+      "observed_at": "2026-09-10T03:56:47.234173",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1378187203889799168",
+      "title": "@umasscs @NSF Congratulations @MohitIyyer !!",
+      "body": "@umasscs @NSF Congratulations @MohitIyyer !!",
+      "url": "https://x.com/shrimai_/status/1378187203889799168",
+      "author": "409006348",
+      "published_at": "2021-04-03T03:26:49",
+      "observed_at": "2026-09-10T03:56:47.234946",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1352009724854677508",
+      "title": "@sleepinyourhat Storium by @MohitIyyer may be of interest.\nAvailable: https://t.co/WkDpMws7Ky",
+      "body": "@sleepinyourhat Storium by @MohitIyyer may be of interest.\nAvailable: https://t.co/WkDpMws7Ky",
+      "url": "https://x.com/shrimai_/status/1352009724854677508",
+      "author": "409006348",
+      "published_at": "2021-01-20T21:46:52",
+      "observed_at": "2026-09-10T03:56:47.235559",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1336689710257876996",
+      "title": "1) organizes dialog as 'relational graph': edges represent relationships between entities --&gt; helps integrate bg knowledge 4 reasoning\n2) proposes relational",
+      "body": "1) organizes dialog as 'relational graph': edges represent relationships between entities --&gt; helps integrate bg knowledge 4 reasoning\n2) proposes relational graph conv nw for multi-relation data characteristics of heterogeneous relational graph of dialog\n#coling2020 @coling2020 https://t.co/SzHCuVFoDH",
+      "url": "https://x.com/shrimai_/status/1336689710257876996",
+      "author": "409006348",
+      "published_at": "2020-12-09T15:10:36",
+      "observed_at": "2026-09-10T03:56:47.236202",
+      "metrics": {
+        "author_handle": "shrimai_",
+        "author_followers": 2514,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

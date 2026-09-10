@@ -8,7 +8,7 @@ def test_product_flow():
         health = client.get("/api/health")
         assert health.status_code == 200
         assert health.json()["feeds"] >= 5
-        assert health.json()["signals"] >= 5
+        assert health.json()["objects"] >= 5
 
         feeds = client.get("/api/feeds").json()
         assert any(f["slug"] == "agent-commerce-alpha" for f in feeds)

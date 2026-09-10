@@ -1,0 +1,539 @@
+{
+  "handle": "KaiyuYang4",
+  "total_tweets": 28,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2096076666422313026",
+      "title": "\uff01\uff01\uff01",
+      "body": "\uff01\uff01\uff01",
+      "url": "https://x.com/KaiyuYang4/status/2096076666422313026",
+      "author": "1134665912227946497",
+      "published_at": "2026-09-05T03:23:15",
+      "observed_at": "2026-09-10T03:56:29.386032",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 25,
+        "views": 2901,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032275071872774618",
+      "title": "@guohao_li @miromind_ai thx!",
+      "body": "@guohao_li @miromind_ai thx!",
+      "url": "https://x.com/KaiyuYang4/status/2032275071872774618",
+      "author": "1134665912227946497",
+      "published_at": "2026-03-13T01:58:29",
+      "observed_at": "2026-09-10T03:56:29.388286",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 2,
+        "views": 279,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031270020693860446",
+      "title": "@WendaLi8 Thank you Wenda!",
+      "body": "@WendaLi8 Thank you Wenda!",
+      "url": "https://x.com/KaiyuYang4/status/2031270020693860446",
+      "author": "1134665912227946497",
+      "published_at": "2026-03-10T07:24:46",
+      "observed_at": "2026-09-10T03:56:29.390068",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 1,
+        "views": 199,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1997185869510594922",
+      "title": "Huge thanks to our incredible organizing team and to @DARPA, @HarmonicMath, @awscloud, and @axiommathai for their generous support! https://t.co/Yf5hVi0bpM",
+      "body": "Huge thanks to our incredible organizing team and to @DARPA, @HarmonicMath, @awscloud, and @axiommathai for their generous support! https://t.co/Yf5hVi0bpM",
+      "url": "https://x.com/KaiyuYang4/status/1997185869510594922",
+      "author": "1134665912227946497",
+      "published_at": "2025-12-06T06:06:31",
+      "observed_at": "2026-09-10T03:56:29.391614",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 15,
+        "views": 2830,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1997185299026530754",
+      "title": "https://t.co/0wtsDmyf8d",
+      "body": "https://t.co/0wtsDmyf8d",
+      "url": "https://x.com/KaiyuYang4/status/1997185299026530754",
+      "author": "1134665912227946497",
+      "published_at": "2025-12-06T06:04:15",
+      "observed_at": "2026-09-10T03:56:29.397666",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 6,
+        "views": 470,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1997185125294211174",
+      "title": "Looking forward to seeing you at the MATH-AI workshop at #NeurIPS tomorrow!\nLocation: Upper Level Ballroom 6A\nSchedule: https://t.co/OrkhDvseLY https://t.co/cBx",
+      "body": "Looking forward to seeing you at the MATH-AI workshop at #NeurIPS tomorrow!\nLocation: Upper Level Ballroom 6A\nSchedule: https://t.co/OrkhDvseLY https://t.co/cBxBHWJDem",
+      "url": "https://x.com/KaiyuYang4/status/1997185125294211174",
+      "author": "1134665912227946497",
+      "published_at": "2025-12-06T06:03:34",
+      "observed_at": "2026-09-10T03:56:29.399869",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 47,
+        "views": 21583,
+        "reposts": 6,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1993449907957776504",
+      "title": "I'll be at #neurips2025 from Dec 3rd to 6th. Happy to catch up in San Diego!",
+      "body": "I'll be at #neurips2025 from Dec 3rd to 6th. Happy to catch up in San Diego!",
+      "url": "https://x.com/KaiyuYang4/status/1993449907957776504",
+      "author": "1134665912227946497",
+      "published_at": "2025-11-25T22:41:09",
+      "observed_at": "2026-09-10T03:56:29.402501",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 52,
+        "views": 4620,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1991313114865045684",
+      "title": "Thank you Patrick, and thanks DARPA for generous support! See you at the MATH-AI workshop at #neurips2025!\n\nhttps://t.co/Z9teia67kl",
+      "body": "Thank you Patrick, and thanks DARPA for generous support! See you at the MATH-AI workshop at #neurips2025!\n\nhttps://t.co/Z9teia67kl",
+      "url": "https://x.com/KaiyuYang4/status/1991313114865045684",
+      "author": "1134665912227946497",
+      "published_at": "2025-11-20T01:10:18",
+      "observed_at": "2026-09-10T03:56:29.407669",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 23,
+        "views": 3899,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948020455719190938",
+      "title": "Thanks to our dedicated teams of organizers: @HanSineng, @lupantech, @weixiong_1, @ericzelikman, @Yong18850571, @uniq_zz, Soonho Kong, @hhexiy, @dawnsongtweets,",
+      "body": "Thanks to our dedicated teams of organizers: @HanSineng, @lupantech, @weixiong_1, @ericzelikman, @Yong18850571, @uniq_zz, Soonho Kong, @hhexiy, @dawnsongtweets, @prfsanjeevarora. https://t.co/eBLypzaW9J",
+      "url": "https://x.com/KaiyuYang4/status/1948020455719190938",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-23T14:00:43",
+      "observed_at": "2026-09-10T03:56:29.408876",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 14,
+        "views": 805,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948020356448457121",
+      "title": "\ud83e\udd1d Seeking sponsors to support travel grants &amp; recognize outstanding work at MATH\u2011AI!\nInterested in sponsoring? DM me for details.",
+      "body": "\ud83e\udd1d Seeking sponsors to support travel grants &amp; recognize outstanding work at MATH\u2011AI!\nInterested in sponsoring? DM me for details.",
+      "url": "https://x.com/KaiyuYang4/status/1948020356448457121",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-23T14:00:20",
+      "observed_at": "2026-09-10T03:56:29.411310",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 8,
+        "views": 519,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948020223979802798",
+      "title": "\ud83d\udd0d We need reviewers to help maintain our scientific quality! If you're interested in reviewing MATH\u2011AI submissions, please sign up here: https://t.co/w8cmheI8yS",
+      "body": "\ud83d\udd0d We need reviewers to help maintain our scientific quality! If you're interested in reviewing MATH\u2011AI submissions, please sign up here: https://t.co/w8cmheI8yS. Reviewers play a vital role\u2014thanks for your contributions!",
+      "url": "https://x.com/KaiyuYang4/status/1948020223979802798",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-23T13:59:48",
+      "observed_at": "2026-09-10T03:56:29.412656",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 10,
+        "views": 625,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948020049773535656",
+      "title": "\u270d\ufe0f Submit your 4\u2011page, non\u2011archival workshop papers to MATH\u2011AI.\n\ud83d\udcc5 Deadline (tentative): Aug\u202f29, 2025 AoE\n\ud83d\udccc Info & CFP: https://t.co/4QjfiT8xvy\n\ud83d\udd17 Submission via ",
+      "body": "\u270d\ufe0f Submit your 4\u2011page, non\u2011archival workshop papers to MATH\u2011AI.\n\ud83d\udcc5 Deadline (tentative): Aug\u202f29, 2025 AoE\n\ud83d\udccc Info & CFP: https://t.co/4QjfiT8xvy\n\ud83d\udd17 Submission via OpenReview: https://t.co/cNfvFd92PB\nAll accepted papers will be presented as posters, with a few selected orals and one Best Paper Award \ud83c\udfc6",
+      "url": "https://x.com/KaiyuYang4/status/1948020049773535656",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-23T13:59:06",
+      "observed_at": "2026-09-10T03:56:29.415653",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 12,
+        "views": 1738,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948019694130065837",
+      "title": "\ud83d\ude80 Excited to share that the Workshop on Mathematical Reasoning and AI (MATH\u2011AI) will be at NeurIPS\u202f2025!\n\ud83d\udcc5 Dec\u202f6 or 7 (TBD), 2025\n\ud83c\udf34 San Diego, California",
+      "body": "\ud83d\ude80 Excited to share that the Workshop on Mathematical Reasoning and AI (MATH\u2011AI) will be at NeurIPS\u202f2025!\n\ud83d\udcc5 Dec\u202f6 or 7 (TBD), 2025\n\ud83c\udf34 San Diego, California",
+      "url": "https://x.com/KaiyuYang4/status/1948019694130065837",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-23T13:57:42",
+      "observed_at": "2026-09-10T03:56:29.418244",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 235,
+        "views": 38662,
+        "reposts": 58,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1945461899472069078",
+      "title": "@JasonRute @leanprover @ProjectNumina As far as I know, Goedel-Prover has no plans to directly compete in IMO 2025. \ud83d\ude00",
+      "body": "@JasonRute @leanprover @ProjectNumina As far as I know, Goedel-Prover has no plans to directly compete in IMO 2025. \ud83d\ude00",
+      "url": "https://x.com/KaiyuYang4/status/1945461899472069078",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-16T12:33:56",
+      "observed_at": "2026-09-10T03:56:29.420999",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 4,
+        "views": 119,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1945189831874625965",
+      "title": "Our Goedel-Prover-V2 doubled the SOTA Pass@32 performance on PutnamBench with a 20x smaller model, making it the strongest open-source theorem prover to date!",
+      "body": "Our Goedel-Prover-V2 doubled the SOTA Pass@32 performance on PutnamBench with a 20x smaller model, making it the strongest open-source theorem prover to date!",
+      "url": "https://x.com/KaiyuYang4/status/1945189831874625965",
+      "author": "1134665912227946497",
+      "published_at": "2025-07-15T18:32:50",
+      "observed_at": "2026-09-10T03:56:29.422363",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 86,
+        "views": 12640,
+        "reposts": 14,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1933277868546797665",
+      "title": "With LLMs increasingly used in software development, the bottleneck will move from writing code to reasoning about code (review, testing, debugging, and verific",
+      "body": "With LLMs increasingly used in software development, the bottleneck will move from writing code to reasoning about code (review, testing, debugging, and verification). Dynamically typed languages like Python are popular because they made code easy to write. However, the future will belong to languages that make code easy to reason about, and Lean holds substantial promise in that regard @leanprover. Very excited about our new work on verifiable code generation led by @0xlf_ !",
+      "url": "https://x.com/KaiyuYang4/status/1933277868546797665",
+      "author": "1134665912227946497",
+      "published_at": "2025-06-12T21:38:57",
+      "observed_at": "2026-09-10T03:56:29.424646",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 33,
+        "views": 2627,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1909271323655962797",
+      "title": "The lecture will be available at https://t.co/HwYlMaGpbq",
+      "body": "The lecture will be available at https://t.co/HwYlMaGpbq",
+      "url": "https://x.com/KaiyuYang4/status/1909271323655962797",
+      "author": "1134665912227946497",
+      "published_at": "2025-04-07T15:45:30",
+      "observed_at": "2026-09-10T03:56:29.426606",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 2,
+        "views": 320,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1906001289525207387",
+      "title": "Surprised to see the Gemma 3 Technical Report (https://t.co/I1rKry8rnc) using our SpatialSense benchmark to evaluate multimodal performance. SpatialSense was my",
+      "body": "Surprised to see the Gemma 3 Technical Report (https://t.co/I1rKry8rnc) using our SpatialSense benchmark to evaluate multimodal performance. SpatialSense was my first PhD project\u2014back when I was still in computer vision. Rejected FIVE times by CVPR '17, ICCV '17, CVPR '18, ECCV '18, and CVPR '19 before finally getting into ICCV '19. Ah, the good old days.",
+      "url": "https://x.com/KaiyuYang4/status/1906001289525207387",
+      "author": "1134665912227946497",
+      "published_at": "2025-03-29T15:11:33",
+      "observed_at": "2026-09-10T03:56:29.427482",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 274,
+        "views": 21267,
+        "reposts": 27,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895547735300063538",
+      "title": "@_Zhaoyu_Li_ @XujieSi Code available at https://t.co/1Zz7usrcex",
+      "body": "@_Zhaoyu_Li_ @XujieSi Code available at https://t.co/1Zz7usrcex",
+      "url": "https://x.com/KaiyuYang4/status/1895547735300063538",
+      "author": "1134665912227946497",
+      "published_at": "2025-02-28T18:52:52",
+      "observed_at": "2026-09-10T03:56:29.429059",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 9,
+        "views": 763,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895547406005256353",
+      "title": "For inequality problems, our recent work introduced a neuro-symbolic method that not only surpasses o3-mini and R1 but also generates formally checkable proofs ",
+      "body": "For inequality problems, our recent work introduced a neuro-symbolic method that not only surpasses o3-mini and R1 but also generates formally checkable proofs in Lean. This project is led by Zenan Li and\n@_Zhaoyu_Li_\n. Many thanks to @XujieSi and other wonderful collaborators!",
+      "url": "https://x.com/KaiyuYang4/status/1895547406005256353",
+      "author": "1134665912227946497",
+      "published_at": "2025-02-28T18:51:33",
+      "observed_at": "2026-09-10T03:56:29.429694",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 11,
+        "views": 1031,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895543597497532469",
+      "title": "Correction: The example is Problem 2 from IMO 1995!",
+      "body": "Correction: The example is Problem 2 from IMO 1995!",
+      "url": "https://x.com/KaiyuYang4/status/1895543597497532469",
+      "author": "1134665912227946497",
+      "published_at": "2025-02-28T18:36:25",
+      "observed_at": "2026-09-10T03:56:29.431128",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 4,
+        "views": 439,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895537820401381444",
+      "title": "Here are 18 proofs generated by o3-mini (https://t.co/a8QYLPK05V) and R1 (https://t.co/7DLMugyI9p). For each failed proof, we annotated the first error\u2014most of ",
+      "body": "Here are 18 proofs generated by o3-mini (https://t.co/a8QYLPK05V) and R1 (https://t.co/7DLMugyI9p). For each failed proof, we annotated the first error\u2014most of which are easy to spot once pointed out. However, detecting these errors in long proofs is extremely challenging for humans, even though the domain only requires high-school math. Verifying advanced mathematical proofs manually would be even harder, reinforcing the need for formal mathematical reasoning with proof assistants like Lean @leanprover . Read our position paper for more details: https://t.co/0rsmiGZLgw.",
+      "url": "https://x.com/KaiyuYang4/status/1895537820401381444",
+      "author": "1134665912227946497",
+      "published_at": "2025-02-28T18:13:28",
+      "observed_at": "2026-09-10T03:56:29.432492",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 14,
+        "views": 873,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1886669975768981929",
+      "title": "The two methods are completely orthogonal\u2014Goedel-Prover does not use reinforcement learning like ABEL does. Excited to push the state of the art further by inco",
+      "body": "The two methods are completely orthogonal\u2014Goedel-Prover does not use reinforcement learning like ABEL does. Excited to push the state of the art further by incorporating ABEL-like RL.",
+      "url": "https://x.com/KaiyuYang4/status/1886669975768981929",
+      "author": "1134665912227946497",
+      "published_at": "2025-02-04T06:55:49",
+      "observed_at": "2026-09-10T03:56:29.433997",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 4,
+        "views": 279,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1886667421697659263",
+      "title": "Clarification: I missed an important qualifier in Yong's original post: Goedel-Prover outperforms all existing open-source methods on PutnamBench, but it perfor",
+      "body": "Clarification: I missed an important qualifier in Yong's original post: Goedel-Prover outperforms all existing open-source methods on PutnamBench, but it performs on par with ABEL (both proved 7 theorems). It\u2019s ranked #1 on the PutnamBench Leaderboard due to slightly lower compute usage (Pass@512 vs. Pass@596). However, this gap is minor and could be influenced by factors like hardware or implementation details.",
+      "url": "https://x.com/KaiyuYang4/status/1886667421697659263",
+      "author": "1134665912227946497",
+      "published_at": "2025-02-04T06:45:40",
+      "observed_at": "2026-09-10T03:56:29.434957",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 2,
+        "views": 306,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1823411781508702464",
+      "title": "@KristinLauter",
+      "body": "@KristinLauter",
+      "url": "https://x.com/KaiyuYang4/status/1823411781508702464",
+      "author": "1134665912227946497",
+      "published_at": "2024-08-13T17:30:20",
+      "observed_at": "2026-09-10T03:56:29.436470",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 4,
+        "views": 636,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1821613682339803633",
+      "title": "Candidates should be close to finishing up their PhD and have a strong research/publication record in a related area. Prior research in AI for mathematics would",
+      "body": "Candidates should be close to finishing up their PhD and have a strong research/publication record in a related area. Prior research in AI for mathematics would be great but is not required!",
+      "url": "https://x.com/KaiyuYang4/status/1821613682339803633",
+      "author": "1134665912227946497",
+      "published_at": "2024-08-08T18:25:20",
+      "observed_at": "2026-09-10T03:56:29.437352",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 7,
+        "views": 1497,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1795506099581288542",
+      "title": "This work wouldn\u2019t be possible without wonderful collaborators @_lmurphy (co-lead), @JackSun0000, @_ZhaoyuLi, @AnimaAnandkumar, and @XujieSi!",
+      "body": "This work wouldn\u2019t be possible without wonderful collaborators @_lmurphy (co-lead), @JackSun0000, @_ZhaoyuLi, @AnimaAnandkumar, and @XujieSi!",
+      "url": "https://x.com/KaiyuYang4/status/1795506099581288542",
+      "author": "1134665912227946497",
+      "published_at": "2024-05-28T17:23:07",
+      "observed_at": "2026-09-10T03:56:29.438007",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 16,
+        "views": 1095,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1795506025954517072",
+      "title": "While constructing LeanEuclid, we discovered some fascinating ambiguities in Euclid's work. For example, below is Proposition 24 in Elements. Euclid\u2019s proof ass",
+      "body": "While constructing LeanEuclid, we discovered some fascinating ambiguities in Euclid's work. For example, below is Proposition 24 in Elements. Euclid\u2019s proof assumes the triangles resemble the diagram on the left. But what if they looked like the ones on the right? Is his original proof still valid? (Hint: Find the answer in Appendix B of our paper!)",
+      "url": "https://x.com/KaiyuYang4/status/1795506025954517072",
+      "author": "1134665912227946497",
+      "published_at": "2024-05-28T17:22:50",
+      "observed_at": "2026-09-10T03:56:29.439378",
+      "metrics": {
+        "author_handle": "KaiyuYang4",
+        "author_followers": 5330,
+        "likes": 18,
+        "views": 1452,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

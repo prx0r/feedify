@@ -1,0 +1,653 @@
+{
+  "handle": "Ryan__Rhys",
+  "total_tweets": 34,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1986152836900733175",
+      "title": "From J-1 to Green Card in 15 months. \n\nI'm open-sourcing my complete 1600-page EB-1A petition (pictured).\n\nIncludes:\n\n\u2192 Complete LaTeX petition template\n\u2192 Examp",
+      "body": "From J-1 to Green Card in 15 months. \n\nI'm open-sourcing my complete 1600-page EB-1A petition (pictured).\n\nIncludes:\n\n\u2192 Complete LaTeX petition template\n\u2192 Example reference letters\n\u2192 Timeline\n\nIn light of Trump's comments on streamlining the EB-1A process, there's never been a more important time to consider it.\n\nHuge thanks to @RazMarinescu , whose open-source EB-1A effort inspired me to take this path.\n\n\u26a0\ufe0f I'm not a lawyer\u2014consult one before filing. For education purposes only.\n\nGitHub: https://t.co/mIYBkLrDTy\nBlog post: https://t.co/juuKlecxDR\n\n#EB1A #GreenCard",
+      "url": "https://x.com/Ryan__Rhys/status/1986152836900733175",
+      "author": "1280142008070307843",
+      "published_at": "2025-11-05T19:25:11",
+      "observed_at": "2026-09-10T03:56:41.824228",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 18,
+        "views": 1401,
+        "reposts": 4,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1930705221543710804",
+      "title": "Today we're releasing ether0, a large reasoning model for chemistry trained with reinforcement learning via GRPO. Read more in our exclusive with Nature below:\n",
+      "body": "Today we're releasing ether0, a large reasoning model for chemistry trained with reinforcement learning via GRPO. Read more in our exclusive with Nature below:\n\nNature: https://t.co/8sQy7yf8mu\n\nPreprint: https://t.co/pHbj3GSxTi\n\nModel: https://t.co/1JiEhqX1bh\n\nBenchmark: https://t.co/OpbGKElk6s",
+      "url": "https://x.com/Ryan__Rhys/status/1930705221543710804",
+      "author": "1280142008070307843",
+      "published_at": "2025-06-05T19:16:10",
+      "observed_at": "2026-09-10T03:56:41.828868",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 24,
+        "views": 1163,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1918005100561482014",
+      "title": "The FutureHouse platform is now live and ready to use, featuring a variety of ways to leverage language agents in scientific endeavors:\n\nhttps://t.co/YAOaiL9evc",
+      "body": "The FutureHouse platform is now live and ready to use, featuring a variety of ways to leverage language agents in scientific endeavors:\n\nhttps://t.co/YAOaiL9evc",
+      "url": "https://x.com/Ryan__Rhys/status/1918005100561482014",
+      "author": "1280142008070307843",
+      "published_at": "2025-05-01T18:10:25",
+      "observed_at": "2026-09-10T03:56:41.833564",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 23,
+        "views": 1463,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895687214962717090",
+      "title": "@dorsa_rohani @arian_jamasb @samuel_stanton_ @austinjtripp",
+      "body": "@dorsa_rohani @arian_jamasb @samuel_stanton_ @austinjtripp",
+      "url": "https://x.com/Ryan__Rhys/status/1895687214962717090",
+      "author": "1280142008070307843",
+      "published_at": "2025-03-01T04:07:06",
+      "observed_at": "2026-09-10T03:56:41.836797",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 3,
+        "views": 132,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1854002362006053314",
+      "title": "The awkward moment when you realize you were a Top Reviewer for #NeurIPS2023 only when checking the list for #NeurIPS2024 (for which you were not a Top Reviewer",
+      "body": "The awkward moment when you realize you were a Top Reviewer for #NeurIPS2023 only when checking the list for #NeurIPS2024 (for which you were not a Top Reviewer) \ud83e\udd14",
+      "url": "https://x.com/Ryan__Rhys/status/1854002362006053314",
+      "author": "1280142008070307843",
+      "published_at": "2024-11-06T03:26:23",
+      "observed_at": "2026-09-10T03:56:41.838823",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 23,
+        "views": 3241,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1820723528469262419",
+      "title": "A much delayed #BOHackathon presentation on input warping for Bayesian optimization in GAUCHE. Many thanks to @miniapeur @sangttruong and Anthony Onwuli for col",
+      "body": "A much delayed #BOHackathon presentation on input warping for Bayesian optimization in GAUCHE. Many thanks to @miniapeur @sangttruong and Anthony Onwuli for collaborating and @SterlingBaird1 and @acceleration_c for organizing!\n\nCode: https://t.co/nMd9ppdhkW https://t.co/BjBR99FiDm",
+      "url": "https://x.com/Ryan__Rhys/status/1820723528469262419",
+      "author": "1280142008070307843",
+      "published_at": "2024-08-06T07:28:11",
+      "observed_at": "2026-09-10T03:56:41.842059",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 44,
+        "views": 5266,
+        "reposts": 8,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1820196912781545764",
+      "title": "@janadoppa @deshwal_aryan @WSUVoiland @UMNCSE Congrats @deshwal_aryan and @janadoppa !",
+      "body": "@janadoppa @deshwal_aryan @WSUVoiland @UMNCSE Congrats @deshwal_aryan and @janadoppa !",
+      "url": "https://x.com/Ryan__Rhys/status/1820196912781545764",
+      "author": "1280142008070307843",
+      "published_at": "2024-08-04T20:35:36",
+      "observed_at": "2026-09-10T03:56:41.846372",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 3,
+        "views": 114,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1813262574005416217",
+      "title": "An extensive new biology benchmark for LLMs!",
+      "body": "An extensive new biology benchmark for LLMs!",
+      "url": "https://x.com/Ryan__Rhys/status/1813262574005416217",
+      "author": "1280142008070307843",
+      "published_at": "2024-07-16T17:21:01",
+      "observed_at": "2026-09-10T03:56:41.849153",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 14,
+        "views": 1706,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1787753033369325615",
+      "title": "@jonas_verhellen @SGRodriques @andrewwhite01 @FutureHouseSF Thanks Jonas!",
+      "body": "@jonas_verhellen @SGRodriques @andrewwhite01 @FutureHouseSF Thanks Jonas!",
+      "url": "https://x.com/Ryan__Rhys/status/1787753033369325615",
+      "author": "1280142008070307843",
+      "published_at": "2024-05-07T07:55:12",
+      "observed_at": "2026-09-10T03:56:41.852787",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 1,
+        "views": 21,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1787752787545309563",
+      "title": "Delighted to join @SGRodriques and @andrewwhite01 @FutureHouseSF last week. It was a very difficult decision to turn down a faculty position for this opportunit",
+      "body": "Delighted to join @SGRodriques and @andrewwhite01 @FutureHouseSF last week. It was a very difficult decision to turn down a faculty position for this opportunity but these are unprecedented times in #AI4Science and I strongly believe in FutureHouse's mission. https://t.co/NZi1KMpUZn",
+      "url": "https://x.com/Ryan__Rhys/status/1787752787545309563",
+      "author": "1280142008070307843",
+      "published_at": "2024-05-07T07:54:14",
+      "observed_at": "2026-09-10T03:56:41.854487",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 114,
+        "views": 10227,
+        "reposts": 2,
+        "replies": 8,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1787746254627443107",
+      "title": "@fra_grisoni @SGRodriques Thank you Francesca!",
+      "body": "@fra_grisoni @SGRodriques Thank you Francesca!",
+      "url": "https://x.com/Ryan__Rhys/status/1787746254627443107",
+      "author": "1280142008070307843",
+      "published_at": "2024-05-07T07:28:16",
+      "observed_at": "2026-09-10T03:56:41.858063",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 31,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1778201499623113129",
+      "title": "Proceedings now available for\n\nGAUCHE: A Library for Gaussian Processes in Chemistry\n\nat #NeurIPS2023!\n\nCalling for contributors to support the next wave of app",
+      "body": "Proceedings now available for\n\nGAUCHE: A Library for Gaussian Processes in Chemistry\n\nat #NeurIPS2023!\n\nCalling for contributors to support the next wave of applications for GP regression and Bayesian optimisation in #AI4Science\n\nPoster: https://t.co/agCtCA0550\nCode: https://t.co/GfvwlhWiL9",
+      "url": "https://x.com/Ryan__Rhys/status/1778201499623113129",
+      "author": "1280142008070307843",
+      "published_at": "2024-04-10T23:20:49",
+      "observed_at": "2026-09-10T03:56:41.859463",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 40,
+        "views": 55596,
+        "reposts": 7,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1754920846685307096",
+      "title": "@miniapeur @PatrickKidger Yes! Please DM me @PatrickKidger",
+      "body": "@miniapeur @PatrickKidger Yes! Please DM me @PatrickKidger",
+      "url": "https://x.com/Ryan__Rhys/status/1754920846685307096",
+      "author": "1280142008070307843",
+      "published_at": "2024-02-06T17:31:49",
+      "observed_at": "2026-09-10T03:56:41.861618",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 128,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1750656671729451449",
+      "title": "@DerekvTilborg @hlnbrnkmnn @emanuelecriscu9 @Rza_ozcelik @fra_grisoni @molecularML Great review on an important topic! Gaussian processes can also be useful too",
+      "body": "@DerekvTilborg @hlnbrnkmnn @emanuelecriscu9 @Rza_ozcelik @fra_grisoni @molecularML Great review on an important topic! Gaussian processes can also be useful tools for active learning and Bayesian optimisation in low-data regimes!\n\nhttps://t.co/nMd9ppdhkW",
+      "url": "https://x.com/Ryan__Rhys/status/1750656671729451449",
+      "author": "1280142008070307843",
+      "published_at": "2024-01-25T23:07:30",
+      "observed_at": "2026-09-10T03:56:41.862955",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 4,
+        "views": 130,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1735359685132226632",
+      "title": "Come join myself, @6ojaHa , @samuel_stanton_ , @mistergtom , and @arian_jamasb  at *Poster 108* from 17:00-19:00 at #NeurIPS2023 where we will be presenting GAU",
+      "body": "Come join myself, @6ojaHa , @samuel_stanton_ , @mistergtom , and @arian_jamasb  at *Poster 108* from 17:00-19:00 at #NeurIPS2023 where we will be presenting GAUCHE: A library for Gaussian Processes in Chemistry!\n\nPaper: https://t.co/EiYoYV6b3d\n\nCode: https://t.co/nMd9ppcJvo https://t.co/mAY0ZCNM5F",
+      "url": "https://x.com/Ryan__Rhys/status/1735359685132226632",
+      "author": "1280142008070307843",
+      "published_at": "2023-12-14T18:02:45",
+      "observed_at": "2026-09-10T03:56:41.864956",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 184,
+        "views": 48508,
+        "reposts": 14,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1728206766901739908",
+      "title": "Many thanks to @6ojaHa and @pschwllr  for leading this work!",
+      "body": "Many thanks to @6ojaHa and @pschwllr  for leading this work!",
+      "url": "https://x.com/Ryan__Rhys/status/1728206766901739908",
+      "author": "1280142008070307843",
+      "published_at": "2023-11-25T00:19:36",
+      "observed_at": "2026-09-10T03:56:41.866289",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 9,
+        "views": 2744,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1717083137518510383",
+      "title": "What are the mathematical capabilities of #LLMs and how are they evolving with time? GHOSTS is a new advanced mathematics benchmark for large language models ac",
+      "body": "What are the mathematical capabilities of #LLMs and how are they evolving with time? GHOSTS is a new advanced mathematics benchmark for large language models accepted to #NeurIPS2023\n\nCITATIONS: If you spot something you feel we should cite, leave a comment before the camera-ready deadline!\n\nPaper: https://t.co/o6sws1dpVA\n\nLeaderboard: https://t.co/U3cUO4loYf",
+      "url": "https://x.com/Ryan__Rhys/status/1717083137518510383",
+      "author": "1280142008070307843",
+      "published_at": "2023-10-25T07:38:16",
+      "observed_at": "2026-09-10T03:56:41.867232",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 15,
+        "views": 2622,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1662164029744484352",
+      "title": "A fantastic group of people! Well done!",
+      "body": "A fantastic group of people! Well done!",
+      "url": "https://x.com/Ryan__Rhys/status/1662164029744484352",
+      "author": "1280142008070307843",
+      "published_at": "2023-05-26T18:29:20",
+      "observed_at": "2026-09-10T03:56:41.869523",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 5,
+        "views": 1384,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1643637117850091520",
+      "title": "My PhD thesis on applications of C\u0336h\u0336a\u0336t\u0336G\u0336P\u0336T\u0336 #GaussianProcesses in the natural sciences is now available online!\n\nhttps://t.co/mhMHMHvaJo\n\nA belated thanks t",
+      "body": "My PhD thesis on applications of C\u0336h\u0336a\u0336t\u0336G\u0336P\u0336T\u0336 #GaussianProcesses in the natural sciences is now available online!\n\nhttps://t.co/mhMHMHvaJo\n\nA belated thanks to my examiners! @andrewwhite01 and @pl219_Cambridge \n\n#AI4Science #GaussianProcesses #BayesianOptimization https://t.co/2P21cGFfxg",
+      "url": "https://x.com/Ryan__Rhys/status/1643637117850091520",
+      "author": "1280142008070307843",
+      "published_at": "2023-04-05T15:30:00",
+      "observed_at": "2026-09-10T03:56:41.870593",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 499,
+        "views": 51359,
+        "reposts": 37,
+        "replies": 9,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1635802378401349632",
+      "title": "Amazing example @kmjablonka! Very impressive few-shot prediction results! Would be keen to hear the thoughts of a photoswitch expert such as @JakeyLG on the Cha",
+      "body": "Amazing example @kmjablonka! Very impressive few-shot prediction results! Would be keen to hear the thoughts of a photoswitch expert such as @JakeyLG on the ChatGPT output",
+      "url": "https://x.com/Ryan__Rhys/status/1635802378401349632",
+      "author": "1280142008070307843",
+      "published_at": "2023-03-15T00:37:33",
+      "observed_at": "2026-09-10T03:56:41.872839",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 5,
+        "views": 1452,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1623102497790504960",
+      "title": "@LinkedInHelp Furthermore, all links to LinkedIn (such as the one given in the message) are inaccessible.",
+      "body": "@LinkedInHelp Furthermore, all links to LinkedIn (such as the one given in the message) are inaccessible.",
+      "url": "https://x.com/Ryan__Rhys/status/1623102497790504960",
+      "author": "1280142008070307843",
+      "published_at": "2023-02-07T23:32:45",
+      "observed_at": "2026-09-10T03:56:41.874186",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 0,
+        "views": 26,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1623101357606715393",
+      "title": "@LinkedInHelp I am unable to log into my account. I have sent a DM. A prompt response would be appreciated!",
+      "body": "@LinkedInHelp I am unable to log into my account. I have sent a DM. A prompt response would be appreciated!",
+      "url": "https://x.com/Ryan__Rhys/status/1623101357606715393",
+      "author": "1280142008070307843",
+      "published_at": "2023-02-07T23:28:14",
+      "observed_at": "2026-09-10T03:56:41.875158",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 0,
+        "views": 195,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1602800811980992512",
+      "title": "@kjelljorner @JPDuerholt @6ojaHa @ChemRxiv @Henrymossmoss @pschwllr @NCCR_Catalysis @EPFL_CHEM_Tweet @SchwallerGroup @deshwal_aryan @andrewwhite01 had some grea",
+      "body": "@kjelljorner @JPDuerholt @6ojaHa @ChemRxiv @Henrymossmoss @pschwllr @NCCR_Catalysis @EPFL_CHEM_Tweet @SchwallerGroup @deshwal_aryan @andrewwhite01 had some great points about the appropriateness of the Tanimoto kernel for count vectors such as RDKit fragment vectors when examining my PhD thesis!",
+      "url": "https://x.com/Ryan__Rhys/status/1602800811980992512",
+      "author": "1280142008070307843",
+      "published_at": "2022-12-13T23:01:06",
+      "observed_at": "2026-09-10T03:56:41.876128",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1602778364107927552",
+      "title": "@JPDuerholt @6ojaHa @ChemRxiv @Henrymossmoss @pschwllr @NCCR_Catalysis @EPFL_CHEM_Tweet @SchwallerGroup Hey Johannes! We use the reaction fingerprints introduce",
+      "body": "@JPDuerholt @6ojaHa @ChemRxiv @Henrymossmoss @pschwllr @NCCR_Catalysis @EPFL_CHEM_Tweet @SchwallerGroup Hey Johannes! We use the reaction fingerprints introduced by @pschwllr\n\nhttps://t.co/oaxHtXTVvv\n\nwhich are derived from SMILES. We input these to the Tanimoto kernel in Gauche\n\nOperating on SMILES directly should be possible using @deshwal_aryan 's substring kernel coming soon!",
+      "url": "https://x.com/Ryan__Rhys/status/1602778364107927552",
+      "author": "1280142008070307843",
+      "published_at": "2022-12-13T21:31:54",
+      "observed_at": "2026-09-10T03:56:41.878143",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1602747011857494016",
+      "title": "@6ojaHa @pschwllr I'd be tempted to legally change my name in your position \ud83e\udd14\ud83d\ude02",
+      "body": "@6ojaHa @pschwllr I'd be tempted to legally change my name in your position \ud83e\udd14\ud83d\ude02",
+      "url": "https://x.com/Ryan__Rhys/status/1602747011857494016",
+      "author": "1280142008070307843",
+      "published_at": "2022-12-13T19:27:19",
+      "observed_at": "2026-09-10T03:56:41.880517",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1601042777621483520",
+      "title": "https://t.co/81RpRwEb2a",
+      "body": "https://t.co/81RpRwEb2a",
+      "url": "https://x.com/Ryan__Rhys/status/1601042777621483520",
+      "author": "1280142008070307843",
+      "published_at": "2022-12-09T02:35:18",
+      "observed_at": "2026-09-10T03:56:41.881856",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1599858701023973376",
+      "title": "@gklambauer Couldn't agree more! For many small molecular datasets with experimentally-derived labels we have been observing that:\n\nData &gt; Representation &gt",
+      "body": "@gklambauer Couldn't agree more! For many small molecular datasets with experimentally-derived labels we have been observing that:\n\nData &gt; Representation &gt; Model \n\nIn terms of predictive performance",
+      "url": "https://x.com/Ryan__Rhys/status/1599858701023973376",
+      "author": "1280142008070307843",
+      "published_at": "2022-12-05T20:10:12",
+      "observed_at": "2026-09-10T03:56:41.882868",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 18,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1595200845301567488",
+      "title": "@RhysGoodall I guess it could be handled by a linear equality constraint on the inputs in BoTorch for example. @SterlingBaird1 I believe may have come across si",
+      "body": "@RhysGoodall I guess it could be handled by a linear equality constraint on the inputs in BoTorch for example. @SterlingBaird1 I believe may have come across similar problems in his work!",
+      "url": "https://x.com/Ryan__Rhys/status/1595200845301567488",
+      "author": "1280142008070307843",
+      "published_at": "2022-11-22T23:41:33",
+      "observed_at": "2026-09-10T03:56:41.883999",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1595199988962717697",
+      "title": "@RhysGoodall I remember searching for the same when thinking about perovskites! I found some literature on \"mixture experiments\" which consider space-filling in",
+      "body": "@RhysGoodall I remember searching for the same when thinking about perovskites! I found some literature on \"mixture experiments\" which consider space-filling initial designs on the simplex. I don't know of any BayesOpt work in the area off the top of my head",
+      "url": "https://x.com/Ryan__Rhys/status/1595199988962717697",
+      "author": "1280142008070307843",
+      "published_at": "2022-11-22T23:38:09",
+      "observed_at": "2026-09-10T03:56:41.886401",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1580809090581770242",
+      "title": "@andrewwhite01 My solution is to force myself to play Stockfish every time I log onto Lichess \ud83d\ude02",
+      "body": "@andrewwhite01 My solution is to force myself to play Stockfish every time I log onto Lichess \ud83d\ude02",
+      "url": "https://x.com/Ryan__Rhys/status/1580809090581770242",
+      "author": "1280142008070307843",
+      "published_at": "2022-10-14T06:33:51",
+      "observed_at": "2026-09-10T03:56:41.887927",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 5,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1564645687911796736",
+      "title": "@taylordsparks @Meta @eytan @MaxBalandat @SterlingBaird1 Great to see BayesOpt applied in such an impactful area!",
+      "body": "@taylordsparks @Meta @eytan @MaxBalandat @SterlingBaird1 Great to see BayesOpt applied in such an impactful area!",
+      "url": "https://x.com/Ryan__Rhys/status/1564645687911796736",
+      "author": "1280142008070307843",
+      "published_at": "2022-08-30T16:06:16",
+      "observed_at": "2026-09-10T03:56:41.889124",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1564026291648491521",
+      "title": "@nguyentienvu @Meta @eytan @MaxBalandat Thanks Vu!",
+      "body": "@nguyentienvu @Meta @eytan @MaxBalandat Thanks Vu!",
+      "url": "https://x.com/Ryan__Rhys/status/1564026291648491521",
+      "author": "1280142008070307843",
+      "published_at": "2022-08-28T23:05:00",
+      "observed_at": "2026-09-10T03:56:41.889727",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1563966033664192512",
+      "title": "@JPDuerholt Thanks Johannes!",
+      "body": "@JPDuerholt Thanks Johannes!",
+      "url": "https://x.com/Ryan__Rhys/status/1563966033664192512",
+      "author": "1280142008070307843",
+      "published_at": "2022-08-28T19:05:34",
+      "observed_at": "2026-09-10T03:56:41.890308",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1563960659913502720",
+      "title": "@ninkibah @Meta @eytan @MaxBalandat @a_bourached We're both in the US now \ud83d\ude02",
+      "body": "@ninkibah @Meta @eytan @MaxBalandat @a_bourached We're both in the US now \ud83d\ude02",
+      "url": "https://x.com/Ryan__Rhys/status/1563960659913502720",
+      "author": "1280142008070307843",
+      "published_at": "2022-08-28T18:44:12",
+      "observed_at": "2026-09-10T03:56:41.890960",
+      "metrics": {
+        "author_handle": "Ryan__Rhys",
+        "author_followers": 5000,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

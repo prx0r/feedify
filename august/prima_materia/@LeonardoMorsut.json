@@ -1,0 +1,558 @@
+{
+  "handle": "LeonardoMorsut",
+  "total_tweets": 29,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1867631683123687529",
+      "title": "tldr: we identify a new organizer activity in vivo in human developing kidney, noticed the lack of said organizing activity in kidney organoids and reconstitute",
+      "body": "tldr: we identify a new organizer activity in vivo in human developing kidney, noticed the lack of said organizing activity in kidney organoids and reconstituted the organizer action in vitro via synthetic organizers - longer thread on bluesky!\n@LindstromLab",
+      "url": "https://x.com/LeonardoMorsut/status/1867631683123687529",
+      "author": "928135621612208128",
+      "published_at": "2024-12-13T18:04:26",
+      "observed_at": "2026-09-10T03:53:05.158534",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 4,
+        "views": 429,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1867631680988885208",
+      "title": "In our preprint we show how one can use synthetic organizers to control patterning of nephrons in kidney organoids. https://t.co/eG9s6mWzy8 Morsut + Lindstrom L",
+      "body": "In our preprint we show how one can use synthetic organizers to control patterning of nephrons in kidney organoids. https://t.co/eG9s6mWzy8 Morsut + Lindstrom Labs @LindstromLab  led by Fokion Glykofrydis https://t.co/OGldgmjByZ and Connor Fausto https://t.co/uguzGJAnDo https://t.co/2R904LGGxK",
+      "url": "https://x.com/LeonardoMorsut/status/1867631680988885208",
+      "author": "928135621612208128",
+      "published_at": "2024-12-13T18:04:26",
+      "observed_at": "2026-09-10T03:53:05.161312",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 13,
+        "views": 743,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1867631679193722959",
+      "title": "Ever being frustrated to see organoids develop without the proper signals? Isn\u2019t there anything from dev bio toolkit that is not growth factors or small molecul",
+      "body": "Ever being frustrated to see organoids develop without the proper signals? Isn\u2019t there anything from dev bio toolkit that is not growth factors or small molecules in the media?? #organoids #synbio #kidney https://t.co/7vZcihaAMk",
+      "url": "https://x.com/LeonardoMorsut/status/1867631679193722959",
+      "author": "928135621612208128",
+      "published_at": "2024-12-13T18:04:25",
+      "observed_at": "2026-09-10T03:53:05.165772",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 5,
+        "views": 531,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1780402562384228466",
+      "title": "https://t.co/va0JxGmdkS omg this is so good, it's a synthetic receptor bonanza!! congrats @aliceyting and team!! are they going to be on @addgene anytime soon? ",
+      "body": "https://t.co/va0JxGmdkS omg this is so good, it's a synthetic receptor bonanza!! congrats @aliceyting and team!! are they going to be on @addgene anytime soon? asking for a friend...\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude00",
+      "url": "https://x.com/LeonardoMorsut/status/1780402562384228466",
+      "author": "928135621612208128",
+      "published_at": "2024-04-17T01:07:03",
+      "observed_at": "2026-09-10T03:53:05.169550",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 26,
+        "views": 2857,
+        "reposts": 5,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1779909027633508419",
+      "title": "https://t.co/sjZ9t3sr7o  looks worth reading: they made an EPO-receptor sensitive to small molecules to induce EPO-signaling for red blood cell differentiation ",
+      "body": "https://t.co/sjZ9t3sr7o  looks worth reading: they made an EPO-receptor sensitive to small molecules to induce EPO-signaling for red blood cell differentiation in culture with small molecules instead of expensive cytokines",
+      "url": "https://x.com/LeonardoMorsut/status/1779909027633508419",
+      "author": "928135621612208128",
+      "published_at": "2024-04-15T16:25:55",
+      "observed_at": "2026-09-10T03:53:05.173075",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 12,
+        "views": 970,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1775940578108469409",
+      "title": "@OphirKlein @CampasLab Beautiful work congrats to all the teams!!",
+      "body": "@OphirKlein @CampasLab Beautiful work congrats to all the teams!!",
+      "url": "https://x.com/LeonardoMorsut/status/1775940578108469409",
+      "author": "928135621612208128",
+      "published_at": "2024-04-04T17:36:43",
+      "observed_at": "2026-09-10T03:53:05.176373",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 2,
+        "views": 111,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1775940473607397497",
+      "title": "@CampasLab @OphirKlein @NatureCellBio @PoLDresden @tudresden_de @UCSBengineering @UCSF @CedarsSinai Congrats Otger and team! Beautiful work",
+      "body": "@CampasLab @OphirKlein @NatureCellBio @PoLDresden @tudresden_de @UCSBengineering @UCSF @CedarsSinai Congrats Otger and team! Beautiful work",
+      "url": "https://x.com/LeonardoMorsut/status/1775940473607397497",
+      "author": "928135621612208128",
+      "published_at": "2024-04-04T17:36:18",
+      "observed_at": "2026-09-10T03:53:05.178171",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 2,
+        "views": 158,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1763772808327471386",
+      "title": "Lucky to have the best colleague @mccainlab with whom to embark in this new adventure across USC UCLA Caltech, towards controlling tissue organization with synB",
+      "body": "Lucky to have the best colleague @mccainlab with whom to embark in this new adventure across USC UCLA Caltech, towards controlling tissue organization with synBio and tissue engineering - will be hiring, if you\u2019re interested drop a line!",
+      "url": "https://x.com/LeonardoMorsut/status/1763772808327471386",
+      "author": "928135621612208128",
+      "published_at": "2024-03-02T03:46:21",
+      "observed_at": "2026-09-10T03:53:05.179656",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 31,
+        "views": 5103,
+        "reposts": 2,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1752550863380664591",
+      "title": "@GallowayLabMIT @MITChemE Congrats to you and the team!",
+      "body": "@GallowayLabMIT @MITChemE Congrats to you and the team!",
+      "url": "https://x.com/LeonardoMorsut/status/1752550863380664591",
+      "author": "928135621612208128",
+      "published_at": "2024-01-31T04:34:21",
+      "observed_at": "2026-09-10T03:53:05.182474",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 2,
+        "views": 170,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1748157702734487963",
+      "title": "@VeliaSiciliano Congrats Velia very well deserved!!! \ud83c\udf8a\ud83c\udf8a\ud83c\udf8a",
+      "body": "@VeliaSiciliano Congrats Velia very well deserved!!! \ud83c\udf8a\ud83c\udf8a\ud83c\udf8a",
+      "url": "https://x.com/LeonardoMorsut/status/1748157702734487963",
+      "author": "928135621612208128",
+      "published_at": "2024-01-19T01:37:30",
+      "observed_at": "2026-09-10T03:53:05.183509",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 2,
+        "views": 114,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1747836230610591804",
+      "title": "@NikoMcCarty @prmshra Been there!  @mccainlab and I proposed to use a synthetic version in a non-funded grant to make self-sustaining  biobots \u2026",
+      "body": "@NikoMcCarty @prmshra Been there!  @mccainlab and I proposed to use a synthetic version in a non-funded grant to make self-sustaining  biobots \u2026",
+      "url": "https://x.com/LeonardoMorsut/status/1747836230610591804",
+      "author": "928135621612208128",
+      "published_at": "2024-01-18T04:20:05",
+      "observed_at": "2026-09-10T03:53:05.184548",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 3,
+        "views": 194,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1720108086445371646",
+      "title": "@tfadgreef @AMakriPistikou @MerkxMaarten @rjerala @NatureComms Congrats Tom and team, very cool work!!!",
+      "body": "@tfadgreef @AMakriPistikou @MerkxMaarten @rjerala @NatureComms Congrats Tom and team, very cool work!!!",
+      "url": "https://x.com/LeonardoMorsut/status/1720108086445371646",
+      "author": "928135621612208128",
+      "published_at": "2023-11-02T15:58:20",
+      "observed_at": "2026-09-10T03:53:05.185636",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 2,
+        "views": 197,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1689802836086038528",
+      "title": "Machine-guided design of synthetic cell type-specific cis-regulatory elements https://t.co/iHIfF8oA4x",
+      "body": "Machine-guided design of synthetic cell type-specific cis-regulatory elements https://t.co/iHIfF8oA4x",
+      "url": "https://x.com/LeonardoMorsut/status/1689802836086038528",
+      "author": "928135621612208128",
+      "published_at": "2023-08-11T00:56:05",
+      "observed_at": "2026-09-10T03:53:05.186695",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 26,
+        "views": 3425,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1681259474726559744",
+      "title": "@NikoMcCarty This is what got me hooked: I was looking for inspiration for choosing postdoc labs, I was looking mainly into systems biology labs then I saw this",
+      "body": "@NikoMcCarty This is what got me hooked: I was looking for inspiration for choosing postdoc labs, I was looking mainly into systems biology labs then I saw this and I was like: this is the field I need to be in!! \ud83d\ude4f",
+      "url": "https://x.com/LeonardoMorsut/status/1681259474726559744",
+      "author": "928135621612208128",
+      "published_at": "2023-07-18T11:07:49",
+      "observed_at": "2026-09-10T03:53:05.187730",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 6,
+        "views": 484,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1673902114630946816",
+      "title": "Proud mentor here, @CatcherSalazar is an unstoppable force of nature (and has the lab record of monkey type)! All our many undergraduates are amazing, incessant",
+      "body": "Proud mentor here, @CatcherSalazar is an unstoppable force of nature (and has the lab record of monkey type)! All our many undergraduates are amazing, incessant source of optimism for the future!!",
+      "url": "https://x.com/LeonardoMorsut/status/1673902114630946816",
+      "author": "928135621612208128",
+      "published_at": "2023-06-28T03:52:18",
+      "observed_at": "2026-09-10T03:53:05.188854",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 8,
+        "views": 1624,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1672500180736782338",
+      "title": "Inspiring as usual #msbw2023 is one to remember ! Imagine what it will be in 10 more years \ud83e\udd2f\ud83d\udd2d\ud83c\udf15\u261d\ufe0f\u261d\ufe0f\u261d\ufe0f",
+      "body": "Inspiring as usual #msbw2023 is one to remember ! Imagine what it will be in 10 more years \ud83e\udd2f\ud83d\udd2d\ud83c\udf15\u261d\ufe0f\u261d\ufe0f\u261d\ufe0f",
+      "url": "https://x.com/LeonardoMorsut/status/1672500180736782338",
+      "author": "928135621612208128",
+      "published_at": "2023-06-24T07:01:31",
+      "observed_at": "2026-09-10T03:53:05.189987",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 10,
+        "views": 1114,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1671928480056094726",
+      "title": "@reNEW_Global @LEOFondet @AraMariaceleste @ElenaEnzo3 Congratulations Mary and Elena!! \ud83d\udcaa\ud83d\udcaa",
+      "body": "@reNEW_Global @LEOFondet @AraMariaceleste @ElenaEnzo3 Congratulations Mary and Elena!! \ud83d\udcaa\ud83d\udcaa",
+      "url": "https://x.com/LeonardoMorsut/status/1671928480056094726",
+      "author": "928135621612208128",
+      "published_at": "2023-06-22T17:09:47",
+      "observed_at": "2026-09-10T03:53:05.191057",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 1,
+        "views": 60,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1671913113380356096",
+      "title": "#msbw2023 getting started for the 10th years anniversary https://t.co/ARAxHnGOPa",
+      "body": "#msbw2023 getting started for the 10th years anniversary https://t.co/ARAxHnGOPa",
+      "url": "https://x.com/LeonardoMorsut/status/1671913113380356096",
+      "author": "928135621612208128",
+      "published_at": "2023-06-22T16:08:43",
+      "observed_at": "2026-09-10T03:53:05.192099",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 28,
+        "views": 6547,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1671891039819554821",
+      "title": "Getting ready for first day of #msbw2023 \ud83d\ude0b\ud83e\udd24 https://t.co/VglsWQcHMK",
+      "body": "Getting ready for first day of #msbw2023 \ud83d\ude0b\ud83e\udd24 https://t.co/VglsWQcHMK",
+      "url": "https://x.com/LeonardoMorsut/status/1671891039819554821",
+      "author": "928135621612208128",
+      "published_at": "2023-06-22T14:41:00",
+      "observed_at": "2026-09-10T03:53:05.193127",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 11,
+        "views": 1252,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1671580551080448000",
+      "title": "@BenSwedl @ChristineHo @nj12200 @CatcherSalazar",
+      "body": "@BenSwedl @ChristineHo @nj12200 @CatcherSalazar",
+      "url": "https://x.com/LeonardoMorsut/status/1671580551080448000",
+      "author": "928135621612208128",
+      "published_at": "2023-06-21T18:07:14",
+      "observed_at": "2026-09-10T03:53:05.194209",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 2,
+        "views": 350,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660419088227901441",
+      "title": "There\u2019s more in the biorxiv, like single-fate endothelial differentiation into a branched tree, and cell-produced fibronectin used as spatial decellularized inp",
+      "body": "There\u2019s more in the biorxiv, like single-fate endothelial differentiation into a branched tree, and cell-produced fibronectin used as spatial decellularized input, so do check it out! https://t.co/TEc1OAOBMe",
+      "url": "https://x.com/LeonardoMorsut/status/1660419088227901441",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:55:34",
+      "observed_at": "2026-09-10T03:53:05.195217",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 6,
+        "views": 545,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660419085396746241",
+      "title": "Spatially controlled dual-ligand mediated co differentiation looks like this: https://t.co/UUDkEKHE5z",
+      "body": "Spatially controlled dual-ligand mediated co differentiation looks like this: https://t.co/UUDkEKHE5z",
+      "url": "https://x.com/LeonardoMorsut/status/1660419085396746241",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:55:33",
+      "observed_at": "2026-09-10T03:53:05.197444",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 6,
+        "views": 678,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660419082817089541",
+      "title": "\u201cOk nice, but I bet you can\u2019t do both, spatial control AND dual differentiation\u201d. @tylermhoffman with @songli_UCLA begged to differ: dual-lineage fibroblasts, w",
+      "body": "\u201cOk nice, but I bet you can\u2019t do both, spatial control AND dual differentiation\u201d. @tylermhoffman with @songli_UCLA begged to differ: dual-lineage fibroblasts, when they see GFP or mCherry they induce myogenic or endothelial transdifferentiation respectively. https://t.co/jYv4VYQDa7",
+      "url": "https://x.com/LeonardoMorsut/status/1660419082817089541",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:55:33",
+      "observed_at": "2026-09-10T03:53:05.200116",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 3,
+        "views": 1294,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660415921721323521",
+      "title": "\u201cHey, but are these only reporter genes or can you actually have cells do something?\u201d you may be wondering: the latter my friend! Look at these thick myoblasts ",
+      "body": "\u201cHey, but are these only reporter genes or can you actually have cells do something?\u201d you may be wondering: the latter my friend! Look at these thick myoblasts differentiated on vertical rows of GFP ligand, and notice the fibroblasts in between... https://t.co/rCssYB3TgK",
+      "url": "https://x.com/LeonardoMorsut/status/1660415921721323521",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:42:59",
+      "observed_at": "2026-09-10T03:53:05.202462",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 3,
+        "views": 589,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660415919489978368",
+      "title": "And what if I want 2 genetic programs to be controlled, you may be wondering: here you go, dual programs activated in spatially controlled fashion, with a combi",
+      "body": "And what if I want 2 genetic programs to be controlled, you may be wondering: here you go, dual programs activated in spatially controlled fashion, with a combination of dual-receptor cells and dual-printing of ligands https://t.co/E5iIrf4I8u",
+      "url": "https://x.com/LeonardoMorsut/status/1660415919489978368",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:42:58",
+      "observed_at": "2026-09-10T03:53:05.204783",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 3,
+        "views": 454,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660415917262790658",
+      "title": "@garibyan_mher with @mccainlab took this one step further, developing 3D Printer-based PDMS stamps to pattern a surface with synthetic ligands. Cells respond to",
+      "body": "@garibyan_mher with @mccainlab took this one step further, developing 3D Printer-based PDMS stamps to pattern a surface with synthetic ligands. Cells respond to these patterns and we found we can control cells with a precision of ~200um. https://t.co/7wKPUyHdhq",
+      "url": "https://x.com/LeonardoMorsut/status/1660415917262790658",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:42:58",
+      "observed_at": "2026-09-10T03:53:05.207500",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 3,
+        "views": 554,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660415915425685506",
+      "title": "We first developed and characterized a suite of engineered material-linked synthetic ligands that can be recognized by cells\u2019 synthetic receptors and induce spe",
+      "body": "We first developed and characterized a suite of engineered material-linked synthetic ligands that can be recognized by cells\u2019 synthetic receptors and induce specific gene expression. Microparticles, cell-produced ECM, gelatin substrates, GelMA, Fibrinogen hydrogels you name it! https://t.co/ToXlRqGvI4",
+      "url": "https://x.com/LeonardoMorsut/status/1660415915425685506",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:42:57",
+      "observed_at": "2026-09-10T03:53:05.210119",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 5,
+        "views": 687,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1660415913710194688",
+      "title": "You're not alone, but don't despair! We think we found out a way to help with this: material-to-cell pathways via synNotch receptors spatially control user-defi",
+      "body": "You're not alone, but don't despair! We think we found out a way to help with this: material-to-cell pathways via synNotch receptors spatially control user-defined gene expression and up to drive spatially controlled multilineage co-differentiation here https://t.co/Lfn2nxsnUO",
+      "url": "https://x.com/LeonardoMorsut/status/1660415913710194688",
+      "author": "928135621612208128",
+      "published_at": "2023-05-21T22:42:57",
+      "observed_at": "2026-09-10T03:53:05.212379",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 35,
+        "views": 4161,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1578141810982912000",
+      "title": "@BugajLab Eh! Great questions! we don\u2019t know exactly but we ruled out classic mechanotransduction via yap or cytoskeleton tension, and secreted molecules effect",
+      "body": "@BugajLab Eh! Great questions! we don\u2019t know exactly but we ruled out classic mechanotransduction via yap or cytoskeleton tension, and secreted molecules effects; We do see evidence for increased membrane curvature diminishing ligand-receptor clusters - would be cool to investigate more",
+      "url": "https://x.com/LeonardoMorsut/status/1578141810982912000",
+      "author": "928135621612208128",
+      "published_at": "2022-10-06T21:55:02",
+      "observed_at": "2026-09-10T03:53:05.214933",
+      "metrics": {
+        "author_handle": "LeonardoMorsut",
+        "author_followers": 1707,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

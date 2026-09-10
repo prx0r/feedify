@@ -1,0 +1,615 @@
+{
+  "handle": "ryancjulian",
+  "total_tweets": 32,
+  "august_tweets": 20,
+  "tweets": [
+    {
+      "id": "2097864700788871603",
+      "title": "He says this like it's a good thing? Very weird to want people to experience worse lives.",
+      "body": "He says this like it's a good thing? Very weird to want people to experience worse lives.",
+      "url": "https://x.com/ryancjulian/status/2097864700788871603",
+      "author": "49524892",
+      "published_at": "2026-09-10T01:48:15",
+      "observed_at": "2026-09-10T03:55:35.055564",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 418,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097457835890430444",
+      "title": "man, \"always\" has gotten so short these days",
+      "body": "man, \"always\" has gotten so short these days",
+      "url": "https://x.com/ryancjulian/status/2097457835890430444",
+      "author": "49524892",
+      "published_at": "2026-09-08T22:51:31",
+      "observed_at": "2026-09-10T03:55:35.057644",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 22,
+        "views": 4257,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096755964255129837",
+      "title": "@aliteracy the solution to this problem is called \"uc berkeley\"",
+      "body": "@aliteracy the solution to this problem is called \"uc berkeley\"",
+      "url": "https://x.com/ryancjulian/status/2096755964255129837",
+      "author": "49524892",
+      "published_at": "2026-09-07T00:22:32",
+      "observed_at": "2026-09-10T03:55:35.059253",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 4,
+        "views": 359,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096730935572189396",
+      "title": "@YuXiang_IRVL just guessing, but i think it's more likely 100k total GB200 GPUs, configured in NVL72 rack configurations. you can have blackwell without NVL72 r",
+      "body": "@YuXiang_IRVL just guessing, but i think it's more likely 100k total GB200 GPUs, configured in NVL72 rack configurations. you can have blackwell without NVL72 rack-scale NVLINK (i.e. B200), which costs significantly more than independent B200 nodes using HGX networking.",
+      "url": "https://x.com/ryancjulian/status/2096730935572189396",
+      "author": "49524892",
+      "published_at": "2026-09-06T22:43:05",
+      "observed_at": "2026-09-10T03:55:35.060848",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 22,
+        "views": 2691,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096308936676958524",
+      "title": "lol tech speedrunning the lump of labor fallacy",
+      "body": "lol tech speedrunning the lump of labor fallacy",
+      "url": "https://x.com/ryancjulian/status/2096308936676958524",
+      "author": "49524892",
+      "published_at": "2026-09-05T18:46:12",
+      "observed_at": "2026-09-10T03:55:35.064311",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 3,
+        "views": 608,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095592277758587374",
+      "title": "@virkvarjun both very busy men, you'll generally do better hitting up direct reports. Anyway my DMs are open.",
+      "body": "@virkvarjun both very busy men, you'll generally do better hitting up direct reports. Anyway my DMs are open.",
+      "url": "https://x.com/ryancjulian/status/2095592277758587374",
+      "author": "49524892",
+      "published_at": "2026-09-03T19:18:27",
+      "observed_at": "2026-09-10T03:55:35.067077",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 8,
+        "views": 5920,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095551603009036368",
+      "title": "buying a house on mortgage in San Francisco",
+      "body": "buying a house on mortgage in San Francisco",
+      "url": "https://x.com/ryancjulian/status/2095551603009036368",
+      "author": "49524892",
+      "published_at": "2026-09-03T16:36:50",
+      "observed_at": "2026-09-10T03:55:35.068490",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 31,
+        "views": 77409,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095545140207337669",
+      "title": "railfans are the sweetest and most positive subculture. we need more of this energy in our lives.",
+      "body": "railfans are the sweetest and most positive subculture. we need more of this energy in our lives.",
+      "url": "https://x.com/ryancjulian/status/2095545140207337669",
+      "author": "49524892",
+      "published_at": "2026-09-03T16:11:09",
+      "observed_at": "2026-09-10T03:55:35.069917",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 0,
+        "views": 526,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095391917802697061",
+      "title": "friends plz don't ever take a single dime from this guy",
+      "body": "friends plz don't ever take a single dime from this guy",
+      "url": "https://x.com/ryancjulian/status/2095391917802697061",
+      "author": "49524892",
+      "published_at": "2026-09-03T06:02:18",
+      "observed_at": "2026-09-10T03:55:35.071293",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 93,
+        "views": 15494,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2093498279296483757",
+      "title": "Def going to this one",
+      "body": "Def going to this one",
+      "url": "https://x.com/ryancjulian/status/2093498279296483757",
+      "author": "49524892",
+      "published_at": "2026-08-29T00:37:39",
+      "observed_at": "2026-09-10T03:55:35.072856",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 11,
+        "views": 1637,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093150108842131554",
+      "title": "today me and the lab homies stood around, read papers, and talked about robotics research all afternoon. it was glorious.",
+      "body": "today me and the lab homies stood around, read papers, and talked about robotics research all afternoon. it was glorious.",
+      "url": "https://x.com/ryancjulian/status/2093150108842131554",
+      "author": "49524892",
+      "published_at": "2026-08-28T01:34:09",
+      "observed_at": "2026-09-10T03:55:35.074210",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 32,
+        "views": 2109,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093145713366675632",
+      "title": "METR/LMArena for robots has been on my Christmas list for the last 3 years running. Maybe this year Santa will finally come through!",
+      "body": "METR/LMArena for robots has been on my Christmas list for the last 3 years running. Maybe this year Santa will finally come through!",
+      "url": "https://x.com/ryancjulian/status/2093145713366675632",
+      "author": "49524892",
+      "published_at": "2026-08-28T01:16:41",
+      "observed_at": "2026-09-10T03:55:35.075575",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 12,
+        "views": 2415,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093006253576642676",
+      "title": "Sort of. The robot had no force sensing at the fingers. Though the Strauss gripper is compliant, it does gently pinch the can. Our collection of objects saw a l",
+      "body": "Sort of. The robot had no force sensing at the fingers. Though the Strauss gripper is compliant, it does gently pinch the can. Our collection of objects saw a lot of abuse from teleop data collection and evaluation. Not sure why we didn't put in a fresh can in for shooting the photos.",
+      "url": "https://x.com/ryancjulian/status/2093006253576642676",
+      "author": "49524892",
+      "published_at": "2026-08-27T16:02:31",
+      "observed_at": "2026-09-10T03:55:35.077139",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 4,
+        "views": 368,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092496366627180700",
+      "title": "\ud83d\udcaf",
+      "body": "\ud83d\udcaf",
+      "url": "https://x.com/ryancjulian/status/2092496366627180700",
+      "author": "49524892",
+      "published_at": "2026-08-26T06:16:25",
+      "observed_at": "2026-09-10T03:55:35.078633",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 8,
+        "views": 1459,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092125437950628076",
+      "title": "\ud83d\ude02",
+      "body": "\ud83d\ude02",
+      "url": "https://x.com/ryancjulian/status/2092125437950628076",
+      "author": "49524892",
+      "published_at": "2026-08-25T05:42:28",
+      "observed_at": "2026-09-10T03:55:35.083025",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 3,
+        "views": 958,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2091277837156389050",
+      "title": "@_advaitpatel @tenobrus at some point you have to decide whether you'd rather commute to work, or commute to life.",
+      "body": "@_advaitpatel @tenobrus at some point you have to decide whether you'd rather commute to work, or commute to life.",
+      "url": "https://x.com/ryancjulian/status/2091277837156389050",
+      "author": "49524892",
+      "published_at": "2026-08-22T21:34:25",
+      "observed_at": "2026-09-10T03:55:35.084073",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 7,
+        "views": 185,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090579565114794276",
+      "title": "@Quaxi_ @staysaasy steve owned pixar but didn't run it. that was john lasseter and ed catmull. ed wrote a book called Creativity, Inc.",
+      "body": "@Quaxi_ @staysaasy steve owned pixar but didn't run it. that was john lasseter and ed catmull. ed wrote a book called Creativity, Inc.",
+      "url": "https://x.com/ryancjulian/status/2090579565114794276",
+      "author": "49524892",
+      "published_at": "2026-08-20T23:19:44",
+      "observed_at": "2026-09-10T03:55:35.085132",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 4,
+        "views": 272,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090525839612170617",
+      "title": "@staysaasy Pixar, Google (pre-COVID), Atlassian, Stripe, Asana, Oxide, GitLab, Etsy, Zappos. I think you may be over-indexing on the last 10 years, which have b",
+      "body": "@staysaasy Pixar, Google (pre-COVID), Atlassian, Stripe, Asana, Oxide, GitLab, Etsy, Zappos. I think you may be over-indexing on the last 10 years, which have been historically nasty.",
+      "url": "https://x.com/ryancjulian/status/2090525839612170617",
+      "author": "49524892",
+      "published_at": "2026-08-20T19:46:14",
+      "observed_at": "2026-09-10T03:55:35.086282",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 76,
+        "views": 5680,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090485432131948829",
+      "title": "in a world dominated by nihilists, earnestness is an advantage.",
+      "body": "in a world dominated by nihilists, earnestness is an advantage.",
+      "url": "https://x.com/ryancjulian/status/2090485432131948829",
+      "author": "49524892",
+      "published_at": "2026-08-20T17:05:41",
+      "observed_at": "2026-09-10T03:55:35.088717",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 17,
+        "views": 885,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090476307058762076",
+      "title": "@nmasc_ also GPU clusters",
+      "body": "@nmasc_ also GPU clusters",
+      "url": "https://x.com/ryancjulian/status/2090476307058762076",
+      "author": "49524892",
+      "published_at": "2026-08-20T16:29:25",
+      "observed_at": "2026-09-10T03:55:35.090182",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 4,
+        "views": 139,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090152292813312460",
+      "title": "@HESaBSG you're should offer her the seat.",
+      "body": "@HESaBSG you're should offer her the seat.",
+      "url": "https://x.com/ryancjulian/status/2090152292813312460",
+      "author": "49524892",
+      "published_at": "2026-08-19T19:01:54",
+      "observed_at": "2026-09-10T03:55:35.091209",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 1871,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089897640033239291",
+      "title": "@JayKapoorNYC Did you watch the panel or are you just casually hating?",
+      "body": "@JayKapoorNYC Did you watch the panel or are you just casually hating?",
+      "url": "https://x.com/ryancjulian/status/2089897640033239291",
+      "author": "49524892",
+      "published_at": "2026-08-19T02:10:00",
+      "observed_at": "2026-09-10T03:55:35.092444",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 3,
+        "views": 439,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088644283926753568",
+      "title": "@VilleKuosmanen https://t.co/NsXHAcLd7f",
+      "body": "@VilleKuosmanen https://t.co/NsXHAcLd7f",
+      "url": "https://x.com/ryancjulian/status/2088644283926753568",
+      "author": "49524892",
+      "published_at": "2026-08-15T15:09:37",
+      "observed_at": "2026-09-10T03:55:35.093482",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 122,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088142236584382580",
+      "title": "@BoAi0110 Yeah the language may have been imprecise, but claiming that the scaling laws for locomotion and manipulation are definitely the same, because they ar",
+      "body": "@BoAi0110 Yeah the language may have been imprecise, but claiming that the scaling laws for locomotion and manipulation are definitely the same, because they are the same underlying problem, is an extraordinary claim which requires extraordinary evidence. Please try to be more chill.",
+      "url": "https://x.com/ryancjulian/status/2088142236584382580",
+      "author": "49524892",
+      "published_at": "2026-08-14T05:54:39",
+      "observed_at": "2026-09-10T03:55:35.094514",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 3,
+        "views": 254,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087332075213046157",
+      "title": "@ItzSuds @GhostofGarryTan I'm not anon and to me that seems like an extremely unlikely and self-aggrandizing story of a path to success, which would be toxic to",
+      "body": "@ItzSuds @GhostofGarryTan I'm not anon and to me that seems like an extremely unlikely and self-aggrandizing story of a path to success, which would be toxic to sell to young people. No doubt you are quite smart and hardworking, but life is incredibly stochastic and luck is very important.",
+      "url": "https://x.com/ryancjulian/status/2087332075213046157",
+      "author": "49524892",
+      "published_at": "2026-08-12T00:15:22",
+      "observed_at": "2026-09-10T03:55:35.096892",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 5,
+        "views": 474,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087215107537502365",
+      "title": "@brianryhuang gotta get some better SF friends. try non-tech or older than 30.",
+      "body": "@brianryhuang gotta get some better SF friends. try non-tech or older than 30.",
+      "url": "https://x.com/ryancjulian/status/2087215107537502365",
+      "author": "49524892",
+      "published_at": "2026-08-11T16:30:34",
+      "observed_at": "2026-09-10T03:55:35.098554",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 5,
+        "views": 406,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085931444871032959",
+      "title": "@andrewho03 just wait until you try vietjet",
+      "body": "@andrewho03 just wait until you try vietjet",
+      "url": "https://x.com/ryancjulian/status/2085931444871032959",
+      "author": "49524892",
+      "published_at": "2026-08-08T03:29:45",
+      "observed_at": "2026-09-10T03:55:35.099814",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 325,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084523592625127805",
+      "title": "@_jaku_xu That's shitton of non-standard physical layer steps just so that my device doesn't drop off the bus every 20 mins. All so I can enjoy delicious buffer",
+      "body": "@_jaku_xu That's shitton of non-standard physical layer steps just so that my device doesn't drop off the bus every 20 mins. All so I can enjoy delicious buffer bloat, sketchy host drivers, and even sketchier device firmware implementation. Thanks, I'll pass.",
+      "url": "https://x.com/ryancjulian/status/2084523592625127805",
+      "author": "49524892",
+      "published_at": "2026-08-04T06:15:27",
+      "observed_at": "2026-09-10T03:55:35.100882",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 362,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084481432890622055",
+      "title": "@nicolasrenold GigE and increasingly GMSL2",
+      "body": "@nicolasrenold GigE and increasingly GMSL2",
+      "url": "https://x.com/ryancjulian/status/2084481432890622055",
+      "author": "49524892",
+      "published_at": "2026-08-04T03:27:56",
+      "observed_at": "2026-09-10T03:55:35.103203",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 13,
+        "views": 876,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2082907306283663843",
+      "title": "@huaijiangzhu Most underrated bay area city fr (oakland also up there)",
+      "body": "@huaijiangzhu Most underrated bay area city fr (oakland also up there)",
+      "url": "https://x.com/ryancjulian/status/2082907306283663843",
+      "author": "49524892",
+      "published_at": "2026-07-30T19:12:55",
+      "observed_at": "2026-09-10T03:55:35.104992",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 182,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082868233322016951",
+      "title": "@mikekalilmfg That's not very charitable to GDM. I'd like to see you teleop the same skill.",
+      "body": "@mikekalilmfg That's not very charitable to GDM. I'd like to see you teleop the same skill.",
+      "url": "https://x.com/ryancjulian/status/2082868233322016951",
+      "author": "49524892",
+      "published_at": "2026-07-30T16:37:39",
+      "observed_at": "2026-09-10T03:55:35.106136",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 169,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082548754255905265",
+      "title": "@antopatrex1 talking your book is annoying plz try to do it less",
+      "body": "@antopatrex1 talking your book is annoying plz try to do it less",
+      "url": "https://x.com/ryancjulian/status/2082548754255905265",
+      "author": "49524892",
+      "published_at": "2026-07-29T19:28:09",
+      "observed_at": "2026-09-10T03:55:35.107261",
+      "metrics": {
+        "author_handle": "ryancjulian",
+        "author_followers": 2109,
+        "likes": 2,
+        "views": 1394,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

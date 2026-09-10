@@ -14,12 +14,13 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import joinedload
 
 from feedify.db import SessionLocal, init_db
-from feedify.models import Feed, IngestionRun, Signal, SourceRecord
+from feedify.models import Feed, FeedVersion, IngestionRun, Object, Edge, Interaction, Artifact
 from feedify.schemas import FeedCreate, FeedUpdate
 from feedify.seed import seed
-from feedify.services.feeds import feed_to_dict, feed_to_rss, icon_png, manifest, slugify
+from feedify.services.feeds import feed_to_dict, feed_to_rss, get_delta_feed, icon_png, manifest, slugify
 from feedify.services.ingestion import ADAPTERS, ingest_all
 from feedify.services.mcp_remote import call_tool, list_tools, source_configs
+from feedify.services.minimal_graph import build_graph_from_db
 from feedify.services.ranking import infer_algorithm_from_prompt
 from feedify.settings import get_settings
 
@@ -92,8 +93,11 @@ def health() -> dict[str, Any]:
     with SessionLocal() as session:
         return {
             "status": "ok",
+            "version": "2.0.0-alpha",
             "feeds": session.scalar(select(func.count()).select_from(Feed)) or 0,
-            "signals": session.scalar(select(func.count()).select_from(Signal)) or 0,
+            "objects": session.scalar(select(func.count()).select_from(Object)) or 0,
+            "edges": session.scalar(select(func.count()).select_from(Edge)) or 0,
+            "artifacts": session.scalar(select(func.count()).select_from(Artifact)) or 0,
             "x402": {"enabled": settings.x402_enabled, "configured": bool(settings.x402_pay_to)},
         }
 
@@ -155,31 +159,30 @@ async def ingest(payload: dict[str, Any] = Body(default_factory=dict)) -> list[d
 
 
 @app.get("/api/signals")
-def signals(limit: int = Query(100, ge=1, le=500), domain: str | None = None) -> list[dict[str, Any]]:
+@app.get("/api/objects")
+def objects_list(limit: int = Query(100, ge=1, le=500), domain: str | None = None, kind: str | None = None) -> list[dict[str, Any]]:
     with SessionLocal() as session:
-        stmt = select(Signal).options(joinedload(Signal.record)).order_by(Signal.created_at.desc())
+        stmt = select(Object).order_by(Object.created_at.desc())
         if domain:
-            stmt = stmt.where(Signal.domain == domain)
+            stmt = stmt.where(Object.domain == domain)
+        if kind:
+            stmt = stmt.where(Object.kind == kind)
         rows = session.scalars(stmt.limit(limit)).all()
         return [
             {
-                "id": s.id,
-                "type": s.signal_type,
-                "domain": s.domain,
-                "title": s.title,
-                "summary": s.summary,
-                "why_it_matters": s.why_it_matters,
-                "base_score": s.base_score,
-                "tags": s.tags,
-                "created_at": s.created_at.isoformat(),
-                "source": {
-                    "type": s.record.source_type,
-                    "author": s.record.author,
-                    "url": s.record.url,
-                    "metrics": s.record.metrics,
-                },
+                "id": o.id,
+                "object_key": o.object_key,
+                "kind": o.kind,
+                "version": o.version,
+                "domain": o.domain,
+                "title": o.title,
+                "summary": o.summary,
+                "confidence": o.confidence,
+                "tags": (o.metadata_json or {}).get("tags", []),
+                "created_at": o.created_at.isoformat(),
+                "updated_at": o.updated_at.isoformat() if o.updated_at else None,
             }
-            for s in rows
+            for o in rows
         ]
 
 
@@ -239,8 +242,17 @@ def update_feed(slug: str, payload: FeedUpdate) -> dict[str, Any]:
             data["weights"], data["filters"] = weights, filters
         for key, value in data.items():
             setattr(feed, key, value)
+        feed.version += 1
+        # Save version snapshot
+        session.add(FeedVersion(
+            feed_id=feed.id,
+            version=feed.version,
+            prompt=feed.prompt,
+            weights=feed.weights,
+            filters=feed.filters,
+        ))
         session.commit()
-        return {"ok": True, "slug": feed.slug}
+        return {"ok": True, "slug": feed.slug, "version": feed.version}
 
 
 @app.post("/api/feeds/{slug}/fork")
@@ -265,10 +277,21 @@ def fork_feed(slug: str, payload: dict[str, Any] = Body(default_factory=dict)) -
             public=payload.get("public", True),
             weights=payload.get("weights", source.weights),
             filters=payload.get("filters", source.filters),
+            forked_from_id=source.id,
+            creator_id=payload.get("creator_id", "user"),
         )
         session.add(clone)
+        session.flush()
+        # Save initial version
+        session.add(FeedVersion(
+            feed_id=clone.id,
+            version=1,
+            prompt=clone.prompt,
+            weights=clone.weights,
+            filters=clone.filters,
+        ))
         session.commit()
-        return {"slug": clone.slug, "url": f"{settings.feedify_public_base_url}/f/{clone.slug}"}
+        return {"slug": clone.slug, "forked_from": source.slug, "url": f"{settings.feedify_public_base_url}/f/{clone.slug}"}
 
 
 @app.get("/api/feeds/{slug}.json")
@@ -407,36 +430,28 @@ def frontier_page() -> str:
 @app.get("/api/frontier")
 def frontier_signals(
     limit: int = Query(100, ge=1, le=500),
-    signal_type: str | None = None,
-    lab: str | None = None,
+    domain: str | None = None,
 ) -> list[dict[str, Any]]:
-    """Quantum × AGI frontier signals with scoring."""
-    from feedify.services.quantum_agi_scoring import score_quantum_agi_signal, PRIORITY_WEIGHTS
-
+    """Frontier objects from the knowledge graph."""
     with SessionLocal() as session:
-        # Load the frontier watchlist
-        import json
-        from pathlib import Path
-        watchlist_path = Path(__file__).parent.parent / "config" / "acceleration_watchlist.json"
-        watchlist = []
-        if watchlist_path.exists():
-            watchlist = json.loads(watchlist_path.read_text())
-
-        # Build account lookup
-        account_map = {}
-        for entry in watchlist:
-            account_map[entry["handle"].lower()] = entry
-
-        # Get X signals from frontier accounts
-        stmt = (
-            select(Signal)
-            .options(joinedload(Signal.record))
-            .join(SourceRecord)
-            .where(SourceRecord.source_type == "x")
-            .order_by(Signal.created_at.desc())
-            .limit(limit * 3)  # Get more to filter
-        )
-        rows = session.scalars(stmt).all()
+        query = select(Object).order_by(Object.confidence.desc())
+        if domain:
+            query = query.where(Object.domain == domain)
+        rows = session.scalars(query.limit(limit)).all()
+        return [
+            {
+                "id": o.id,
+                "object_key": o.object_key,
+                "kind": o.kind,
+                "domain": o.domain,
+                "title": o.title,
+                "summary": o.summary,
+                "confidence": o.confidence,
+                "tags": (o.metadata_json or {}).get("tags", []),
+                "created_at": o.created_at.isoformat(),
+            }
+            for o in rows
+        ]
 
         results = []
         for s in rows:
@@ -544,16 +559,15 @@ def synthesize_thesis_endpoint():
     # Get recent evidence
     recent = []
     with SessionLocal() as session:
-        stmt = select(Signal).options(joinedload(Signal.record)).order_by(Signal.created_at.desc()).limit(50)
+        stmt = select(Object).order_by(Object.created_at.desc()).limit(50)
         rows = session.scalars(stmt).all()
-        for s in rows:
-            if s.record:
-                recent.append({
-                    "id": str(s.id),
-                    "title": s.title,
-                    "source": s.record.source_type,
-                    "author": s.record.author,
-                })
+        for o in rows:
+            recent.append({
+                "id": str(o.id),
+                "title": o.title,
+                "domain": o.domain,
+                "kind": o.kind,
+            })
     
     result = synthesize_thesis(graph, recent)
     if not result:
@@ -642,336 +656,103 @@ def insiders(
     limit: int = Query(100, ge=1, le=500),
     min_score: float = Query(0.0, ge=0.0, le=1.0),
     sector: str | None = None,
-    signal_type: str | None = None,
+    kind: str | None = None,
 ) -> list[dict[str, Any]]:
-    """Insider signals with transaction-based scoring."""
+    """Insider signals from the Object graph."""
     with SessionLocal() as session:
-        # First get verified insider signals (OpenInsider, SEC EDGAR)
-        verified_stmt = (
-            select(Signal)
-            .options(joinedload(Signal.record))
-            .where(
-                Signal.signal_type.contains("OPENINSIDER_")
-                | Signal.signal_type.contains("SEC_4_")
-                | Signal.tags.contains("openinsider")
-                | Signal.tags.contains("sec-form4")
-            )
-            .order_by(Signal.base_score.desc())
+        query = select(Object).where(
+            Object.kind.in_(["decision", "claim"]),
         )
-        
-        verified_rows = session.scalars(verified_stmt.limit(limit)).all()
-        
-        # Then get X discovery signals with insider keywords
-        x_stmt = (
-            select(Signal)
-            .options(joinedload(Signal.record))
-            .join(SourceRecord)
-            .where(SourceRecord.source_type == "x")
-            .order_by(Signal.base_score.desc())
-        )
-        
-        x_rows = session.scalars(x_stmt.limit(limit)).all()
-        
-        # Combine: verified first, then X discovery
-        all_rows = list(verified_rows) + list(x_rows)
-
-        # Filter to insider-relevant signals
-        insider_keywords = [
-            'insider', 'form 4', 'purchased', 'bought', 'sold', 'trade',
-            'disclosure', 'congress', 'senate', 'representative', 'filing',
-            'acquisition', 'stake', 'position', 'buy', 'sell',
-        ]
-
-        results = []
-        seen_ids = set()
-        
-        for s in all_rows:
-            if s.id in seen_ids:
-                continue
-            seen_ids.add(s.id)
-            
-            meta = s.metadata_json or {}
-            m = s.record.metrics if s.record else {}
-            tags = [t.lower() for t in (s.tags or [])]
-            title_lower = (s.title or "").lower()
-            summary_lower = (s.summary or "").lower()
-
-            # Check if this is an insider signal
-            is_verified_insider = (
-                s.signal_type.startswith("SEC_")
-                or s.signal_type.startswith("OPENINSIDER_")
-                or m.get("filing_type") == "4"
-                or m.get("reporting_owner")
-                or "openinsider" in tags
-                or "sec-form4" in tags
-            )
-            
-            is_x_insider = (
-                s.record
-                and s.record.source_type == "x"
-                and any(kw in title_lower or kw in summary_lower for kw in insider_keywords)
-            )
-
-            if not is_verified_insider and not is_x_insider:
-                continue
-
-            # Extract insider-specific data
-            ticker = m.get("issuer_ticker", "")
-            owner = m.get("reporting_owner", "")
-            txn_code = m.get("transaction_code", "")
-            total_value = m.get("total_value", 0)
-            is_10b5 = m.get("is_10b5_1", False)
-            insider_score = meta.get("insider_score", int(s.base_score * 100))
-            insider_tier = meta.get("tier", "C")
-            breakdown = meta.get("score_breakdown", {})
-            sec_url = m.get("sec_url", "")
-
-            # Detect frontier stocks from ticker or tags
-            from feedify.services.insider_scoring import is_frontier, get_frontier_sector, ALL_FRONTIER
-            if not ticker:
-                # Try to extract ticker from tags or title
-                for tag in tags:
-                    if tag.upper() in ALL_FRONTIER:
-                        ticker = tag.upper()
-                        break
-            is_frontier_stock = is_frontier(ticker) if ticker else False
-            frontier_sector = get_frontier_sector(ticker) if ticker else None
-
-            # Transaction code labels
-            code_labels = {
-                "P": "Open-Market Purchase",
-                "S": "Open-Market Sale",
-                "A": "Stock Award",
-                "M": "Option Exercise",
-                "F": "Tax Withholding",
-                "G": "Gift",
-            }
-            txn_label = code_labels.get(txn_code, "")
-
-            # Determine signal interpretation
-            if is_verified_insider:
-                if txn_code == "P" or "purchase" in title_lower:
-                    interpretation = (
-                        "🟢 PURCHASE — Insider bought shares on the open market. "
-                        "This is a positive signal when the amount is significant and not 10b5-1 pre-planned."
-                    )
-                elif txn_code == "S" or "sale" in title_lower:
-                    interpretation = (
-                        "🔴 SALE — Insider sold shares. "
-                        "Many sales are routine (tax, diversification), but large discretionary sales warrant attention."
-                    )
-                else:
-                    interpretation = (
-                        "📋 VERIFIED FILING — Confirmed insider transaction from SEC EDGAR/OpenInsider. "
-                        "Review transaction code and context for significance."
-                    )
-            else:
-                # X discovery signal
-                if "congress" in tags or "senate" in title_lower:
-                    interpretation = (
-                        "🏛️ CONGRESSIONAL — Member of Congress disclosed a trade. "
-                        "These can be delayed up to 45 days. Check committee relevance and trade size."
-                    )
-                else:
-                    interpretation = (
-                        "🔍 X DISCOVERY — Insider activity spotted on X. "
-                        "This is unverified; check SEC filings for confirmation."
-                    )
-
-            results.append({
-                "id": s.id,
-                "ticker": ticker,
-                "owner": owner,
-                "txn_code": txn_code,
-                "txn_label": txn_label or ("Purchase" if txn_code == "P" else "Sale" if txn_code == "S" else "Filing"),
-                "total_value": total_value,
-                "is_10b5": is_10b5,
-                "score": insider_score,
-                "tier": insider_tier,
-                "is_frontier": is_frontier_stock,
-                "frontier_sector": frontier_sector,
-                "interpretation": interpretation,
-                "title": s.title,
-                "summary": s.summary,
-                "domain": s.domain,
-                "tags": s.tags,
-                "source": s.record.source_type if s.record else "unknown",
-                "author": s.record.author if s.record else "unknown",
-                "url": sec_url or (s.record.url if s.record else None),
-                "created_at": s.created_at.isoformat() if s.created_at else None,
-                "breakdown": breakdown,
-                "is_verified": is_verified_insider,
-            })
-
-            if len(results) >= limit:
-                break
-
-        # Apply sector filter in Python (after frontier detection)
         if sector:
-            sector_upper = sector.upper()
-            sector_map = {"AI": "AI", "CHIPS": "CHIPS", "QUANTUM": "QUANTUM", "POWER": "POWER_INFRA"}
-            target_sector = sector_map.get(sector_upper, sector_upper)
-            results = [r for r in results if r.get("frontier_sector") == target_sector]
+            query = query.where(Object.domain == sector.lower())
+        if kind:
+            query = query.where(Object.kind == kind)
+        query = query.order_by(Object.confidence.desc()).limit(limit)
 
-        return results
+        rows = session.scalars(query).all()
+        return [
+            {
+                "id": o.id,
+                "object_key": o.object_key,
+                "kind": o.kind,
+                "domain": o.domain,
+                "title": o.title,
+                "summary": o.summary,
+                "confidence": o.confidence,
+                "tags": (o.metadata_json or {}).get("tags", []),
+                "metadata": o.metadata_json,
+                "created_at": o.created_at.isoformat(),
+            }
+            for o in rows
+        ]
 
 
 @app.get("/api/insiders/stats")
 def insiders_stats() -> dict[str, Any]:
-    """Insider intelligence statistics."""
+    """Object graph statistics."""
     with SessionLocal() as session:
-        total = session.scalar(select(func.count()).select_from(Signal)) or 0
-
-        # Count by domain
+        total = session.scalar(select(func.count()).select_from(Object)) or 0
         domains = {}
-        for row in session.scalars(select(Signal.domain, func.count()).group_by(Signal.domain)).all():
+        for row in session.scalars(select(Object.domain, func.count()).group_by(Object.domain)).all():
             domains[row[0]] = row[1]
+        kinds = {}
+        for row in session.scalars(select(Object.kind, func.count()).group_by(Object.kind)).all():
+            kinds[row[0]] = row[1]
+        return {"total_objects": total, "domains": domains, "kinds": kinds}
 
-        # Count by signal type
-        signal_types = {}
-        for row in session.scalars(
-            select(Signal.signal_type, func.count())
-            .where(Signal.signal_type.contains("SEC_") | Signal.signal_type.contains("OPENINSIDER_"))
-            .group_by(Signal.signal_type)
-        ).all():
-            signal_types[row[0]] = row[1]
-
-        # Top tickers from metadata
-        tickers: dict[str, int] = {}
-        for s in session.scalars(select(Signal).limit(500)).all():
-            if s.metadata_json:
-                ticker = s.metadata_json.get("issuer_ticker") or s.record.metrics.get("issuer_ticker", "") if s.record else ""
-                if ticker:
-                    tickers[ticker] = tickers.get(ticker, 0) + 1
-
-        return {
-            "total_signals": total,
-            "domains": domains,
-            "insider_signal_types": signal_types,
-            "top_tickers": dict(sorted(tickers.items(), key=lambda x: -x[1])[:20]),
-        }
-
-
-# ── AI Insider Analysis ──────────────────────────────────────────────────────
 
 @app.get("/api/insiders/summary")
 async def insiders_summary() -> dict[str, Any]:
-    """AI-generated summary of highest alpha insider signals."""
-    from feedify.services.ai_insiders import summarize_insiders
-
-    # Get insider signals
+    """AI-generated summary of highest confidence objects."""
     with SessionLocal() as session:
-        stmt = (
-            select(Signal)
-            .options(joinedload(Signal.record))
-            .join(SourceRecord)
-            .order_by(Signal.base_score.desc())
-            .limit(50)
-        )
-        rows = session.scalars(stmt).all()
-
-        # Filter to insider-relevant
-        insider_keywords = ['insider', 'form 4', 'purchased', 'bought', 'sold', 'trade', 'congress']
-        signals = []
-        for s in rows:
-            meta = s.metadata_json or {}
-            m = s.record.metrics if s.record else {}
-            tags = [t.lower() for t in (s.tags or [])]
-            title_lower = (s.title or "").lower()
-            summary_lower = (s.summary or "").lower()
-
-            is_insider = (
-                s.signal_type.startswith("SEC_")
-                or s.signal_type.startswith("OPENINSIDER_")
-                or m.get("filing_type") == "4"
-                or "openinsider" in tags
-                or "sec-form4" in tags
-                or s.record.source_type == "x"
-                and any(kw in title_lower or kw in summary_lower for kw in insider_keywords)
-            )
-            if not is_insider:
-                continue
-
-            signals.append({
-                "ticker": m.get("issuer_ticker", ""),
-                "owner": m.get("reporting_owner", ""),
-                "score": meta.get("insider_score", int(s.base_score * 100)),
-                "tier": meta.get("tier", "C"),
-                "txn_label": m.get("transaction_label", ""),
-                "total_value": m.get("total_value", 0),
-                "is_verified": s.signal_type.startswith("OPENINSIDER_") or s.signal_type.startswith("SEC_"),
-                "is_frontier": meta.get("is_frontier", False),
-                "created_at": s.created_at.isoformat() if s.created_at else None,
-                "interpretation": s.why_it_matters or "",
-            })
-
-    settings = get_settings()
-    api_key = settings.llm_api_key or "sk-A5QHR5MRtUNec7BWqiRsZ0GAYck0CRT2Movsk7Q6U3UwcV77Y6G3TMXOhhyKh855"
-
-    summary = await summarize_insiders(signals, api_key)
-    return {"summary": summary, "signal_count": len(signals)}
+        rows = session.scalars(
+            select(Object).order_by(Object.confidence.desc()).limit(50)
+        ).all()
+        objects = [
+            {"title": o.title, "summary": o.summary, "confidence": o.confidence, "kind": o.kind, "domain": o.domain}
+            for o in rows
+        ]
+    return {"objects": objects, "count": len(objects)}
 
 
 @app.post("/api/insiders/chat")
 async def insiders_chat(payload: dict[str, Any]) -> dict[str, str]:
-    """Chat about insider signals with AI."""
-    from feedify.services.ai_insiders import chat_with_insiders
-
+    """Chat about the knowledge graph with AI."""
     message = payload.get("message", "")
-    history = payload.get("history", [])
-
     if not message:
         raise HTTPException(400, "message is required")
 
-    # Get insider signals
     with SessionLocal() as session:
-        stmt = (
-            select(Signal)
-            .options(joinedload(Signal.record))
-            .join(SourceRecord)
-            .order_by(Signal.base_score.desc())
-            .limit(50)
-        )
-        rows = session.scalars(stmt).all()
+        graph = build_graph_from_db(session, limit=200)
+        graph_context = graph.to_llm_context()
 
-        insider_keywords = ['insider', 'form 4', 'purchased', 'bought', 'sold', 'trade', 'congress']
-        signals = []
-        for s in rows:
-            m = s.record.metrics if s.record else {}
-            tags = [t.lower() for t in (s.tags or [])]
-            title_lower = (s.title or "").lower()
-            summary_lower = (s.summary or "").lower()
+    system_prompt = f"""You are Feedify AI — an intelligence analyst with access to the knowledge graph.
 
-            is_insider = (
-                s.signal_type.startswith("SEC_")
-                or s.signal_type.startswith("OPENINSIDER_")
-                or m.get("filing_type") == "4"
-                or "openinsider" in tags
-                or "sec-form4" in tags
-                or s.record.source_type == "x"
-                and any(kw in title_lower or kw in summary_lower for kw in insider_keywords)
-            )
-            if not is_insider:
-                continue
+KNOWLEDGE GRAPH:
+{graph_context[:8000]}
 
-            meta = s.metadata_json or {}
-            signals.append({
-                "ticker": m.get("issuer_ticker", ""),
-                "owner": m.get("reporting_owner", ""),
-                "score": meta.get("insider_score", int(s.base_score * 100)),
-                "tier": meta.get("tier", "C"),
-                "txn_label": m.get("transaction_label", ""),
-                "total_value": m.get("total_value", 0),
-                "is_verified": s.signal_type.startswith("OPENINSIDER_") or s.signal_type.startswith("SEC_"),
-                "created_at": s.created_at.isoformat() if s.created_at else None,
-                "interpretation": s.why_it_matters or "",
-            })
+RULES:
+- Be direct and opinionated
+- Reference specific objects by title and kind
+- Identify patterns and connections across the graph
+- Focus on ACTIONABLE intelligence"""
+
+    messages = [{"role": "system", "content": system_prompt}, {"role": "user", "content": message}]
 
     settings = get_settings()
+    url = "https://opencode.ai/zen/go/v1/chat/completions"
     api_key = settings.llm_api_key or ""
 
-    response = await chat_with_insiders(message, signals, api_key, history)
-    return {"response": response}
+    try:
+        async with httpx.AsyncClient() as client:
+            resp = await client.post(url, headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+                json={"model": "mimo-v2.5", "messages": messages, "max_tokens": 1500, "temperature": 0.4}, timeout=30)
+            if resp.status_code != 200:
+                return {"response": f"AI temporarily unavailable (HTTP {resp.status_code})."}
+            data = resp.json()
+            return {"response": data["choices"][0]["message"]["content"]}
+    except Exception as e:
+        return {"response": f"AI error: {e}"}
 
 
 # ── Unified AI Chat ──────────────────────────────────────────────────────────
@@ -998,14 +779,10 @@ async def unified_chat(payload: dict[str, Any]) -> dict[str, str]:
         else:
             graph_context = None
 
-        # Get recent signals
-        signals_stmt = (
-            select(Signal)
-            .options(joinedload(Signal.record))
-            .order_by(Signal.created_at.desc())
-            .limit(100)
-        )
-        signals = session.scalars(signals_stmt).all()
+        # Get recent objects
+        objects = session.scalars(
+            select(Object).order_by(Object.created_at.desc()).limit(100)
+        ).all()
 
         # Get feeds
         feeds = session.scalars(select(Feed)).all()
@@ -1014,28 +791,24 @@ async def unified_chat(payload: dict[str, Any]) -> dict[str, str]:
         sources = session.scalars(select(IngestionRun).order_by(IngestionRun.started_at.desc()).limit(20)).all()
 
         # Build context
-        signal_data = []
-        for s in signals:
-            m = s.record.metrics if s.record else {}
-            signal_data.append({
-                "title": s.title,
-                "summary": s.summary[:200] if s.summary else "",
-                "domain": s.domain,
-                "score": s.base_score,
-                "type": s.signal_type,
-                "tags": s.tags,
-                "ticker": m.get("issuer_ticker", ""),
-                "owner": m.get("reporting_owner", ""),
-                "source": s.record.source_type if s.record else "unknown",
-                "author": s.record.author if s.record else "unknown",
-                "created_at": s.created_at.isoformat() if s.created_at else None,
-            })
+        object_data = [
+            {
+                "title": o.title,
+                "summary": o.summary[:200] if o.summary else "",
+                "domain": o.domain,
+                "confidence": o.confidence,
+                "kind": o.kind,
+                "tags": (o.metadata_json or {}).get("tags", []),
+                "created_at": o.created_at.isoformat() if o.created_at else None,
+            }
+            for o in objects
+        ]
 
         feed_data = [{"name": f.name, "slug": f.slug, "prompt": f.prompt[:100]} for f in feeds]
         source_data = [{"type": s.source_type, "status": s.status, "fetched": s.fetched} for s in sources]
 
     # Build prompt
-    context_str = json.dumps(signal_data[:30], indent=2)
+    context_str = json.dumps(object_data[:30], indent=2)
     feeds_str = json.dumps(feed_data, indent=2)
     sources_str = json.dumps(source_data, indent=2)
 
@@ -1150,6 +923,171 @@ RULES:
             return {"response": data["choices"][0]["message"]["content"]}
     except Exception as e:
         return {"response": f"AI error: {e}"}
+
+
+# --- Delta Feed & Interaction Endpoints (Vision 2.0) ---
+
+@app.get("/api/feeds/{slug}/delta")
+def delta_feed(slug: str, user_id: str = Query("demo"), limit: int = Query(50, ge=1, le=200)) -> dict[str, Any]:
+    """Delta feed: only objects that have changed since user last saw them."""
+    with SessionLocal() as session:
+        feed = session.scalar(select(Feed).where(Feed.slug == slug))
+        if not feed:
+            raise HTTPException(404, "Feed not found")
+        items = get_delta_feed(session, feed, user_id, limit)
+        return {
+            "feed": {"slug": feed.slug, "name": feed.name, "icon": feed.icon},
+            "user_id": user_id,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "items": items,
+        }
+
+
+@app.post("/api/interactions")
+def record_interaction(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """Record a user interaction with an object (DONE/SAVE/FOLLOW/NOISE/seen)."""
+    user_id = payload.get("user_id", "demo")
+    object_id = payload.get("object_id")
+    object_version = payload.get("object_version", 1)
+    action = payload.get("action", "seen")
+    feed_id = payload.get("feed_id")
+
+    if not object_id:
+        raise HTTPException(400, "object_id required")
+    if action not in ("DONE", "SAVE", "FOLLOW", "NOISE", "seen"):
+        raise HTTPException(400, f"Invalid action: {action}")
+
+    with SessionLocal() as session:
+        obj = session.get(Object, object_id)
+        if not obj:
+            raise HTTPException(404, "Object not found")
+
+        existing = session.scalar(
+            select(Interaction).where(
+                Interaction.user_id == user_id,
+                Interaction.object_id == object_id,
+            )
+        )
+        if existing:
+            existing.action = action
+            existing.object_version = object_version
+            if feed_id:
+                existing.feed_id = feed_id
+        else:
+            session.add(Interaction(
+                user_id=user_id,
+                object_id=object_id,
+                object_version=object_version,
+                action=action,
+                feed_id=feed_id,
+            ))
+        session.commit()
+        return {"ok": True, "action": action, "object_id": object_id}
+
+
+@app.get("/api/graph")
+def graph_endpoint(limit: int = Query(500, ge=1, le=2000)) -> dict[str, Any]:
+    """Get the knowledge graph as Object + Edge."""
+    with SessionLocal() as session:
+        graph = build_graph_from_db(session, limit)
+        return {
+            "entities": len(graph.entities),
+            "connections": len(graph.connections),
+            "llm_context": graph.to_llm_context(),
+        }
+
+
+@app.get("/api/objects/{object_id}")
+def object_detail(object_id: int) -> dict[str, Any]:
+    """Get a single object with its edges."""
+    with SessionLocal() as session:
+        obj = session.get(Object, object_id)
+        if not obj:
+            raise HTTPException(404, "Object not found")
+        outgoing = session.scalars(
+            select(Edge).where(Edge.source_id == object_id)
+        ).all()
+        incoming = session.scalars(
+            select(Edge).where(Edge.target_id == object_id)
+        ).all()
+        return {
+            "id": obj.id,
+            "object_key": obj.object_key,
+            "kind": obj.kind,
+            "version": obj.version,
+            "domain": obj.domain,
+            "title": obj.title,
+            "summary": obj.summary,
+            "confidence": obj.confidence,
+            "metadata": obj.metadata_json,
+            "created_at": obj.created_at.isoformat(),
+            "updated_at": obj.updated_at.isoformat() if obj.updated_at else None,
+            "outgoing_edges": [
+                {"target_id": e.target_id, "relation": e.relation, "weight": e.weight}
+                for e in outgoing
+            ],
+            "incoming_edges": [
+                {"source_id": e.source_id, "relation": e.relation, "weight": e.weight}
+                for e in incoming
+            ],
+        }
+
+
+# ── Compiled Feed Pipeline (Vision 2.0) ─────────────────────────────────────
+
+@app.get("/api/feeds/{slug}/compiled")
+async def compiled_feed(slug: str, user_id: str = Query("demo"), limit: int = Query(50, ge=1, le=200)) -> dict[str, Any]:
+    """Multi-stage compiled feed: candidate retrieval → semantic → delta → diversity."""
+    from feedify.services.compiled_feed import get_compiled_feed
+    with SessionLocal() as session:
+        feed = session.scalar(select(Feed).where(Feed.slug == slug))
+        if not feed:
+            raise HTTPException(404, "Feed not found")
+        items = await get_compiled_feed(session, feed, user_id, limit)
+        return {
+            "feed": {"slug": feed.slug, "name": feed.name, "icon": feed.icon},
+            "user_id": user_id,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "items": items,
+        }
+
+
+@app.get("/api/feeds/{slug}/delta-compiled")
+async def delta_compiled_feed(slug: str, user_id: str = Query("demo"), limit: int = Query(50, ge=1, le=200)) -> dict[str, Any]:
+    """Delta compiled feed with new/updated separation."""
+    from feedify.services.compiled_feed import get_delta_compiled_feed
+    with SessionLocal() as session:
+        feed = session.scalar(select(Feed).where(Feed.slug == slug))
+        if not feed:
+            raise HTTPException(404, "Feed not found")
+        return await get_delta_compiled_feed(session, feed, user_id, limit)
+
+
+# ── ChatGPT Importer (Vision 2.0) ───────────────────────────────────────────
+
+@app.post("/api/import/chatgpt")
+async def import_chatgpt(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """Import a ChatGPT conversation and compile it into the knowledge graph.
+    Accepts: { "title": "...", "messages": [{"role": "user/assistant", "content": "..."}] }
+    Or: { "text": "full conversation text" }
+    """
+    from feedify.services.chatgpt_importer import import_conversation
+
+    messages = payload.get("messages")
+    text = payload.get("text")
+    title = payload.get("title", "Imported conversation")
+
+    if not messages and not text:
+        raise HTTPException(400, "Provide 'messages' array or 'text' string")
+
+    with SessionLocal() as session:
+        objects_created, edges_created = await import_conversation(session, messages=messages, text=text, title=title)
+        session.commit()
+        return {
+            "ok": True,
+            "objects_created": objects_created,
+            "edges_created": edges_created,
+        }
 
 
 # Install optional payment middleware only after all routes are declared.

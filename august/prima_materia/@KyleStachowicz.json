@@ -1,0 +1,482 @@
+{
+  "handle": "KyleStachowicz",
+  "total_tweets": 25,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2064847375676629419",
+      "title": "@ChongZzZhang @mo_danesh In other words: SAC will adversarially exploit overestimated Q-values, whereas PPO only updates on actions supported by data.",
+      "body": "@ChongZzZhang @mo_danesh In other words: SAC will adversarially exploit overestimated Q-values, whereas PPO only updates on actions supported by data.",
+      "url": "https://x.com/KyleStachowicz/status/2064847375676629419",
+      "author": "1032995357238673408",
+      "published_at": "2026-06-10T23:09:12",
+      "observed_at": "2026-09-10T03:55:27.537530",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 185,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064847242612334959",
+      "title": "@ChongZzZhang @mo_danesh It's (IME) due to highly off-policy updates. Q(s, a) will have a bad estimate of the value of OOD actions, so without action bounds you",
+      "body": "@ChongZzZhang @mo_danesh It's (IME) due to highly off-policy updates. Q(s, a) will have a bad estimate of the value of OOD actions, so without action bounds you're optimizing Q over an unbounded space rather than a compact interval, which can lead to runaway policy updates.",
+      "url": "https://x.com/KyleStachowicz/status/2064847242612334959",
+      "author": "1032995357238673408",
+      "published_at": "2026-06-10T23:08:40",
+      "observed_at": "2026-09-10T03:55:27.538934",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 4,
+        "views": 192,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2063487862201520353",
+      "title": "@Darpinian @blind_via open circuit = check CV limit, short circuit = check CC limit :P",
+      "body": "@Darpinian @blind_via open circuit = check CV limit, short circuit = check CC limit :P",
+      "url": "https://x.com/KyleStachowicz/status/2063487862201520353",
+      "author": "1032995357238673408",
+      "published_at": "2026-06-07T05:06:58",
+      "observed_at": "2026-09-10T03:55:27.540006",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 40,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2054357880707682352",
+      "title": "Cool to see other labs getting use out of FAST!",
+      "body": "Cool to see other labs getting use out of FAST!",
+      "url": "https://x.com/KyleStachowicz/status/2054357880707682352",
+      "author": "1032995357238673408",
+      "published_at": "2026-05-13T00:27:41",
+      "observed_at": "2026-09-10T03:55:27.540983",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 6,
+        "views": 1072,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046483256577790250",
+      "title": "I love this @Ultraroboticsco OP1 design, super pragmatic choices. Tbh, the robot-on-a-robot setup maps better to humans' dynamic range and usable workspace size",
+      "body": "I love this @Ultraroboticsco OP1 design, super pragmatic choices. Tbh, the robot-on-a-robot setup maps better to humans' dynamic range and usable workspace size better than a lot of full humanoids.\n\nRobots will have many shapes.",
+      "url": "https://x.com/KyleStachowicz/status/2046483256577790250",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-21T06:56:44",
+      "observed_at": "2026-09-10T03:55:27.541941",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 11,
+        "views": 1363,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2045637853464715493",
+      "title": "@fchollet linus torvalds mailing list style holywar ragebait is so 2010s\n\nand i will absolutely engage, i love jax",
+      "body": "@fchollet linus torvalds mailing list style holywar ragebait is so 2010s\n\nand i will absolutely engage, i love jax",
+      "url": "https://x.com/KyleStachowicz/status/2045637853464715493",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-18T22:57:25",
+      "observed_at": "2026-09-10T03:55:27.544102",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 3,
+        "views": 1039,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2045387514123596107",
+      "title": "@bznotes integers not yet discovered internally",
+      "body": "@bznotes integers not yet discovered internally",
+      "url": "https://x.com/KyleStachowicz/status/2045387514123596107",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-18T06:22:39",
+      "observed_at": "2026-09-10T03:55:27.545916",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 80,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044938495614152890",
+      "title": "@HaoruXue It's not really a \"rivalry\" between VLA vs. WAM (vs. from-scratch) - when you have enough data, the thing that matters the most is how efficiently you",
+      "body": "@HaoruXue It's not really a \"rivalry\" between VLA vs. WAM (vs. from-scratch) - when you have enough data, the thing that matters the most is how efficiently you learn from it, not what your model used to be before it was a policy. Most likely the best recipe will use parts of both.",
+      "url": "https://x.com/KyleStachowicz/status/2044938495614152890",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-17T00:38:25",
+      "observed_at": "2026-09-10T03:55:27.546790",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 17,
+        "views": 550,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044874445320536096",
+      "title": "Once you have an architecture that is able to soak up lots of data, the two things that determine downstream capabilities are (1) the data, and (2) your scaling",
+      "body": "Once you have an architecture that is able to soak up lots of data, the two things that determine downstream capabilities are (1) the data, and (2) your scaling constant. Lots of the tricks that would make for good academic papers just stop mattering as much at large data scales.",
+      "url": "https://x.com/KyleStachowicz/status/2044874445320536096",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-16T20:23:54",
+      "observed_at": "2026-09-10T03:55:27.547458",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 6,
+        "views": 924,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044874443768709541",
+      "title": "Really great thread from @lucy_x_shi about the origins of \u03c00.7. We went into the project originally thinking that a hierarchical \"world model\"-style policy woul",
+      "body": "Really great thread from @lucy_x_shi about the origins of \u03c00.7. We went into the project originally thinking that a hierarchical \"world model\"-style policy would be a great way to make model better at generalization, but as we've scaled our data that gap largely disappeared.",
+      "url": "https://x.com/KyleStachowicz/status/2044874443768709541",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-16T20:23:53",
+      "observed_at": "2026-09-10T03:55:27.549013",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 43,
+        "views": 10484,
+        "reposts": 3,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044849599857545510",
+      "title": "For details on how we trained \u03c00.7 (and some more videos of robots doing cool things - we're especially excited about the cross-embodiment transfer results), ta",
+      "body": "For details on how we trained \u03c00.7 (and some more videos of robots doing cool things - we're especially excited about the cross-embodiment transfer results), take a look at our tech report and blog post https://t.co/7egbOXjfut",
+      "url": "https://x.com/KyleStachowicz/status/2044849599857545510",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-16T18:45:10",
+      "observed_at": "2026-09-10T03:55:27.549972",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 265,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044849597097689400",
+      "title": "\u03c007 works by allowing the model to condition on diverse information: with \u03c00.7 we've introduced the ability to condition the policy on strategy, episode metadat",
+      "body": "\u03c007 works by allowing the model to condition on diverse information: with \u03c00.7 we've introduced the ability to condition the policy on strategy, episode metadata, diverse step-by-step language instructions, and even visual subgoals generated from a lightweight \"world model\".",
+      "url": "https://x.com/KyleStachowicz/status/2044849597097689400",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-16T18:45:10",
+      "observed_at": "2026-09-10T03:55:27.551460",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 344,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044849595805774037",
+      "title": "Excited to share the latest model we've been training: \u03c00.7: a highly steerable model that can be prompted to do almost any task, out of the box!\nThis robot has",
+      "body": "Excited to share the latest model we've been training: \u03c00.7: a highly steerable model that can be prompted to do almost any task, out of the box!\nThis robot has never seen this air fryer - in fact, it's never seen *any* air fryer - but with some prompting it can use it perfectly! https://t.co/8QXa3pzYqr",
+      "url": "https://x.com/KyleStachowicz/status/2044849595805774037",
+      "author": "1032995357238673408",
+      "published_at": "2026-04-16T18:45:09",
+      "observed_at": "2026-09-10T03:55:27.553086",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 81,
+        "views": 17759,
+        "reposts": 6,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2038870751508619413",
+      "title": "@ylecun @julianboolean_ My pet peeve is posts using this slide to dunk on @ylecun. The (1-e)^n bound is about training LLMs off-policy; RL fixes it (for reasoni",
+      "body": "@ylecun @julianboolean_ My pet peeve is posts using this slide to dunk on @ylecun. The (1-e)^n bound is about training LLMs off-policy; RL fixes it (for reasoning) by training on-policy\n\nKinda lame for a Turing award winner to be snarkposting instead of taking 15s to write a serious explanation though",
+      "url": "https://x.com/KyleStachowicz/status/2038870751508619413",
+      "author": "1032995357238673408",
+      "published_at": "2026-03-31T06:47:22",
+      "observed_at": "2026-09-10T03:55:27.554623",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 8,
+        "views": 998,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2033608332481859820",
+      "title": "@KyleVedder @vriishin @saurabhtwq @KyleMorgenstein robokyle group chat when",
+      "body": "@KyleVedder @vriishin @saurabhtwq @KyleMorgenstein robokyle group chat when",
+      "url": "https://x.com/KyleStachowicz/status/2033608332481859820",
+      "author": "1032995357238673408",
+      "published_at": "2026-03-16T18:16:23",
+      "observed_at": "2026-09-10T03:55:27.556197",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 84,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2030408676578857409",
+      "title": "@gf_256 tl2x pipeline",
+      "body": "@gf_256 tl2x pipeline",
+      "url": "https://x.com/KyleStachowicz/status/2030408676578857409",
+      "author": "1032995357238673408",
+      "published_at": "2026-03-07T22:22:06",
+      "observed_at": "2026-09-10T03:55:27.557049",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 3,
+        "views": 745,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2028959371536060732",
+      "title": "Partial observability means that a robot policy - even with infinitely many demonstrations - will still be worse than the demonstrator. With MEM, we built a rec",
+      "body": "Partial observability means that a robot policy - even with infinitely many demonstrations - will still be worse than the demonstrator. With MEM, we built a recipe to close this gap.\n\nFantastic work led by @KarlPertsch @marceltornev  @DannyDriess.",
+      "url": "https://x.com/KyleStachowicz/status/2028959371536060732",
+      "author": "1032995357238673408",
+      "published_at": "2026-03-03T22:23:05",
+      "observed_at": "2026-09-10T03:55:27.557643",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 47,
+        "views": 3234,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2028124925958164761",
+      "title": "@chris_j_paxton heelys were always the final form of human locomotion",
+      "body": "@chris_j_paxton heelys were always the final form of human locomotion",
+      "url": "https://x.com/KyleStachowicz/status/2028124925958164761",
+      "author": "1032995357238673408",
+      "published_at": "2026-03-01T15:07:17",
+      "observed_at": "2026-09-10T03:55:27.558301",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 6,
+        "views": 172,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2020387527232991648",
+      "title": "@liu730chaoqi Great writeup! Seems to clean up one of my least favorite parts of FAST (variable-width tokens are awful for decoding, and I suspect for learning ",
+      "body": "@liu730chaoqi Great writeup! Seems to clean up one of my least favorite parts of FAST (variable-width tokens are awful for decoding, and I suspect for learning signal) while keeping the token ordering that makes it work in the first place! Looking forward to trying it out :)",
+      "url": "https://x.com/KyleStachowicz/status/2020387527232991648",
+      "author": "1032995357238673408",
+      "published_at": "2026-02-08T06:41:38",
+      "observed_at": "2026-09-10T03:55:27.558912",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 3,
+        "views": 4643,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2005438857018568967",
+      "title": "@arnie_hacker @drfeifei 3DGS sims do a lot to close the observation gap, but physics and scene/task diversity gaps are pretty huge too, and arguably more diffic",
+      "body": "@arnie_hacker @drfeifei 3DGS sims do a lot to close the observation gap, but physics and scene/task diversity gaps are pretty huge too, and arguably more difficult to rectify",
+      "url": "https://x.com/KyleStachowicz/status/2005438857018568967",
+      "author": "1032995357238673408",
+      "published_at": "2025-12-29T00:40:57",
+      "observed_at": "2026-09-10T03:55:27.560309",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 4,
+        "views": 204,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2003334941925634439",
+      "title": "@liangpan_t Tokenization can overfit too. This is more a property of the data - you can get multimodal behaviors when you train on much larger data. The paper l",
+      "body": "@liangpan_t Tokenization can overfit too. This is more a property of the data - you can get multimodal behaviors when you train on much larger data. The paper looks at small-ish sim datasets, but they're right that the main benefit of diffusion is *not* that it picks up all of the modes.",
+      "url": "https://x.com/KyleStachowicz/status/2003334941925634439",
+      "author": "1032995357238673408",
+      "published_at": "2025-12-23T05:20:44",
+      "observed_at": "2026-09-10T03:55:27.561873",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 4,
+        "views": 290,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2003264357485187309",
+      "title": "@chris_j_paxton This! I think there was a while where it was unclear how much pretraining really helps (e.g. some of the ablations in \u03c00), but since the \u03c00.5 re",
+      "body": "@chris_j_paxton This! I think there was a while where it was unclear how much pretraining really helps (e.g. some of the ablations in \u03c00), but since the \u03c00.5 release we've dialed in our pretraining recipe a lot and it's enabled some awesome results (\u03c00.6, olympics tasks, human video transfer).",
+      "url": "https://x.com/KyleStachowicz/status/2003264357485187309",
+      "author": "1032995357238673408",
+      "published_at": "2025-12-23T00:40:16",
+      "observed_at": "2026-09-10T03:55:27.562775",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 7,
+        "views": 421,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2001615994289320402",
+      "title": "@chris_j_paxton @thisismyhat If you try to sell crappy shovels the miners will be the first to call you on it",
+      "body": "@chris_j_paxton @thisismyhat If you try to sell crappy shovels the miners will be the first to call you on it",
+      "url": "https://x.com/KyleStachowicz/status/2001615994289320402",
+      "author": "1032995357238673408",
+      "published_at": "2025-12-18T11:30:15",
+      "observed_at": "2026-09-10T03:55:27.564179",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 8,
+        "views": 216,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2001487910453883126",
+      "title": "@satpalsr @JieWang_ZJUI It\u2019s hard to make a robust sensor that gives rich touch feedback, but a wrist camera gives you lots of the same local feedback.",
+      "body": "@satpalsr @JieWang_ZJUI It\u2019s hard to make a robust sensor that gives rich touch feedback, but a wrist camera gives you lots of the same local feedback.",
+      "url": "https://x.com/KyleStachowicz/status/2001487910453883126",
+      "author": "1032995357238673408",
+      "published_at": "2025-12-18T03:01:18",
+      "observed_at": "2026-09-10T03:55:27.564981",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 2,
+        "views": 58,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1994322475061268902",
+      "title": "@KyleVedder $ mv experimental/kyle experimental/kyles\n$ mkdir experimental/kylev\n\nlooking forward to having you on board soon!",
+      "body": "@KyleVedder $ mv experimental/kyle experimental/kyles\n$ mkdir experimental/kylev\n\nlooking forward to having you on board soon!",
+      "url": "https://x.com/KyleStachowicz/status/1994322475061268902",
+      "author": "1032995357238673408",
+      "published_at": "2025-11-28T08:28:25",
+      "observed_at": "2026-09-10T03:55:27.565624",
+      "metrics": {
+        "author_handle": "KyleStachowicz",
+        "author_followers": 1020,
+        "likes": 4,
+        "views": 362,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

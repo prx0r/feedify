@@ -12,9 +12,9 @@ from PIL import Image, ImageDraw, ImageFont
 from sqlalchemy import select
 from sqlalchemy.orm import Session, joinedload
 
-from feedify.models import Feed, Signal
+from feedify.models import Feed, Object
 
-from .ranking import score_signal
+from .ranking import score_object
 
 
 def slugify(value: str) -> str:
@@ -22,42 +22,94 @@ def slugify(value: str) -> str:
     return slug[:90] or "feed"
 
 
-def serialize_signal(signal: Signal, score: float, reasons: list[str]) -> dict[str, Any]:
-    record = signal.record
+def serialize_object(obj: Object, score: float, reasons: list[str]) -> dict[str, Any]:
+    metadata = obj.metadata_json or {}
     return {
-        "id": signal.id,
-        "type": signal.signal_type,
-        "domain": signal.domain,
-        "title": signal.title,
-        "summary": signal.summary,
-        "why_it_matters": signal.why_it_matters,
+        "id": obj.id,
+        "object_key": obj.object_key,
+        "kind": obj.kind,
+        "version": obj.version,
+        "domain": obj.domain,
+        "title": obj.title,
+        "summary": obj.summary,
+        "confidence": obj.confidence,
         "score": score,
         "reasons": reasons,
-        "tags": signal.tags or [],
-        "metrics": record.metrics if record else {},
-        "source": {
-            "type": record.source_type if record else None,
-            "author": record.author if record else None,
-            "url": record.url if record else None,
-            "published_at": record.published_at.isoformat() if record and record.published_at else None,
-        },
-        "created_at": signal.created_at.isoformat(),
+        "tags": metadata.get("tags", []),
+        "metadata": metadata,
+        "created_at": obj.created_at.isoformat(),
+        "updated_at": obj.updated_at.isoformat() if obj.updated_at else None,
     }
 
 
 def get_ranked_feed(session: Session, feed: Feed, limit: int = 50) -> list[dict[str, Any]]:
     rows = session.scalars(
-        select(Signal)
-        .options(joinedload(Signal.record))
-        .order_by(Signal.created_at.desc())
+        select(Object)
+        .order_by(Object.created_at.desc())
         .limit(1000)
     ).all()
     scored: list[dict[str, Any]] = []
-    for signal in rows:
-        score, reasons = score_signal(signal, feed)
+    for obj in rows:
+        score, reasons = score_object(obj, feed)
         if score <= 0:
             continue
-        scored.append(serialize_signal(signal, score, reasons))
+        scored.append(serialize_object(obj, score, reasons))
+    scored.sort(key=lambda x: (x["score"], x["created_at"]), reverse=True)
+    return scored[:limit]
+
+
+def get_delta_feed(session: Session, feed: Feed, user_id: str, limit: int = 50) -> list[dict[str, Any]]:
+    """Delta feed: only objects that have changed since user last saw them.
+    This is the visionidea2 core primitive."""
+    from feedify.models import Interaction
+
+    # Get user's last-seen versions
+    last_seen: dict[int, int] = {}
+    interactions = session.scalars(
+        select(Interaction).where(
+            Interaction.user_id == user_id,
+            Interaction.feed_id == feed.id,
+            Interaction.action.in_(["seen", "DONE"]),
+        )
+    ).all()
+    for interaction in interactions:
+        last_seen[interaction.object_id] = max(
+            last_seen.get(interaction.object_id, 0),
+            interaction.object_version,
+        )
+
+    # Get all objects, score them
+    rows = session.scalars(
+        select(Object).order_by(Object.updated_at.desc()).limit(2000)
+    ).all()
+
+    scored: list[dict[str, Any]] = []
+    for obj in rows:
+        score, reasons = score_object(obj, feed)
+        if score <= 0:
+            continue
+
+        # Delta: if user has seen this version, suppress unless confidence changed materially
+        if obj.id in last_seen:
+            seen_version = last_seen[obj.id]
+            if obj.version <= seen_version:
+                # User already saw this version — check if confidence changed materially
+                prev_interactions = [
+                    i for i in interactions
+                    if i.object_id == obj.id and i.object_version == seen_version
+                ]
+                if prev_interactions:
+                    continue  # Skip — no material change
+
+        entry = serialize_object(obj, score, reasons)
+
+        # Add delta context
+        if obj.id in last_seen:
+            entry["delta"] = f"Updated since you last saw version {last_seen[obj.id]}"
+            reasons.append("updated")
+
+        scored.append(entry)
+
     scored.sort(key=lambda x: (x["score"], x["created_at"]), reverse=True)
     return scored[:limit]
 
@@ -70,6 +122,7 @@ def feed_to_dict(session: Session, feed: Feed, limit: int = 50) -> dict[str, Any
             "description": feed.description,
             "prompt": feed.prompt,
             "icon": feed.icon,
+            "version": feed.version,
             "weights": feed.weights,
             "filters": feed.filters,
         },
@@ -82,8 +135,8 @@ def feed_to_rss(session: Session, feed: Feed, base_url: str, limit: int = 50) ->
     data = get_ranked_feed(session, feed, limit)
     items = []
     for item in data:
-        link = item["source"].get("url") or f"{base_url}/f/{feed.slug}"
-        desc = html.escape(f"{item['summary']}\n\nWhy it matters: {item['why_it_matters']}\nScore: {item['score']:.2f}")
+        link = f"{base_url}/f/{feed.slug}"
+        desc = html.escape(f"{item['summary']}\nScore: {item['score']:.2f}")
         items.append(
             f"<item><title>{html.escape(item['title'])}</title><link>{html.escape(link)}</link>"
             f"<guid isPermaLink=\"false\">feedify:{item['id']}</guid><description>{desc}</description>"

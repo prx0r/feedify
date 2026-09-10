@@ -1,0 +1,634 @@
+{
+  "handle": "xxlong0",
+  "total_tweets": 33,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2081384984376414633",
+      "title": "Humanoid plays basketball in real world.\nDemo from lab undergraduate Yubin Guo. https://t.co/hW4Tg8qa0I",
+      "body": "Humanoid plays basketball in real world.\nDemo from lab undergraduate Yubin Guo. https://t.co/hW4Tg8qa0I",
+      "url": "https://x.com/xxlong0/status/2081384984376414633",
+      "author": "1722059221234319360",
+      "published_at": "2026-07-26T14:23:45",
+      "observed_at": "2026-09-10T03:54:58.145722",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 6,
+        "views": 650,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2042960150554890544",
+      "title": "Video2Humanoid. Still trouble with bad retargeted humanoid motions?\n\nHumanoids now are Easy to track any video using our new Neural Motion Retargeting (NMR) Met",
+      "body": "Video2Humanoid. Still trouble with bad retargeted humanoid motions?\n\nHumanoids now are Easy to track any video using our new Neural Motion Retargeting (NMR) Method.\n\nOptimization-based motion retargeting methods like IK and GMR are solving a non-convex problem frame by frame, which makes them sensitive to initialization, hard to tune, and prone to poor local minima. The result is familiar: joint discontinuities, self-collisions, and unstable foot contact.\n\nOur solution is simple but effective : instead of optimizing each frame independently, learn the mapping between human motion and robot motion as a distribution via networks.\n\n\ud83d\udccaResults on Unitree G1\n- 0 joint jumps\n- 54% fewer self-collision frames\n- 61% fewer joint limit violations\n- Faster convergence for downstream control policy training\n\nNMR turns motion retargeting from a fragile optimization problem into a learned, scalable pipeline for more stable humanoid motion.\n\nplease visit https://t.co/mtyhgnT56Q for more visualization results.\nopensource: https://t.co/H01K7mFMQT",
+      "url": "https://x.com/xxlong0/status/2042960150554890544",
+      "author": "1722059221234319360",
+      "published_at": "2026-04-11T13:37:10",
+      "observed_at": "2026-09-10T03:54:58.147197",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 261,
+        "views": 24240,
+        "reposts": 51,
+        "replies": 6,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1950810015817744795",
+      "title": "Excited to share our PDT: Point Distribution Transformation with Diffusion Models (SIGGRAPH2025)!",
+      "body": "Excited to share our PDT: Point Distribution Transformation with Diffusion Models (SIGGRAPH2025)!",
+      "url": "https://x.com/xxlong0/status/1950810015817744795",
+      "author": "1722059221234319360",
+      "published_at": "2025-07-31T06:45:26",
+      "observed_at": "2026-09-10T03:54:58.150016",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 3,
+        "views": 709,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1882238959331467323",
+      "title": "Special submission experience.\nA co-authored ICLR submitted paper was rejected with all positve final reviews. Reviewers agreed main concernings were solved and",
+      "body": "Special submission experience.\nA co-authored ICLR submitted paper was rejected with all positve final reviews. Reviewers agreed main concernings were solved and raised scores after rebuttal, but AC still rejected it.",
+      "url": "https://x.com/xxlong0/status/1882238959331467323",
+      "author": "1722059221234319360",
+      "published_at": "2025-01-23T01:28:32",
+      "observed_at": "2026-09-10T03:54:58.151443",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 7,
+        "views": 1808,
+        "reposts": 2,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1877316734396350764",
+      "title": "Excited to share our work DrivingWorld, a GPT-style Autoregressive (AR) video world model for autonomous driving. \n\nRather than simply employ the next-token-pre",
+      "body": "Excited to share our work DrivingWorld, a GPT-style Autoregressive (AR) video world model for autonomous driving. \n\nRather than simply employ the next-token-prediction strategy, we leverage next-frame-prediction to model temporally coherent frame-wise information and then use next-token-prediction to interpolate the content of each frame. As a result, our model achieves accurate future prediction (up to 40 seconds) based on the inputted vehicle's locations (left subfig of the video) and a few conditioned images (non-red contourred frames at the beginning). \n\nCodes and more demos can be found at https://t.co/cnvMVoXi2M",
+      "url": "https://x.com/xxlong0/status/1877316734396350764",
+      "author": "1722059221234319360",
+      "published_at": "2025-01-09T11:29:22",
+      "observed_at": "2026-09-10T03:54:58.152546",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 125,
+        "views": 9644,
+        "reposts": 19,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1876914206957588714",
+      "title": "Cool Work. Use 3D tracking points to control video generation.",
+      "body": "Cool Work. Use 3D tracking points to control video generation.",
+      "url": "https://x.com/xxlong0/status/1876914206957588714",
+      "author": "1722059221234319360",
+      "published_at": "2025-01-08T08:49:52",
+      "observed_at": "2026-09-10T03:54:58.154822",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 60,
+        "views": 12434,
+        "reposts": 5,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1871150738443059577",
+      "title": "Cool work!",
+      "body": "Cool work!",
+      "url": "https://x.com/xxlong0/status/1871150738443059577",
+      "author": "1722059221234319360",
+      "published_at": "2024-12-23T11:07:55",
+      "observed_at": "2026-09-10T03:54:58.157790",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 18,
+        "views": 2128,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1854394578042053105",
+      "title": "Very smart idea! Congrats to @Lyxun2000 . Rather than heavy 3D triplane transformer arch, a pure 2D diffusion-based model for generative gaussian splatting. Hig",
+      "body": "Very smart idea! Congrats to @Lyxun2000 . Rather than heavy 3D triplane transformer arch, a pure 2D diffusion-based model for generative gaussian splatting. High-quality and efficient!",
+      "url": "https://x.com/xxlong0/status/1854394578042053105",
+      "author": "1722059221234319360",
+      "published_at": "2024-11-07T05:24:55",
+      "observed_at": "2026-09-10T03:54:58.158869",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 14,
+        "views": 1476,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1839132724499722292",
+      "title": "Congrats to Linhan for his first NeurIPS paper. \nDC-Gaussian could reconstruct high-quality 3D Gaussain Splatting via shitty cameras shooting through windshield",
+      "body": "Congrats to Linhan for his first NeurIPS paper. \nDC-Gaussian could reconstruct high-quality 3D Gaussain Splatting via shitty cameras shooting through windshield (car dash cameras)\ud83d\ude00. \nCodes have been released. \nSee project page here: https://t.co/F6DMTOAg6q",
+      "url": "https://x.com/xxlong0/status/1839132724499722292",
+      "author": "1722059221234319360",
+      "published_at": "2024-09-26T02:39:45",
+      "observed_at": "2026-09-10T03:54:58.161276",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 94,
+        "views": 11320,
+        "reposts": 19,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1810320411525296471",
+      "title": "Our ECCV paper GeoWizard could produce high-quality depth and normal, yielding good 3D shapes.\n\nCheck out our page: https://t.co/GVhl8VPSSB https://t.co/Tdwz5PV",
+      "body": "Our ECCV paper GeoWizard could produce high-quality depth and normal, yielding good 3D shapes.\n\nCheck out our page: https://t.co/GVhl8VPSSB https://t.co/Tdwz5PVHgF",
+      "url": "https://x.com/xxlong0/status/1810320411525296471",
+      "author": "1722059221234319360",
+      "published_at": "2024-07-08T14:29:54",
+      "observed_at": "2026-09-10T03:54:58.164406",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 153,
+        "views": 21405,
+        "reposts": 25,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1807771212598456544",
+      "title": "Very excited to share that GeoWizard is just accepted to ECCV 2024.  Very appreaciate the efforts from every author, especially for Xiao Fu !",
+      "body": "Very excited to share that GeoWizard is just accepted to ECCV 2024.  Very appreaciate the efforts from every author, especially for Xiao Fu !",
+      "url": "https://x.com/xxlong0/status/1807771212598456544",
+      "author": "1722059221234319360",
+      "published_at": "2024-07-01T13:40:18",
+      "observed_at": "2026-09-10T03:54:58.168236",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 96,
+        "views": 9981,
+        "reposts": 12,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803842498504057318",
+      "title": "There are many great works of  3D vision in #CVPR2024.\n\nAn open question: what's the most inspiring or important work in your view?\n\nLeave your answer here.\ud83d\ude03\n\nI",
+      "body": "There are many great works of  3D vision in #CVPR2024.\n\nAn open question: what's the most inspiring or important work in your view?\n\nLeave your answer here.\ud83d\ude03\n\nI will count the votes when have enough answers.",
+      "url": "https://x.com/xxlong0/status/1803842498504057318",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-20T17:29:00",
+      "observed_at": "2026-09-10T03:54:58.171169",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 6,
+        "views": 1549,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803287974135865362",
+      "title": "Happy to see Metric3D v2 achieves the best accuracy in the depth benchmarks. Metric3D could automatically estimate focal length of your input image so that prod",
+      "body": "Happy to see Metric3D v2 achieves the best accuracy in the depth benchmarks. Metric3D could automatically estimate focal length of your input image so that produce depth aligning with the true scale in real world.",
+      "url": "https://x.com/xxlong0/status/1803287974135865362",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-19T04:45:31",
+      "observed_at": "2026-09-10T03:54:58.174508",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 19,
+        "views": 1814,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803264130763391391",
+      "title": "Metric3D V2. \nCurrently it's hard for researcher to gain attention without significant promotions.\n\nAnyway recently we notice significant advancements in monode",
+      "body": "Metric3D V2. \nCurrently it's hard for researcher to gain attention without significant promotions.\n\nAnyway recently we notice significant advancements in monodepth. However if you would like to obtain depth with true scale for slam or  reconstruction tasks. TRY METRIC3D V2. Super accurate depth with true scale.\n\nPage https://t.co/NaJhRgIJD7",
+      "url": "https://x.com/xxlong0/status/1803264130763391391",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-19T03:10:46",
+      "observed_at": "2026-09-10T03:54:58.177807",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 221,
+        "views": 23844,
+        "reposts": 37,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803110187898905015",
+      "title": "Extract accurate depth from your 3D gaussians! Fast, accurate, and easy to use.\n\nCode of RaDe-GS is released!\nproject page:https://t.co/6NxCxw0ykR\ncode:https://",
+      "body": "Extract accurate depth from your 3D gaussians! Fast, accurate, and easy to use.\n\nCode of RaDe-GS is released!\nproject page:https://t.co/6NxCxw0ykR\ncode:https://t.co/3EinZkt7PX\npaper:https://t.co/z38zSkfGKs\n\nNo need to change your 3D GS representations, we propose a play-and-plug rasterizer to extract accurate depth and normal from 3D gaussians, leading to the possibility of high-quality geometry reconstruction.\n\nIt's quite efficient and fast, achieving 0.69mm errors on DTU dataset in only 5 minutes.\nVery easy to adopt the rasterizer in your any 3dgs projects.",
+      "url": "https://x.com/xxlong0/status/1803110187898905015",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-18T16:59:03",
+      "observed_at": "2026-09-10T03:54:58.179759",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 412,
+        "views": 31317,
+        "reposts": 89,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1800519529346605364",
+      "title": "Motion generation. Very cool work. Congrats to @jiapeng_tang",
+      "body": "Motion generation. Very cool work. Congrats to @jiapeng_tang",
+      "url": "https://x.com/xxlong0/status/1800519529346605364",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-11T13:24:42",
+      "observed_at": "2026-09-10T03:54:58.181935",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 13,
+        "views": 1112,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1800351628283060602",
+      "title": "Cool work! Congrats to Yufeng.",
+      "body": "Cool work! Congrats to Yufeng.",
+      "url": "https://x.com/xxlong0/status/1800351628283060602",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-11T02:17:31",
+      "observed_at": "2026-09-10T03:54:58.182866",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 7,
+        "views": 730,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1799065182649655783",
+      "title": "Congrats to @fangfu0830. Very interesting work, make static gaussians editable.",
+      "body": "Congrats to @fangfu0830. Very interesting work, make static gaussians editable.",
+      "url": "https://x.com/xxlong0/status/1799065182649655783",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-07T13:05:39",
+      "observed_at": "2026-09-10T03:54:58.183479",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 5,
+        "views": 671,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1797836556134490401",
+      "title": "I was SHOCKED that there are 393 papers in https://t.co/r0SN6fm0oG track of arxiv yesterday, but I am SCARED that there are 868 papers today.\ud83d\ude31 https://t.co/EJsx",
+      "body": "I was SHOCKED that there are 393 papers in https://t.co/r0SN6fm0oG track of arxiv yesterday, but I am SCARED that there are 868 papers today.\ud83d\ude31 https://t.co/EJsx7g23jY",
+      "url": "https://x.com/xxlong0/status/1797836556134490401",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-04T03:43:31",
+      "observed_at": "2026-09-10T03:54:58.184150",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 15,
+        "views": 4735,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1797540854170800503",
+      "title": "Cool project.",
+      "body": "Cool project.",
+      "url": "https://x.com/xxlong0/status/1797540854170800503",
+      "author": "1722059221234319360",
+      "published_at": "2024-06-03T08:08:30",
+      "observed_at": "2026-09-10T03:54:58.185512",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 5,
+        "views": 1262,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1796114511105298764",
+      "title": "Optimized for shitty cameras shooting through windshield. \nCodes have already been released at https://t.co/vPnTsrRLVT",
+      "body": "Optimized for shitty cameras shooting through windshield. \nCodes have already been released at https://t.co/vPnTsrRLVT",
+      "url": "https://x.com/xxlong0/status/1796114511105298764",
+      "author": "1722059221234319360",
+      "published_at": "2024-05-30T09:40:44",
+      "observed_at": "2026-09-10T03:54:58.186360",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 21,
+        "views": 4556,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1796103434996740114",
+      "title": "@Scobleizer Thanks for the exactly accurate description.\ud83d\ude01",
+      "body": "@Scobleizer Thanks for the exactly accurate description.\ud83d\ude01",
+      "url": "https://x.com/xxlong0/status/1796103434996740114",
+      "author": "1722059221234319360",
+      "published_at": "2024-05-30T08:56:43",
+      "observed_at": "2026-09-10T03:54:58.187004",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 85,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1795853806988644551",
+      "title": "@zhenjun_zhao Thanks bro. Could check video results at our page.  https://t.co/F6DMTOzIgS",
+      "body": "@zhenjun_zhao Thanks bro. Could check video results at our page.  https://t.co/F6DMTOzIgS",
+      "url": "https://x.com/xxlong0/status/1795853806988644551",
+      "author": "1722059221234319360",
+      "published_at": "2024-05-29T16:24:47",
+      "observed_at": "2026-09-10T03:54:58.187622",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 242,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1787443584243007788",
+      "title": "@PhongStormVN Our densification strategy should also work for dynamic scenes. But need to rebase on dynamic gaussian splatting method with some modifications.",
+      "body": "@PhongStormVN Our densification strategy should also work for dynamic scenes. But need to rebase on dynamic gaussian splatting method with some modifications.",
+      "url": "https://x.com/xxlong0/status/1787443584243007788",
+      "author": "1722059221234319360",
+      "published_at": "2024-05-06T11:25:34",
+      "observed_at": "2026-09-10T03:54:58.188270",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 414,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1782746820374143449",
+      "title": "@dreamingtulpa Open source? closed source.",
+      "body": "@dreamingtulpa Open source? closed source.",
+      "url": "https://x.com/xxlong0/status/1782746820374143449",
+      "author": "1722059221234319360",
+      "published_at": "2024-04-23T12:22:18",
+      "observed_at": "2026-09-10T03:54:58.188904",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 3,
+        "views": 330,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1772556895192223956",
+      "title": "@chrypnotoad @dingboard_ https://t.co/pXsg7984aY  Try our model geowizard https://t.co/Iklqh56wnv",
+      "body": "@chrypnotoad @dingboard_ https://t.co/pXsg7984aY  Try our model geowizard https://t.co/Iklqh56wnv",
+      "url": "https://x.com/xxlong0/status/1772556895192223956",
+      "author": "1722059221234319360",
+      "published_at": "2024-03-26T09:31:10",
+      "observed_at": "2026-09-10T03:54:58.189502",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 159,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1772246362668605532",
+      "title": "@RichViip Thanks for your smart question. Indeed current 3D generation models including wonder3d suffer from low quality due to low-resolution multi-images. We ",
+      "body": "@RichViip Thanks for your smart question. Indeed current 3D generation models including wonder3d suffer from low quality due to low-resolution multi-images. We hope geowizard could be integrated into full-object reconstruction works to achieve better results.",
+      "url": "https://x.com/xxlong0/status/1772246362668605532",
+      "author": "1722059221234319360",
+      "published_at": "2024-03-25T12:57:14",
+      "observed_at": "2026-09-10T03:54:58.190152",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 92,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1772230525195006259",
+      "title": "@imducmanh Generally the indoor type will work fine. If  you find the result is not satisfied, you could try another type",
+      "body": "@imducmanh Generally the indoor type will work fine. If  you find the result is not satisfied, you could try another type",
+      "url": "https://x.com/xxlong0/status/1772230525195006259",
+      "author": "1722059221234319360",
+      "published_at": "2024-03-25T11:54:18",
+      "observed_at": "2026-09-10T03:54:58.191530",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 366,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1772226399342121223",
+      "title": "https://t.co/janhLnGG1R",
+      "body": "https://t.co/janhLnGG1R",
+      "url": "https://x.com/xxlong0/status/1772226399342121223",
+      "author": "1722059221234319360",
+      "published_at": "2024-03-25T11:37:54",
+      "observed_at": "2026-09-10T03:54:58.192472",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 3,
+        "views": 1146,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1768566607545340244",
+      "title": "@janusch_patas Thanks for sharing our work!",
+      "body": "@janusch_patas Thanks for sharing our work!",
+      "url": "https://x.com/xxlong0/status/1768566607545340244",
+      "author": "1722059221234319360",
+      "published_at": "2024-03-15T09:15:12",
+      "observed_at": "2026-09-10T03:54:58.193101",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 2,
+        "views": 266,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1760885019512574254",
+      "title": "@_akhaliq Thanks for the post! The codes will come in days!",
+      "body": "@_akhaliq Thanks for the post! The codes will come in days!",
+      "url": "https://x.com/xxlong0/status/1760885019512574254",
+      "author": "1722059221234319360",
+      "published_at": "2024-02-23T04:31:18",
+      "observed_at": "2026-09-10T03:54:58.193705",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 1,
+        "views": 462,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1760594607774241067",
+      "title": "@janusch_patas Thanks for the post. You can find the paper and more results in our project webset: https://t.co/Fh4NGdaSJo . Codes will come soon.",
+      "body": "@janusch_patas Thanks for the post. You can find the paper and more results in our project webset: https://t.co/Fh4NGdaSJo . Codes will come soon.",
+      "url": "https://x.com/xxlong0/status/1760594607774241067",
+      "author": "1722059221234319360",
+      "published_at": "2024-02-22T09:17:19",
+      "observed_at": "2026-09-10T03:54:58.194303",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 6,
+        "views": 497,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1730572551221604765",
+      "title": "@janusch_patas Thanks for sharing our work! Codes have been released at https://t.co/ZqaN5fqh0T \nGaussianEditor could produce high quality relighting renderings",
+      "body": "@janusch_patas Thanks for sharing our work! Codes have been released at https://t.co/ZqaN5fqh0T \nGaussianEditor could produce high quality relighting renderings at real-time speed. https://t.co/VpRuaau0q0",
+      "url": "https://x.com/xxlong0/status/1730572551221604765",
+      "author": "1722059221234319360",
+      "published_at": "2023-12-01T13:00:23",
+      "observed_at": "2026-09-10T03:54:58.195727",
+      "metrics": {
+        "author_handle": "xxlong0",
+        "author_followers": 1240,
+        "likes": 24,
+        "views": 1924,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

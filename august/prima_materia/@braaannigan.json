@@ -1,0 +1,48 @@
+{
+  "handle": "braaannigan",
+  "total_tweets": 2,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2097315596094296338",
+      "title": "2022 PR message: Fixed bug in app\n\n2026 PR message: For a long time, I used to go to bed early...",
+      "body": "2022 PR message: Fixed bug in app\n\n2026 PR message: For a long time, I used to go to bed early...",
+      "url": "https://x.com/braaannigan/status/2097315596094296338",
+      "author": "2871259634",
+      "published_at": "2026-09-08T13:26:19",
+      "observed_at": "2026-09-10T04:07:02.513032",
+      "metrics": {
+        "author_handle": "braaannigan",
+        "author_followers": 1781,
+        "likes": 0,
+        "views": 107,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2085684901051765232",
+      "title": "Any place I try to book on @Airbnb now asks for a security deposit off the platform which obviously is a massive scam risk. Don't feel like I can trust many lis",
+      "body": "Any place I try to book on @Airbnb now asks for a security deposit off the platform which obviously is a massive scam risk. Don't feel like I can trust many listings on there now",
+      "url": "https://x.com/braaannigan/status/2085684901051765232",
+      "author": "2871259634",
+      "published_at": "2026-08-07T11:10:05",
+      "observed_at": "2026-09-10T03:28:23.232784",
+      "metrics": {
+        "author_handle": "braaannigan",
+        "author_name": "Liam Brannigan",
+        "author_followers": 1781,
+        "author_verified": false,
+        "likes": 4,
+        "views": 578,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false,
+        "reply_to_user": null
+      },
+      "is_august": true
+    }
+  ]
+}

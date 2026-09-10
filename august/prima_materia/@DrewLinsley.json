@@ -1,0 +1,387 @@
+{
+  "handle": "DrewLinsley",
+  "total_tweets": 20,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1954217010319032786",
+      "title": "@arimorcos @klindt_david @andrewgwils What do you think about tuning/layering objectives? Totally agree with you on data btw, but still playing around with how ",
+      "body": "@arimorcos @klindt_david @andrewgwils What do you think about tuning/layering objectives? Totally agree with you on data btw, but still playing around with how objectives interact (how do you systematize a search for objectives that shape agentic intelligence?)",
+      "url": "https://x.com/DrewLinsley/status/1954217010319032786",
+      "author": "27899371",
+      "published_at": "2025-08-09T16:23:37",
+      "observed_at": "2026-09-10T03:54:38.390081",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 2,
+        "views": 119,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1954191785304985626",
+      "title": "@klindt_david @andrewgwils @arimorcos Maybe the objectives and data are the biases...?",
+      "body": "@klindt_david @andrewgwils @arimorcos Maybe the objectives and data are the biases...?",
+      "url": "https://x.com/DrewLinsley/status/1954191785304985626",
+      "author": "27899371",
+      "published_at": "2025-08-09T14:43:23",
+      "observed_at": "2026-09-10T03:54:38.392196",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 3,
+        "views": 231,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1845856369120886971",
+      "title": "@gershbrain Local response normalization (LRN) in AlexNet comes to mind. Inspired by divisive normalization in V1. Also dropout. It could be argued ofc that bot",
+      "body": "@gershbrain Local response normalization (LRN) in AlexNet comes to mind. Inspired by divisive normalization in V1. Also dropout. It could be argued ofc that both would have been found through engineering (normalization + regularization are fundamental!), but I believe biology motivated both.",
+      "url": "https://x.com/DrewLinsley/status/1845856369120886971",
+      "author": "27899371",
+      "published_at": "2024-10-14T15:57:07",
+      "observed_at": "2026-09-10T03:54:38.393889",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 8,
+        "views": 531,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1836101315761709338",
+      "title": "@NateSilver538 I think there might be value in polling in this way! Asking which candidate voters would reject reduces undecideds. Here it's 6 vs 5pt lead for r",
+      "body": "@NateSilver538 I think there might be value in polling in this way! Asking which candidate voters would reject reduces undecideds. Here it's 6 vs 5pt lead for reject vs accept. Check out:\n\nhttps://t.co/06OSHswclc @ShenhavLab",
+      "url": "https://x.com/DrewLinsley/status/1836101315761709338",
+      "author": "27899371",
+      "published_at": "2024-09-17T17:54:01",
+      "observed_at": "2026-09-10T03:54:38.397534",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 2,
+        "views": 642,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1813236716938907906",
+      "title": "@recursus @noetik_ai Awesome work!",
+      "body": "@recursus @noetik_ai Awesome work!",
+      "url": "https://x.com/DrewLinsley/status/1813236716938907906",
+      "author": "27899371",
+      "published_at": "2024-07-16T15:38:16",
+      "observed_at": "2026-09-10T03:54:38.402157",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 2,
+        "views": 203,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1812842378471800897",
+      "title": "@anh_ng8 Do you think this is a matter of downsampling messing up the models (easily fixable) or an inability to count arbitrarily defined objects (crossings, e",
+      "body": "@anh_ng8 Do you think this is a matter of downsampling messing up the models (easily fixable) or an inability to count arbitrarily defined objects (crossings, etc; potentially a hard problem)? You're not saying this is a perceptual challenge for models, right?",
+      "url": "https://x.com/DrewLinsley/status/1812842378471800897",
+      "author": "27899371",
+      "published_at": "2024-07-15T13:31:18",
+      "observed_at": "2026-09-10T03:54:38.404253",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 2,
+        "views": 160,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803791708397699288",
+      "title": "@bradpwyble @tserre @s_ramach @CarneyInstitute @Brown_DSI @MoffittResearch @MoffittNews In other words, it is clear to me that training on large proportions of ",
+      "body": "@bradpwyble @tserre @s_ramach @CarneyInstitute @Brown_DSI @MoffittResearch @MoffittNews In other words, it is clear to me that training on large proportions of images on the internet with generic objective functions leads to generalist perceptual abilities.",
+      "url": "https://x.com/DrewLinsley/status/1803791708397699288",
+      "author": "27899371",
+      "published_at": "2024-06-20T14:07:10",
+      "observed_at": "2026-09-10T03:54:38.407713",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 3,
+        "views": 65,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803790717141053787",
+      "title": "@bradpwyble @tserre @s_ramach @CarneyInstitute @Brown_DSI @MoffittResearch @MoffittNews Thanks and I appreciate the convo. I used to be a believer in this claim",
+      "body": "@bradpwyble @tserre @s_ramach @CarneyInstitute @Brown_DSI @MoffittResearch @MoffittNews Thanks and I appreciate the convo. I used to be a believer in this claim, but I don't think it is true any longer. Robert Geirhos has been working on this for the past several years, and he's shown that improvements on ImageNet accuracy correlate with better OOD performance.",
+      "url": "https://x.com/DrewLinsley/status/1803790717141053787",
+      "author": "27899371",
+      "published_at": "2024-06-20T14:03:14",
+      "observed_at": "2026-09-10T03:54:38.411297",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 2,
+        "views": 62,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803619491495948627",
+      "title": "@StphTphsn1 Thanks for the link! I will cite in our revision",
+      "body": "@StphTphsn1 Thanks for the link! I will cite in our revision",
+      "url": "https://x.com/DrewLinsley/status/1803619491495948627",
+      "author": "27899371",
+      "published_at": "2024-06-20T02:42:51",
+      "observed_at": "2026-09-10T03:54:38.412776",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 1,
+        "views": 54,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537559152460122",
+      "title": "Work done with @tserre, @s_ramach, @CarneyInstitute, @Brown_DSI, @MoffittResearch, @MoffittNews\n\nSahar Shahamatdar,\u00a0Daryoush Saeed-Vafa, Peisen Zhou, and many o",
+      "body": "Work done with @tserre, @s_ramach, @CarneyInstitute, @Brown_DSI, @MoffittResearch, @MoffittNews\n\nSahar Shahamatdar,\u00a0Daryoush Saeed-Vafa, Peisen Zhou, and many others. Check out the papers to learn more!",
+      "url": "https://x.com/DrewLinsley/status/1803537559152460122",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:16",
+      "observed_at": "2026-09-10T03:54:38.413807",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 4,
+        "views": 388,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537552982594042",
+      "title": "Our findings in these papers imply two larger lessons:\n\n(1) New approaches are needed to train DNNs that can accurately model all of human vision.\n\n(2) Vision b",
+      "body": "Our findings in these papers imply two larger lessons:\n\n(1) New approaches are needed to train DNNs that can accurately model all of human vision.\n\n(2) Vision benchmarks are easily gamed. High task accuracy does not always mean that a model has learned a systematic strategy.",
+      "url": "https://x.com/DrewLinsley/status/1803537552982594042",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:15",
+      "observed_at": "2026-09-10T03:54:38.414901",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 6,
+        "views": 416,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537547165159609",
+      "title": "For example, the reported ability of DNNs to decode genetic mutations from cellular morphology would be a game-changer if true, but instead it appears to be the",
+      "body": "For example, the reported ability of DNNs to decode genetic mutations from cellular morphology would be a game-changer if true, but instead it appears to be the result of DNNs learning to subtype tumors. This strategy will never be accurate enough to replace standard panels. https://t.co/RxMOsii6xG",
+      "url": "https://x.com/DrewLinsley/status/1803537547165159609",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:14",
+      "observed_at": "2026-09-10T03:54:38.417564",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 4,
+        "views": 316,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537537421681031",
+      "title": "In that paper, we show that the progress of DNNs at automating histopathology must be examined more critically.",
+      "body": "In that paper, we show that the progress of DNNs at automating histopathology must be examined more critically.",
+      "url": "https://x.com/DrewLinsley/status/1803537537421681031",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:11",
+      "observed_at": "2026-09-10T03:54:38.420540",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 4,
+        "views": 308,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537532942217315",
+      "title": "We describe an entirely different challenge for DNNs in  Deceptive learning in histopathology.\n\nhttps://t.co/xywZrlDdFU",
+      "body": "We describe an entirely different challenge for DNNs in  Deceptive learning in histopathology.\n\nhttps://t.co/xywZrlDdFU",
+      "url": "https://x.com/DrewLinsley/status/1803537532942217315",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:10",
+      "observed_at": "2026-09-10T03:54:38.422476",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 4,
+        "views": 966,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537527707672613",
+      "title": "Solving VPT will be critical for developing the next generation of artificial agents that can help humans by anticipating their actions.",
+      "body": "Solving VPT will be critical for developing the next generation of artificial agents that can help humans by anticipating their actions.",
+      "url": "https://x.com/DrewLinsley/status/1803537527707672613",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:09",
+      "observed_at": "2026-09-10T03:54:38.423769",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 5,
+        "views": 304,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537522267738505",
+      "title": "This ability for Visual Perspective Taking develops over the first decade of life in humans, is used for navigating and socializing, and will be essential for b",
+      "body": "This ability for Visual Perspective Taking develops over the first decade of life in humans, is used for navigating and socializing, and will be essential for building artificial agents that can help humans by anticipating their actions. https://t.co/MLi8rREgUu",
+      "url": "https://x.com/DrewLinsley/status/1803537522267738505",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:08",
+      "observed_at": "2026-09-10T03:54:38.425119",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 7,
+        "views": 340,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537514449514812",
+      "title": "In our 3D-PC, we found that DNNs trained on internet data \u2014 including ChatGPT, Claude 3, and Gemini \u2014 struggle to say if an object is visible from another viewp",
+      "body": "In our 3D-PC, we found that DNNs trained on internet data \u2014 including ChatGPT, Claude 3, and Gemini \u2014 struggle to say if an object is visible from another viewpoint. \n\nhttps://t.co/2FR5dFUZr1",
+      "url": "https://x.com/DrewLinsley/status/1803537514449514812",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:06",
+      "observed_at": "2026-09-10T03:54:38.427937",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 6,
+        "views": 409,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537509332426837",
+      "title": "We discovered a new significant challenge for DNNs: the ability to reason about the 3D world and the perspectives of others.\n\nhttps://t.co/EchEQmO5Kc",
+      "body": "We discovered a new significant challenge for DNNs: the ability to reason about the 3D world and the perspectives of others.\n\nhttps://t.co/EchEQmO5Kc",
+      "url": "https://x.com/DrewLinsley/status/1803537509332426837",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:04",
+      "observed_at": "2026-09-10T03:54:38.431200",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 11,
+        "views": 651,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537504240554430",
+      "title": "Take this recent thread by @patrickmineault: https://t.co/h1ulJa9YwM where he asked for tasks that were challenging for DNNs but not humans. Except for a few sy",
+      "body": "Take this recent thread by @patrickmineault: https://t.co/h1ulJa9YwM where he asked for tasks that were challenging for DNNs but not humans. Except for a few synthetic tasks, DNNs seem to be able to do everything humans can.",
+      "url": "https://x.com/DrewLinsley/status/1803537504240554430",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:03",
+      "observed_at": "2026-09-10T03:54:38.434252",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 7,
+        "views": 1402,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803537499463287044",
+      "title": "Deep neural networks (DNNs) are the leading approach for artificial vision. They rival or beat humans on nearly every benchmark out there.\n\nIn fact, it's become",
+      "body": "Deep neural networks (DNNs) are the leading approach for artificial vision. They rival or beat humans on nearly every benchmark out there.\n\nIn fact, it's become nearly impossible to find tasks that are challenging for DNNs but not humans.",
+      "url": "https://x.com/DrewLinsley/status/1803537499463287044",
+      "author": "27899371",
+      "published_at": "2024-06-19T21:17:02",
+      "observed_at": "2026-09-10T03:54:38.437920",
+      "metrics": {
+        "author_handle": "DrewLinsley",
+        "author_followers": 879,
+        "likes": 7,
+        "views": 658,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

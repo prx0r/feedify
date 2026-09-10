@@ -1,0 +1,729 @@
+{
+  "handle": "tengyanAI",
+  "total_tweets": 38,
+  "august_tweets": 22,
+  "tweets": [
+    {
+      "id": "2097840634921169219",
+      "title": "been doing so many \u201cbake-offs\u201d a day with the different models, you\u2019d think i\u2019ve quit tech and opened a bakery",
+      "body": "been doing so many \u201cbake-offs\u201d a day with the different models, you\u2019d think i\u2019ve quit tech and opened a bakery",
+      "url": "https://x.com/tengyanAI/status/2097840634921169219",
+      "author": "1299523632868110338",
+      "published_at": "2026-09-10T00:12:38",
+      "observed_at": "2026-09-10T03:54:00.320466",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 4,
+        "views": 1397,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095495777036714246",
+      "title": "You can read our chokepoint newsletter on PCB drills here: https://t.co/CrkgjhDkoN",
+      "body": "You can read our chokepoint newsletter on PCB drills here: https://t.co/CrkgjhDkoN",
+      "url": "https://x.com/tengyanAI/status/2095495777036714246",
+      "author": "1299523632868110338",
+      "published_at": "2026-09-03T12:55:00",
+      "observed_at": "2026-09-10T03:54:00.321409",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 654,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095495776654999901",
+      "title": "the PCB market looks balanced, but the drill bits underneath it don\u2019t.\n\nAI server boards are thicker, harder and packed with smaller holes. each board burns thr",
+      "body": "the PCB market looks balanced, but the drill bits underneath it don\u2019t.\n\nAI server boards are thicker, harder and packed with smaller holes. each board burns through more tungsten-carbide tool life than the one before it.\n\nPCB volumes can grow normally while drill demand grows much faster.\n\nwe traced the hidden consumable beneath AI servers:",
+      "url": "https://x.com/tengyanAI/status/2095495776654999901",
+      "author": "1299523632868110338",
+      "published_at": "2026-09-03T12:55:00",
+      "observed_at": "2026-09-10T03:54:00.322115",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 20,
+        "views": 2738,
+        "reposts": 0,
+        "replies": 10,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095334272777568326",
+      "title": "Our AI infrastructure map moved in five places today. \nhere\u2019s what changed, and why it matters for investors:\n\n#1: The packaging center of gravity may be shifti",
+      "body": "Our AI infrastructure map moved in five places today. \nhere\u2019s what changed, and why it matters for investors:\n\n#1: The packaging center of gravity may be shifting.\n\nMorgan Stanley estimates Nvidia\u2019s share of TSMC CoWoS allocation falls from 53.4% to 45.6% in 2027, while AMD nearly doubles to 19.8%.\n\nGoogle also reportedly booked Intel packaging capacity for 3M+ TPUs rather than waiting in the TSMC queue.\n\nAdvanced packaging is becoming a more contested, multi-supplier market.\n\n#2: NAND crossed into critical.\n\nSamsung starts mass production from its new storage line in Q4, while expected price increases on the tape are now 35 to 40%.\n\nStorage has been the quiet part of this AI cycle. That may be changing quickly.\n\n#3: SK hynix has begun HBM4 mass shipments to Nvidia for its next platform.\n\nWe now have a live price test using Korean customs data that should resolve within 30 days:\n- Does HBM pricing accelerate through the generation transition? If not, the tightness story is weaker than consensus assumes.\n\n#4: Optical demand visibility keeps extending.\n\n$AAOI and Fabrinet are both describing longer order horizons, verified against their own transcripts.\n\nImportant distinction: a supplier saying \u201cwe expect\u201d is not the same as booked backlog. But the directional signal across the chain remains remarkably consistent.\n\n#5: The contrarian one: co-packaged optics eased from tight to balanced.\n\nEveryone watches for bottlenecks getting worse.\nBut loosening matters too. \n\nA constraint moving from scarce to available can change margins, bargaining power, capex timing and which suppliers actually capture the economics.\n\nIt gets far less attention than tightening.",
+      "url": "https://x.com/tengyanAI/status/2095334272777568326",
+      "author": "1299523632868110338",
+      "published_at": "2026-09-03T02:13:14",
+      "observed_at": "2026-09-10T03:54:00.322852",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 21,
+        "views": 3346,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094404617883070647",
+      "title": "https://t.co/8JPiQfWnCf",
+      "body": "https://t.co/8JPiQfWnCf",
+      "url": "https://x.com/tengyanAI/status/2094404617883070647",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-31T12:39:07",
+      "observed_at": "2026-09-10T03:54:00.324916",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 28,
+        "views": 3425,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093527828348477858",
+      "title": "full research, source trail and the signals we are tracking as this changes:\n\nhttps://t.co/3JnmJhioGE",
+      "body": "full research, source trail and the signals we are tracking as this changes:\n\nhttps://t.co/3JnmJhioGE",
+      "url": "https://x.com/tengyanAI/status/2093527828348477858",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-29T02:35:04",
+      "observed_at": "2026-09-10T03:54:00.326140",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 7,
+        "views": 1130,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093527826477785443",
+      "title": "cheap electricity that arrives years late is useless to an AI data center that needs power now!\n\na grid connection can take years. large gas turbines are booked",
+      "body": "cheap electricity that arrives years late is useless to an AI data center that needs power now!\n\na grid connection can take years. large gas turbines are booked years out. fuel cells can begin producing power in months.\n\n$BE just crossed $1.065B in quarterly revenue, up 165.5% yoy.\n\nthe AI power trade is becoming a time-to-power trade.",
+      "url": "https://x.com/tengyanAI/status/2093527826477785443",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-29T02:35:04",
+      "observed_at": "2026-09-10T03:54:00.327085",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 33,
+        "views": 5845,
+        "reposts": 0,
+        "replies": 12,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092074657201742025",
+      "title": "the relative strength of crypto (btc eth sol hype) vs equities (eg memory stocks) this month is quite telling.\n\nwonder how high we'll go - probably quite a bit\n",
+      "body": "the relative strength of crypto (btc eth sol hype) vs equities (eg memory stocks) this month is quite telling.\n\nwonder how high we'll go - probably quite a bit\n\ncapital flows are much more connected across sectors than most believe. you can almost see the hot ball of money rolling around\n\nand it will flow back into memory, networking etc later on as the relentless technical developments create new narratives",
+      "url": "https://x.com/tengyanAI/status/2092074657201742025",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-25T02:20:41",
+      "observed_at": "2026-09-10T03:54:00.328531",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 48,
+        "views": 3919,
+        "reposts": 2,
+        "replies": 15,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092036231119130691",
+      "title": "One of the stranger AI infrastructure trades right now:\n\nA component that costs fractions of a cent is becoming a meaningful bottleneck inside multimillion-doll",
+      "body": "One of the stranger AI infrastructure trades right now:\n\nA component that costs fractions of a cent is becoming a meaningful bottleneck inside multimillion-dollar AI racks.\n\nMLCC content rises from roughly $1,530 in GB300 to $4,320 in VR200.\n\nBut the investment case is not simply \"capacitors are scarce.\"\n\nMost MLCCs are not scarce.\n\nThe shortage sits in a narrow band of high-capacitance, low-inductance parts that can survive the voltage, thermal and power-delivery requirements of AI accelerators.\n\nThat creates a much more interesting question:\n\nWho actually captures the economics?\n\n1. Murata has the strongest strategic position.\n2. SEMCO is showing the clearest earnings conversion.\n3. Taiyo Yuden is arguably the cleanest directional exposure.\n\nSame bottleneck, three very different equity setups.\nThat is the part I think investors should focus on.\n\n(companies exposed to MLCC, from @tessara_ai)",
+      "url": "https://x.com/tengyanAI/status/2092036231119130691",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-24T23:48:00",
+      "observed_at": "2026-09-10T03:54:00.329692",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 19,
+        "views": 3670,
+        "reposts": 3,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2091873874182918422",
+      "title": "The MLCC market is split in two.\n\nCommodity capacitor pricing is still soft.\n\nBut the high-capacitance grades AI accelerators need are getting tighter:\n- Taiyo ",
+      "body": "The MLCC market is split in two.\n\nCommodity capacitor pricing is still soft.\n\nBut the high-capacitance grades AI accelerators need are getting tighter:\n- Taiyo Yuden capacitor book-to-bill: ~1.7x\n- Murata high-end utilization: ~95%\n- SEMCO raised prices 30%\n- MLCC content per rack: +182% from GB300 \u2192 VR200\n\nSo the headline MLCC data can actually make the AI bottleneck look less severe than it is.\n\nThe constraint is actually qualified high-end capacitance.\n\nThat distinction matters because this pattern is showing up repeatedly across the AI supply chain: aggregate capacity looks fine, while the exact specification AI needs is constrained.\n\nWe went to look at what is driving it, who captures the economics, and what would break the thesis..\n\n(chart from @tessara_ai)",
+      "url": "https://x.com/tengyanAI/status/2091873874182918422",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-24T13:02:51",
+      "observed_at": "2026-09-10T03:54:00.331554",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 13,
+        "views": 3453,
+        "reposts": 0,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089924927826940167",
+      "title": "been quiet here because we\u2019ve been heads down building hard at @tessara_ai. Very excited to start sharing more v soon.\n\nAlso: GPT-5.6 is seriously impressive. I",
+      "body": "been quiet here because we\u2019ve been heads down building hard at @tessara_ai. Very excited to start sharing more v soon.\n\nAlso: GPT-5.6 is seriously impressive. I\u2019ve been using it constantly as a thinking partner and have accepted that, on plenty of things even in my domain it is 10x smarter than me. Claude is more personable and friendly, but 5.6 has been extraordinary to work with. \n\nand using both together (eg 5.6 to review claude\u2019s work) has been a huge unlock\n\none thought I can\u2019t shake is that Anthropic is effectively sending millions of copies of Claude out into the world as their *digital employees*, doing useful work for ppl and bringing revenue back to Anthropic. \n\nthey\u2019re not selling subs or tokens but digital workers\n\nthis epitomises where humanity is heading in the next 5-10 years across every industry",
+      "url": "https://x.com/tengyanAI/status/2089924927826940167",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-19T03:58:26",
+      "observed_at": "2026-09-10T03:54:00.333527",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 33,
+        "views": 4035,
+        "reposts": 0,
+        "replies": 11,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087524256674619487",
+      "title": "Taiwan AI server exports keep climbing. the MoM dip here (-6.7%) is noise. $9.70B in a single month, 92th percentile of range, +63% YoY.\nif the AI build were sl",
+      "body": "Taiwan AI server exports keep climbing. the MoM dip here (-6.7%) is noise. $9.70B in a single month, 92th percentile of range, +63% YoY.\nif the AI build were slowing, Taiwan customs would say so first. it's not saying that. https://t.co/GPo2XanXXK",
+      "url": "https://x.com/tengyanAI/status/2087524256674619487",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-12T12:59:01",
+      "observed_at": "2026-09-10T03:54:00.335834",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 21,
+        "views": 2749,
+        "reposts": 5,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086267509540540764",
+      "title": "have we reached peak Google? \n\nDemis stepping away from DeepMind.\nJeff Dean leaving after 27 years.\nresearchers defecting to OpenAI and Anthropic.\n\npeople who b",
+      "body": "have we reached peak Google? \n\nDemis stepping away from DeepMind.\nJeff Dean leaving after 27 years.\nresearchers defecting to OpenAI and Anthropic.\n\npeople who built the machine are now leaving the machine - i'd pay attention. https://t.co/Wvr0tMKHhr",
+      "url": "https://x.com/tengyanAI/status/2086267509540540764",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-09T01:45:09",
+      "observed_at": "2026-09-10T03:54:00.336493",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 35,
+        "views": 4747,
+        "reposts": 4,
+        "replies": 21,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085573647427625393",
+      "title": "Quick retrospective: SanDisk\nWe weren\u2019t betting on revenue. Everyone already expected that.\n\nWe bet on margin.\n\nOur call: >81% non-GAAP gross margin with \nActua",
+      "body": "Quick retrospective: SanDisk\nWe weren\u2019t betting on revenue. Everyone already expected that.\n\nWe bet on margin.\n\nOur call: >81% non-GAAP gross margin with \nActual: 84.6%.\n\nNow the interesting part begins.\nQ1 FY27 is guided to 83-85%. That\u2019s the durability test. Today\u2019s beat is already history.",
+      "url": "https://x.com/tengyanAI/status/2085573647427625393",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-07T03:48:00",
+      "observed_at": "2026-09-10T03:54:00.337153",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 38,
+        "views": 7953,
+        "reposts": 1,
+        "replies": 6,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085553514554528205",
+      "title": "So $AAOI printed overnight. Revenue cleared. the guide was $180-198M. they printed about $192M.\n\ncan they keep building 800G / 1.6T capacity, month by month? se",
+      "body": "So $AAOI printed overnight. Revenue cleared. the guide was $180-198M. they printed about $192M.\n\ncan they keep building 800G / 1.6T capacity, month by month? seems so\n\nQ1: ~100k units/month\nQ2 target: capacity approaching 200k/month.\n\nYear-end: ~650k/month reiterated. Management still says demand exceeds capacity through mid-2027.\n\nso: the factory ramp is real.\nthe mix and margin still have to catch up.",
+      "url": "https://x.com/tengyanAI/status/2085553514554528205",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-07T02:28:00",
+      "observed_at": "2026-09-10T03:54:00.337831",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 69,
+        "views": 8569,
+        "reposts": 1,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085545686725173352",
+      "title": "Looking at SK Hynix\u2019s intraday chart.\nEvery night in the US session: buy.\nEvery morning in the Korea session: sell.\n\ndamn the memory crash has permanently traum",
+      "body": "Looking at SK Hynix\u2019s intraday chart.\nEvery night in the US session: buy.\nEvery morning in the Korea session: sell.\n\ndamn the memory crash has permanently traumatized Korean investors",
+      "url": "https://x.com/tengyanAI/status/2085545686725173352",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-07T01:56:53",
+      "observed_at": "2026-09-10T03:54:00.339253",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 91,
+        "views": 10224,
+        "reposts": 2,
+        "replies": 12,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085138631325622324",
+      "title": "for anyone who skipped the SanDisk print:\ndemand is so tight that SanDisk is prioritizing stable pricing over squeezing every dollar out of the cycle. customers",
+      "body": "for anyone who skipped the SanDisk print:\ndemand is so tight that SanDisk is prioritizing stable pricing over squeezing every dollar out of the cycle. customers are prepaying anyway.\n\ngross margin printed 84.6%.\n\nnext quarter is guided to 83-85% GM on roughly 18% more revenue. management\u2019s goal isn\u2019t to maximize this quarter. it\u2019s to smooth the cycle.\n\n\u201cmid-80s gross margin\u2026 is a fair return. We want to get this kind of boom and bust out of it.\u201d\n\nthree details many might miss:\n- customers prepaid $1.94B. contract liabilities went from $25M a year ago to $1.24B.\n\n- consumer revenue fell 32% QoQ while datacenter revenue doubled to $2.98B. quite logical to see this - when NAND is scarce, bits migrate to the highest-value customers.\n\n- headline GAAP EPS was $43.97, but included an $804M mark-to-market gain on equity investments. operating EPS was $39.25.",
+      "url": "https://x.com/tengyanAI/status/2085138631325622324",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-05T22:59:24",
+      "observed_at": "2026-09-10T03:54:00.340148",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 244,
+        "views": 43254,
+        "reposts": 17,
+        "replies": 17,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085055232296325591",
+      "title": "Our SanDisk Call:\n$SNDK reports in a few hours. The revenue beat is expected. Margin decides the print.\n\nStreet revenue consensus is $8.42B, already above manag",
+      "body": "Our SanDisk Call:\n$SNDK reports in a few hours. The revenue beat is expected. Margin decides the print.\n\nStreet revenue consensus is $8.42B, already above management\u2019s $7.75B - $8.25B guide.\n\nBut consensus EPS of $34.67 still appears to assume gross margin near 80%, around the midpoint of management\u2019s 79% to 81% range.\n\nThose assumptions do not sit comfortably together.\n\nThe Street has moved above management on revenue while remaining anchored to management on margin.\n\nOur view is that NAND pricing changed too quickly for the April 30 guide to capture, and gross margin is where that change should appear.\n\nOur call:\n- SanDisk fiscal Q4 non-GAAP gross margin above 81%, exceeding the top of management\u2019s guide.\n- Central case: approximately 84%.\n\nManagement already underestimated the cycle once.\n\nLast quarter, SanDisk guided gross margin to 65% to 67%.\n\nIt printed 78.4%.\n\nThat was more than 11 points above the top of its own range, driven by stronger pricing and a faster shift toward higher-value customers.\n\nWhen asked why the next guide still assumed more modest pricing improvement, management said it \u201cpays to be a bit conservative\u201d early in a fast-moving quarter.\n\nWe think it was conservative again.\n\nThe strongest evidence comes from Kioxia.\n\nKioxia jointly operates the same Japanese NAND manufacturing system as SanDisk and has already reported the same April-to-June period.\n\nIts blended selling prices rose approximately 70% sequentially.\n\nGross margin reached 80%.\n\nKioxia is not a direct margin comparison. Its mix, customers and accounting differ.\n\nBut it tells us something important:\n\nThe shared manufacturing system experienced far stronger pricing economics than SanDisk\u2019s guide implied.\n\nSK Hynix provided a second confirmation, reporting NAND pricing up in the mid-50% range despite the dampening effect of longer-term contracts.\n\nThe debate is therefore no longer whether NAND pricing improved.\n\nIt is how much of that repricing reached SanDisk\u2019s realised revenue and product mix during the quarter.\n\nHow we made our call: \n\nWe hold the prior cost structure broadly constant and vary one input: how much of the observed NAND repricing appears in realised revenue and mix.\n\nWe do not assume full capture.\n\nConsumer and retail pricing resets more slowly than enterprise contracts. Inventory is recognised at historical cost. Realised pricing generally trails spot markets.\n\nEven limited capture gets gross margin above 81%.\n\nStronger, but still incomplete, capture points toward the mid-80s.\n\nThat is why 84% is our central case.\n\nThe earnings sensitivity is meaningful.\n\nUsing frozen Street revenue, share-count and tax assumptions, each gross-margin point is worth approximately $0.47 of EPS.\n\nConsensus EPS of $34.67 appears to sit near 80% margin.\n\nAt 84%, EPS moves to roughly $36.60, around 5% above consensus.\n\nThat is meaningful upside on the quarter\u2019s decisive variable, although it is not by itself a rerating thesis.\n\nWhat could make us wrong?\n\nThree things:\n\nSlower repricing in consumer and retail channels.\n\nInventory costs that have not yet caught up with current wafer economics.\n\nManufacturing or node-transition costs absorbing more of the pricing benefit than we expect.\n\nIf gross margin prints at 81% or below, the call is wrong.\n\nIf it prints above 81%, management guided conservatively again, NAND pricing is reaching reported earnings faster than consensus expects, and fiscal 2027 estimates should move higher.\n\nBtw: I formed our call using Tessara's new research workspace (link in bio)\n\nEvery material claim links back to its original source, including the Kioxia print, SanDisk management commentary and the assumptions behind our margin bridge.\n\nYou can inspect the evidence, challenge the assumptions and build your own view rather than simply accept ours.",
+      "url": "https://x.com/tengyanAI/status/2085055232296325591",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-05T17:28:00",
+      "observed_at": "2026-09-10T03:54:00.341766",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 76,
+        "views": 77399,
+        "reposts": 7,
+        "replies": 14,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085039628466503954",
+      "title": "GlobalFoundries printed.\nI think some people totally missed that a mature-node foundry is guiding above 30% gross margin while the industry still talks about \u201cc",
+      "body": "GlobalFoundries printed.\nI think some people totally missed that a mature-node foundry is guiding above 30% gross margin while the industry still talks about \u201ccommodity capacity.\u201d\n\nQ2:\n- $1.786B revenue\n- 29.9% gross margin, above guide\n\nQ3:\n- $1.885B \u00b1 $25M\n- 30.5% \u00b1 100bps gross margin\n\nThat is the tell we wanted.\n\nThis is not a broad foundry recovery. \nIt is a scarcity story inside specific corridors: Vermont SiGe and silicon photonics capacity feeding optical connectivity.  $GFS",
+      "url": "https://x.com/tengyanAI/status/2085039628466503954",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-05T16:26:00",
+      "observed_at": "2026-09-10T03:54:00.344558",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 17,
+        "views": 3388,
+        "reposts": 3,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085022903033381007",
+      "title": "Can AI datacenter power silicon grow fast enough to matter before the automotive recovers?\n\nInfineon just answered \u201cyes.\u201d with its Q3 results today\n\nAI power is",
+      "body": "Can AI datacenter power silicon grow fast enough to matter before the automotive recovers?\n\nInfineon just answered \u201cyes.\u201d with its Q3 results today\n\nAI power is offsetting weakness in the company\u2019s largest legacy business. It\u2019s a new earnings engine.\n\n- \u20ac4.17B revenue\n- 19.1% segment result margin\n- FY >\u20ac16B intact",
+      "url": "https://x.com/tengyanAI/status/2085022903033381007",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-05T15:19:32",
+      "observed_at": "2026-09-10T03:54:00.347223",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 13,
+        "views": 2846,
+        "reposts": 1,
+        "replies": 9,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084819671120064932",
+      "title": "@elonmusk NVIDIA = best GPUs is the trailer. \nthe actual movie is getting from 2 GW this year to 10 GW by end of 2027...",
+      "body": "@elonmusk NVIDIA = best GPUs is the trailer. \nthe actual movie is getting from 2 GW this year to 10 GW by end of 2027...",
+      "url": "https://x.com/tengyanAI/status/2084819671120064932",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-05T01:51:58",
+      "observed_at": "2026-09-10T03:54:00.348836",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 3,
+        "views": 545,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084818684196032980",
+      "title": "@capybaraReborn if nebius is truly trying to push the building + GPU stack onto someone else's balance sheet, i wonder if they're seeing something that the rest",
+      "body": "@capybaraReborn if nebius is truly trying to push the building + GPU stack onto someone else's balance sheet, i wonder if they're seeing something that the rest of us are missing - i can see the argument",
+      "url": "https://x.com/tengyanAI/status/2084818684196032980",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-05T01:48:03",
+      "observed_at": "2026-09-10T03:54:00.349786",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 3,
+        "views": 256,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084689214764113952",
+      "title": "I keep our DRAM constraint read + falsifier here: https://t.co/uOXueSIzvt",
+      "body": "I keep our DRAM constraint read + falsifier here: https://t.co/uOXueSIzvt",
+      "url": "https://x.com/tengyanAI/status/2084689214764113952",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-04T17:13:35",
+      "observed_at": "2026-09-10T03:54:00.350507",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 3,
+        "views": 672,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084451502052262245",
+      "title": "@sidelined_cap are you watching ibiden too?",
+      "body": "@sidelined_cap are you watching ibiden too?",
+      "url": "https://x.com/tengyanAI/status/2084451502052262245",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-04T01:28:59",
+      "observed_at": "2026-09-10T03:54:00.351184",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 179,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083898123383095637",
+      "title": "the live board\nhttps://t.co/QwXkFHOBxm",
+      "body": "the live board\nhttps://t.co/QwXkFHOBxm",
+      "url": "https://x.com/tengyanAI/status/2083898123383095637",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-02T12:50:04",
+      "observed_at": "2026-09-10T03:54:00.351987",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 3,
+        "views": 840,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083728753029705956",
+      "title": "the live read\nhttps://t.co/TolSM7GoNn",
+      "body": "the live read\nhttps://t.co/TolSM7GoNn",
+      "url": "https://x.com/tengyanAI/status/2083728753029705956",
+      "author": "1299523632868110338",
+      "published_at": "2026-08-02T01:37:03",
+      "observed_at": "2026-09-10T03:54:00.352645",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 4,
+        "views": 1133,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2082426296223862853",
+      "title": "@useTria love seeing teams that give back to their communities \ud83d\udc4f",
+      "body": "@useTria love seeing teams that give back to their communities \ud83d\udc4f",
+      "url": "https://x.com/tengyanAI/status/2082426296223862853",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T11:21:33",
+      "observed_at": "2026-09-10T03:54:00.353317",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 270,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082340324140319228",
+      "title": "@00lawd the cycle has smoothed for sure, with the long-term agreements (up to 5 yrs) reducing price volatility",
+      "body": "@00lawd the cycle has smoothed for sure, with the long-term agreements (up to 5 yrs) reducing price volatility",
+      "url": "https://x.com/tengyanAI/status/2082340324140319228",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T05:39:55",
+      "observed_at": "2026-09-10T03:54:00.354038",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 4,
+        "views": 2356,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082333183576826072",
+      "title": "@dissectmarkets 100% the demand for memory has not abated, in fact it is growing",
+      "body": "@dissectmarkets 100% the demand for memory has not abated, in fact it is growing",
+      "url": "https://x.com/tengyanAI/status/2082333183576826072",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T05:11:33",
+      "observed_at": "2026-09-10T03:54:00.354714",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 8,
+        "views": 2055,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082329310103548188",
+      "title": "@Tem_onchain its a market positioning reset imo - profit taking from funds and leverage wipeout, given how fast it ran up this year",
+      "body": "@Tem_onchain its a market positioning reset imo - profit taking from funds and leverage wipeout, given how fast it ran up this year",
+      "url": "https://x.com/tengyanAI/status/2082329310103548188",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T04:56:09",
+      "observed_at": "2026-09-10T03:54:00.355355",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 27,
+        "views": 3651,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082288056837841300",
+      "title": "Our company read on Advantest :\nhttps://t.co/ZnA6pLwmsY",
+      "body": "Our company read on Advantest :\nhttps://t.co/ZnA6pLwmsY",
+      "url": "https://x.com/tengyanAI/status/2082288056837841300",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T02:12:14",
+      "observed_at": "2026-09-10T03:54:00.356053",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 1098,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082270639294132542",
+      "title": "On LTAs (long term agreements):\n- LTAs completed with around 10 customers; more discussions ongoing.\n- Typical term is about 5 years.\n- Contracts include long-t",
+      "body": "On LTAs (long term agreements):\n- LTAs completed with around 10 customers; more discussions ongoing.\n- Typical term is about 5 years.\n- Contracts include long-term volume commitments and deposits.\n- Pricing varies by customer and product, with mechanisms designed to reduce short-term volatility.\n\nManagement expects them to strengthen earnings downside protection while preserving upside.\n\nCapex expansion will be phased against confirmed customer demand.  $SKHY",
+      "url": "https://x.com/tengyanAI/status/2082270639294132542",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T01:03:01",
+      "observed_at": "2026-09-10T03:54:00.356694",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 12,
+        "views": 1678,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082270208354586981",
+      "title": "SK Hynix live Q&A on Q2 DRAM ASP growth:\n\nBelow market expectations because of product mix (not pricing): \n- SK hynix manages the mix between HBM and convention",
+      "body": "SK Hynix live Q&A on Q2 DRAM ASP growth:\n\nBelow market expectations because of product mix (not pricing): \n- SK hynix manages the mix between HBM and conventional DRAM according to customer demand and its mid/long-term product strategy. \n- Shipments of certain high-value products were deferred from Q2 into the second half. \n- The resulting portfolio shift weighed on blended DRAM ASP.  \n\nMgmt expects stronger blended DRAM ASP in the second half because of: \n- The full ramp of HBM4 shipments. \n- Increased shipments of 1c DRAM.  \n- A higher contribution from value-added DRAM products.  \n- Higher overall shipment volumes + Continued improvement in product mix.  \n\nBit growth in the second half should exceed the level achieved in the first half.",
+      "url": "https://x.com/tengyanAI/status/2082270208354586981",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-29T01:01:19",
+      "observed_at": "2026-09-10T03:54:00.358155",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 35,
+        "views": 6487,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082142951313125418",
+      "title": "@LowCapsBigValue you think so? -20% seems v unlikely since 63T is still a strong showing and $SKHY price has corrected significantly",
+      "body": "@LowCapsBigValue you think so? -20% seems v unlikely since 63T is still a strong showing and $SKHY price has corrected significantly",
+      "url": "https://x.com/tengyanAI/status/2082142951313125418",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-28T16:35:38",
+      "observed_at": "2026-09-10T03:54:00.359973",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 457,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2081930403481575836",
+      "title": "Our pre-call read on Bloom Energy: https://t.co/UhBw99uXJG",
+      "body": "Our pre-call read on Bloom Energy: https://t.co/UhBw99uXJG",
+      "url": "https://x.com/tengyanAI/status/2081930403481575836",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-28T02:31:03",
+      "observed_at": "2026-09-10T03:54:00.361053",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 1240,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2081746190308430260",
+      "title": "Our AMKR pre-call read: https://t.co/icfAGCjHpX",
+      "body": "Our AMKR pre-call read: https://t.co/icfAGCjHpX",
+      "url": "https://x.com/tengyanAI/status/2081746190308430260",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-27T14:19:03",
+      "observed_at": "2026-09-10T03:54:00.361855",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 2,
+        "views": 953,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2080883559494275095",
+      "title": "@Colosteve2000 in a years time you\u2019re probably going to be very right",
+      "body": "@Colosteve2000 in a years time you\u2019re probably going to be very right",
+      "url": "https://x.com/tengyanAI/status/2080883559494275095",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-25T05:11:16",
+      "observed_at": "2026-09-10T03:54:00.362598",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 3,
+        "views": 250,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2080855348693639679",
+      "title": "@Colosteve2000 this AI buildout is a 6 sigma event in humanity\u2019s history. everyone who\u2019s modelling it is consistently projecting  too low",
+      "body": "@Colosteve2000 this AI buildout is a 6 sigma event in humanity\u2019s history. everyone who\u2019s modelling it is consistently projecting  too low",
+      "url": "https://x.com/tengyanAI/status/2080855348693639679",
+      "author": "1299523632868110338",
+      "published_at": "2026-07-25T03:19:10",
+      "observed_at": "2026-09-10T03:54:00.363261",
+      "metrics": {
+        "author_handle": "tengyanAI",
+        "author_followers": 49774,
+        "likes": 14,
+        "views": 980,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

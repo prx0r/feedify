@@ -1,0 +1,273 @@
+{
+  "handle": "skinniderlab",
+  "total_tweets": 14,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2077409831808336241",
+      "title": "We have updated our preprint with a benchmark of 17 methods for structural annotation of MS/MS spectra: https://t.co/xzOrlFFzdX",
+      "body": "We have updated our preprint with a benchmark of 17 methods for structural annotation of MS/MS spectra: https://t.co/xzOrlFFzdX",
+      "url": "https://x.com/skinniderlab/status/2077409831808336241",
+      "author": "1664821886889623552",
+      "published_at": "2026-07-15T15:07:54",
+      "observed_at": "2026-09-10T03:54:28.469875",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 3,
+        "views": 1196,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2052374194940162123",
+      "title": "We have identified what we believe to be a critical issue in the way that computational methods for structural annotation of small molecule MS/MS spectra have h",
+      "body": "We have identified what we believe to be a critical issue in the way that computational methods for structural annotation of small molecule MS/MS spectra have historically been evaluated. Fortunately, there is a solution: https://t.co/kSoUCLo8EG",
+      "url": "https://x.com/skinniderlab/status/2052374194940162123",
+      "author": "1664821886889623552",
+      "published_at": "2026-05-07T13:05:13",
+      "observed_at": "2026-09-10T03:54:28.473500",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 15,
+        "views": 4515,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2040078666160369931",
+      "title": "Very happy to share our latest efforts to map the mammalian metabolome, in which we combine large-scale in vivo isotope tracing with biochemical AI to discover ",
+      "body": "Very happy to share our latest efforts to map the mammalian metabolome, in which we combine large-scale in vivo isotope tracing with biochemical AI to discover several structurally unprecedented and biologically fascinating metabolites: https://t.co/cOSNQPGC0N",
+      "url": "https://x.com/skinniderlab/status/2040078666160369931",
+      "author": "1664821886889623552",
+      "published_at": "2026-04-03T14:47:11",
+      "observed_at": "2026-09-10T03:54:28.476620",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 37,
+        "views": 2859,
+        "reposts": 8,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1858967891930214426",
+      "title": "@Pdorrestein1 @cppsegfault I think there are also some differences in scope; eg our model inherently won't work for some of the natural products in the MSNoveli",
+      "body": "@Pdorrestein1 @cppsegfault I think there are also some differences in scope; eg our model inherently won't work for some of the natural products in the MSNovelist paper because of its focus on mammalian metabolites",
+      "url": "https://x.com/skinniderlab/status/1858967891930214426",
+      "author": "1664821886889623552",
+      "published_at": "2024-11-19T20:17:38",
+      "observed_at": "2026-09-10T03:54:28.480045",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 3,
+        "views": 155,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1858967081678762261",
+      "title": "@Pdorrestein1 thanks @Pdorrestein1 - beyond generating the library, scoring generated structures with the language model also proved critical. @cppsegfault did ",
+      "body": "@Pdorrestein1 thanks @Pdorrestein1 - beyond generating the library, scoring generated structures with the language model also proved critical. @cppsegfault did try to compare to MSNovelist, but unfortunately the code to train the models relies on an old SIRIUS API that's no longer supported",
+      "url": "https://x.com/skinniderlab/status/1858967081678762261",
+      "author": "1664821886889623552",
+      "published_at": "2024-11-19T20:14:24",
+      "observed_at": "2026-09-10T03:54:28.483072",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 3,
+        "views": 283,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1858898118265180455",
+      "title": "Thrilled to share our approach for language model-guided discovery of unknown mammalian metabolites: DeepMet. We\u2019ve now used this approach to discover ~50 new h",
+      "body": "Thrilled to share our approach for language model-guided discovery of unknown mammalian metabolites: DeepMet. We\u2019ve now used this approach to discover ~50 new human and mouse metabolites! https://t.co/ypzQYt2VLF",
+      "url": "https://x.com/skinniderlab/status/1858898118265180455",
+      "author": "1664821886889623552",
+      "published_at": "2024-11-19T15:40:22",
+      "observed_at": "2026-09-10T03:54:28.486225",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 106,
+        "views": 13790,
+        "reposts": 29,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1803791475831959573",
+      "title": "Very happy to see our work on mapping the 4D molecular pathobiology of spinal cord injury now in print:",
+      "body": "Very happy to see our work on mapping the 4D molecular pathobiology of spinal cord injury now in print:",
+      "url": "https://x.com/skinniderlab/status/1803791475831959573",
+      "author": "1664821886889623552",
+      "published_at": "2024-06-20T14:06:15",
+      "observed_at": "2026-09-10T03:54:28.489540",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 6,
+        "views": 644,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1801640451671527626",
+      "title": "Excited to share our approach to the biological interpretation of comparative spatial transcriptomics experiments - Vespucci @j_squair @gcourtine  https://t.co/",
+      "body": "Excited to share our approach to the biological interpretation of comparative spatial transcriptomics experiments - Vespucci @j_squair @gcourtine  https://t.co/cDxtHAGLW9",
+      "url": "https://x.com/skinniderlab/status/1801640451671527626",
+      "author": "1664821886889623552",
+      "published_at": "2024-06-14T15:38:51",
+      "observed_at": "2026-09-10T03:54:28.491396",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 6,
+        "views": 586,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1773687827919757717",
+      "title": "Very happy to share this work testing a widespread assumption in chemical AI and showing that invalid SMILES are a feature, not a bug: https://t.co/cLcYjE1uoX",
+      "body": "Very happy to share this work testing a widespread assumption in chemical AI and showing that invalid SMILES are a feature, not a bug: https://t.co/cLcYjE1uoX",
+      "url": "https://x.com/skinniderlab/status/1773687827919757717",
+      "author": "1664821886889623552",
+      "published_at": "2024-03-29T12:25:06",
+      "observed_at": "2026-09-10T03:54:28.494587",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 90,
+        "views": 11785,
+        "reposts": 16,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1765794256881693068",
+      "title": "We are advertising two postdoc positions at Princeton: one in computational mass spectrometry broadly defined, the second more specifically in AI/ML for illicit",
+      "body": "We are advertising two postdoc positions at Princeton: one in computational mass spectrometry broadly defined, the second more specifically in AI/ML for illicit drug identification. Please feel free to reach out with any questions:\nhttps://t.co/hT61wuA96P\nhttps://t.co/9Tb2GgjRGz",
+      "url": "https://x.com/skinniderlab/status/1765794256881693068",
+      "author": "1664821886889623552",
+      "published_at": "2024-03-07T17:38:52",
+      "observed_at": "2026-09-10T03:54:28.497369",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 3,
+        "views": 612,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1735677408555012296",
+      "title": "Very happy to share our latest work on harmonizing raw mass spectrometry data from &gt;21,000 proteomic experiments to enable meta-analyses of protein interacti",
+      "body": "Very happy to share our latest work on harmonizing raw mass spectrometry data from &gt;21,000 proteomic experiments to enable meta-analyses of protein interactions and phosphorylation at the largest scale yet: https://t.co/iZHp9NdSgA @lenjf",
+      "url": "https://x.com/skinniderlab/status/1735677408555012296",
+      "author": "1664821886889623552",
+      "published_at": "2023-12-15T15:05:16",
+      "observed_at": "2026-09-10T03:54:28.499851",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 24,
+        "views": 2155,
+        "reposts": 7,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1725554726790459427",
+      "title": "Excited to share our new work on detecting \u2018designer drugs\u2019 with (computational) mass spectrometry. We developed a platform to help toxicological labs make data",
+      "body": "Excited to share our new work on detecting \u2018designer drugs\u2019 with (computational) mass spectrometry. We developed a platform to help toxicological labs make data-driven decisions about what clinical tests to develop next: https://t.co/kqOIzhe97m",
+      "url": "https://x.com/skinniderlab/status/1725554726790459427",
+      "author": "1664821886889623552",
+      "published_at": "2023-11-17T16:41:20",
+      "observed_at": "2026-09-10T03:54:28.501889",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 15,
+        "views": 1532,
+        "reposts": 4,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1701251871632249229",
+      "title": "Very happy to have made a small contribution to this great review on AI/ML methods for natural products discovery @NatRevDrugDisc, led by @marnixmedema, @serina",
+      "body": "Very happy to have made a small contribution to this great review on AI/ML methods for natural products discovery @NatRevDrugDisc, led by @marnixmedema, @serina_robinson, Roger Linington, Anna Hirsch, and @GJPvWesten  \n\nhttps://t.co/6b1C3YPVLS",
+      "url": "https://x.com/skinniderlab/status/1701251871632249229",
+      "author": "1664821886889623552",
+      "published_at": "2023-09-11T15:10:28",
+      "observed_at": "2026-09-10T03:54:28.503743",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 18,
+        "views": 2422,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1673331297782050816",
+      "title": "So excited to finally share this work - our four single-cell and spatial atlases of the injured spinal cord \ud83d\udcda 1/3",
+      "body": "So excited to finally share this work - our four single-cell and spatial atlases of the injured spinal cord \ud83d\udcda 1/3",
+      "url": "https://x.com/skinniderlab/status/1673331297782050816",
+      "author": "1664821886889623552",
+      "published_at": "2023-06-26T14:04:05",
+      "observed_at": "2026-09-10T03:54:28.505484",
+      "metrics": {
+        "author_handle": "skinniderlab",
+        "author_followers": 343,
+        "likes": 3,
+        "views": 541,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

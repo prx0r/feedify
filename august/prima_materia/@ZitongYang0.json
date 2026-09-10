@@ -1,0 +1,634 @@
+{
+  "handle": "ZitongYang0",
+  "total_tweets": 33,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2078024190708666848",
+      "title": "So impressive",
+      "body": "So impressive",
+      "url": "https://x.com/ZitongYang0/status/2078024190708666848",
+      "author": "1063135984399740928",
+      "published_at": "2026-07-17T07:49:09",
+      "observed_at": "2026-09-10T03:56:08.568965",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 16,
+        "views": 1084,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2073809316080136561",
+      "title": "I am attending @icmlconf in Seoul presenting our paper about Automated AI Researcher at Hall A #1304 from 2:30PM to 4:15PM on Thursday, July 9th, 2026. We deplo",
+      "body": "I am attending @icmlconf in Seoul presenting our paper about Automated AI Researcher at Hall A #1304 from 2:30PM to 4:15PM on Thursday, July 9th, 2026. We deploy automated AI researcher in two \"LM research environments\": pretraining on nanoGPT and post-training with GSM8K GRPO as 1) an evaluation benchmark; 2) a test-time search environment; 3) test-time training environment for RL.\n\nIt's surreal that nanoGPT become such a viral playground for Automated AI Researcher thanks to the great AutoResearch work later on. When @ChengleiSi first proposed to me this idea of using nanoGPT as an environment for AI to do research, it took me quite a while to absorb: because back then in my mind nanoGPT is intended to be an educational pretraining codebase. In hindsight, there are several interesting design we made differently from AutoResearch (https://t.co/978VB4Sheb):\n* First, we introduce a batch size in both test-time search and RL. Instead of having a single Claude agent iteratively hillclimb in a /loop fashion, we design a fan-out pattern where multiple agents try out the environment with different ideas, then aggregate the resulting experiment together, and continue iteratively.\n* Second, we decompose the Automated AI Researcher as a  two-agent system with an ideator agent and an implementor agent (much like how human authors sometimes divide the work!). When doing reserach, the ideator agent would generate an natural language description of the research idea with a rough sketch of code change, then executor agent implements them it in the codebase. Retrospectively, this two-agent system disentangles the \"research taste\" component of coming up with good ideas, and the \"engineering capability\" component of raw code implementation.\n\nI really enjoyed working on this paper. In my PhD thesis, I abstract this design as a \"research environment\" abstraction (https://t.co/ycvy966ioq) that summarizes the core context needed for AI to do research. In the future, it's possible that the AI will be doing the hill climbing for us and the role of human is to find the mountain to climb! Attached is our group's WandB dashboard, it always amuses us how AI can run such an unreasonably amount of experiments :)",
+      "url": "https://x.com/ZitongYang0/status/2073809316080136561",
+      "author": "1063135984399740928",
+      "published_at": "2026-07-05T16:40:45",
+      "observed_at": "2026-09-10T03:56:08.570792",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 48,
+        "views": 5221,
+        "reposts": 6,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064478554373652735",
+      "title": "\ud83d\udc10",
+      "body": "\ud83d\udc10",
+      "url": "https://x.com/ZitongYang0/status/2064478554373652735",
+      "author": "1063135984399740928",
+      "published_at": "2026-06-09T22:43:38",
+      "observed_at": "2026-09-10T03:56:08.577642",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 41,
+        "views": 19098,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062966050803925237",
+      "title": "My first introduction to probability theory came from Bertsekas textbook. After I later absorbed the measure theoretic formalism of the subject, I still find my",
+      "body": "My first introduction to probability theory came from Bertsekas textbook. After I later absorbed the measure theoretic formalism of the subject, I still find myself occasionally revisiting the book for practical computation techniques. Later, when I worked as a quant researcher in finance, I learned the theory of model predictive control from his book \u201cDynamic programming and stochastic controls\u201d. The idea of open loop feedback control motives me to write the paper https://t.co/VFLfVaCO1k where we formulate multi-step time series forecasting as a model predictive control problem.\n\nThese days, the RL in the LLM context feels more like contextual bandit with policy gradient methods. For example, the usual notation in this context is pi(x|y). There is also rich control theoretic formulation of RL with known dynamics or joint estimation of the dynamics that I have learned from Bertsekas textbook.\n\nBoth books are still on my desk side bookshelf. I often find Bertsekas is able to design a notation system that\u2019s optimized for understanding and calculation. He introduces many meaningful intermediate abstractions that end up being more tractable objects to reason about. Rest in peace, Professor Bertsekas!",
+      "url": "https://x.com/ZitongYang0/status/2062966050803925237",
+      "author": "1063135984399740928",
+      "published_at": "2026-06-05T18:33:29",
+      "observed_at": "2026-09-10T03:56:08.581346",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 602,
+        "views": 36778,
+        "reposts": 56,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2059821689844977988",
+      "title": "Honored to be advised by @EmmanuelCandes in the past few years\ud83c\udfc5 A slide from my defense quoting one piece of advice from Emmanuel that I find particularly usefu",
+      "body": "Honored to be advised by @EmmanuelCandes in the past few years\ud83c\udfc5 A slide from my defense quoting one piece of advice from Emmanuel that I find particularly useful https://t.co/aJ9XKFMgQs",
+      "url": "https://x.com/ZitongYang0/status/2059821689844977988",
+      "author": "1063135984399740928",
+      "published_at": "2026-05-28T02:18:55",
+      "observed_at": "2026-09-10T03:56:08.584702",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 47,
+        "views": 8817,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032653423955607999",
+      "title": "@miramurati @tyler_griggs_ Thanks Mira!",
+      "body": "@miramurati @tyler_griggs_ Thanks Mira!",
+      "url": "https://x.com/ZitongYang0/status/2032653423955607999",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-14T03:01:55",
+      "observed_at": "2026-09-10T03:56:08.587101",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 2,
+        "views": 393,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032647069895372904",
+      "title": "@lilianweng @tyler_griggs_ Thanks Lilian!",
+      "body": "@lilianweng @tyler_griggs_ Thanks Lilian!",
+      "url": "https://x.com/ZitongYang0/status/2032647069895372904",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-14T02:36:40",
+      "observed_at": "2026-09-10T03:56:08.588506",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 425,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032283896004690199",
+      "title": "This is only possible with @tyler_griggs_'s tool use library https://t.co/QAQSFnLc7E I am unfortunately late to the party, but I only recently realized how much",
+      "body": "This is only possible with @tyler_griggs_'s tool use library https://t.co/QAQSFnLc7E I am unfortunately late to the party, but I only recently realized how much of a paradigm shift multi-turn+tool-use is.\n\nI even wonder if it makes sense to rewrite the entire pretraining corpus into an agentic trajectory? This solves two problems: (1) removing the gap between pretraining and test distribution; (2) agentic turn change can function as a natural \"glue\" that puts related internet documents together in context -- agent browsing one document at turn 7 influences its action/generation at turn 107 -- encoding the internet in a natural long-context format. \n\nAlso, a great time to share that I have joined @thinkymachines. Thanks @miramurati for teaching me the value of focus, @lilianweng for instilling in me the power of responsibility, and @johnschulman2 for showing me by example the free spirit of scientific exploration!\n\nWe are hiring https://t.co/jvQNGpLkae",
+      "url": "https://x.com/ZitongYang0/status/2032283896004690199",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-13T02:33:33",
+      "observed_at": "2026-09-10T03:56:08.589651",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 116,
+        "views": 32575,
+        "reposts": 7,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2029401570262303099",
+      "title": "@YiMaTweets \u611f\u8c22\u9a6c\u8001\u5e08\u591a\u5e74\u6307\u5bfc\ud83d\ude4f",
+      "body": "@YiMaTweets \u611f\u8c22\u9a6c\u8001\u5e08\u591a\u5e74\u6307\u5bfc\ud83d\ude4f",
+      "url": "https://x.com/ZitongYang0/status/2029401570262303099",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-05T03:40:13",
+      "observed_at": "2026-09-10T03:56:08.592265",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 2,
+        "views": 168,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2029085593628819831",
+      "title": "@miramurati @EmmanuelCandes @tatsu_hashimoto @percyliang @ruomingpang Thanks Mira!",
+      "body": "@miramurati @EmmanuelCandes @tatsu_hashimoto @percyliang @ruomingpang Thanks Mira!",
+      "url": "https://x.com/ZitongYang0/status/2029085593628819831",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-04T06:44:38",
+      "observed_at": "2026-09-10T03:56:08.593701",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 1,
+        "views": 1499,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2029035151280488867",
+      "title": "@amspector100 @EmmanuelCandes @tatsu_hashimoto @percyliang @ruomingpang Thanks Asher!",
+      "body": "@amspector100 @EmmanuelCandes @tatsu_hashimoto @percyliang @ruomingpang Thanks Asher!",
+      "url": "https://x.com/ZitongYang0/status/2029035151280488867",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-04T03:24:12",
+      "observed_at": "2026-09-10T03:56:08.594469",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 853,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2029034067992437139",
+      "title": "Today I defended my Ph.D. thesis at Stanford: Continually self-improving AI. Sincere thanks to my committee @EmmanuelCandes @tatsu_hashimoto @percyliang @ruomin",
+      "body": "Today I defended my Ph.D. thesis at Stanford: Continually self-improving AI. Sincere thanks to my committee @EmmanuelCandes @tatsu_hashimoto @percyliang @ruomingpang for the mentorship over the years and to Stephen Boyd for chairing my defense. \n\nChecout the recording (https://t.co/Xq2HC31diU) and slides (https://t.co/WmMGKTwbkI)!",
+      "url": "https://x.com/ZitongYang0/status/2029034067992437139",
+      "author": "1063135984399740928",
+      "published_at": "2026-03-04T03:19:54",
+      "observed_at": "2026-09-10T03:56:08.595147",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 534,
+        "views": 70787,
+        "reposts": 23,
+        "replies": 32,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2014473143302422667",
+      "title": "We believe AI research is a special research area AI itself can deliver significant progress. Ronald Fisher laid out the foundation for scientific methods: gene",
+      "body": "We believe AI research is a special research area AI itself can deliver significant progress. Ronald Fisher laid out the foundation for scientific methods: generating hypothesis (research ideas) and see if you can falsify the hypothesis (execution). Therefore, execution and experiments forms the basis of scientific progress. For mathematics, execution is somewhat special, the chain-of-thoughts of the AI models implicitly carries this through, which explains many progresses in math we are seeing.\n\nFor AI research, execution is purely in code, which AI is extremely at. Idea generation is in natural language, which AI can also do, although not calibrated right now. So, the natural design is to hook up \"AI AI idea generator\" and \"AI AI experiment executor\" together end-to-end. This is the future paradigm we propose.\n\nWe studied two realistic environments: nanoGPT speed run initiated by @kellerjordan0 @karpathy, and GRPO math reasoning homework built by Stanford CS336 @stanfordnlp. These two \"research environments\" cover the salient and realistic research topics: LLM pretraining and LLM posttraining. For GRPO post-training, the algorithm discovered by AI (see details in the paper!) outperforms the highest scoring student solution (https://t.co/63T3F5tPEh). For nanoGPT, human expert are too good to compete yet, but AI does reduce the time-to-loss=3.28 from 35min to 19min (as a reference, human expert is 2min..)\n\nThe advantage of AI over human is very simple: AI is tireless. Over the past few month, our wandb log tells us that our AI researcher tries more than 50K research ideas and iteratively learn from the logs of previous experiments. Humans are, of course, more insightful, but simply can't try so many research ideas.\n\nUnfortunately, we didn't close the loop where we apply the posttraining algorithm discovered by AI to obtain a stronger model and deploy that model to improve itself even further. This should just be the beginning of execution-grounded automated AI research. Self-improvement (AI inventing better algorithms to train itself) can be an objective for AI on its own. This is an intrinsically motivated goal for AI.\n\nThis is my last project from Stanford. Deeply grateful to @ChengleiSi for pushing it together and to @saurabhsgupta for funding us.",
+      "url": "https://x.com/ZitongYang0/status/2014473143302422667",
+      "author": "1063135984399740928",
+      "published_at": "2026-01-22T22:59:59",
+      "observed_at": "2026-09-10T03:56:08.596574",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 95,
+        "views": 18027,
+        "reposts": 12,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2001329683611406608",
+      "title": "25 years of Stanford NLP: symbolic -&gt; statistical -&gt; neural networks",
+      "body": "25 years of Stanford NLP: symbolic -&gt; statistical -&gt; neural networks",
+      "url": "https://x.com/ZitongYang0/status/2001329683611406608",
+      "author": "1063135984399740928",
+      "published_at": "2025-12-17T16:32:34",
+      "observed_at": "2026-09-10T03:56:08.598361",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 12,
+        "views": 5196,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2000810830296965362",
+      "title": "@soldni @ruomingpang @cw_aabc @EmmanuelCandes @tatsu_hashimoto @HongLiu9903 @Aonan12 Thanks! Coincidentally, we happened to update the paper with stronger resul",
+      "body": "@soldni @ruomingpang @cw_aabc @EmmanuelCandes @tatsu_hashimoto @HongLiu9903 @Aonan12 Thanks! Coincidentally, we happened to update the paper with stronger results just now. https://t.co/ZFQXU7RDQf",
+      "url": "https://x.com/ZitongYang0/status/2000810830296965362",
+      "author": "1063135984399740928",
+      "published_at": "2025-12-16T06:10:49",
+      "observed_at": "2026-09-10T03:56:08.599267",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 7,
+        "views": 3764,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1981627729901691226",
+      "title": "Neural Architecture Search is so visionary",
+      "body": "Neural Architecture Search is so visionary",
+      "url": "https://x.com/ZitongYang0/status/1981627729901691226",
+      "author": "1063135984399740928",
+      "published_at": "2025-10-24T07:44:02",
+      "observed_at": "2026-09-10T03:56:08.600598",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 5,
+        "views": 1116,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1979619124017012920",
+      "title": "The passing of the physicist Chen-Ning Yang (https://t.co/FaQoCrNSOD) saddens me. He has been a long-time hero and role model for me. Below is a short essay I w",
+      "body": "The passing of the physicist Chen-Ning Yang (https://t.co/FaQoCrNSOD) saddens me. He has been a long-time hero and role model for me. Below is a short essay I wrote yesterday about Yang that I shared with many of my friends. I translated it into English using Gemini:\n\n```\nThe passing of Professor Chen-Ning Yang has left me with an inexplicable sense of loss, a feeling that a familiar era is slowly coming to an end. When Kolmogorov passed away in 1987, Kiyosi It\u00f4 wrote in his eulogy, \"When I learned that the great Soviet mathematician Kolmogorov had left this world, I felt a sadness and loneliness as if I had lost a pillar of support.\" My relationship with Professor Yang was certainly not as direct as It\u00f4's with Kolmogorov, but his influence, transmitted through his books, articles, and recorded lectures, profoundly changed the course of my life.\n\nWhen I first came to the U.S., I would often introduce myself in the physics department by saying, \"Yang from Yang-Mills.\" Later, when I was struggling to choose between physics and mathematics, I came across an interview with Yang and Jim Simons where he said two things that stuck with me (Figure 1): \"Mathematics is precise, but there is no flesh to it,\" and \"There are two kinds of books in math. The first one you read the first page and you stop reading. The second one that you read the first sentence and stop reading.\" Those words resonated with me so deeply that I decisively gave up on mathematics. This choice filled my university life with many more interesting physics pictures, making it much more vivid.\n\nLater, as I contemplated my future path, I read online about Yang's famous advice against going into particle physics (\"the party is over\"). He remarked, \"When I compare people who entered graduate school in the same year, I find that they all started in more or less the same state, but their developments ten years later were vastly different. This wasn't because some were smarter or more diligent than others, but because some had entered fields with growth potential, while others had entered fields that were already in decline, or even at their very end.\" This deeply struck me. Indeed, gauge theory is a more vital direction than particle physics because it naturally builds connections with many different disciplines. Inspired by this, I began to seriously ask myself: what is the \"gauge theory\" of our time? That's what led me to start researching neural networks in my junior year.\n\nAs I gained more experience in research, I found numerous inspirations in Yang's annotated collection, \"Sixty Years of My Career Path.\" Right now, this book is on my bedside table. What resonated with me most was his note on his paper about the two-dimensional Ising Model (Figure 2): \"In the spring of 1951, Oppenheimer showed me a preprint he had just received. For this, I carried out a very long calculation, the longest of my life. The calculation was tortuous, full of obstacles at every turn, requiring many strategies and tricks to solve. Often, after days of intense thought, I would suddenly discover a new technique, a new path would appear. The trouble was that I would soon feel lost in a maze again, unable to be sure if I was any closer to the goal than when I started.\" Yang's description here was so relatable that later, whenever my research stalled, I would share this quote with my collaborators to encourage everyone. I often found myself translating this passage into English for them.\n\nAs I spent more time living in the United States, I inevitably encountered some prejudice and discrimination against Chinese people. This reminded me of a story I had read about Yang from 1954. By then, he had already secured a tenured position at Princeton and was only three years away from winning the Nobel Prize. Yet, a real estate agent refused to sell him a house simply because he was Chinese, fearing that his presence would lower property values in the area. Even a man of Yang's stature could not escape such baseless and absurd prejudice. Later, while working at Google's New York office, I made a memorable trip to Long Island to visit the area where he used to live. This brought to mind his speech at the Nobel banquet in 1957: \"I am in more than one sense a product of both the Chinese and Western cultures, in harmony and in conflict. I should like to say that I am as proud of my Chinese heritage and background as I am devoted to modern science, a part of human civilization of Western origin.\"\n\nAnd now, life has come full circle. This semester, I've begun studying the derivation of the mass gap in three-dimensional Euclidean Yang-Mills theory (Figure 3) to fulfill my last graduation requirement. A familiar and friendly intuition returns. Although Professor Yang has passed away, his work, his ideas, and his intuition have been distilled across the entire internet. I randomly sampled 10B tokens from the DCLM dataset and found 1392 documents containing variations of his name in English and Chinese (Figure 4). His thoughts have genuinely become a part of humanity's collective knowledge. Finally, in his outlook on physics, Yang cautioned against the optimism that \"the power of human intellect is infinite, while the depth of natural phenomena is finite\". In this unique era of artificial intelligence development, this sixty-year-old debate seems particularly interesting.\n```",
+      "url": "https://x.com/ZitongYang0/status/1979619124017012920",
+      "author": "1063135984399740928",
+      "published_at": "2025-10-18T18:42:33",
+      "observed_at": "2026-09-10T03:56:08.601440",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 402,
+        "views": 52014,
+        "reposts": 58,
+        "replies": 9,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970215228991512819",
+      "title": "Thanks for sharing, this is great! One way to view SBP is that it forces the LM to learn a more smooth kernel representation. In your diagram, it forces to gene",
+      "body": "Thanks for sharing, this is great! One way to view SBP is that it forces the LM to learn a more smooth kernel representation. In your diagram, it forces to generate additional data point that lies in the data manifold. We have a Bayesian interpretation of SBP at the end that aligns with the latent variable interpretation. Tho it\u2019s discrete",
+      "url": "https://x.com/ZitongYang0/status/1970215228991512819",
+      "author": "1063135984399740928",
+      "published_at": "2025-09-22T19:54:50",
+      "observed_at": "2026-09-10T03:56:08.603282",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 37,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970214143539192250",
+      "title": "Enjoyed learning from world-class embedding expert @HongLiu9903. I think document embedding offers a new venue of under-exploited self-supervision because they ",
+      "body": "Enjoyed learning from world-class embedding expert @HongLiu9903. I think document embedding offers a new venue of under-exploited self-supervision because they arrange related documents together. Much like how internet arranged related tokens together.",
+      "url": "https://x.com/ZitongYang0/status/1970214143539192250",
+      "author": "1063135984399740928",
+      "published_at": "2025-09-22T19:50:31",
+      "observed_at": "2026-09-10T03:56:08.604192",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 6,
+        "views": 1765,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970206599169073556",
+      "title": "Feeling inspired by @ChengleiSi at every AGI hackathon",
+      "body": "Feeling inspired by @ChengleiSi at every AGI hackathon",
+      "url": "https://x.com/ZitongYang0/status/1970206599169073556",
+      "author": "1063135984399740928",
+      "published_at": "2025-09-22T19:20:32",
+      "observed_at": "2026-09-10T03:56:08.605561",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 727,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970149501030850727",
+      "title": "@rjsabouhi @Aonan12 @HongLiu9903 @tatsu_hashimoto @EmmanuelCandes @cw_aabc @ruomingpang Operationally, we just find pairs of related documents (d1, d2) and opti",
+      "body": "@rjsabouhi @Aonan12 @HongLiu9903 @tatsu_hashimoto @EmmanuelCandes @cw_aabc @ruomingpang Operationally, we just find pairs of related documents (d1, d2) and optimize for P(d2|d1). There is no explicit abstraction. The abstraction is a particular interpretation of the algorithm.",
+      "url": "https://x.com/ZitongYang0/status/1970149501030850727",
+      "author": "1063135984399740928",
+      "published_at": "2025-09-22T15:33:39",
+      "observed_at": "2026-09-10T03:56:08.606696",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 2,
+        "views": 106,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970129032395260136",
+      "title": "Beyond being empirically useful, SBP admits a natural Bayesian interpretation. To see this, read our preprint:\n\n\ud83d\udd17https://t.co/tpmowELfq5\n\n#Apple &amp; #Stanford",
+      "body": "Beyond being empirically useful, SBP admits a natural Bayesian interpretation. To see this, read our preprint:\n\n\ud83d\udd17https://t.co/tpmowELfq5\n\n#Apple &amp; #Stanford collaboration w/ @Aonan12 (equal contribution) @HongLiu9903 @tatsu_hashimoto @EmmanuelCandes @cw_aabc @ruomingpang https://t.co/4NPqUWcVkn",
+      "url": "https://x.com/ZitongYang0/status/1970129032395260136",
+      "author": "1063135984399740928",
+      "published_at": "2025-09-22T14:12:19",
+      "observed_at": "2026-09-10T03:56:08.608228",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 18,
+        "views": 1212,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970129030428135915",
+      "title": "To test SBP, we designed a compute-matched framework.\n\n1\ufe0f\u20e3 Baseline on source data with 20x repetition\n2\ufe0f\u20e3 SBP using the same data source\n3\ufe0f\u20e3 Oracle with unlimi",
+      "body": "To test SBP, we designed a compute-matched framework.\n\n1\ufe0f\u20e3 Baseline on source data with 20x repetition\n2\ufe0f\u20e3 SBP using the same data source\n3\ufe0f\u20e3 Oracle with unlimited real data (20x than the source)\n\nOn average, SBP delivers almost 50% of the performance gain achieved by the oracle.",
+      "url": "https://x.com/ZitongYang0/status/1970129030428135915",
+      "author": "1063135984399740928",
+      "published_at": "2025-09-22T14:12:18",
+      "observed_at": "2026-09-10T03:56:08.609969",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 10,
+        "views": 1446,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1955308583995969927",
+      "title": "@jxmnop https://t.co/toZIA9fNzJ",
+      "body": "@jxmnop https://t.co/toZIA9fNzJ",
+      "url": "https://x.com/ZitongYang0/status/1955308583995969927",
+      "author": "1063135984399740928",
+      "published_at": "2025-08-12T16:41:08",
+      "observed_at": "2026-09-10T03:56:08.611688",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 4,
+        "views": 428,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1914452219853988177",
+      "title": "To stress-test our technique, we apply Synthetic Continued Pretraining on 1K ICLR papers (joint effort with @ChengleiSi), obtaining an LM that \u201cknows\u201d your ICLR",
+      "body": "To stress-test our technique, we apply Synthetic Continued Pretraining on 1K ICLR papers (joint effort with @ChengleiSi), obtaining an LM that \u201cknows\u201d your ICLR submission in its weights.\n\nIf you\u2019d like to try out our LM, come to the oral or poster session below!\n\nOral Session 4E: Peridot 202-203, 3:30PM\nPoster Session: Hall 3 + Hall 2B #194",
+      "url": "https://x.com/ZitongYang0/status/1914452219853988177",
+      "author": "1063135984399740928",
+      "published_at": "2025-04-21T22:52:32",
+      "observed_at": "2026-09-10T03:56:08.612506",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 12,
+        "views": 831,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1897378625412087809",
+      "title": "@Alibaba_Qwen How does the length of thinking tokens compare with r1?",
+      "body": "@Alibaba_Qwen How does the length of thinking tokens compare with r1?",
+      "url": "https://x.com/ZitongYang0/status/1897378625412087809",
+      "author": "1063135984399740928",
+      "published_at": "2025-03-05T20:08:10",
+      "observed_at": "2026-09-10T03:56:08.613892",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 737,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895209811471671421",
+      "title": "@iScienceLuvr @AskPerplexity What is the gap between gpt 4 to o1 gap and 4.5 to o3 gap? Could that tell us if 4.5 is the base to o3?",
+      "body": "@iScienceLuvr @AskPerplexity What is the gap between gpt 4 to o1 gap and 4.5 to o3 gap? Could that tell us if 4.5 is the base to o3?",
+      "url": "https://x.com/ZitongYang0/status/1895209811471671421",
+      "author": "1063135984399740928",
+      "published_at": "2025-02-27T20:30:05",
+      "observed_at": "2026-09-10T03:56:08.614808",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 755,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1870581236563087528",
+      "title": "@jeankaddour Does it get it? People told me if you try long enough o1 can give the correct solution",
+      "body": "@jeankaddour Does it get it? People told me if you try long enough o1 can give the correct solution",
+      "url": "https://x.com/ZitongYang0/status/1870581236563087528",
+      "author": "1063135984399740928",
+      "published_at": "2024-12-21T21:24:55",
+      "observed_at": "2026-09-10T03:56:08.615548",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 2,
+        "views": 112,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1869814602252619939",
+      "title": "@simon_zhai respect",
+      "body": "@simon_zhai respect",
+      "url": "https://x.com/ZitongYang0/status/1869814602252619939",
+      "author": "1063135984399740928",
+      "published_at": "2024-12-19T18:38:35",
+      "observed_at": "2026-09-10T03:56:08.616265",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 4,
+        "views": 1547,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1834248917732786604",
+      "title": "Joint work with @neilbband  (equal contribution), @ShuangpingLi, @EmmanuelCandes, and @tatsu_hashimoto.\n\nThanks to @stanfordnlp and Stanford statistics communit",
+      "body": "Joint work with @neilbband  (equal contribution), @ShuangpingLi, @EmmanuelCandes, and @tatsu_hashimoto.\n\nThanks to @stanfordnlp and Stanford statistics community for the amazing discussions.\n\nCodebase (coming soon, all prompts in the paper): https://t.co/qEcWMOq0a7\narXiv: https://t.co/ZCiIBXe4FM",
+      "url": "https://x.com/ZitongYang0/status/1834248917732786604",
+      "author": "1063135984399740928",
+      "published_at": "2024-09-12T15:13:15",
+      "observed_at": "2026-09-10T03:56:08.616871",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 7,
+        "views": 455,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1834248915102957677",
+      "title": "Our method is inspired by a simple intuition: If a document relates entities A and B in some places, and B and C in others, an LM  trained on the document may n",
+      "body": "Our method is inspired by a simple intuition: If a document relates entities A and B in some places, and B and C in others, an LM  trained on the document may not infer the  A~C relation.\n\nWe build a mathematical model based on graph theory that closely fits the empirical scaling trend of EntiGraph CPT.",
+      "url": "https://x.com/ZitongYang0/status/1834248915102957677",
+      "author": "1063135984399740928",
+      "published_at": "2024-09-12T15:13:14",
+      "observed_at": "2026-09-10T03:56:08.618264",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 469,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1834248912468848711",
+      "title": "We also consider a RAG setup with source docs available at test time\u2014is the knowledge that Synthetic CPT learns in the LM\u2019s parameters still useful?\n\nWe find th",
+      "body": "We also consider a RAG setup with source docs available at test time\u2014is the knowledge that Synthetic CPT learns in the LM\u2019s parameters still useful?\n\nWe find that this \u201cparametric knowledge\u201d composes with the knowledge retrieved by RAG:\nEntiGraph CPT + RAG > base model + RAG\n\nMoreover, CPT on EntiGraph tokens alone delivers 80% of the accuracy gains of RAG, making it nearly competitive without any test-time retrieval or reranking.",
+      "url": "https://x.com/ZitongYang0/status/1834248912468848711",
+      "author": "1063135984399740928",
+      "published_at": "2024-09-12T15:13:14",
+      "observed_at": "2026-09-10T03:56:08.619127",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 3,
+        "views": 460,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1834248909709082811",
+      "title": "Can synthetic CPT on EntiGraph tokens teach an LM to do tasks beyond simple QA?\n\nWe instruction tune our EntiGraph CPT model and find it can use its newly learn",
+      "body": "Can synthetic CPT on EntiGraph tokens teach an LM to do tasks beyond simple QA?\n\nWe instruction tune our EntiGraph CPT model and find it can use its newly learned knowledge in responses to varied, open-ended instructions. https://t.co/7xWeTJU4Qm",
+      "url": "https://x.com/ZitongYang0/status/1834248909709082811",
+      "author": "1063135984399740928",
+      "published_at": "2024-09-12T15:13:13",
+      "observed_at": "2026-09-10T03:56:08.620514",
+      "metrics": {
+        "author_handle": "ZitongYang0",
+        "author_followers": 2152,
+        "likes": 4,
+        "views": 608,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

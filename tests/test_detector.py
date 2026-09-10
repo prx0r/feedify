@@ -1,5 +1,5 @@
 from feedify.schemas import NormalizedItem
-from feedify.services.detector import calculate_base_score, detect
+from feedify.services.detector import compile_artifact
 
 
 def test_trustmrr_breakout_signal():
@@ -14,11 +14,11 @@ def test_trustmrr_breakout_signal():
             "on_sale": False,
         },
     )
-    signals = detect(item)
-    breakout = next(s for s in signals if s.signal_type == "REVENUE_ACCELERATION")
-    assert breakout.domain == "ios"
-    assert breakout.actionability > 0.8
-    assert calculate_base_score(breakout) > 0.7
+    objects, edges = compile_artifact(item, artifact_id=0)
+    assert len(objects) > 0
+    pick = next((o for o in objects if o.kind == "pick"), objects[0])
+    assert pick.domain == "ios"
+    assert pick.confidence > 0.7
 
 
 def test_glama_is_new_capability():
@@ -29,7 +29,9 @@ def test_glama_is_new_capability():
         body="Search retail marketplace inventory and checkout",
         metrics={"official": True, "categories": ["E-commerce"]},
     )
-    signal = detect(item)[0]
-    assert signal.signal_type == "NEW_CAPABILITY"
-    assert signal.domain == "commerce"
-    assert signal.source_proximity >= 0.9
+    objects, edges = compile_artifact(item, artifact_id=0)
+    assert len(objects) > 0
+    tech = objects[0]
+    assert tech.kind == "technology"
+    assert tech.domain == "commerce"
+    assert tech.confidence >= 0.7

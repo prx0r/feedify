@@ -1,0 +1,387 @@
+{
+  "handle": "YongchaoC",
+  "total_tweets": 20,
+  "august_tweets": 2,
+  "tweets": [
+    {
+      "id": "2097323243778789382",
+      "title": "Proud to share the first results from Apex's automated AI research system.\nWe built it across the AI training stack:\n\n\u2014 Smarter decisions before training: a new",
+      "body": "Proud to share the first results from Apex's automated AI research system.\nWe built it across the AI training stack:\n\n\u2014 Smarter decisions before training: a new best suite mean of 0.8846 on SimpleTES/SLDBench.\n\u2014 Better strategies during training: 0.892426 val_bpb on NanoChat Autoresearch, ahead of published results from Recursive and Tencent Hunyuan\u2019s Hyra, and near the public SOTA.\n\u2014 More efficient infrastructure underneath both: 1,036.1 \u03bcs on GPUMode TriMul H100, alongside new best throughput across all three MLS-Bench fused-attention configurations.\n\nAcross four benchmarks, the same system identifies what to improve, tests ideas, verifies the outcomes, and carries the evidence into the next cycle. Each result matters on its own; together, they show how AI research itself can begin to compound.\nRead the full results and explore the artifacts below. We\u2019d love to hear your thoughts and discuss where automated AI research could go next.",
+      "url": "https://x.com/YongchaoC/status/2097323243778789382",
+      "author": "1166060863008063488",
+      "published_at": "2026-09-08T13:56:42",
+      "observed_at": "2026-09-10T03:55:40.668394",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 9,
+        "views": 209,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097195896035577876",
+      "title": "Proud to share the first results from Apex's automated AI research system.\nWe built it across the AI training stack:\n\n\u2014 Smarter decisions before training: a new",
+      "body": "Proud to share the first results from Apex's automated AI research system.\nWe built it across the AI training stack:\n\n\u2014 Smarter decisions before training: a new best suite mean of 0.8846 on SimpleTES/SLDBench.\n\u2014 Better strategies during training: 0.892426 val_bpb on NanoChat Autoresearch, ahead of published results from Recursive and Tencent Hunyuan\u2019s Hyra, and near the public SOTA.\n\u2014 More efficient infrastructure underneath both: 1,036.1 \u03bcs on GPUMode TriMul H100, alongside new best throughput across all three MLS-Bench fused-attention configurations.\n\nAcross four benchmarks, the same system identifies what to improve, tests ideas, verifies the outcomes, and carries the evidence into the next cycle. Each result matters on its own; together, they show how AI research itself can begin to compound.\nRead the full results and explore the artifacts below. We\u2019d love to hear your thoughts and discuss where automated AI research could go next.",
+      "url": "https://x.com/YongchaoC/status/2097195896035577876",
+      "author": "1166060863008063488",
+      "published_at": "2026-09-08T05:30:40",
+      "observed_at": "2026-09-10T03:55:40.673862",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 20,
+        "views": 20399,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2090445120516567219",
+      "title": "I kept wondering: every AI benchmark tests whether models can follow a roadmap humans drew. What if we take the roadmap away?For many research-heavy tasks, how ",
+      "body": "I kept wondering: every AI benchmark tests whether models can follow a roadmap humans drew. What if we take the roadmap away?For many research-heavy tasks, how well does current LLM work? We built ASI-Bench to find out. 60 research tasks, 11 fields. Best agent scores 51.60 without human guidance. Open for contributions.\n\n\ud83c\udf10 Submit a task: https://t.co/U6XFPbUbGp\n\ud83d\udcc4 Paper (arXiv): https://t.co/efXOQ7kcGe\n\ud83d\udcac Join our Discord: https://t.co/hdSxX45kRS\n\ud83d\udcbb GitHub: https://t.co/I5IXGvZpAV\nIf you find the benchmark useful, a Star \u2b50 would mean a lot!\n\ud83e\udd17 Hugging Face Datasets:\nhttps://t.co/DDoiJEi0mP\nhttps://t.co/AbJJCZw056\n\ud83e\udd17 https://t.co/KeyTrgGLTi",
+      "url": "https://x.com/YongchaoC/status/2090445120516567219",
+      "author": "1166060863008063488",
+      "published_at": "2026-08-20T14:25:29",
+      "observed_at": "2026-09-10T03:55:40.678128",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 8,
+        "views": 31989,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085471494575161408",
+      "title": "Very glad to see the announcement of Discovery Loop! Apex Intelligence (https://t.co/o3WunwDCMt) is doing very similar stuff!",
+      "body": "Very glad to see the announcement of Discovery Loop! Apex Intelligence (https://t.co/o3WunwDCMt) is doing very similar stuff!",
+      "url": "https://x.com/YongchaoC/status/2085471494575161408",
+      "author": "1166060863008063488",
+      "published_at": "2026-08-06T21:02:05",
+      "observed_at": "2026-09-10T03:55:40.681603",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 3,
+        "views": 819,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2078763430132195555",
+      "title": "@guohao_li Agree\uff01",
+      "body": "@guohao_li Agree\uff01",
+      "url": "https://x.com/YongchaoC/status/2078763430132195555",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-19T08:46:37",
+      "observed_at": "2026-09-10T03:55:40.683261",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 2,
+        "views": 408,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075012377675014601",
+      "title": "@apexin_ai The ChatGPT moment of AI Scientist may have arrived!",
+      "body": "@apexin_ai The ChatGPT moment of AI Scientist may have arrived!",
+      "url": "https://x.com/YongchaoC/status/2075012377675014601",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-09T00:21:17",
+      "observed_at": "2026-09-10T03:55:40.684789",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 5,
+        "views": 629,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075008500863046007",
+      "title": "The ChatGPT moment of AI Scientist may have arrived! Big News!",
+      "body": "The ChatGPT moment of AI Scientist may have arrived! Big News!",
+      "url": "https://x.com/YongchaoC/status/2075008500863046007",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-09T00:05:53",
+      "observed_at": "2026-09-10T03:55:40.686304",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 29,
+        "views": 147824,
+        "reposts": 5,
+        "replies": 10,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074249194530099537",
+      "title": "@egbo_sky Hello yes, we are looking for interns",
+      "body": "@egbo_sky Hello yes, we are looking for interns",
+      "url": "https://x.com/YongchaoC/status/2074249194530099537",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-06T21:48:40",
+      "observed_at": "2026-09-10T03:55:40.687823",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 2,
+        "views": 84,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074066243653705816",
+      "title": "I am in ICML now. Please DM me if you want to chat with me about Apex Intelligence!",
+      "body": "I am in ICML now. Please DM me if you want to chat with me about Apex Intelligence!",
+      "url": "https://x.com/YongchaoC/status/2074066243653705816",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-06T09:41:41",
+      "observed_at": "2026-09-10T03:55:40.689421",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 24,
+        "views": 4935,
+        "reposts": 4,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2073856657713737805",
+      "title": "@guohao_li Thank you guohao!@guohao_li",
+      "body": "@guohao_li Thank you guohao!@guohao_li",
+      "url": "https://x.com/YongchaoC/status/2073856657713737805",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-05T19:48:52",
+      "observed_at": "2026-09-10T03:55:40.691070",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 3,
+        "views": 416,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2073836000024068139",
+      "title": "@apexin_ai We believe AI Scientist will be the main research power in the following years!",
+      "body": "@apexin_ai We believe AI Scientist will be the main research power in the following years!",
+      "url": "https://x.com/YongchaoC/status/2073836000024068139",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-05T18:26:47",
+      "observed_at": "2026-09-10T03:55:40.692615",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 4,
+        "views": 641,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2073830903345025123",
+      "title": "I founded Apex Intelligence today! We are targeting building self-evolving models for unlocking undiscovered discovery by AI autonomously. We believe the future",
+      "body": "I founded Apex Intelligence today! We are targeting building self-evolving models for unlocking undiscovered discovery by AI autonomously. We believe the future research will be done mostly by AI Scientists!",
+      "url": "https://x.com/YongchaoC/status/2073830903345025123",
+      "author": "1166060863008063488",
+      "published_at": "2026-07-05T18:06:31",
+      "observed_at": "2026-09-10T03:55:40.694289",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 149,
+        "views": 117507,
+        "reposts": 22,
+        "replies": 18,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031382894023774533",
+      "title": "We warmly welcome international students to apply for a PhD position or to visit our group. Each year, our group offers one PhD position specifically for intern",
+      "body": "We warmly welcome international students to apply for a PhD position or to visit our group. Each year, our group offers one PhD position specifically for international students. We look forward to receiving applications from talented and motivated candidates around the world.",
+      "url": "https://x.com/YongchaoC/status/2031382894023774533",
+      "author": "1166060863008063488",
+      "published_at": "2026-03-10T14:53:17",
+      "observed_at": "2026-09-10T03:55:40.696006",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 3,
+        "views": 967,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031165817228788089",
+      "title": "Excited to share that I will join College of AI, Tsinghua University (https://t.co/WcaWWNb5mt) as a Tenure-Track Assistant Professor on 08/01/2026! https://t.co",
+      "body": "Excited to share that I will join College of AI, Tsinghua University (https://t.co/WcaWWNb5mt) as a Tenure-Track Assistant Professor on 08/01/2026! https://t.co/KxoKdYMZG9",
+      "url": "https://x.com/YongchaoC/status/2031165817228788089",
+      "author": "1166060863008063488",
+      "published_at": "2026-03-10T00:30:42",
+      "observed_at": "2026-09-10T03:55:40.697510",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 10,
+        "views": 1632,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1981198712312647880",
+      "title": "@tydsh Sorry to hear that Dr. Tian. That is crazy!",
+      "body": "@tydsh Sorry to hear that Dr. Tian. That is crazy!",
+      "url": "https://x.com/YongchaoC/status/1981198712312647880",
+      "author": "1166060863008063488",
+      "published_at": "2025-10-23T03:19:16",
+      "observed_at": "2026-09-10T03:55:40.699858",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 2,
+        "views": 253,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1930046528317731206",
+      "title": "\ud83d\ude80 Excited to share our latest work: R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning. We explore how symbolic co",
+      "body": "\ud83d\ude80 Excited to share our latest work: R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning. We explore how symbolic computation can enhance reasoning and planning in LLMs by effectively incentivizing Code Interpreter behavior. https://t.co/UgjExm3p4R",
+      "url": "https://x.com/YongchaoC/status/1930046528317731206",
+      "author": "1166060863008063488",
+      "published_at": "2025-06-03T23:38:45",
+      "observed_at": "2026-09-10T03:55:40.701464",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 4,
+        "views": 240,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1888787123559444893",
+      "title": "\ud83d\ude80 Excited to share our latest work!\n1. Steering Large Language Models between Code Execution and Textual Reasoning (ICLR\u201925) (https://t.co/8WKFYLir8t)\n2. CodeSt",
+      "body": "\ud83d\ude80 Excited to share our latest work!\n1. Steering Large Language Models between Code Execution and Textual Reasoning (ICLR\u201925) (https://t.co/8WKFYLir8t)\n2. CodeSteer: Symbolic-Augmented LLMs via Code/Text Guidance (https://t.co/cu9VLnFnJ6)\n\ud83d\udcc2 Code: https://t.co/bsPSf4RFYb https://t.co/0JNVhbgU8j",
+      "url": "https://x.com/YongchaoC/status/1888787123559444893",
+      "author": "1166060863008063488",
+      "published_at": "2025-02-10T03:08:36",
+      "observed_at": "2026-09-10T03:55:40.703890",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 5,
+        "views": 305,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1868030938329850288",
+      "title": "@pmddomingos @RosalindPicard This is pure racism. I have sent complaint email to UW DEI for your racism words.",
+      "body": "@pmddomingos @RosalindPicard This is pure racism. I have sent complaint email to UW DEI for your racism words.",
+      "url": "https://x.com/YongchaoC/status/1868030938329850288",
+      "author": "1166060863008063488",
+      "published_at": "2024-12-14T20:30:56",
+      "observed_at": "2026-09-10T03:55:40.706485",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 16,
+        "views": 2287,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1843733390014779692",
+      "title": "Glad to share my intern work in Microsoft Research. Great gratitude to my mentors @Chi_Wang_ , @harsh_jhamtani, Srinagesh Sharma and my PhD advisor Chuchu Fan.\n",
+      "body": "Glad to share my intern work in Microsoft Research. Great gratitude to my mentors @Chi_Wang_ , @harsh_jhamtani, Srinagesh Sharma and my PhD advisor Chuchu Fan.\n\n'Steering Large Language Models between Code Execution and Textual Reasoning'\n\n\ud83d\udc49 Full paper: https://t.co/TDUKtwy6WB https://t.co/9Xt3FSprKM",
+      "url": "https://x.com/YongchaoC/status/1843733390014779692",
+      "author": "1166060863008063488",
+      "published_at": "2024-10-08T19:21:09",
+      "observed_at": "2026-09-10T03:55:40.707749",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 16,
+        "views": 6036,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1669710073331867651",
+      "title": "https://t.co/2J06j8eLUn\nGlad to share our recent work 'AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers', on applying Lar",
+      "body": "https://t.co/2J06j8eLUn\nGlad to share our recent work 'AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers', on applying Large Language Models (LLM) to robot planning. \n\nThis method performs better than task planning frameworks like SayCan. https://t.co/0v7gGy9mPG",
+      "url": "https://x.com/YongchaoC/status/1669710073331867651",
+      "author": "1166060863008063488",
+      "published_at": "2023-06-16T14:14:37",
+      "observed_at": "2026-09-10T03:55:40.709746",
+      "metrics": {
+        "author_handle": "YongchaoC",
+        "author_followers": 957,
+        "likes": 8,
+        "views": 516,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

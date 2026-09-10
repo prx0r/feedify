@@ -1,0 +1,387 @@
+{
+  "handle": "_shumash",
+  "total_tweets": 20,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2082139977337507988",
+      "title": "\ud83e\udd8e Did you know axolotls can regenerate complex body parts, including their brain? \ud83e\udde0\n\nOur new #AI model \ud835\uddd4\ud835\ude05\ud835\uddfc\ud835\uddf9\ud835\uddfc\ud835\ude01\ud835\uddf9\ud835\udfef\ud835\uddd7 (#ECCV26) faithfully completes #3D objects from",
+      "body": "\ud83e\udd8e Did you know axolotls can regenerate complex body parts, including their brain? \ud83e\udde0\n\nOur new #AI model \ud835\uddd4\ud835\ude05\ud835\uddfc\ud835\uddf9\ud835\uddfc\ud835\ude01\ud835\uddf9\ud835\udfef\ud835\uddd7 (#ECCV26) faithfully completes #3D objects from partial views and incomplete point clouds: https://t.co/YCNqhJKsx5\n\nKudos Anita! \n#MachineLearning #NVIDIA https://t.co/3euMwoGppN",
+      "url": "https://x.com/_shumash/status/2082139977337507988",
+      "author": "262450682",
+      "published_at": "2026-07-28T16:23:49",
+      "observed_at": "2026-09-10T03:56:38.908654",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 75,
+        "views": 5285,
+        "reposts": 9,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2078193877245157668",
+      "title": "Want to stay rooted in reality \ud83c\udf0d, embrace the power of AI \ud83e\udd16, and get fully interactive with cutting-edge research and 3D Gaussian Splat captures? \ud83d\udcf8\u2728 Join us at ",
+      "body": "Want to stay rooted in reality \ud83c\udf0d, embrace the power of AI \ud83e\udd16, and get fully interactive with cutting-edge research and 3D Gaussian Splat captures? \ud83d\udcf8\u2728 Join us at SIGGRAPH: https://t.co/siZxFPRf7H https://t.co/I7mzfEvU0T",
+      "url": "https://x.com/_shumash/status/2078193877245157668",
+      "author": "262450682",
+      "published_at": "2026-07-17T19:03:25",
+      "observed_at": "2026-09-10T03:56:38.914119",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 21,
+        "views": 2153,
+        "reposts": 6,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2071744000965382209",
+      "title": "Finally, Gaussians with dynamic shadows! So proud to share:",
+      "body": "Finally, Gaussians with dynamic shadows! So proud to share:",
+      "url": "https://x.com/_shumash/status/2071744000965382209",
+      "author": "262450682",
+      "published_at": "2026-06-29T23:53:55",
+      "observed_at": "2026-09-10T03:56:38.919512",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 7,
+        "views": 453,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041966215678030280",
+      "title": "Project page: https://t.co/z3kwqUCreL",
+      "body": "Project page: https://t.co/z3kwqUCreL",
+      "url": "https://x.com/_shumash/status/2041966215678030280",
+      "author": "262450682",
+      "published_at": "2026-04-08T19:47:38",
+      "observed_at": "2026-09-10T03:56:38.921786",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 5,
+        "views": 690,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041966100900930043",
+      "title": "\ud83d\ude80 \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf2, \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00, \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddfb\ud835\uddfc\ud835\ude04 \ud835\uddee\ud835\ude03\ud835\uddee\ud835\uddf6\ud835\uddf9\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2! Convert meshes, Gaussian Splats and more to \ud835\ude00\ud835\uddf6\ud835\uddfa\ud835\ude02\ud835\uddf9\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb-\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06 \ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddf2\ud835\ude01\ud835\ude00 with \ud835\udde9\ud835\uddfc\ud835\udde0\ud835\udde3 (ICLR2026) \u2014 the first feed-forward model to p",
+      "body": "\ud83d\ude80 \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf2, \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00, \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddfb\ud835\uddfc\ud835\ude04 \ud835\uddee\ud835\ude03\ud835\uddee\ud835\uddf6\ud835\uddf9\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2! Convert meshes, Gaussian Splats and more to \ud835\ude00\ud835\uddf6\ud835\uddfa\ud835\ude02\ud835\uddf9\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb-\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06 \ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddf2\ud835\ude01\ud835\ude00 with \ud835\udde9\ud835\uddfc\ud835\udde0\ud835\udde3 (ICLR2026) \u2014 the first feed-forward model to predict fine mechanical properties throughout 3D object volume. See\ud83d\udc47 https://t.co/CyBxyTQZL5",
+      "url": "https://x.com/_shumash/status/2041966100900930043",
+      "author": "262450682",
+      "published_at": "2026-04-08T19:47:11",
+      "observed_at": "2026-09-10T03:56:38.923317",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 103,
+        "views": 25136,
+        "reposts": 17,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1985472020851597318",
+      "title": "Proud to share great work by @rishit_dagli \ud83c\udf89",
+      "body": "Proud to share great work by @rishit_dagli \ud83c\udf89",
+      "url": "https://x.com/_shumash/status/1985472020851597318",
+      "author": "262450682",
+      "published_at": "2025-11-03T22:19:52",
+      "observed_at": "2026-09-10T03:56:38.926736",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 6,
+        "views": 220,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1954420928709791933",
+      "title": "See your Gaussian Splats deform and collide under gravity! #NVIDIA Kaolin Library just released v0.18.0. https://t.co/7Zv2YfHgmn\n\nJoin us at #SIGGRAPH tomorrow ",
+      "body": "See your Gaussian Splats deform and collide under gravity! #NVIDIA Kaolin Library just released v0.18.0. https://t.co/7Zv2YfHgmn\n\nJoin us at #SIGGRAPH tomorrow Sunday, Aug 10, Room 121-122 for a hands-on lab showcasing this and an intro to NVIDIA Warp, used under the hood. https://t.co/LVLVOps9l7",
+      "url": "https://x.com/_shumash/status/1954420928709791933",
+      "author": "262450682",
+      "published_at": "2025-08-10T05:53:55",
+      "observed_at": "2026-09-10T03:56:38.929133",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 22,
+        "views": 2289,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1953554542630740462",
+      "title": "Join us Tuesday night at #SIGGRAPH2025 Real-Time Live show to see interactive painting with Gaussian splat brushes, awesome work (and technical paper) by Karran",
+      "body": "Join us Tuesday night at #SIGGRAPH2025 Real-Time Live show to see interactive painting with Gaussian splat brushes, awesome work (and technical paper) by Karran Pandey presented by him and our inspiring collaborators at the @thenfb! https://t.co/LWsN1WYDKX",
+      "url": "https://x.com/_shumash/status/1953554542630740462",
+      "author": "262450682",
+      "published_at": "2025-08-07T20:31:12",
+      "observed_at": "2026-09-10T03:56:38.932579",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 24,
+        "views": 3045,
+        "reposts": 6,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1931001684353863715",
+      "title": "Curious about 3D Gaussians, simulation, rendering and the latest from #NVIDIA? Come to the NVIDIA Kaolin Library live-coding session at #CVPR2025, powered by a ",
+      "body": "Curious about 3D Gaussians, simulation, rendering and the latest from #NVIDIA? Come to the NVIDIA Kaolin Library live-coding session at #CVPR2025, powered by a cloud GPU reserved especially for you. Wed, Jun 11, 8-noon. Bring your laptop! https://t.co/joCH5DDrNk https://t.co/3MJ4zCAzB4",
+      "url": "https://x.com/_shumash/status/1931001684353863715",
+      "author": "262450682",
+      "published_at": "2025-06-06T14:54:12",
+      "observed_at": "2026-09-10T03:56:38.935418",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 44,
+        "views": 7275,
+        "reposts": 22,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1819024647364473312",
+      "title": "Today at #SIGGRAPH. Hands-on lab, 2:15pm, Room 709. \n\nDive Into #3D #DeepLearning #AI, #PhysicsSimulation, and Interactive 3D Prototyping With #NVIDIA Kaolin Li",
+      "body": "Today at #SIGGRAPH. Hands-on lab, 2:15pm, Room 709. \n\nDive Into #3D #DeepLearning #AI, #PhysicsSimulation, and Interactive 3D Prototyping With #NVIDIA Kaolin Library\nhttps://t.co/E8qUUDsNuN https://t.co/JCIUXkpSTL",
+      "url": "https://x.com/_shumash/status/1819024647364473312",
+      "author": "262450682",
+      "published_at": "2024-08-01T14:57:26",
+      "observed_at": "2026-09-10T03:56:38.938236",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 5,
+        "views": 147,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1817983074866708989",
+      "title": "Join hands-on lab at #SIGGRAPH to learn how to simulate points, 3D gaussian splats, meshes in just a few lines of code and right in your Jupyter notebook. So pr",
+      "body": "Join hands-on lab at #SIGGRAPH to learn how to simulate points, 3D gaussian splats, meshes in just a few lines of code and right in your Jupyter notebook. So proud of the Kaolin Library team! \ud83d\udc9a https://t.co/PDg0Ra1GGs Or try today: https://t.co/9Xd3gToZ68",
+      "url": "https://x.com/_shumash/status/1817983074866708989",
+      "author": "262450682",
+      "published_at": "2024-07-29T17:58:36",
+      "observed_at": "2026-09-10T03:56:38.940956",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 20,
+        "views": 2778,
+        "reposts": 5,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1815361728906936719",
+      "title": "If you want to simulate any point sampled geometry in just a few lines of code, this method is available in Kaolin Library pre-release version. Kudos @vm2358 &a",
+      "body": "If you want to simulate any point sampled geometry in just a few lines of code, this method is available in Kaolin Library pre-release version. Kudos @vm2358 &amp; team. Check out: https://t.co/ZhmzCHMtby",
+      "url": "https://x.com/_shumash/status/1815361728906936719",
+      "author": "262450682",
+      "published_at": "2024-07-22T12:22:18",
+      "observed_at": "2026-09-10T03:56:38.943986",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 5,
+        "views": 203,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1745913088895815740",
+      "title": "Check out this convenience class for handling surface mesh tensor attributes. We hope it's useful and saves you at least some of the headache! #PyTorch #AI #dee",
+      "body": "Check out this convenience class for handling surface mesh tensor attributes. We hope it's useful and saves you at least some of the headache! #PyTorch #AI #deeplearning #3D",
+      "url": "https://x.com/_shumash/status/1745913088895815740",
+      "author": "262450682",
+      "published_at": "2024-01-12T20:58:12",
+      "observed_at": "2026-09-10T03:56:38.947003",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 22,
+        "views": 3647,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1735130337804517613",
+      "title": "So proud of my team for presenting the first interactive #texture #painting with #AI at #SIGGRAPHAsia2023 Real-Time Live. Well done Anita Hu and team!! \n\nWe wan",
+      "body": "So proud of my team for presenting the first interactive #texture #painting with #AI at #SIGGRAPHAsia2023 Real-Time Live. Well done Anita Hu and team!! \n\nWe want the artist to stay in control \ud83c\udfa8\ud83d\udd8c\ufe0f\ud83e\udd17\n\nhttps://t.co/vyy7eMKxwz",
+      "url": "https://x.com/_shumash/status/1735130337804517613",
+      "author": "262450682",
+      "published_at": "2023-12-14T02:51:24",
+      "observed_at": "2026-09-10T03:56:38.949530",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 45,
+        "views": 5363,
+        "reposts": 15,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1710739491369934888",
+      "title": "If you want to visualize 3D Gaussian Splatting radiance fields *interactively* in a Jupyter Notebook, here's an easy recipe using Kaolin Library: https://t.co/H",
+      "body": "If you want to visualize 3D Gaussian Splatting radiance fields *interactively* in a Jupyter Notebook, here's an easy recipe using Kaolin Library: https://t.co/HctVc04z5V https://t.co/IPkQcoajNj",
+      "url": "https://x.com/_shumash/status/1710739491369934888",
+      "author": "262450682",
+      "published_at": "2023-10-07T19:30:53",
+      "observed_at": "2026-09-10T03:56:38.952491",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 86,
+        "views": 7154,
+        "reposts": 15,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1684269729479794690",
+      "title": "Proud to announce latest #NVIDIA Kaolin library release, with lots of optimized pytorch utilities for  3D #DeepLearning .",
+      "body": "Proud to announce latest #NVIDIA Kaolin library release, with lots of optimized pytorch utilities for  3D #DeepLearning .",
+      "url": "https://x.com/_shumash/status/1684269729479794690",
+      "author": "262450682",
+      "published_at": "2023-07-26T18:29:30",
+      "observed_at": "2026-09-10T03:56:38.955367",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 13,
+        "views": 2271,
+        "reposts": 5,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1635335363710550016",
+      "title": "@AdamFard_ nicely done! Also, they are using a tool that threatens the artist community to set a scene\u2026 of art students learning to draw from examples. I wonder",
+      "body": "@AdamFard_ nicely done! Also, they are using a tool that threatens the artist community to set a scene\u2026 of art students learning to draw from examples. I wonder, what is Coca Cola tying to say? :)",
+      "url": "https://x.com/_shumash/status/1635335363710550016",
+      "author": "262450682",
+      "published_at": "2023-03-13T17:41:48",
+      "observed_at": "2026-09-10T03:56:38.957000",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 4,
+        "views": 671,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1598374962510766081",
+      "title": "While some worry AI is taking over #digitalart, we're proud to present Neural Brushstroke Engine #NeuBE that uses #AI to bring new drawing tools to the human #d",
+      "body": "While some worry AI is taking over #digitalart, we're proud to present Neural Brushstroke Engine #NeuBE that uses #AI to bring new drawing tools to the human #digitalartist. From #NVIDIA #AI @FidlerSanja at #SIGGRAPHAsia2022. https://t.co/eX1kJogpvO https://t.co/UzWCelb0Di",
+      "url": "https://x.com/_shumash/status/1598374962510766081",
+      "author": "262450682",
+      "published_at": "2022-12-01T17:54:22",
+      "observed_at": "2026-09-10T03:56:38.958200",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 15,
+        "views": 0,
+        "reposts": 5,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1580211033171378176",
+      "title": "Excited to share an #AI-powered 3D tool from my group within NVIDIA Toronto AI Lab @NVIDIAAI, available in NVIDIA Omniverse today. Kudos Anita Hu and others on ",
+      "body": "Excited to share an #AI-powered 3D tool from my group within NVIDIA Toronto AI Lab @NVIDIAAI, available in NVIDIA Omniverse today. Kudos Anita Hu and others on the launch! https://t.co/yoTkzyguZh",
+      "url": "https://x.com/_shumash/status/1580211033171378176",
+      "author": "262450682",
+      "published_at": "2022-10-12T14:57:23",
+      "observed_at": "2026-09-10T03:56:38.960239",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 66,
+        "views": 0,
+        "reposts": 15,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1560101688253587456",
+      "title": "Some great work from DGP lab at @UofT, with lots of potential applications! @diwlevin has a knack for making any representation work for the problem at hand",
+      "body": "Some great work from DGP lab at @UofT, with lots of potential applications! @diwlevin has a knack for making any representation work for the problem at hand",
+      "url": "https://x.com/_shumash/status/1560101688253587456",
+      "author": "262450682",
+      "published_at": "2022-08-18T03:10:02",
+      "observed_at": "2026-09-10T03:56:38.962712",
+      "metrics": {
+        "author_handle": "_shumash",
+        "author_followers": 429,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

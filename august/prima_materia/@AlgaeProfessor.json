@@ -1,0 +1,26 @@
+{
+  "handle": "AlgaeProfessor",
+  "total_tweets": 1,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1288490216534269954",
+      "title": "@algenuity @Unilever Great news !",
+      "body": "@algenuity @Unilever Great news !",
+      "url": "https://x.com/AlgaeProfessor/status/1288490216534269954",
+      "author": "1175786126260473857",
+      "published_at": "2020-07-29T15:03:01",
+      "observed_at": "2026-09-10T03:54:35.691318",
+      "metrics": {
+        "author_handle": "AlgaeProfessor",
+        "author_followers": 189,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

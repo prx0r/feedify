@@ -7,6 +7,7 @@ from pydantic import BaseModel, Field
 
 
 class NormalizedItem(BaseModel):
+    """Adapter output contract. Unchanged — adapters produce this."""
     source_type: str
     external_id: str
     title: str
@@ -18,18 +19,26 @@ class NormalizedItem(BaseModel):
     raw: dict[str, Any] = Field(default_factory=dict)
 
 
-class SignalDraft(BaseModel):
-    signal_type: str
-    domain: str = "general"
+class ObjectDraft(BaseModel):
+    """What the semantic compiler produces from an artifact.
+    Replaces SignalDraft. These become Objects in the graph."""
+    object_key: str
+    kind: str = "idea"
     title: str
     summary: str
-    why_it_matters: str = ""
-    novelty: float = 0.5
-    actionability: float = 0.5
-    source_proximity: float = 0.5
     confidence: float = 0.5
-    evidence_strength: float = 0.5
+    domain: str = "general"
     tags: list[str] = Field(default_factory=list)
+    metadata: dict[str, Any] = Field(default_factory=dict)
+
+
+class EdgeDraft(BaseModel):
+    """A relationship the compiler discovers between objects."""
+    source_key: str
+    target_key: str
+    relation: str = "related_to"
+    weight: float = 1.0
+    evidence_artifact_id: int | None = None
     metadata: dict[str, Any] = Field(default_factory=dict)
 
 

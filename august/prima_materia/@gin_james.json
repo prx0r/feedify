@@ -1,0 +1,596 @@
+{
+  "handle": "gin_james",
+  "total_tweets": 31,
+  "august_tweets": 4,
+  "tweets": [
+    {
+      "id": "2097772302364450859",
+      "title": "@dissproportion This backfired on me because now he's stopped eating things I want him to eat with claims that its spicy",
+      "body": "@dissproportion This backfired on me because now he's stopped eating things I want him to eat with claims that its spicy",
+      "url": "https://x.com/gin_james/status/2097772302364450859",
+      "author": "487719495",
+      "published_at": "2026-09-09T19:41:06",
+      "observed_at": "2026-09-10T03:54:26.829525",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 5,
+        "views": 1823,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097769135811792926",
+      "title": "Took 22 minutes vs 1hr+, some rough edges with compilation but that is ergonomics that could be fixed. Astra's final audit: zero Revit warnings. One random extr",
+      "body": "Took 22 minutes vs 1hr+, some rough edges with compilation but that is ergonomics that could be fixed. Astra's final audit: zero Revit warnings. One random extra rear balcony though!\nArchitecture by VIDA Architecture Visualization by https://t.co/rNb9OygOmu (2023) https://t.co/zYfXUvt4Sb",
+      "url": "https://x.com/gin_james/status/2097769135811792926",
+      "author": "487719495",
+      "published_at": "2026-09-09T19:28:31",
+      "observed_at": "2026-09-10T03:54:26.833575",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 0,
+        "views": 27,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097769130900287806",
+      "title": "Thought it would be interesting to put these same inputs through a code-mode Revit MCP we developed - would Astra prefer to write C# or be so generally post-tra",
+      "body": "Thought it would be interesting to put these same inputs through a code-mode Revit MCP we developed - would Astra prefer to write C# or be so generally post-trained for computer use that it's better using the UI? I can't gauge the full quality of the model but seems like C# wins https://t.co/E86YlFLYmu",
+      "url": "https://x.com/gin_james/status/2097769130900287806",
+      "author": "487719495",
+      "published_at": "2026-09-09T19:28:30",
+      "observed_at": "2026-09-10T03:54:26.839266",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 0,
+        "views": 142,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097673061210132677",
+      "title": "I particularly like the fact that this rediscovers that solving problems set by a teacher is better for learning than reading solutions, and I wonder what other",
+      "body": "I particularly like the fact that this rediscovers that solving problems set by a teacher is better for learning than reading solutions, and I wonder what other kind of pedagogical analogies could work, eg the best teachers actively fix your misconceptions with directed problems",
+      "url": "https://x.com/gin_james/status/2097673061210132677",
+      "author": "487719495",
+      "published_at": "2026-09-09T13:06:45",
+      "observed_at": "2026-09-10T03:54:26.843741",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 12,
+        "views": 919,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097600608702202049",
+      "title": "@wgilpin0 This feels like it relates to the fractured entangled hypothesis in some way, in that the way we train does not lean towards factored representations ",
+      "body": "@wgilpin0 This feels like it relates to the fractured entangled hypothesis in some way, in that the way we train does not lean towards factored representations - imagine if it did!",
+      "url": "https://x.com/gin_james/status/2097600608702202049",
+      "author": "487719495",
+      "published_at": "2026-09-09T08:18:51",
+      "observed_at": "2026-09-10T03:54:26.846504",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 3,
+        "views": 1116,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097593447842468004",
+      "title": "@kim__minseon The scale of the result is quite surprising, shows how much we're leaving on the table and how wasteful naive RLVR is without considering curricul",
+      "body": "@kim__minseon The scale of the result is quite surprising, shows how much we're leaving on the table and how wasteful naive RLVR is without considering curriculum. Solving teacher puzzles &gt; reading teacher answers! Any experiments with bigger models coming?",
+      "url": "https://x.com/gin_james/status/2097593447842468004",
+      "author": "487719495",
+      "published_at": "2026-09-09T07:50:24",
+      "observed_at": "2026-09-10T03:54:26.849884",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 148,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097450188117852611",
+      "title": "@seanw_m I'd be interested to know if manipulating Revit over .NET/COM produces better results. I've made a custom MCP which does this. If you have sharable inp",
+      "body": "@seanw_m I'd be interested to know if manipulating Revit over .NET/COM produces better results. I've made a custom MCP which does this. If you have sharable input files I can run a comparison? DM's open!",
+      "url": "https://x.com/gin_james/status/2097450188117852611",
+      "author": "487719495",
+      "published_at": "2026-09-08T22:21:08",
+      "observed_at": "2026-09-10T03:54:26.852183",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 0,
+        "views": 104,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097275754232885347",
+      "title": "Astra has finally solved a long running problem for me, over which I had so far spent many tokens unsuccessfully with all previous models: Go directly from prod",
+      "body": "Astra has finally solved a long running problem for me, over which I had so far spent many tokens unsuccessfully with all previous models: Go directly from production datacenter CAD geometry to simplified geometry and stable, correct CFD simulations",
+      "url": "https://x.com/gin_james/status/2097275754232885347",
+      "author": "487719495",
+      "published_at": "2026-09-08T10:47:59",
+      "observed_at": "2026-09-10T03:54:26.853753",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 102,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096641344915566796",
+      "title": "Long running scientific tasks benefit hugely from external structuring, and graphs are a great way to do that. CurieOS automatically structures tasks with DAGs ",
+      "body": "Long running scientific tasks benefit hugely from external structuring, and graphs are a great way to do that. CurieOS automatically structures tasks with DAGs behind the scenes for coherence in the hardest scientific and engineering problems",
+      "url": "https://x.com/gin_james/status/2096641344915566796",
+      "author": "487719495",
+      "published_at": "2026-09-06T16:47:04",
+      "observed_at": "2026-09-10T03:54:26.855765",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 8,
+        "views": 8205,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094143817519608186",
+      "title": "Microduck makes me feel like the latent demand for delightful interactions with new kinds of robotic beings is high. The world is going to need more Imagineers.",
+      "body": "Microduck makes me feel like the latent demand for delightful interactions with new kinds of robotic beings is high. The world is going to need more Imagineers.",
+      "url": "https://x.com/gin_james/status/2094143817519608186",
+      "author": "487719495",
+      "published_at": "2026-08-30T19:22:48",
+      "observed_at": "2026-09-10T03:54:26.856929",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 3,
+        "views": 156,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090544026382393692",
+      "title": "@eliebakouch I wonder if Jensen sees this as an opportunity to have a clear number one western open source model ahead of a US crackdown on Chinese alternatives",
+      "body": "@eliebakouch I wonder if Jensen sees this as an opportunity to have a clear number one western open source model ahead of a US crackdown on Chinese alternatives",
+      "url": "https://x.com/gin_james/status/2090544026382393692",
+      "author": "487719495",
+      "published_at": "2026-08-20T20:58:30",
+      "observed_at": "2026-09-10T03:54:26.857901",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 5,
+        "views": 759,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089074774949454203",
+      "title": "@NandoDF @inherent_labs @Orbital_Ind @cusp_ai @wellingmax @ac_edwards_1 Agreed this is great progress and interesting for us at @Orbital_Ind, I particularly lik",
+      "body": "@NandoDF @inherent_labs @Orbital_Ind @cusp_ai @wellingmax @ac_edwards_1 Agreed this is great progress and interesting for us at @Orbital_Ind, I particularly like the way they have set up the learning problem here. We\u2019re also interested in steering approaches as having longevity in the current environment",
+      "url": "https://x.com/gin_james/status/2089074774949454203",
+      "author": "487719495",
+      "published_at": "2026-08-16T19:40:14",
+      "observed_at": "2026-09-10T03:54:26.858902",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 4,
+        "views": 223,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083687256221474891",
+      "title": "Tried out the @mattshumer_ gauntlet loop and got 90% there on this realistic skiing game. A few more prompts to add real life pistes + tree cover generated from",
+      "body": "Tried out the @mattshumer_ gauntlet loop and got 90% there on this realistic skiing game. A few more prompts to add real life pistes + tree cover generated from 1m resolution lidar data! This is recognisably a run I know well in Morillon, France. Personal software on-tap is fun https://t.co/xTvS49QLse",
+      "url": "https://x.com/gin_james/status/2083687256221474891",
+      "author": "487719495",
+      "published_at": "2026-08-01T22:52:09",
+      "observed_at": "2026-09-10T03:54:26.861429",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 4,
+        "views": 178,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "1991942007535841598",
+      "title": "Fantastic to see an MP bring this kind of energy, and refreshing to see a minister getting hands-on with their portfolio. Captures the vibes without being cring",
+      "body": "Fantastic to see an MP bring this kind of energy, and refreshing to see a minister getting hands-on with their portfolio. Captures the vibes without being cringe too, well done",
+      "url": "https://x.com/gin_james/status/1991942007535841598",
+      "author": "487719495",
+      "published_at": "2025-11-21T18:49:17",
+      "observed_at": "2026-09-10T03:54:26.863882",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 255,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1987793981153960232",
+      "title": "This great @RuxandraTeslo post about drug discovery applies directly to material discovery. Better hypotheses not more hypotheses. The equivalent of human trial",
+      "body": "This great @RuxandraTeslo post about drug discovery applies directly to material discovery. Better hypotheses not more hypotheses. The equivalent of human trials for materials is scaling it to economic viability, which is harder than finding good candidates",
+      "url": "https://x.com/gin_james/status/1987793981153960232",
+      "author": "487719495",
+      "published_at": "2025-11-10T08:06:31",
+      "observed_at": "2026-09-10T03:54:26.865258",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 5,
+        "views": 1707,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1984729764591009823",
+      "title": "Fighting over a shrinking pie is the cause of much of the UK's political and social woes, but as Matt reminds us - we have the talent and human capital to grow ",
+      "body": "Fighting over a shrinking pie is the cause of much of the UK's political and social woes, but as Matt reminds us - we have the talent and human capital to grow it. It's just a matter of will. So... where can I vote for this?",
+      "url": "https://x.com/gin_james/status/1984729764591009823",
+      "author": "487719495",
+      "published_at": "2025-11-01T21:10:25",
+      "observed_at": "2026-09-10T03:54:26.866300",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 174,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1937244856902123624",
+      "title": "Great leaderboards challenge the whole field to move faster. Thanks to all the authors on Matbench Discovery for your contributions!",
+      "body": "Great leaderboards challenge the whole field to move faster. Thanks to all the authors on Matbench Discovery for your contributions!",
+      "url": "https://x.com/gin_james/status/1937244856902123624",
+      "author": "487719495",
+      "published_at": "2025-06-23T20:22:20",
+      "observed_at": "2026-09-10T03:54:26.867320",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 2,
+        "views": 240,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1905193317396099371",
+      "title": "@lab_COSMO We\u2019re on it!",
+      "body": "@lab_COSMO We\u2019re on it!",
+      "url": "https://x.com/gin_james/status/1905193317396099371",
+      "author": "487719495",
+      "published_at": "2025-03-27T09:40:58",
+      "observed_at": "2026-09-10T03:54:26.868325",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 2,
+        "views": 147,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1843647685079015432",
+      "title": "Congrats to @geoffreyhinton and @HopfieldJohn on their historic Nobel Prize win! Excited to see the Nobel Committee focus on deep learning applications in physi",
+      "body": "Congrats to @geoffreyhinton and @HopfieldJohn on their historic Nobel Prize win! Excited to see the Nobel Committee focus on deep learning applications in physics/chemistry. You can play around with Orb, the SOTA model for this, because we open sourced it! https://t.co/IthQtOePmb",
+      "url": "https://x.com/gin_james/status/1843647685079015432",
+      "author": "487719495",
+      "published_at": "2024-10-08T13:40:36",
+      "observed_at": "2026-09-10T03:54:26.869285",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 2,
+        "views": 368,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1611424313437204481",
+      "title": "Didn't find time to finish my tweet organising project last year \ud83d\ude48 This year here's how I've started using @obsdmd and @ReadwiseReader to capture and organise t",
+      "body": "Didn't find time to finish my tweet organising project last year \ud83d\ude48 This year here's how I've started using @obsdmd and @ReadwiseReader to capture and organise tweets, articles and more:",
+      "url": "https://x.com/gin_james/status/1611424313437204481",
+      "author": "487719495",
+      "published_at": "2023-01-06T18:07:49",
+      "observed_at": "2026-09-10T03:54:26.871965",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 162,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1492801628453355520",
+      "title": "@PaddyMaths @GabSutton @Davefevs 4 good shots means 4 attacking possessions reducing enemy possession time and therefore probably having an outsize effect on wi",
+      "body": "@PaddyMaths @GabSutton @Davefevs 4 good shots means 4 attacking possessions reducing enemy possession time and therefore probably having an outsize effect on win %",
+      "url": "https://x.com/gin_james/status/1492801628453355520",
+      "author": "487719495",
+      "published_at": "2022-02-13T10:03:37",
+      "observed_at": "2026-09-10T03:54:26.873583",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 0,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1480243261239402500",
+      "title": "\u2705 Initial front-end set-up - @nextjs to get up and running quickly, and as it's not my strong suit I need a good component library, @chakra_ui to the rescue! ht",
+      "body": "\u2705 Initial front-end set-up - @nextjs to get up and running quickly, and as it's not my strong suit I need a good component library, @chakra_ui to the rescue! https://t.co/DdrKBdMSoE",
+      "url": "https://x.com/gin_james/status/1480243261239402500",
+      "author": "487719495",
+      "published_at": "2022-01-09T18:21:09",
+      "observed_at": "2026-09-10T03:54:26.875785",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 5,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1480243259133906950",
+      "title": "\u2705 Initial API set-up - @FastAPI makes API development super fast with built in type checking and auto-docs via swagger. This cookie-cutter project is a great re",
+      "body": "\u2705 Initial API set-up - @FastAPI makes API development super fast with built in type checking and auto-docs via swagger. This cookie-cutter project is a great resource https://t.co/4LkAbspJtZ",
+      "url": "https://x.com/gin_james/status/1480243259133906950",
+      "author": "487719495",
+      "published_at": "2022-01-09T18:21:09",
+      "observed_at": "2026-09-10T03:54:26.877309",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1364991667518980097",
+      "title": "@MarkNeumannnn Perhaps create a second API which just hosts the models and have them talk to each other",
+      "body": "@MarkNeumannnn Perhaps create a second API which just hosts the models and have them talk to each other",
+      "url": "https://x.com/gin_james/status/1364991667518980097",
+      "author": "487719495",
+      "published_at": "2021-02-25T17:32:28",
+      "observed_at": "2026-09-10T03:54:26.879343",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1331863110710407168",
+      "title": "@mat_kelcey A fun new classical baseline to be aware of! https://t.co/10Wz8s4wYo",
+      "body": "@mat_kelcey A fun new classical baseline to be aware of! https://t.co/10Wz8s4wYo",
+      "url": "https://x.com/gin_james/status/1331863110710407168",
+      "author": "487719495",
+      "published_at": "2020-11-26T07:31:25",
+      "observed_at": "2026-09-10T03:54:26.881301",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 0,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1319816174239178752",
+      "title": "@MarkNeumannnn @yoavgo We just did this in our journal club! https://t.co/aycT7AUE8J and implementation here https://t.co/PFQSgLJLuS",
+      "body": "@MarkNeumannnn @yoavgo We just did this in our journal club! https://t.co/aycT7AUE8J and implementation here https://t.co/PFQSgLJLuS",
+      "url": "https://x.com/gin_james/status/1319816174239178752",
+      "author": "487719495",
+      "published_at": "2020-10-24T01:41:11",
+      "observed_at": "2026-09-10T03:54:26.882277",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1263517900306026503",
+      "title": "@sleepinyourhat We set up paper reading clubs, and have experimented with 10% time and set departmental moonshot projects to make sure we're always testing new ",
+      "body": "@sleepinyourhat We set up paper reading clubs, and have experimented with 10% time and set departmental moonshot projects to make sure we're always testing new things. Mainly driven by employee suggestions, so speak to your team/manager, they may also be worried about it!",
+      "url": "https://x.com/gin_james/status/1263517900306026503",
+      "author": "487719495",
+      "published_at": "2020-05-21T17:11:57",
+      "observed_at": "2026-09-10T03:54:26.883222",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 6,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1044833853733576706",
+      "title": "@DynamicWebPaige Also beware the reverse and hard to spot \u2018accidental hanging comma made it a tuple bug\u2019",
+      "body": "@DynamicWebPaige Also beware the reverse and hard to spot \u2018accidental hanging comma made it a tuple bug\u2019",
+      "url": "https://x.com/gin_james/status/1044833853733576706",
+      "author": "487719495",
+      "published_at": "2018-09-26T06:19:37",
+      "observed_at": "2026-09-10T03:54:26.885311",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "961123703185727488",
+      "title": "@pamelafox @jeremyphoward Cognitive shuffle also surprisingly effective! https://t.co/x4a6kV1ajB",
+      "body": "@pamelafox @jeremyphoward Cognitive shuffle also surprisingly effective! https://t.co/x4a6kV1ajB",
+      "url": "https://x.com/gin_james/status/961123703185727488",
+      "author": "487719495",
+      "published_at": "2018-02-07T06:25:22",
+      "observed_at": "2026-09-10T03:54:26.886648",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "933381266556243968",
+      "title": "@KikiLeutner LIME (https://t.co/CjpjICWBCH) has an open source implementation https://t.co/F6VE1CPIBe and looks very promising",
+      "body": "@KikiLeutner LIME (https://t.co/CjpjICWBCH) has an open source implementation https://t.co/F6VE1CPIBe and looks very promising",
+      "url": "https://x.com/gin_james/status/933381266556243968",
+      "author": "487719495",
+      "published_at": "2017-11-22T17:06:49",
+      "observed_at": "2026-09-10T03:54:26.887698",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "907501519959928832",
+      "title": "@betatim How about (a &gt; b) &amp; (~np.allclose(a, b))?",
+      "body": "@betatim How about (a &gt; b) &amp; (~np.allclose(a, b))?",
+      "url": "https://x.com/gin_james/status/907501519959928832",
+      "author": "487719495",
+      "published_at": "2017-09-12T07:09:57",
+      "observed_at": "2026-09-10T03:54:26.888491",
+      "metrics": {
+        "author_handle": "gin_james",
+        "author_followers": 406,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

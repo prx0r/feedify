@@ -1,0 +1,520 @@
+{
+  "handle": "theanalognick",
+  "total_tweets": 27,
+  "august_tweets": 2,
+  "tweets": [
+    {
+      "id": "2094656258314010908",
+      "title": "@jasonschips https://t.co/0M16A1JSmG\n\nPhotonic Interposer. Racked and stacked for well over a year.\n\n114 Tbps per chip. 32 TSMC N5 die 3D stacked on Passage M-S",
+      "body": "@jasonschips https://t.co/0M16A1JSmG\n\nPhotonic Interposer. Racked and stacked for well over a year.\n\n114 Tbps per chip. 32 TSMC N5 die 3D stacked on Passage M-Series.\n\nPhotonic Interposer.",
+      "url": "https://x.com/theanalognick/status/2094656258314010908",
+      "author": "1100392388265238528",
+      "published_at": "2026-09-01T05:19:03",
+      "observed_at": "2026-09-10T03:53:51.182978",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 3,
+        "views": 197,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094642034086920248",
+      "title": "@semivision_tw LM has it today. Check out our YouTube channel to see how it\u2019s built.",
+      "body": "@semivision_tw LM has it today. Check out our YouTube channel to see how it\u2019s built.",
+      "url": "https://x.com/theanalognick/status/2094642034086920248",
+      "author": "1100392388265238528",
+      "published_at": "2026-09-01T04:22:32",
+      "observed_at": "2026-09-10T03:53:51.188012",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 4,
+        "views": 3211,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2090273297338597874",
+      "title": "@haider1 @JeffDean you are very special. The world is lucky to have you.",
+      "body": "@haider1 @JeffDean you are very special. The world is lucky to have you.",
+      "url": "https://x.com/theanalognick/status/2090273297338597874",
+      "author": "1100392388265238528",
+      "published_at": "2026-08-20T03:02:44",
+      "observed_at": "2026-09-10T03:53:51.189660",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 4,
+        "views": 701,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088003167690936634",
+      "title": "This is a big deal. We're working with our 19 world-class industry partners to define the future of AI data centers with photonics.\n\nWe're moving towards creati",
+      "body": "This is a big deal. We're working with our 19 world-class industry partners to define the future of AI data centers with photonics.\n\nWe're moving towards creating the gold-standard for what photonics-enabled racks will look like\n\n#cpo #npo #photonicinterposer #lightmatter",
+      "url": "https://x.com/theanalognick/status/2088003167690936634",
+      "author": "1100392388265238528",
+      "published_at": "2026-08-13T20:42:03",
+      "observed_at": "2026-09-10T03:53:51.190940",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 15,
+        "views": 1017,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2077943446409797776",
+      "title": "@shaunmmaguire This is literally 16 of Lightmatter\u2019s chips.",
+      "body": "@shaunmmaguire This is literally 16 of Lightmatter\u2019s chips.",
+      "url": "https://x.com/theanalognick/status/2077943446409797776",
+      "author": "1100392388265238528",
+      "published_at": "2026-07-17T02:28:18",
+      "observed_at": "2026-09-10T03:53:51.194972",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 8,
+        "views": 415,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2018485230987039143",
+      "title": "We just announced Guide\u2014the industry's first VLSP light engine. Today's lasers are built like lab setups: discrete lenses, epoxy bonds, manual assembly. Instead",
+      "body": "We just announced Guide\u2014the industry's first VLSP light engine. Today's lasers are built like lab setups: discrete lenses, epoxy bonds, manual assembly. Instead of scaling bandwidth by bolting on more ELSFPs, we integrated everything into a single photonic chip. 16\u03bb, \u00b120 GHz wavelength accuracy, powering 100 Tbps of I/O in 1RU.\n\nWe're also building out the CPO ecosystem. Announcing partnerships with GUC, Synopsys, and Cadence.\n\nhttps://t.co/OfrfTkFvqY",
+      "url": "https://x.com/theanalognick/status/2018485230987039143",
+      "author": "1100392388265238528",
+      "published_at": "2026-02-03T00:42:35",
+      "observed_at": "2026-09-10T03:53:51.196175",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 36,
+        "views": 1689,
+        "reposts": 6,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1957509362597130582",
+      "title": "https://t.co/0bdf3vtVmW\n\nPassage M1000.  A breakthrough in photonic interconnect and advanced packaging.\n\nCheck it out!",
+      "body": "https://t.co/0bdf3vtVmW\n\nPassage M1000.  A breakthrough in photonic interconnect and advanced packaging.\n\nCheck it out!",
+      "url": "https://x.com/theanalognick/status/1957509362597130582",
+      "author": "1100392388265238528",
+      "published_at": "2025-08-18T18:26:15",
+      "observed_at": "2026-09-10T03:53:51.202459",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 14,
+        "views": 1541,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1957508493143077314",
+      "title": "https://t.co/Qo0apgj7Vt\n\nA preview of one of our production-ready photonic link architectures.\n\nFour times faster per fiber than any other link. Less fiber to m",
+      "body": "https://t.co/Qo0apgj7Vt\n\nA preview of one of our production-ready photonic link architectures.\n\nFour times faster per fiber than any other link. Less fiber to manage. More performance. Faster time-to-train.\n\n16 wavelengths/colors of light traveling per fiber\u20148 in each direction. Maximize your radix and bandwidth with Lightmatter bidi.\n\nStrap in for groundbreaking, product-ready photonics released at an unreasonable rate.",
+      "url": "https://x.com/theanalognick/status/1957508493143077314",
+      "author": "1100392388265238528",
+      "published_at": "2025-08-18T18:22:48",
+      "observed_at": "2026-09-10T03:53:51.206553",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 19,
+        "views": 2425,
+        "reposts": 4,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1941286390798704713",
+      "title": "@mazeincoding You can\u2019t have both high signal and high noise\u2026",
+      "body": "@mazeincoding You can\u2019t have both high signal and high noise\u2026",
+      "url": "https://x.com/theanalognick/status/1941286390798704713",
+      "author": "1100392388265238528",
+      "published_at": "2025-07-05T00:01:57",
+      "observed_at": "2026-09-10T03:53:51.209732",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 1,
+        "views": 563,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1916665521929596951",
+      "title": "@ALScyborg @neuralink @elonmusk This is absolutely amazing. I am so happy for you.",
+      "body": "@ALScyborg @neuralink @elonmusk This is absolutely amazing. I am so happy for you.",
+      "url": "https://x.com/theanalognick/status/1916665521929596951",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-28T01:27:25",
+      "observed_at": "2026-09-10T03:53:51.210479",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 1,
+        "views": 276,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1910753457625281009",
+      "title": "@jor0s3n https://t.co/AUkE8swJl9",
+      "body": "@jor0s3n https://t.co/AUkE8swJl9",
+      "url": "https://x.com/theanalognick/status/1910753457625281009",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-11T17:54:59",
+      "observed_at": "2026-09-10T03:53:51.211116",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 2,
+        "views": 124,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1910750994444828847",
+      "title": "@RajaXg Hey Raja, the chip actually runs at 200 TFLOPS, but there\u2019s a timing bug that induces intermittent errors. Easily fixable.",
+      "body": "@RajaXg Hey Raja, the chip actually runs at 200 TFLOPS, but there\u2019s a timing bug that induces intermittent errors. Easily fixable.",
+      "url": "https://x.com/theanalognick/status/1910750994444828847",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-11T17:45:11",
+      "observed_at": "2026-09-10T03:53:51.211732",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 6,
+        "views": 491,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1910748706242175446",
+      "title": "@jor0s3n Ready now. Amkor, ASE, GlobalFoundries, and other unannounced partners. We\u2019re already shipping.",
+      "body": "@jor0s3n Ready now. Amkor, ASE, GlobalFoundries, and other unannounced partners. We\u2019re already shipping.",
+      "url": "https://x.com/theanalognick/status/1910748706242175446",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-11T17:36:06",
+      "observed_at": "2026-09-10T03:53:51.212362",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 3,
+        "views": 185,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1910746599741161874",
+      "title": "Shattering speed records with L200 and M1000.\n\n3D CPO/Interposer years before the market believed it was possible.",
+      "body": "Shattering speed records with L200 and M1000.\n\n3D CPO/Interposer years before the market believed it was possible.",
+      "url": "https://x.com/theanalognick/status/1910746599741161874",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-11T17:27:43",
+      "observed_at": "2026-09-10T03:53:51.212994",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 21,
+        "views": 2595,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1910475303304286352",
+      "title": "@techtodaypod @LightmatterCo Great to be on!",
+      "body": "@techtodaypod @LightmatterCo Great to be on!",
+      "url": "https://x.com/theanalognick/status/1910475303304286352",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-10T23:29:41",
+      "observed_at": "2026-09-10T03:53:51.213608",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 1,
+        "views": 34,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1909994294515208368",
+      "title": "At Lightmatter, we're not just connecting 1 million XPU datacenters together using light. We're committed to ensuring that computational progress continues, eve",
+      "body": "At Lightmatter, we're not just connecting 1 million XPU datacenters together using light. We're committed to ensuring that computational progress continues, even when Moore's Law and Dennard Scaling are gone.\n\nOur publication in @Nature highlights one possible path for computing\u2014using Light. If you love computers, as I do, you will appreciate the historical significance of this result. This is the first non-transistor computer capable of running economically valuable algorithms (not proof-of-life toy problems).\n\nJoin the team that is shaping the future of computing.\n\nhttps://t.co/TPaQEt1pY9",
+      "url": "https://x.com/theanalognick/status/1909994294515208368",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-09T15:38:20",
+      "observed_at": "2026-09-10T03:53:51.214288",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 41,
+        "views": 2917,
+        "reposts": 6,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1907949431133188522",
+      "title": "@shaunmmaguire Point here is that gold is the more valid normalization?",
+      "body": "@shaunmmaguire Point here is that gold is the more valid normalization?",
+      "url": "https://x.com/theanalognick/status/1907949431133188522",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-04T00:12:47",
+      "observed_at": "2026-09-10T03:53:51.215733",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 3,
+        "views": 654,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1907862346305085567",
+      "title": "@tbpn @LightmatterCo Great questions. An exciting time to be building hardware at @LightmatterCo !",
+      "body": "@tbpn @LightmatterCo Great questions. An exciting time to be building hardware at @LightmatterCo !",
+      "url": "https://x.com/theanalognick/status/1907862346305085567",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-03T18:26:44",
+      "observed_at": "2026-09-10T03:53:51.216595",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 8,
+        "views": 1393,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1907501891816403413",
+      "title": "@tbpn see you guys in a couple hours. Let's talk about light!",
+      "body": "@tbpn see you guys in a couple hours. Let's talk about light!",
+      "url": "https://x.com/theanalognick/status/1907501891816403413",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-02T18:34:25",
+      "observed_at": "2026-09-10T03:53:51.217252",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 5,
+        "views": 1294,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1907458669513707634",
+      "title": "@jwt0625 Go visit the Lightmatter booth",
+      "body": "@jwt0625 Go visit the Lightmatter booth",
+      "url": "https://x.com/theanalognick/status/1907458669513707634",
+      "author": "1100392388265238528",
+      "published_at": "2025-04-02T15:42:40",
+      "observed_at": "2026-09-10T03:53:51.217936",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 4,
+        "views": 219,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1866086604214776097",
+      "title": "@pr0t0_01 With Passage, we increase the bandwidth per unit area, enable a roadmap for increasingly large chips, decrease latency, and vastly increase the number",
+      "body": "@pr0t0_01 With Passage, we increase the bandwidth per unit area, enable a roadmap for increasingly large chips, decrease latency, and vastly increase the number of chips that can be directly connected.",
+      "url": "https://x.com/theanalognick/status/1866086604214776097",
+      "author": "1100392388265238528",
+      "published_at": "2024-12-09T11:44:51",
+      "observed_at": "2026-09-10T03:53:51.218539",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 2,
+        "views": 138,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865883147658780969",
+      "title": "@IanCutress @nvidia Remind you of anything, @IanCutress ?",
+      "body": "@IanCutress @nvidia Remind you of anything, @IanCutress ?",
+      "url": "https://x.com/theanalognick/status/1865883147658780969",
+      "author": "1100392388265238528",
+      "published_at": "2024-12-08T22:16:23",
+      "observed_at": "2026-09-10T03:53:51.219932",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 5,
+        "views": 1369,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1862716664531624436",
+      "title": "@GillVerd Highlighting an unfinished challenge as an achievement can come across as seeking validation for effort without accomplishment, undermining the respec",
+      "body": "@GillVerd Highlighting an unfinished challenge as an achievement can come across as seeking validation for effort without accomplishment, undermining the respect commanded by those who have the grit to see it through.",
+      "url": "https://x.com/theanalognick/status/1862716664531624436",
+      "author": "1100392388265238528",
+      "published_at": "2024-11-30T04:33:55",
+      "observed_at": "2026-09-10T03:53:51.220774",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 2,
+        "views": 101,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1796023820152660192",
+      "title": "@elonmusk @GavinSBaker You need Lightmatter Passage for Dojo @elonmusk . We can give you your wafer-scale chip and the optics all in one go.",
+      "body": "@elonmusk @GavinSBaker You need Lightmatter Passage for Dojo @elonmusk . We can give you your wafer-scale chip and the optics all in one go.",
+      "url": "https://x.com/theanalognick/status/1796023820152660192",
+      "author": "1100392388265238528",
+      "published_at": "2024-05-30T03:40:21",
+      "observed_at": "2026-09-10T03:53:51.221401",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 5,
+        "views": 512,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1767484256048025651",
+      "title": "@liron @BasedBeffJezos I\u2019m a bit confused on the positioning of the idea. This isn\u2019t a new field. The other piece is that the hardware concept requires major ch",
+      "body": "@liron @BasedBeffJezos I\u2019m a bit confused on the positioning of the idea. This isn\u2019t a new field. The other piece is that the hardware concept requires major changes to algorithms. It will be indescribably hard to simultaneously execute on this hardware program and get SW to follow them.",
+      "url": "https://x.com/theanalognick/status/1767484256048025651",
+      "author": "1100392388265238528",
+      "published_at": "2024-03-12T09:34:19",
+      "observed_at": "2026-09-10T03:53:51.222981",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 2,
+        "views": 367,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1634356360337846274",
+      "title": "@KohlenSchaufler @JasonYanowitz @haralabob @garrytan Hard to fathom how dense this comment is.",
+      "body": "@KohlenSchaufler @JasonYanowitz @haralabob @garrytan Hard to fathom how dense this comment is.",
+      "url": "https://x.com/theanalognick/status/1634356360337846274",
+      "author": "1100392388265238528",
+      "published_at": "2023-03-11T00:51:35",
+      "observed_at": "2026-09-10T03:53:51.223642",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 3,
+        "views": 72,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1534513461853671424",
+      "title": "@verge Not attractive.",
+      "body": "@verge Not attractive.",
+      "url": "https://x.com/theanalognick/status/1534513461853671424",
+      "author": "1100392388265238528",
+      "published_at": "2022-06-08T12:31:33",
+      "observed_at": "2026-09-10T03:53:51.224360",
+      "metrics": {
+        "author_handle": "theanalognick",
+        "author_followers": 1402,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

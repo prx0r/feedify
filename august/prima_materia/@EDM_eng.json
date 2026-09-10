@@ -1,0 +1,444 @@
+{
+  "handle": "EDM_eng",
+  "total_tweets": 23,
+  "august_tweets": 2,
+  "tweets": [
+    {
+      "id": "2097629594517971299",
+      "title": "High-Frequency 100 V GaN Motor Drives Push Low-Voltage Motion Control to the Next Level \n\nRapid growth in industrial automation, collaborative robots, autonomou",
+      "body": "High-Frequency 100 V GaN Motor Drives Push Low-Voltage Motion Control to the Next Level \n\nRapid growth in industrial automation, collaborative robots, autonomous mobile robots (AMRs), drones, and precision servo systems is driving the need for a new generation of low-voltage motor drives to deliver higher efficiency, greater power density, and improved dynamic performance. In the past, silicon MOSFETs were the most common switching technology for this voltage range, but nowadays, gallium nitride (GaN) power devices enable inverter architectures that can operate at much higher switching frequencies, improving motor efficiency without the efficiency penalties traditionally associated with silicon.\n\nMotor drive design requirements are different from data center power converters, as they must simultaneously optimize several performance parameters. In addition to efficiency, design optimization must also account for low torque ripple, low acoustic noise, high current-loop bandwidth, low electromagnetic interference (EMI), complex thermal management, and overall reduced system size. Recent 100 V GaN power stages show the possibility to simultaneously meet these objectives by carefully optimizing the power devices as well as the surrounding system architecture.  #GaN #Motorcontrol #powerelectronics \n\nRead full article:  https://t.co/IYw3nxRX5q",
+      "url": "https://x.com/EDM_eng/status/2097629594517971299",
+      "author": "420911833",
+      "published_at": "2026-09-09T10:14:02",
+      "observed_at": "2026-09-10T03:54:15.461114",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 1,
+        "views": 37,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095791539330912489",
+      "title": "Episil and EPC: Pushing the Boundaries of GaN Power Manufacturing \n\nIn this interview, Episil Group chairman JH Shyu discusses the company\u2019s role as a GaN found",
+      "body": "Episil and EPC: Pushing the Boundaries of GaN Power Manufacturing \n\nIn this interview, Episil Group chairman JH Shyu discusses the company\u2019s role as a GaN foundry partner to EPC. He outlines key challenges in GaN manufacturing, including thermal management, dynamic Rds(on) degradation, EMI, and reliability for both AI servers and automotive applications. Shyu highlights scaling from 6\u2011inch to 8\u2011 and 12\u2011inch wafers, the transition toward vertical GaN, and the integration of all\u2011in\u2011one GaN power ICs as major milestones reshaping the power electronics industry.  #Manufacturing, #EPC #GaN #Industry #Business \n\nVideo link: https://t.co/5rvNzggidl",
+      "url": "https://x.com/EDM_eng/status/2095791539330912489",
+      "author": "420911833",
+      "published_at": "2026-09-04T08:30:15",
+      "observed_at": "2026-09-10T03:54:15.467438",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 0,
+        "views": 56,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2092393770226495784",
+      "title": "Interview: EPC Execs Discuss GaN Technology and Solutions at PCIM Asia.\n\n\u201cEveryone knows the market's buzz is AI, and we're certainly part of that,\u201d Nick Catald",
+      "body": "Interview: EPC Execs Discuss GaN Technology and Solutions at PCIM Asia.\n\n\u201cEveryone knows the market's buzz is AI, and we're certainly part of that,\u201d Nick Cataldo said. \u201cAnd the humanoid robotic market has evolved into a major market, which everyone knows there's great opportunities ahead for solutions for robotics.\u201d\n\n[...]\n\nAlex Lidow sees the evolution of AI power architecture extending from data center infrastructure all the way to the GPU. He predicts a future in which 800-V DC power is delivered to servers, with silicon carbide handling higher-voltage conversion and GaN taking over closer to the processor. \n\nRead the full Interview: https://t.co/xSjP4NDbk1",
+      "url": "https://x.com/EDM_eng/status/2092393770226495784",
+      "author": "420911833",
+      "published_at": "2026-08-25T23:28:44",
+      "observed_at": "2026-09-10T03:54:15.474428",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 54,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087485063478796706",
+      "title": "What an honor to meet two of the best foundries in Taiwan! Great discussions, and many thanks for your friendship, warm welcome, and availability. Keep in touch",
+      "body": "What an honor to meet two of the best foundries in Taiwan! Great discussions, and many thanks for your friendship, warm welcome, and availability. Keep in touch!  #GaN https://t.co/QAt5EqXTBD",
+      "url": "https://x.com/EDM_eng/status/2087485063478796706",
+      "author": "420911833",
+      "published_at": "2026-08-12T10:23:17",
+      "observed_at": "2026-09-10T03:54:15.476228",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 50,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2062156209872834672",
+      "title": "When high voltage meets real loads: Rethinking HV-LV power conversion in electrified platforms \n\nMany of these architectural developments are being fast-tracked",
+      "body": "When high voltage meets real loads: Rethinking HV-LV power conversion in electrified platforms \n\nMany of these architectural developments are being fast-tracked through collaborations between semiconductor suppliers and converter specialists. For example, a collaboration between EPC and BrightLoop resulted in the co-engineering of high-power HV-LV conversion platforms using enhancement-mode GaN devices.  #GaN #EPC #powerconversion\n\nRead the full article: https://t.co/pammRQSHWA",
+      "url": "https://x.com/EDM_eng/status/2062156209872834672",
+      "author": "420911833",
+      "published_at": "2026-06-03T12:55:28",
+      "observed_at": "2026-09-10T03:54:15.479458",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 37,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041863714303828144",
+      "title": "In a recent episode of the GaN Talk Podcast, Maurizio Di Paolo Emilio explored the JetFleet G18 drone and e-bike platform, showcasing how gallium nitride (GaN) ",
+      "body": "In a recent episode of the GaN Talk Podcast, Maurizio Di Paolo Emilio explored the JetFleet G18 drone and e-bike platform, showcasing how gallium nitride (GaN) technology enables higher power density and efficiency in electric propulsion. JetFleet founder Jernej Fajdiga described the G18 inverter architecture based on EPC2304 GaN FETs and addressed key challenges such as thermal management and current sharing. He also highlighted the benefits of higher switching frequencies, including reduced motor noise and improved efficiency, and outlined future plans to integrate GaN inverters directly into motors for lighter, more compact propulsion systems. \n\nListen to the Podcast:  https://t.co/JW026Uim59  #GaN  #drone #ebike",
+      "url": "https://x.com/EDM_eng/status/2041863714303828144",
+      "author": "420911833",
+      "published_at": "2026-04-08T13:00:20",
+      "observed_at": "2026-09-10T03:54:15.481506",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 46,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041188531230372090",
+      "title": "Marco Palma,  Director, Motor Drives Systems and Applications at Efficient Power Conversion (#EPC), presents how gallium nitride (GaN) inverters are transformin",
+      "body": "Marco Palma,  Director, Motor Drives Systems and Applications at Efficient Power Conversion (#EPC), presents how gallium nitride (GaN) inverters are transforming motor control in humanoid robots. In this talk, he explains how fast-switching GaN devices with zero reverse recovery enable higher #PWM frequencies, reduced dead times, and the elimination or reduction of electrolytic capacitors. The result is higher efficiency, higher torque per ampere, smaller form factors, and smoother joint operation. Palma details EPC\u2019s reference designs for various humanoid joints - from arms and wrists to hips - covering integrated three-phase modules and high-current discrete solutions that scale from a few hundred watts to several kilowatts. #GaN #motorcontrol\n\nWebinar: https://t.co/GTWu42fqhl",
+      "url": "https://x.com/EDM_eng/status/2041188531230372090",
+      "author": "420911833",
+      "published_at": "2026-04-06T16:17:23",
+      "observed_at": "2026-09-10T03:54:15.485176",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 46,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2039699443134480499",
+      "title": "Understanding GaN Reliability: From Qualification to Wear-Out Modeling #reliability #GaN \n\nThis presentation by Shengke Zhang, VP Reliability at EPC, addresses ",
+      "body": "Understanding GaN Reliability: From Qualification to Wear-Out Modeling #reliability #GaN \n\nThis presentation by Shengke Zhang, VP Reliability at EPC, addresses one of the most common questions in GaN power device reliability: how manufacturers can confidently guarantee a 10-year lifetime without waiting a decade to verify it. The talk introduces the reliability \u201cbathtub curve,\u201d explains the limits of standard 1,000-hour qualification testing, and presents the test-to-fail approach used to predict long-term wear-out behavior. Through a case study on #48V intermediate bus converter (IBC) modules for data centers, Zhang highlights the impact of temperature cycling, failure-mechanism analysis, and physics-based lifetime modeling to ensure robust GaN performance in demanding high-power-density applications.  #powerelectronics\n\nAPEC live presentation: https://t.co/jz7iS56xRe",
+      "url": "https://x.com/EDM_eng/status/2039699443134480499",
+      "author": "420911833",
+      "published_at": "2026-04-02T13:40:17",
+      "observed_at": "2026-09-10T03:54:15.489781",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 59,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032040884791849108",
+      "title": "https://t.co/t2ewUQ6QAQ  Gallium nitride (GaN) power devices are redefining the limits of switching converters by combining wide bandgap physics with lateral HE",
+      "body": "https://t.co/t2ewUQ6QAQ  Gallium nitride (GaN) power devices are redefining the limits of switching converters by combining wide bandgap physics with lateral HEMT structures optimized for fast, low-loss operation. This article describes GaN as the natural successor to silicon MOSFETs in the 100\u2013650 V class, showing how material figures of merit directly translate into lower on-resistance, higher switching frequency, and much higher power density at competitive cost.  #GaN",
+      "url": "https://x.com/EDM_eng/status/2032040884791849108",
+      "author": "420911833",
+      "published_at": "2026-03-12T10:27:55",
+      "observed_at": "2026-09-10T03:54:15.492450",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 1,
+        "views": 50,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2027324989158899736",
+      "title": "https://t.co/FL4mirxhiu In this episode of GaN Wine Lounge, host Maurizio Di Paolo Emilio speaks with Alex Lidow, CEO of EPC, and Rohan Samsi, VP GaN Business D",
+      "body": "https://t.co/FL4mirxhiu In this episode of GaN Wine Lounge, host Maurizio Di Paolo Emilio speaks with Alex Lidow, CEO of EPC, and Rohan Samsi, VP GaN Business Division, Renesas, about how combining EPC\u2019s low-voltage GaN leadership with Renesas\u2019 high-voltage portfolio, global reach, and manufacturing strength will accelerate GaN adoption. They explore key applications from automotive and industrial to AI systems and humanoid robots, outline Renesas\u2019 plan to secure internal GaN wafer fabrication in Japan, and explain how robust second sourcing and ecosystem support will help bring GaN to truly mainstream, high-volume markets.  #EPC #Renesas #GaN\n\nVideo: https://t.co/BTczw6JpP8",
+      "url": "https://x.com/EDM_eng/status/2027324989158899736",
+      "author": "420911833",
+      "published_at": "2026-02-27T10:08:37",
+      "observed_at": "2026-09-10T03:54:15.494976",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 105,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2024783235595583770",
+      "title": "Inside the EPC GaN Lab: Testing a 40 V eGaN Half-Bridge in Real Conditions  #GaN \n\nIn this episode, we welcome Alejandro Pozzo, Director of Applications Enginee",
+      "body": "Inside the EPC GaN Lab: Testing a 40 V eGaN Half-Bridge in Real Conditions  #GaN \n\nIn this episode, we welcome Alejandro Pozzo, Director of Applications Engineering at EPC. Together we step inside the lab to see how GaN reference designs are evaluated in practice, using automated test setups, oscilloscope measurements, and thermal imaging. The conversation offers a relaxed, behind-the-scenes look at how engineers translate device performance into meaningful efficiency and reliability data for real power converter designs.  #EPC #powerelectronics #lab \n\nEpisode Link: https://t.co/QKz4GSqvFj",
+      "url": "https://x.com/EDM_eng/status/2024783235595583770",
+      "author": "420911833",
+      "published_at": "2026-02-20T09:48:36",
+      "observed_at": "2026-09-10T03:54:15.498592",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 55,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1985831018939437557",
+      "title": "https://t.co/f5bVMF8Tto \n\nIn power electronics, the advantages of silicon carbide (SiC)\u2014including enhanced efficiency, elevated power density, and superior ther",
+      "body": "https://t.co/f5bVMF8Tto \n\nIn power electronics, the advantages of silicon carbide (SiC)\u2014including enhanced efficiency, elevated power density, and superior thermal characteristics\u2014are well documented relative to traditional silicon technologies.\n\nFrom electric vehicles (EVs) an\u2026",
+      "url": "https://x.com/EDM_eng/status/1985831018939437557",
+      "author": "420911833",
+      "published_at": "2025-11-04T22:06:24",
+      "observed_at": "2026-09-10T03:54:15.501299",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 34,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1983245226329157928",
+      "title": "https://t.co/ESVMwWW4xc \nThis second installment, dedicated to the CrowPanel Pico 2.8, examines how to make the display interactive. It is possible to use the t",
+      "body": "https://t.co/ESVMwWW4xc \nThis second installment, dedicated to the CrowPanel Pico 2.8, examines how to make the display interactive. It is possible to use the touchscreen just like on smartphones, tapping the screen to set values, change pages, activate alarms, and much more. S\u2026",
+      "url": "https://x.com/EDM_eng/status/1983245226329157928",
+      "author": "420911833",
+      "published_at": "2025-10-28T18:51:23",
+      "observed_at": "2026-09-10T03:54:15.503999",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 4,
+        "views": 239,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1978088782957068411",
+      "title": "https://t.co/4nbPEwoTJQ \n\nAnalog Devices, Inc. (ADI) has released ADI Power Studio, a set of tools that work together to make power management design easier and",
+      "body": "https://t.co/4nbPEwoTJQ \n\nAnalog Devices, Inc. (ADI) has released ADI Power Studio, a set of tools that work together to make power management design easier and faster from idea to validation. The platform combines ADI\u2019s many simulation and design tools, such as LTspice, SIMPLI\u2026",
+      "url": "https://x.com/EDM_eng/status/1978088782957068411",
+      "author": "420911833",
+      "published_at": "2025-10-14T13:21:31",
+      "observed_at": "2026-09-10T03:54:15.506546",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 7,
+        "views": 685,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1975289101667516565",
+      "title": "https://t.co/odno0yuhls \n\nImec has announced that AIXTRON, GlobalFoundries, KLA Corporation, Synopsys, and Veeco have joined as the first partners in its newly ",
+      "body": "https://t.co/odno0yuhls \n\nImec has announced that AIXTRON, GlobalFoundries, KLA Corporation, Synopsys, and Veeco have joined as the first partners in its newly established 300mm gallium-nitride (GaN) open innovation program track, focused on both low- and high-voltage power ele\u2026",
+      "url": "https://x.com/EDM_eng/status/1975289101667516565",
+      "author": "420911833",
+      "published_at": "2025-10-06T19:56:35",
+      "observed_at": "2026-09-10T03:54:15.508863",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 121,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1965439135868485939",
+      "title": "https://t.co/s9nLOPCYCK \nproteanTecs announced the closing of its $51 million Series D funding round. The round was led by IAG Capital Partners, with participat",
+      "body": "https://t.co/s9nLOPCYCK \nproteanTecs announced the closing of its $51 million Series D funding round. The round was led by IAG Capital Partners, with participation from new strategic investors Samsung Catalyst Fund, Arm, and Siemens. The company also received continued support \u2026",
+      "url": "https://x.com/EDM_eng/status/1965439135868485939",
+      "author": "420911833",
+      "published_at": "2025-09-09T15:36:20",
+      "observed_at": "2026-09-10T03:54:15.511270",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 47,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1960608578454130823",
+      "title": "https://t.co/LCfr66j8Qp \n\nAgnit Semiconductors holds a significant place in India\u2019s quest for semiconductor self-reliance, emerging as the country\u2019s first verti",
+      "body": "https://t.co/LCfr66j8Qp \n\nAgnit Semiconductors holds a significant place in India\u2019s quest for semiconductor self-reliance, emerging as the country\u2019s first vertically integrated startup dedicated to Gallium Nitride (GaN) technology. Headquartered in Bangalore, Agnit was founded \u2026",
+      "url": "https://x.com/EDM_eng/status/1960608578454130823",
+      "author": "420911833",
+      "published_at": "2025-08-27T07:41:26",
+      "observed_at": "2026-09-10T03:54:15.513467",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 87,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1957844126327554227",
+      "title": "https://t.co/zJeTt9tvrQ \n\nThe United Kingdom\u2019s journey toward a low-carbon future is advancing at a remarkable pace, with coal now contributing less than 1% of ",
+      "body": "https://t.co/zJeTt9tvrQ \n\nThe United Kingdom\u2019s journey toward a low-carbon future is advancing at a remarkable pace, with coal now contributing less than 1% of the national electricity mix. In its place, renewable sources such as solar and wind, alongside nuclear energy, are st\u2026",
+      "url": "https://x.com/EDM_eng/status/1957844126327554227",
+      "author": "420911833",
+      "published_at": "2025-08-19T16:36:29",
+      "observed_at": "2026-09-10T03:54:15.515744",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 111,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948371831733321859",
+      "title": "https://t.co/lMW7NPyJ5s \nEfficient Computer has announced the release of its first hardware product, the Electron E1 processor, along with the effcc Compiler, m",
+      "body": "https://t.co/lMW7NPyJ5s \nEfficient Computer has announced the release of its first hardware product, the Electron E1 processor, along with the effcc Compiler, marking a major milestone for the Pittsburgh-based startup focused on revolutionizing energy-efficient computing.\n\nAt t\u2026",
+      "url": "https://x.com/EDM_eng/status/1948371831733321859",
+      "author": "420911833",
+      "published_at": "2025-07-24T13:16:58",
+      "observed_at": "2026-09-10T03:54:15.518494",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 1,
+        "views": 83,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1947927533976002627",
+      "title": "https://t.co/Kbq5ZS9Nsz \n\nSilicon carbide (SiC) stands at a pivotal crossroads. Once the favorite of the electric vehicle transition, its path is now shifting d",
+      "body": "https://t.co/Kbq5ZS9Nsz \n\nSilicon carbide (SiC) stands at a pivotal crossroads. Once the favorite of the electric vehicle transition, its path is now shifting due to the rapid emergence of AI-powered data centers and the industry\u2019s focus on maintaining a stable supply chain. Th\u2026",
+      "url": "https://x.com/EDM_eng/status/1947927533976002627",
+      "author": "420911833",
+      "published_at": "2025-07-23T07:51:29",
+      "observed_at": "2026-09-10T03:54:15.521541",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 7,
+        "views": 2222,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1408706943485624323",
+      "title": "@lalitpatnaik our virtual conference https://t.co/fJ2Kt05Dfz",
+      "body": "@lalitpatnaik our virtual conference https://t.co/fJ2Kt05Dfz",
+      "url": "https://x.com/EDM_eng/status/1408706943485624323",
+      "author": "420911833",
+      "published_at": "2021-06-26T08:41:22",
+      "observed_at": "2026-09-10T03:54:15.523496",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "702831124356177920",
+      "title": "@pozyxLabs please contact by web site https://t.co/7VZZ8UmNVV. Find in bottom menu email address. Please check also https://t.co/ZNMmWFhlui",
+      "body": "@pozyxLabs please contact by web site https://t.co/7VZZ8UmNVV. Find in bottom menu email address. Please check also https://t.co/ZNMmWFhlui",
+      "url": "https://x.com/EDM_eng/status/702831124356177920",
+      "author": "420911833",
+      "published_at": "2016-02-25T12:22:52",
+      "observed_at": "2026-09-10T03:54:15.524585",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "647305948072136704",
+      "title": "@ElectronicsLab Thanks to you!",
+      "body": "@ElectronicsLab Thanks to you!",
+      "url": "https://x.com/EDM_eng/status/647305948072136704",
+      "author": "420911833",
+      "published_at": "2015-09-25T07:05:39",
+      "observed_at": "2026-09-10T03:54:15.526246",
+      "metrics": {
+        "author_handle": "EDM_eng",
+        "author_followers": 1562,
+        "likes": 0,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

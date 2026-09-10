@@ -1,0 +1,767 @@
+{
+  "handle": "strnr",
+  "total_tweets": 40,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2035302383975117215",
+      "title": "It's been real folks. I've been posting regularly here for 17 years, but will be no longer. You can find me on \ud835\udc35\ud835\udc59\ud835\udc62\ud835\udc52\ud835\udc60\ud835\udc58\ud835\udc66 at @\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfd\ud835\uddf5\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddfb\ud835\uddf2\ud835\uddff.\ud835\ude02\ud835\ude00, and get email updat",
+      "body": "It's been real folks. I've been posting regularly here for 17 years, but will be no longer. You can find me on \ud835\udc35\ud835\udc59\ud835\udc62\ud835\udc52\ud835\udc60\ud835\udc58\ud835\udc66 at @\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfd\ud835\uddf5\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddfb\ud835\uddf2\ud835\uddff.\ud835\ude02\ud835\ude00, and get email updates from my newsletter: https://t.co/9ckdkDQXMV. So long, and thanks for all the fish \ud83e\udee1",
+      "url": "https://x.com/strnr/status/2035302383975117215",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:27:57",
+      "observed_at": "2026-09-10T03:55:59.765413",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 16,
+        "views": 3129,
+        "reposts": 3,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035300870133289410",
+      "title": "Generative AI for Biosciences: Emerging Threats and Roadmap to Biosecurity https://t.co/90KifkoMlH \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/FvYvclvoCd",
+      "body": "Generative AI for Biosciences: Emerging Threats and Roadmap to Biosecurity https://t.co/90KifkoMlH \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/FvYvclvoCd",
+      "url": "https://x.com/strnr/status/2035300870133289410",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:21:56",
+      "observed_at": "2026-09-10T03:55:59.769820",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 71,
+        "views": 4434,
+        "reposts": 18,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035300816337174719",
+      "title": "The Tidyomics Ecosystem https://t.co/UmYulwf49P An introduction to the tidyomics ecosystem, including principles, core packages, publications, and community res",
+      "body": "The Tidyomics Ecosystem https://t.co/UmYulwf49P An introduction to the tidyomics ecosystem, including principles, core packages, publications, and community resources for tidy omic analysis. #Rstats https://t.co/mb4LMYDEJL",
+      "url": "https://x.com/strnr/status/2035300816337174719",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:21:43",
+      "observed_at": "2026-09-10T03:55:59.773149",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 45,
+        "views": 2403,
+        "reposts": 15,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035300636820947341",
+      "title": "AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant https://t.co/JJAhxIAWQ0",
+      "body": "AI-driven formative assessment and adaptive learning in data-science education: Evaluating an LLM-powered virtual teaching assistant https://t.co/JJAhxIAWQ0",
+      "url": "https://x.com/strnr/status/2035300636820947341",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:21:00",
+      "observed_at": "2026-09-10T03:55:59.776505",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 10,
+        "views": 1108,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035300385825382448",
+      "title": "A powerful framework for differential co-expression analysis of general risk factors https://t.co/a5yoET5AQ2 \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea #Rstats pkg: https://t.co/vtq1O5RYyg",
+      "body": "A powerful framework for differential co-expression analysis of general risk factors https://t.co/a5yoET5AQ2 \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea #Rstats pkg: https://t.co/vtq1O5RYyg",
+      "url": "https://x.com/strnr/status/2035300385825382448",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:20:00",
+      "observed_at": "2026-09-10T03:55:59.779272",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 4,
+        "views": 998,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035300134716653752",
+      "title": "R+AI. Nov 12\u201313. Online. Cheap ($25-70) #Rstats https://t.co/ucWhf8XWsg",
+      "body": "R+AI. Nov 12\u201313. Online. Cheap ($25-70) #Rstats https://t.co/ucWhf8XWsg",
+      "url": "https://x.com/strnr/status/2035300134716653752",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:19:00",
+      "observed_at": "2026-09-10T03:55:59.781953",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 3,
+        "views": 802,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035299885767897474",
+      "title": "SNiPgenie: a tool for microbial SNP site detection from WGS data https://t.co/8kXo5qBLJ7 \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/7D5VmDEbt2 https://t.co/3rISaxHspm",
+      "body": "SNiPgenie: a tool for microbial SNP site detection from WGS data https://t.co/8kXo5qBLJ7 \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/7D5VmDEbt2 https://t.co/3rISaxHspm",
+      "url": "https://x.com/strnr/status/2035299885767897474",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:18:01",
+      "observed_at": "2026-09-10T03:55:59.783383",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 11,
+        "views": 977,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035299383055421901",
+      "title": "Critical Artificial Intelligence Literacy for Psychologists https://t.co/aIyQEnQNjZ https://t.co/4TWmJKCLeE",
+      "body": "Critical Artificial Intelligence Literacy for Psychologists https://t.co/aIyQEnQNjZ https://t.co/4TWmJKCLeE",
+      "url": "https://x.com/strnr/status/2035299383055421901",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:16:01",
+      "observed_at": "2026-09-10T03:55:59.785644",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 56,
+        "views": 3612,
+        "reposts": 14,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035299142499487850",
+      "title": "How to develop good research questions https://t.co/cj3oATdLqJ (free: https://t.co/TAmZGpQhmq) \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/AyGEV2sQAr",
+      "body": "How to develop good research questions https://t.co/cj3oATdLqJ (free: https://t.co/TAmZGpQhmq) \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/AyGEV2sQAr",
+      "url": "https://x.com/strnr/status/2035299142499487850",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:15:04",
+      "observed_at": "2026-09-10T03:55:59.787331",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 877,
+        "views": 54286,
+        "reposts": 179,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035298879244058947",
+      "title": "Democratizing AI scientists using ToolUniverse https://t.co/txJ6YHyHRM https://t.co/GuSHPE7Dhj https://t.co/mtYokHBRN9",
+      "body": "Democratizing AI scientists using ToolUniverse https://t.co/txJ6YHyHRM https://t.co/GuSHPE7Dhj https://t.co/mtYokHBRN9",
+      "url": "https://x.com/strnr/status/2035298879244058947",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:14:01",
+      "observed_at": "2026-09-10T03:55:59.788558",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 29,
+        "views": 1721,
+        "reposts": 10,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035298375105487239",
+      "title": "ggdiceplot: ggplot2 implementation for the diceplot plotting library https://t.co/kz4VxyqLR7 \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea #Rstats https://t.co/NIMqivSXsG",
+      "body": "ggdiceplot: ggplot2 implementation for the diceplot plotting library https://t.co/kz4VxyqLR7 \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea #Rstats https://t.co/NIMqivSXsG",
+      "url": "https://x.com/strnr/status/2035298375105487239",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:12:01",
+      "observed_at": "2026-09-10T03:55:59.789713",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 59,
+        "views": 3142,
+        "reposts": 19,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035297878025900228",
+      "title": "LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines https://t.co/CArQ9HPGCb (304 pages!) https://t.co/m8E0PDJYEk",
+      "body": "LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines https://t.co/CArQ9HPGCb (304 pages!) https://t.co/m8E0PDJYEk",
+      "url": "https://x.com/strnr/status/2035297878025900228",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:10:02",
+      "observed_at": "2026-09-10T03:55:59.790863",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 22,
+        "views": 1340,
+        "reposts": 7,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035297618079690935",
+      "title": "\u2018Completely shattered.\u2019 Changes to NSF\u2019s graduate student fellowship spur outcry https://t.co/uf6d4An36J",
+      "body": "\u2018Completely shattered.\u2019 Changes to NSF\u2019s graduate student fellowship spur outcry https://t.co/uf6d4An36J",
+      "url": "https://x.com/strnr/status/2035297618079690935",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:09:00",
+      "observed_at": "2026-09-10T03:55:59.793256",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 8,
+        "views": 27669,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035297369093296169",
+      "title": "Enhancing genome recovery across metagenomic samples using MAGmax https://t.co/RwDibagl9r \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/HC7qpuTQBP https://t.co/hz9cOJeQkV",
+      "body": "Enhancing genome recovery across metagenomic samples using MAGmax https://t.co/RwDibagl9r \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/HC7qpuTQBP https://t.co/hz9cOJeQkV",
+      "url": "https://x.com/strnr/status/2035297369093296169",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:08:01",
+      "observed_at": "2026-09-10T03:55:59.794718",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 20,
+        "views": 1402,
+        "reposts": 8,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035297117367836906",
+      "title": "Opportunities and considerations for using artificial intelligence in bioinformatics education https://t.co/P64gJmKYWr \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/AhZphP0Dpw",
+      "body": "Opportunities and considerations for using artificial intelligence in bioinformatics education https://t.co/P64gJmKYWr \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/AhZphP0Dpw",
+      "url": "https://x.com/strnr/status/2035297117367836906",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:07:01",
+      "observed_at": "2026-09-10T03:55:59.797020",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 117,
+        "views": 4890,
+        "reposts": 35,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035296866326200461",
+      "title": "PatchWorkPlot: simultaneous visualization of local alignments across multiple sequences https://t.co/8W5LftlRRE \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/zCo0LQKmWi",
+      "body": "PatchWorkPlot: simultaneous visualization of local alignments across multiple sequences https://t.co/8W5LftlRRE \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea https://t.co/zCo0LQKmWi",
+      "url": "https://x.com/strnr/status/2035296866326200461",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:06:01",
+      "observed_at": "2026-09-10T03:55:59.799786",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 60,
+        "views": 2684,
+        "reposts": 24,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035296613241856124",
+      "title": "Reference genome choice compromises population genetic analyses https://t.co/DrvxZouYft \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea",
+      "body": "Reference genome choice compromises population genetic analyses https://t.co/DrvxZouYft \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea",
+      "url": "https://x.com/strnr/status/2035296613241856124",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:05:01",
+      "observed_at": "2026-09-10T03:55:59.802478",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 83,
+        "views": 4986,
+        "reposts": 25,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035296113457082414",
+      "title": "Yorzoi: Predicting RNA-seq coverage from DNA sequence in yeast https://t.co/DWKkwWbRCM \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea \nWeb: https://t.co/UyhidIkSii \nCode (MIT): https://t.co/XiLGt52kRF h",
+      "body": "Yorzoi: Predicting RNA-seq coverage from DNA sequence in yeast https://t.co/DWKkwWbRCM \ud83e\uddec\ud83d\udda5\ufe0f\ud83e\uddea \nWeb: https://t.co/UyhidIkSii \nCode (MIT): https://t.co/XiLGt52kRF https://t.co/CFFkxcWzxt",
+      "url": "https://x.com/strnr/status/2035296113457082414",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:03:02",
+      "observed_at": "2026-09-10T03:55:59.803981",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 32,
+        "views": 2173,
+        "reposts": 8,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035295856086184264",
+      "title": "AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger?  https://t.co/bG2B0FfE36",
+      "body": "AI Was Supposed to Help Juniors Shine. Why Does It Mostly Make Seniors Stronger?  https://t.co/bG2B0FfE36",
+      "url": "https://x.com/strnr/status/2035295856086184264",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:02:00",
+      "observed_at": "2026-09-10T03:55:59.806558",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 2,
+        "views": 347,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2035295613504438774",
+      "title": "Engineered prime editors with minimal genomic errors https://t.co/5ex498JbGN https://t.co/IgxBujym6q",
+      "body": "Engineered prime editors with minimal genomic errors https://t.co/5ex498JbGN https://t.co/IgxBujym6q",
+      "url": "https://x.com/strnr/status/2035295613504438774",
+      "author": "20444825",
+      "published_at": "2026-03-21T10:01:02",
+      "observed_at": "2026-09-10T03:55:59.807788",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31283,
+        "likes": 3,
+        "views": 536,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032124774327919052",
+      "title": "First-ever whole cell 4D simulation shows everything everywhere all at once: https://t.co/k5vozHxEhu",
+      "body": "First-ever whole cell 4D simulation shows everything everywhere all at once: https://t.co/k5vozHxEhu",
+      "url": "https://x.com/strnr/status/2032124774327919052",
+      "author": "20444825",
+      "published_at": "2026-03-12T16:01:15",
+      "observed_at": "2026-09-10T03:55:59.808907",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 3,
+        "views": 731,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031371279534563452",
+      "title": "Eg: Snap a photo of a medication in Telegram. ClawBio identifies the drug from the packaging, queries your pharmacogenomic profile from your own genome, and ret",
+      "body": "Eg: Snap a photo of a medication in Telegram. ClawBio identifies the drug from the packaging, queries your pharmacogenomic profile from your own genome, and returns a personalised dosage card. \n\nWhat could possibly go wrong? https://t.co/ImUki4wqiL",
+      "url": "https://x.com/strnr/status/2031371279534563452",
+      "author": "20444825",
+      "published_at": "2026-03-10T14:07:08",
+      "observed_at": "2026-09-10T03:55:59.809553",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 3,
+        "views": 700,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2027340093267071015",
+      "title": "What Your DNA Reveals About the Sex Life of Neanderthals \ud83c\udf81 https://t.co/zJxhH8Gp2Z",
+      "body": "What Your DNA Reveals About the Sex Life of Neanderthals \ud83c\udf81 https://t.co/zJxhH8Gp2Z",
+      "url": "https://x.com/strnr/status/2027340093267071015",
+      "author": "20444825",
+      "published_at": "2026-02-27T11:08:39",
+      "observed_at": "2026-09-10T03:55:59.811016",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 2,
+        "views": 440,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2026039422408392950",
+      "title": "6. It can't be used on secure data\n7. It\u2019s free, so must be low-quality w/o professional staff supporting it\n8. It\u2019s open source, so the documentation and suppo",
+      "body": "6. It can't be used on secure data\n7. It\u2019s free, so must be low-quality w/o professional staff supporting it\n8. It\u2019s open source, so the documentation and support must be poor\n9. It can't be sustainable w/o commercial org managing it\n10. Its tools + analyses are outdated",
+      "url": "https://x.com/strnr/status/2026039422408392950",
+      "author": "20444825",
+      "published_at": "2026-02-23T21:00:14",
+      "observed_at": "2026-09-10T03:55:59.811704",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 2,
+        "views": 416,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2026039421082956073",
+      "title": "1. It is only useful for genome scientists\n2. It offers nothing to coders.\n3. It does not scale to large and complex problems\n4. It\u2019s hard to use.\n5. It is only",
+      "body": "1. It is only useful for genome scientists\n2. It offers nothing to coders.\n3. It does not scale to large and complex problems\n4. It\u2019s hard to use.\n5. It is only useful for teaching, not research.",
+      "url": "https://x.com/strnr/status/2026039421082956073",
+      "author": "20444825",
+      "published_at": "2026-02-23T21:00:14",
+      "observed_at": "2026-09-10T03:55:59.813049",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 2,
+        "views": 435,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2025677083687395388",
+      "title": "\"we demonstrate that PRSs can be exploited to recover genotypes and to de-anonymize individuals. We describe how to reconstruct a portion of an individual's gen",
+      "body": "\"we demonstrate that PRSs can be exploited to recover genotypes and to de-anonymize individuals. We describe how to reconstruct a portion of an individual's genome from a single PRS value by using dynamic programming and population-based likelihood estimation\" https://t.co/Anoz9HwP3h",
+      "url": "https://x.com/strnr/status/2025677083687395388",
+      "author": "20444825",
+      "published_at": "2026-02-22T21:00:26",
+      "observed_at": "2026-09-10T03:55:59.815393",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 5,
+        "views": 650,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2020543208812417098",
+      "title": "\"In our randomized controlled trial with retrospective patient data, subspecialists favored large language model-assisted responses overall... subspecialists pr",
+      "body": "\"In our randomized controlled trial with retrospective patient data, subspecialists favored large language model-assisted responses overall... subspecialists preferred AMIE-assisted cardiology assessments 46.7% of the time, compared with 32.7% for cardiologists alone (P = 0.02)\"",
+      "url": "https://x.com/strnr/status/2020543208812417098",
+      "author": "20444825",
+      "published_at": "2026-02-08T17:00:15",
+      "observed_at": "2026-09-10T03:55:59.817021",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 5,
+        "views": 558,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2019705171052245287",
+      "title": "Proposes \"Biosecurity Data Levels\" (BDL-0 to BDL-4) for controlling access to pathogen data used to train bio AI models. Most bio data stays open (BDL-0); only ",
+      "body": "Proposes \"Biosecurity Data Levels\" (BDL-0 to BDL-4) for controlling access to pathogen data used to train bio AI models. Most bio data stays open (BDL-0); only narrow, high-risk functional virology data would require trusted research environments and pre-release safety screening. https://t.co/4tXYmdu3CO",
+      "url": "https://x.com/strnr/status/2019705171052245287",
+      "author": "20444825",
+      "published_at": "2026-02-06T09:30:11",
+      "observed_at": "2026-09-10T03:55:59.818623",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 5,
+        "views": 645,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2019401867810263534",
+      "title": "Self-feedback loops matter. The model drafts, critiques itself, retrieves more context if needed, and refines. Everything is open-source: models, code, data sto",
+      "body": "Self-feedback loops matter. The model drafts, critiques itself, retrieves more context if needed, and refines. Everything is open-source: models, code, data store, and a new benchmark (ScholarQABench). 3/3 https://t.co/qBEJhPffbv https://t.co/lc25jsxKLd",
+      "url": "https://x.com/strnr/status/2019401867810263534",
+      "author": "20444825",
+      "published_at": "2026-02-05T13:24:58",
+      "observed_at": "2026-09-10T03:55:59.820089",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 2,
+        "views": 522,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2019401866170224792",
+      "title": "The citation problem is severe: GPT-4o fabricates 78-90% of citations when asked to cite recent papers. OpenScholar achieves citation accuracy on par with human",
+      "body": "The citation problem is severe: GPT-4o fabricates 78-90% of citations when asked to cite recent papers. OpenScholar achieves citation accuracy on par with human experts by grounding responses in 45M open-access papers. 2/3 https://t.co/hWQx9XFmLk",
+      "url": "https://x.com/strnr/status/2019401866170224792",
+      "author": "20444825",
+      "published_at": "2026-02-05T13:24:58",
+      "observed_at": "2026-09-10T03:55:59.821502",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 4,
+        "views": 640,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2019341410646851785",
+      "title": "https://t.co/2Skk5ObXOv \n6: Provide cultural and historical context \n7: Build a safe, inclusive, and welcoming community \n8: Use checklists to focus and facilit",
+      "body": "https://t.co/2Skk5ObXOv \n6: Provide cultural and historical context \n7: Build a safe, inclusive, and welcoming community \n8: Use checklists to focus and facilitate peer learning \n9: Teach students to work collaboratively\n10: Have students do projects",
+      "url": "https://x.com/strnr/status/2019341410646851785",
+      "author": "20444825",
+      "published_at": "2026-02-05T09:24:44",
+      "observed_at": "2026-09-10T03:55:59.822947",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 7,
+        "views": 664,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2018644192386597252",
+      "title": "Blog post on this one coming soon. I fired up the Codex app to modify a 15-year old #Rstats package I wrote to switch from base R to ggplot2. Nailed it. Updated",
+      "body": "Blog post on this one coming soon. I fired up the Codex app to modify a 15-year old #Rstats package I wrote to switch from base R to ggplot2. Nailed it. Updated functions, documentation, vignettes, README, DESCRIPTION, etc. devtools::check() passed. One shot. https://t.co/QEwzuaPgp4",
+      "url": "https://x.com/strnr/status/2018644192386597252",
+      "author": "20444825",
+      "published_at": "2026-02-03T11:14:14",
+      "observed_at": "2026-09-10T03:55:59.824261",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 12,
+        "views": 29768,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2018017008323830254",
+      "title": "@DarioAmodei Even if you disagree on timelines, the agenda is valuable: build interpretability, robust evals, and lightweight, evidence-driven regulation that c",
+      "body": "@DarioAmodei Even if you disagree on timelines, the agenda is valuable: build interpretability, robust evals, and lightweight, evidence-driven regulation that can ratchet as risk signals strengthen. 7/7",
+      "url": "https://x.com/strnr/status/2018017008323830254",
+      "author": "20444825",
+      "published_at": "2026-02-01T17:42:02",
+      "observed_at": "2026-09-10T03:55:59.825745",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 4,
+        "views": 206,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2018017007396868396",
+      "title": "@DarioAmodei Takeaway: treat safety as infrastructure, not PR. Measure uplift, publish system cards, monitor in the wild, and legislate transparency first so po",
+      "body": "@DarioAmodei Takeaway: treat safety as infrastructure, not PR. Measure uplift, publish system cards, monitor in the wild, and legislate transparency first so policy can tighten as evidence gets clearer. 6/",
+      "url": "https://x.com/strnr/status/2018017007396868396",
+      "author": "20444825",
+      "published_at": "2026-02-01T17:42:02",
+      "observed_at": "2026-09-10T03:55:59.827283",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 3,
+        "views": 207,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2017916350228812032",
+      "title": "Prioritizing Feasible and Impactful Actions to Enable Secure AI Development and Use in Biology: https://t.co/CxwHSFHFaX",
+      "body": "Prioritizing Feasible and Impactful Actions to Enable Secure AI Development and Use in Biology: https://t.co/CxwHSFHFaX",
+      "url": "https://x.com/strnr/status/2017916350228812032",
+      "author": "20444825",
+      "published_at": "2026-02-01T11:02:03",
+      "observed_at": "2026-09-10T03:55:59.828963",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 4,
+        "views": 878,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2017644103236829407",
+      "title": "Boundary culture &gt; hustle culture. Her point: protect weekends, vacations, and say no, with occasional short \u201cpush phases.\u201d After time in industry and in uni",
+      "body": "Boundary culture &gt; hustle culture. Her point: protect weekends, vacations, and say no, with occasional short \u201cpush phases.\u201d After time in industry and in universities, I\u2019d add: \u201cjust a job\u201d is easier when you have leverage. Let\u2019s fix contracts, pay, mentoring, and norms too.",
+      "url": "https://x.com/strnr/status/2017644103236829407",
+      "author": "20444825",
+      "published_at": "2026-01-31T17:00:14",
+      "observed_at": "2026-09-10T03:55:59.829912",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 3,
+        "views": 435,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2017546170025865642",
+      "title": "Notable acknowledgements section \ud83d\udc4f  \n\n\"The authors acknowledge the use of Al-assisted tools, including ChatGPT 5.2, Gemini 3 Pro, and itHub Copilot, solely for ",
+      "body": "Notable acknowledgements section \ud83d\udc4f  \n\n\"The authors acknowledge the use of Al-assisted tools, including ChatGPT 5.2, Gemini 3 Pro, and itHub Copilot, solely for language editing and grammar enhancement. The authors take full responsibility for the content of the manuscript.\" https://t.co/2g4IHebleH",
+      "url": "https://x.com/strnr/status/2017546170025865642",
+      "author": "20444825",
+      "published_at": "2026-01-31T10:31:05",
+      "observed_at": "2026-09-10T03:55:59.830595",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 9,
+        "views": 866,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2017281800653955412",
+      "title": "Early warnings in tweets: detecting pre-retraction signals and their association with retraction timing through natural language processing and survival analysi",
+      "body": "Early warnings in tweets: detecting pre-retraction signals and their association with retraction timing through natural language processing and survival analysis https://t.co/MdBa3uX1qw",
+      "url": "https://x.com/strnr/status/2017281800653955412",
+      "author": "20444825",
+      "published_at": "2026-01-30T17:00:35",
+      "observed_at": "2026-09-10T03:55:59.832066",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 3,
+        "views": 254,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2017281798330372384",
+      "title": "Can social media provide early warning of retraction? Evidence from critical tweets identified by human annotation and large language models https://t.co/OJg3Eg",
+      "body": "Can social media provide early warning of retraction? Evidence from critical tweets identified by human annotation and large language models https://t.co/OJg3Eg6r0p https://t.co/irx6EMwYNN",
+      "url": "https://x.com/strnr/status/2017281798330372384",
+      "author": "20444825",
+      "published_at": "2026-01-30T17:00:34",
+      "observed_at": "2026-09-10T03:55:59.833595",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 3,
+        "views": 295,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2016993004909695451",
+      "title": "Setup is simple: create a token in Zotero, paste it into Consensus, and your library syncs over. From there you can ask questions about individual papers, subco",
+      "body": "Setup is simple: create a token in Zotero, paste it into Consensus, and your library syncs over. From there you can ask questions about individual papers, subcollections, or your entire library. What does the literature here show? What are the knowns and gaps? https://t.co/VP1ecCzyhH",
+      "url": "https://x.com/strnr/status/2016993004909695451",
+      "author": "20444825",
+      "published_at": "2026-01-29T21:53:00",
+      "observed_at": "2026-09-10T03:55:59.835124",
+      "metrics": {
+        "author_handle": "strnr",
+        "author_followers": 31282,
+        "likes": 2,
+        "views": 206,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

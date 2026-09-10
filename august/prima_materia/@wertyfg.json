@@ -1,0 +1,387 @@
+{
+  "handle": "wertyfg",
+  "total_tweets": 20,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1893393469302784188",
+      "title": "Great to have the opportunity to give a\u00a01.5-hour tutorial\u00a0on Generative AI\u00a0for\u00a0forward and inverse modeling of complex physical systems at BIRS UQ in Neural Net",
+      "body": "Great to have the opportunity to give a\u00a01.5-hour tutorial\u00a0on Generative AI\u00a0for\u00a0forward and inverse modeling of complex physical systems at BIRS UQ in Neural Network Workshop. It was a great experience!",
+      "url": "https://x.com/wertyfg/status/1893393469302784188",
+      "author": "337578571",
+      "published_at": "2025-02-22T20:12:35",
+      "observed_at": "2026-09-10T03:55:45.076905",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 6,
+        "views": 340,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1862602761646346446",
+      "title": "\ud83d\udce3 Excited to share our #CoNFiLD work (Conditional Neural Field Latent Diffusion Model for Transient Turbulence) is now published in Nature Communications!  Chec",
+      "body": "\ud83d\udce3 Excited to share our #CoNFiLD work (Conditional Neural Field Latent Diffusion Model for Transient Turbulence) is now published in Nature Communications!  Check it out here: https://t.co/5g98ZG0TDY. \n#FluidDynamics #GenerativeAI #DigitalTwins #AI4Science #CoMSAIL https://t.co/I8v7DjuttN",
+      "url": "https://x.com/wertyfg/status/1862602761646346446",
+      "author": "337578571",
+      "published_at": "2024-11-29T21:01:18",
+      "observed_at": "2026-09-10T03:55:45.082645",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 5,
+        "views": 10588,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1851964767222596090",
+      "title": "Our paper on integrating differentiable CFD with generative diffusion modeling for spatiotemporal turbulence is now published in #CMAME! A hybrid neural solver ",
+      "body": "Our paper on integrating differentiable CFD with generative diffusion modeling for spatiotemporal turbulence is now published in #CMAME! A hybrid neural solver that combines generative AI and numerical PDEs through differentiable programming. Check it out https://t.co/ovmRFZp6Nz https://t.co/6WowM0EMCR",
+      "url": "https://x.com/wertyfg/status/1851964767222596090",
+      "author": "337578571",
+      "published_at": "2024-10-31T12:29:43",
+      "observed_at": "2026-09-10T03:55:45.091797",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 3,
+        "views": 255,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1798405486171283880",
+      "title": "Happy to share our recent npj compute mater paper, \"Probabilistic Physics-Integrated Neural Differentiable Modeling for Isothermal Chemical Vapor Infiltration P",
+      "body": "Happy to share our recent npj compute mater paper, \"Probabilistic Physics-Integrated Neural Differentiable Modeling for Isothermal Chemical Vapor Infiltration Process,\" -  application of neural differentiable modeling for composite manufacturing. https://t.co/dx7dG495NP https://t.co/qMigevcJbE",
+      "url": "https://x.com/wertyfg/status/1798405486171283880",
+      "author": "337578571",
+      "published_at": "2024-06-05T17:24:15",
+      "observed_at": "2026-09-10T03:55:45.106871",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 8,
+        "views": 580,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1786599225523863562",
+      "title": "Our paper \"Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics\" finally got published on Nature portfolio j",
+      "body": "Our paper \"Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics\" finally got published on Nature portfolio journal - Communications Physics https://t.co/SKZ8HreRc5. A physics-integrated hybrid neural differentiable model. https://t.co/bxKuRalrZu",
+      "url": "https://x.com/wertyfg/status/1786599225523863562",
+      "author": "337578571",
+      "published_at": "2024-05-04T03:30:23",
+      "observed_at": "2026-09-10T03:55:45.119721",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 101,
+        "views": 10554,
+        "reposts": 16,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1786597278083346558",
+      "title": "Excited to share our recent CMAME publication -  \"Bayesian conditional diffusion models for versatile spatiotemporal turbulence generation\". You can access the ",
+      "body": "Excited to share our recent CMAME publication -  \"Bayesian conditional diffusion models for versatile spatiotemporal turbulence generation\". You can access the paper @ https://t.co/PhIsT1jmDV\n\nMore results can be found @ https://t.co/kt2zeG2pNh\n\n#AI4Science #SciML #CoMSAIL https://t.co/bD0unKdbjp",
+      "url": "https://x.com/wertyfg/status/1786597278083346558",
+      "author": "337578571",
+      "published_at": "2024-05-04T03:22:39",
+      "observed_at": "2026-09-10T03:55:45.123216",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 16,
+        "views": 611,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1642037244625051649",
+      "title": "Congratulations to Dr. Han Gao and Dr. Luning Sun, the very first two PhDs from my group, on successfully defending their dissertations! Their incredible achiev",
+      "body": "Congratulations to Dr. Han Gao and Dr. Luning Sun, the very first two PhDs from my group, on successfully defending their dissertations! Their incredible achievements during this five-year journey are truly inspiring. Wishing them both continued success in their future endeavors. https://t.co/xrgc6QGfBg",
+      "url": "https://x.com/wertyfg/status/1642037244625051649",
+      "author": "337578571",
+      "published_at": "2023-04-01T05:32:41",
+      "observed_at": "2026-09-10T03:55:45.126846",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 15,
+        "views": 1524,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1557222386243702786",
+      "title": "Thanks for the support from the Lucy Institute!",
+      "body": "Thanks for the support from the Lucy Institute!",
+      "url": "https://x.com/wertyfg/status/1557222386243702786",
+      "author": "337578571",
+      "published_at": "2022-08-10T04:28:43",
+      "observed_at": "2026-09-10T03:55:45.130628",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1522436115495534593",
+      "title": "Happy to be selected to the list of 2022 Top 10 Outstanding Chinese American Youth, during Asian American and Pacific Islander Heritage Month! https://t.co/cRID",
+      "body": "Happy to be selected to the list of 2022 Top 10 Outstanding Chinese American Youth, during Asian American and Pacific Islander Heritage Month! https://t.co/cRIDc6Aifq @AeroMechND @NDengineering @ND_ECI @lucy_institute @NotreDameEnergy",
+      "url": "https://x.com/wertyfg/status/1522436115495534593",
+      "author": "337578571",
+      "published_at": "2022-05-06T04:40:30",
+      "observed_at": "2026-09-10T03:55:45.132212",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 4,
+        "views": 0,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1486361847972388864",
+      "title": "Happy to share our work \"Predicting Physics in Mesh-Reduced Space with Temporal Attention\", which has been accepted to ICLR 2022. This is a collaborative work w",
+      "body": "Happy to share our work \"Predicting Physics in Mesh-Reduced Space with Temporal Attention\", which has been accepted to ICLR 2022. This is a collaborative work with Tufts and DeepMind. Arxiv link: https://t.co/ghYXeFTAOC. https://t.co/rRHvy2ljVl",
+      "url": "https://x.com/wertyfg/status/1486361847972388864",
+      "author": "337578571",
+      "published_at": "2022-01-26T15:34:14",
+      "observed_at": "2026-09-10T03:55:45.134092",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1453717073117552643",
+      "title": "Congrats to my student Pan Du on winning the 2nd-place poster award at Fall Symposium of Lucy Family institute for Data Science and Society. The award was prese",
+      "body": "Congrats to my student Pan Du on winning the 2nd-place poster award at Fall Symposium of Lucy Family institute for Data Science and Society. The award was presented by the mayor of South Bend with such a big check for $200\ud83d\ude02 @AeroMechND https://t.co/z1dgUrzQOD",
+      "url": "https://x.com/wertyfg/status/1453717073117552643",
+      "author": "337578571",
+      "published_at": "2021-10-28T13:35:33",
+      "observed_at": "2026-09-10T03:55:45.135726",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 5,
+        "views": 0,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1413606614121304068",
+      "title": "Our paper \"Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels\" has been published ",
+      "body": "Our paper \"Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels\" has been published on Physics of Fluids as Editor's Pick. First time enabling parametric inference of inlets. https://t.co/7OCFNXtXgZ https://t.co/k2YigkbDN9",
+      "url": "https://x.com/wertyfg/status/1413606614121304068",
+      "author": "337578571",
+      "published_at": "2021-07-09T21:10:55",
+      "observed_at": "2026-09-10T03:55:45.137581",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 84,
+        "views": 0,
+        "reposts": 11,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1327025615313264644",
+      "title": "Had a very good opportunity today to give an invited talk at the mechanical and energy engineering department seminar series at @IUPUI. Many thanks to Prof. Whi",
+      "body": "Had a very good opportunity today to give an invited talk at the mechanical and energy engineering department seminar series at @IUPUI. Many thanks to Prof. Whitney Yu for inviting me and hosting it. Talk slides can be found here \nhttps://t.co/Yf4fwFEbNR https://t.co/4xomp0Nn6w",
+      "url": "https://x.com/wertyfg/status/1327025615313264644",
+      "author": "337578571",
+      "published_at": "2020-11-12T23:08:56",
+      "observed_at": "2026-09-10T03:55:45.139337",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1258788892993519616",
+      "title": "The first leading-author journal paper of my student @HanGao75560919  -- Multifidelity UQ for 3D hemodynamics simulations -- on CMAME https://t.co/xgsZG7cUBm. C",
+      "body": "The first leading-author journal paper of my student @HanGao75560919  -- Multifidelity UQ for 3D hemodynamics simulations -- on CMAME https://t.co/xgsZG7cUBm. Congrats, Han! https://t.co/9cTAD7JMGB",
+      "url": "https://x.com/wertyfg/status/1258788892993519616",
+      "author": "337578571",
+      "published_at": "2020-05-08T16:00:33",
+      "observed_at": "2026-09-10T03:55:45.141000",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 5,
+        "views": 0,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1258788424133328896",
+      "title": "Our recent work on physics-constrained deep learning -- enable CNNs to solve parametric PDEs on irregular domains with complex geometries. Check it out https://",
+      "body": "Our recent work on physics-constrained deep learning -- enable CNNs to solve parametric PDEs on irregular domains with complex geometries. Check it out https://t.co/eeQdhXPPWz. https://t.co/EFeTqYVOTa",
+      "url": "https://x.com/wertyfg/status/1258788424133328896",
+      "author": "337578571",
+      "published_at": "2020-05-08T15:58:42",
+      "observed_at": "2026-09-10T03:55:45.142636",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 7,
+        "views": 0,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1243759880302985216",
+      "title": "Our paper \u201cBayesian physics-informed neural networks for flow reconstruction from sparse &amp; noisy data\u201d has been accepted by Theoretical and Applied Mechanic",
+      "body": "Our paper \u201cBayesian physics-informed neural networks for flow reconstruction from sparse &amp; noisy data\u201d has been accepted by Theoretical and Applied Mechanics Letters. https://t.co/CKBbO8O6bF https://t.co/4InWPuiyKd",
+      "url": "https://x.com/wertyfg/status/1243759880302985216",
+      "author": "337578571",
+      "published_at": "2020-03-28T04:40:38",
+      "observed_at": "2026-09-10T03:55:45.143628",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 13,
+        "views": 0,
+        "reposts": 4,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1243759480522801153",
+      "title": "Submitted a preprint, where a bi-fidelity ensemble Kaman inversion is proposed to solve PDE-constrained inverse problems on a large scale. https://t.co/tkLtjJdY",
+      "body": "Submitted a preprint, where a bi-fidelity ensemble Kaman inversion is proposed to solve PDE-constrained inverse problems on a large scale. https://t.co/tkLtjJdYhX https://t.co/Ly1f7WRkic",
+      "url": "https://x.com/wertyfg/status/1243759480522801153",
+      "author": "337578571",
+      "published_at": "2020-03-28T04:39:02",
+      "observed_at": "2026-09-10T03:55:45.145189",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 3,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1202651270324084737",
+      "title": "I will give an invited seminar talk on data-enabled modeling with \"small data\" at the University of Michigan. See you in Ann Arbor. https://t.co/lyKS5tfNmV",
+      "body": "I will give an invited seminar talk on data-enabled modeling with \"small data\" at the University of Michigan. See you in Ann Arbor. https://t.co/lyKS5tfNmV",
+      "url": "https://x.com/wertyfg/status/1202651270324084737",
+      "author": "337578571",
+      "published_at": "2019-12-05T18:09:41",
+      "observed_at": "2026-09-10T03:55:45.147589",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 4,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "935191464354594816",
+      "title": "https://t.co/ZyExZENByT",
+      "body": "https://t.co/ZyExZENByT",
+      "url": "https://x.com/wertyfg/status/935191464354594816",
+      "author": "337578571",
+      "published_at": "2017-11-27T16:59:54",
+      "observed_at": "2026-09-10T03:55:45.149417",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 1,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "908770049099317249",
+      "title": "https://t.co/fhHAkmCzOU",
+      "body": "https://t.co/fhHAkmCzOU",
+      "url": "https://x.com/wertyfg/status/908770049099317249",
+      "author": "337578571",
+      "published_at": "2017-09-15T19:10:38",
+      "observed_at": "2026-09-10T03:55:45.150434",
+      "metrics": {
+        "author_handle": "wertyfg",
+        "author_followers": 244,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

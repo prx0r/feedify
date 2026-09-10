@@ -1,0 +1,577 @@
+{
+  "handle": "danfei_xu",
+  "total_tweets": 30,
+  "august_tweets": 6,
+  "tweets": [
+    {
+      "id": "2097806212800643437",
+      "title": "Really appreciate the post. I think large models are going to make step changes to robotics too (not just \"robot-native models\"). \n\nOne should either stick to h",
+      "body": "Really appreciate the post. I think large models are going to make step changes to robotics too (not just \"robot-native models\"). \n\nOne should either stick to hard problems and be flexible on the tools or study the best tools and how they impact the problem space(s).",
+      "url": "https://x.com/danfei_xu/status/2097806212800643437",
+      "author": "1665665700",
+      "published_at": "2026-09-09T21:55:51",
+      "observed_at": "2026-09-10T03:57:25.681276",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 56,
+        "views": 4111,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096685420587196505",
+      "title": "@scott_e_reed J1 dynamixals broke more often than I had expected but i think it's the problem of the motor not the design.",
+      "body": "@scott_e_reed J1 dynamixals broke more often than I had expected but i think it's the problem of the motor not the design.",
+      "url": "https://x.com/danfei_xu/status/2096685420587196505",
+      "author": "1665665700",
+      "published_at": "2026-09-06T19:42:13",
+      "observed_at": "2026-09-10T03:57:25.682256",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 3,
+        "views": 249,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096647752469950551",
+      "title": "It seems our janky upside-down mounted aloha arms are optimal all along ;)",
+      "body": "It seems our janky upside-down mounted aloha arms are optimal all along ;)",
+      "url": "https://x.com/danfei_xu/status/2096647752469950551",
+      "author": "1665665700",
+      "published_at": "2026-09-06T17:12:32",
+      "observed_at": "2026-09-10T03:57:25.683077",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 45,
+        "views": 8633,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2090392416729878949",
+      "title": "@q17224 No, but getting closer!",
+      "body": "@q17224 No, but getting closer!",
+      "url": "https://x.com/danfei_xu/status/2090392416729878949",
+      "author": "1665665700",
+      "published_at": "2026-08-20T10:56:04",
+      "observed_at": "2026-09-10T03:57:25.683883",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 6,
+        "views": 196,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090263547049906211",
+      "title": "I'm glad I picked my favorite physical AI company early on, at least mentally, and stuck with my choice :)\n\nPhenomenal",
+      "body": "I'm glad I picked my favorite physical AI company early on, at least mentally, and stuck with my choice :)\n\nPhenomenal",
+      "url": "https://x.com/danfei_xu/status/2090263547049906211",
+      "author": "1665665700",
+      "published_at": "2026-08-20T02:23:59",
+      "observed_at": "2026-09-10T03:57:25.684741",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 129,
+        "views": 12969,
+        "reposts": 2,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090111645385437445",
+      "title": "WARP is the project I\u2019m most excited about this year: can we learn mobile manipulation policies directly from human data, with zero teleoperation?\n\nThe answer i",
+      "body": "WARP is the project I\u2019m most excited about this year: can we learn mobile manipulation policies directly from human data, with zero teleoperation?\n\nThe answer is yes. WARP solves a key missing piece: accurate whole-body kinematic retargeting. With it, we can train a wide range of mobile manipulation skills directly from human demonstrations.\n\nThere is still work to do, especially on observation-space matching and controller optimization to reach natural human motion and speed. But for the first time, direct human-to-robot policy transfer is starting to look real.\n\nMore broadly, this points to a bigger shift: as sensorized human data improves in fidelity, human experience can become a primary source of post-training data for robot policies.",
+      "url": "https://x.com/danfei_xu/status/2090111645385437445",
+      "author": "1665665700",
+      "published_at": "2026-08-19T16:20:23",
+      "observed_at": "2026-09-10T03:57:25.686695",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 140,
+        "views": 15613,
+        "reposts": 11,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087123532925092190",
+      "title": "System &amp; infra is first-class citizen of robot learning. \n\nTo see how we can serve 10+ robots smooth as butter from a single remote GPU, check out @davidhe1",
+      "body": "System &amp; infra is first-class citizen of robot learning. \n\nTo see how we can serve 10+ robots smooth as butter from a single remote GPU, check out @davidhe137 and @rbansal22 's work Armory! https://t.co/Zi4jQoNPjS",
+      "url": "https://x.com/danfei_xu/status/2087123532925092190",
+      "author": "1665665700",
+      "published_at": "2026-08-11T10:26:41",
+      "observed_at": "2026-09-10T03:57:25.689530",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 78,
+        "views": 13162,
+        "reposts": 8,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085429923259490325",
+      "title": "Will be hanging out at Actuate conference Aug 19!",
+      "body": "Will be hanging out at Actuate conference Aug 19!",
+      "url": "https://x.com/danfei_xu/status/2085429923259490325",
+      "author": "1665665700",
+      "published_at": "2026-08-06T18:16:53",
+      "observed_at": "2026-09-10T03:57:25.691502",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 32,
+        "views": 6941,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084060699542589927",
+      "title": "How efficiently can we serve policies to a fleet of robots? \n\n@rbansal22 and @davidhe137 discovered that cloud-based policy serving is in fact a scheduling prob",
+      "body": "How efficiently can we serve policies to a fleet of robots? \n\n@rbansal22 and @davidhe137 discovered that cloud-based policy serving is in fact a scheduling problem with complex real-time constraints (sometimes robot waiting for inference = failure)\n\nWith our serving engine Armory, a single gpu can serve a large VLA to a fleet of 10+ robots simultaneously without pausing any robots.",
+      "url": "https://x.com/danfei_xu/status/2084060699542589927",
+      "author": "1665665700",
+      "published_at": "2026-08-02T23:36:05",
+      "observed_at": "2026-09-10T03:57:25.692958",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 54,
+        "views": 9633,
+        "reposts": 8,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2082314954791661867",
+      "title": "Big fan of @YunzhuLiYZ &amp; co.\u2019s work on real2sim2real. Congratulations!\n\nIn an era of chasing the next buzzword, I have the deepest respect for teams that ma",
+      "body": "Big fan of @YunzhuLiYZ &amp; co.\u2019s work on real2sim2real. Congratulations!\n\nIn an era of chasing the next buzzword, I have the deepest respect for teams that make a focused bet and have the conviction to stick with it.",
+      "url": "https://x.com/danfei_xu/status/2082314954791661867",
+      "author": "1665665700",
+      "published_at": "2026-07-29T03:59:07",
+      "observed_at": "2026-09-10T03:57:25.694899",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 67,
+        "views": 31852,
+        "reposts": 10,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082264759110373765",
+      "title": "But no one in the US is actually building robots that one can buy for research ? ...",
+      "body": "But no one in the US is actually building robots that one can buy for research ? ...",
+      "url": "https://x.com/danfei_xu/status/2082264759110373765",
+      "author": "1665665700",
+      "published_at": "2026-07-29T00:39:39",
+      "observed_at": "2026-09-10T03:57:25.697067",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 136,
+        "views": 28602,
+        "reposts": 12,
+        "replies": 25,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2080447511320293587",
+      "title": "Super cool! Tool use is one of the grand challenges in physical intelligence / reasoning. Seems the solution is just \u2026 train on more tools! \n\nI also like the co",
+      "body": "Super cool! Tool use is one of the grand challenges in physical intelligence / reasoning. Seems the solution is just \u2026 train on more tools! \n\nI also like the compliance mechanism that\u2019s made visible to the camera \u2026",
+      "url": "https://x.com/danfei_xu/status/2080447511320293587",
+      "author": "1665665700",
+      "published_at": "2026-07-24T00:18:34",
+      "observed_at": "2026-09-10T03:57:25.698335",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 66,
+        "views": 9700,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079360267616465178",
+      "title": "@JoeDong233873 My take is that mixing data sources introduce complexity &amp; arbitrary design choices that may not scale. To reach optimal asymptote, simplicit",
+      "body": "@JoeDong233873 My take is that mixing data sources introduce complexity &amp; arbitrary design choices that may not scale. To reach optimal asymptote, simplicity matters a ton.",
+      "url": "https://x.com/danfei_xu/status/2079360267616465178",
+      "author": "1665665700",
+      "published_at": "2026-07-21T00:18:15",
+      "observed_at": "2026-09-10T03:57:25.700113",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 14,
+        "views": 1628,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079359211276755231",
+      "title": "@GuanyaShi yep yep. Incredibly exciting direction.",
+      "body": "@GuanyaShi yep yep. Incredibly exciting direction.",
+      "url": "https://x.com/danfei_xu/status/2079359211276755231",
+      "author": "1665665700",
+      "published_at": "2026-07-21T00:14:03",
+      "observed_at": "2026-09-10T03:57:25.702232",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 5,
+        "views": 474,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192309854286011",
+      "title": "However, outside the spotlight, there are many more ideas seeding, germinating, and growing into saplings. So keep the academia and fundamental-research soil fe",
+      "body": "However, outside the spotlight, there are many more ideas seeding, germinating, and growing into saplings. So keep the academia and fundamental-research soil fertilized. end/ https://t.co/JmbYxX85DN",
+      "url": "https://x.com/danfei_xu/status/2079192309854286011",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:50",
+      "observed_at": "2026-09-10T03:57:25.703411",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 55,
+        "views": 4346,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192306695979168",
+      "title": "When will we get to ROI? Attempts in RL/DAgger post-training continuously happen at various points on this curve. Specialization has value.\n\nBut I fear the curr",
+      "body": "When will we get to ROI? Attempts in RL/DAgger post-training continuously happen at various points on this curve. Specialization has value.\n\nBut I fear the current crazed investment is pushing ROI later in the timeline. I hope it comes before this round of the bubble bursts. 7/ https://t.co/p67vjARDIF",
+      "url": "https://x.com/danfei_xu/status/2079192306695979168",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:50",
+      "observed_at": "2026-09-10T03:57:25.705178",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 41,
+        "views": 11272,
+        "reposts": 2,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192301658628267",
+      "title": "What about VLA/WAM, or whatever next prior-rich architecture?\n\nMy best guess is that they change the slope of these curves, but not the asymptotic ceiling. They",
+      "body": "What about VLA/WAM, or whatever next prior-rich architecture?\n\nMy best guess is that they change the slope of these curves, but not the asymptotic ceiling. They may get there faster, but at sufficient scale the ceilings may become indistinguishable. 6/ https://t.co/09MkHnIuFk",
+      "url": "https://x.com/danfei_xu/status/2079192301658628267",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:48",
+      "observed_at": "2026-09-10T03:57:25.707257",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 29,
+        "views": 6281,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192297087135828",
+      "title": "Who & when will get to the \u201cGPT moment\u201d? My definition is: 40% success rate, any task, anywhere.\n\nMy bet is UMI-like will get there first, given the current inv",
+      "body": "Who & when will get to the \u201cGPT moment\u201d? My definition is: 40% success rate, any task, anywhere.\n\nMy bet is UMI-like will get there first, given the current investment and technology. Ego will follow soon after. Teleop may never, not because of infeasibility, but because of impatience. 5/",
+      "url": "https://x.com/danfei_xu/status/2079192297087135828",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:47",
+      "observed_at": "2026-09-10T03:57:25.709428",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 60,
+        "views": 9954,
+        "reposts": 8,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192292934762846",
+      "title": "But the three forms differ in their scaling curves. Consider y-axis: capability = unique tasks \u00d7 success rate; x-axis: time \u00d7 resources.\n\nTeleop got a head star",
+      "body": "But the three forms differ in their scaling curves. Consider y-axis: capability = unique tasks \u00d7 success rate; x-axis: time \u00d7 resources.\n\nTeleop got a head start, but will grow slowly and plateau at the lowest point. UMI-like may scale up to whatever its gripper/glove form factor allows. Ego + dex hands has the highest ceiling (human-level), but has embodiment and dex-hand hardware gaps to close, so it starts the slowest. 4/",
+      "url": "https://x.com/danfei_xu/status/2079192292934762846",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:46",
+      "observed_at": "2026-09-10T03:57:25.711611",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 53,
+        "views": 5471,
+        "reposts": 1,
+        "replies": 4,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192289868431749",
+      "title": "The S2R locomotion tree has reached maturity. Perhaps more growth is possible. \n\nThe BC manipulation tree is still a sapling. \n\nWhatever the form, teleop, UMI-l",
+      "body": "The S2R locomotion tree has reached maturity. Perhaps more growth is possible. \n\nThe BC manipulation tree is still a sapling. \n\nWhatever the form, teleop, UMI-like, or ego, the fundamental bet is that we can BC human behaviors. 3/",
+      "url": "https://x.com/danfei_xu/status/2079192289868431749",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:46",
+      "observed_at": "2026-09-10T03:57:25.714087",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 27,
+        "views": 5210,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079192285477007536",
+      "title": "Many groundbreaking works grew off these two roots. But few other trees cross over. VLMs and video models are two notable grafts. More on this later. 2/ https:/",
+      "body": "Many groundbreaking works grew off these two roots. But few other trees cross over. VLMs and video models are two notable grafts. More on this later. 2/ https://t.co/mp9ocg54rD",
+      "url": "https://x.com/danfei_xu/status/2079192285477007536",
+      "author": "1665665700",
+      "published_at": "2026-07-20T13:10:45",
+      "observed_at": "2026-09-10T03:57:25.716228",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 34,
+        "views": 5699,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2072703307924058535",
+      "title": "@_asadmemon Cograts!",
+      "body": "@_asadmemon Cograts!",
+      "url": "https://x.com/danfei_xu/status/2072703307924058535",
+      "author": "1665665700",
+      "published_at": "2026-07-02T15:25:52",
+      "observed_at": "2026-09-10T03:57:25.717988",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 3,
+        "views": 1030,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2067999260281315690",
+      "title": "@_asadmemon Nice! when are we going to get the first batch?",
+      "body": "@_asadmemon Nice! when are we going to get the first batch?",
+      "url": "https://x.com/danfei_xu/status/2067999260281315690",
+      "author": "1665665700",
+      "published_at": "2026-06-19T15:53:39",
+      "observed_at": "2026-09-10T03:57:25.722015",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 3,
+        "views": 1880,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2052054676372164812",
+      "title": "And yes, X includes 3D vision, video prediction, world model, simulation, RL, etc.",
+      "body": "And yes, X includes 3D vision, video prediction, world model, simulation, RL, etc.",
+      "url": "https://x.com/danfei_xu/status/2052054676372164812",
+      "author": "1665665700",
+      "published_at": "2026-05-06T15:55:34",
+      "observed_at": "2026-09-10T03:57:25.722926",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 16,
+        "views": 1618,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2040849944517476392",
+      "title": "@pablovelagomez1 Do those also have IMUs? I know go 3s don't have IMUs but the X series do.",
+      "body": "@pablovelagomez1 Do those also have IMUs? I know go 3s don't have IMUs but the X series do.",
+      "url": "https://x.com/danfei_xu/status/2040849944517476392",
+      "author": "1665665700",
+      "published_at": "2026-04-05T17:51:58",
+      "observed_at": "2026-09-10T03:57:25.723662",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 2,
+        "views": 729,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036248966686208458",
+      "title": "@archerlin__ @kushalk_ Absolutely! Our data has head &amp; hand tracking, which are useful for loco manipulation already. In the future we plan to integrate ful",
+      "body": "@archerlin__ @kushalk_ Absolutely! Our data has head &amp; hand tracking, which are useful for loco manipulation already. In the future we plan to integrate full-body tracking",
+      "url": "https://x.com/danfei_xu/status/2036248966686208458",
+      "author": "1665665700",
+      "published_at": "2026-03-24T01:09:19",
+      "observed_at": "2026-09-10T03:57:25.724515",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 2,
+        "views": 766,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036248663651995713",
+      "title": "@pablovelagomez1 @LawrenceZhu22 Thank you! Big fan of your SLAM &amp; tracking integration work",
+      "body": "@pablovelagomez1 @LawrenceZhu22 Thank you! Big fan of your SLAM &amp; tracking integration work",
+      "url": "https://x.com/danfei_xu/status/2036248663651995713",
+      "author": "1665665700",
+      "published_at": "2026-03-24T01:08:07",
+      "observed_at": "2026-09-10T03:57:25.725216",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 2,
+        "views": 916,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036109169548243237",
+      "title": "This is a massive year-long effort made possible by academic partners from Georgia Tech, Stanford, UC San Diego, ETH Zurich, and industry partners from @MeckaAI",
+      "body": "This is a massive year-long effort made possible by academic partners from Georgia Tech, Stanford, UC San Diego, ETH Zurich, and industry partners from @MeckaAI, @scale_AI @ScaleAILabs , and @RealityLabs @meta_aria .\n\nWebsite: https://t.co/sltdIhoUEI\nCode & Data: https://t.co/0OG5SFkT2S\nData Viewer / App: https://t.co/bK9c7CJfPn",
+      "url": "https://x.com/danfei_xu/status/2036109169548243237",
+      "author": "1665665700",
+      "published_at": "2026-03-23T15:53:49",
+      "observed_at": "2026-09-10T03:57:25.725881",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 87,
+        "views": 11523,
+        "reposts": 11,
+        "replies": 5,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036109167543386255",
+      "title": "Finally, EgoVerse is built to scale with the community.\n\nWe invite new partners to contribute and participate: research labs, companies, and individual contribu",
+      "body": "Finally, EgoVerse is built to scale with the community.\n\nWe invite new partners to contribute and participate: research labs, companies, and individual contributors.\n\nJoin and help grow the shared ecosystem!",
+      "url": "https://x.com/danfei_xu/status/2036109167543386255",
+      "author": "1665665700",
+      "published_at": "2026-03-23T15:53:49",
+      "observed_at": "2026-09-10T03:57:25.727369",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 22,
+        "views": 3906,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036108972168458696",
+      "title": "This finding makes collecting your own human data very important. With EgoVerse, anyone can capture egocentric human data using:\n\n- Project Aria glasses\n- An iP",
+      "body": "This finding makes collecting your own human data very important. With EgoVerse, anyone can capture egocentric human data using:\n\n- Project Aria glasses\n- An iPhone-based capture app from Mecka AI\n\nWith our platform, you can also contribute this data back to EgoVerse! https://t.co/BqAnvlS5XY",
+      "url": "https://x.com/danfei_xu/status/2036108972168458696",
+      "author": "1665665700",
+      "published_at": "2026-03-23T15:53:02",
+      "observed_at": "2026-09-10T03:57:25.731351",
+      "metrics": {
+        "author_handle": "danfei_xu",
+        "author_followers": 12833,
+        "likes": 30,
+        "views": 3531,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

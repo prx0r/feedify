@@ -1,0 +1,216 @@
+{
+  "handle": "JunjieYe9",
+  "total_tweets": 11,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2068006732648050808",
+      "title": "DUET is out \ud83d\ude80 Collecting multi-robot data is painful. We show you can pretrain on human-human collaboration priors and fine-tune with just a handful of real-rob",
+      "body": "DUET is out \ud83d\ude80 Collecting multi-robot data is painful. We show you can pretrain on human-human collaboration priors and fine-tune with just a handful of real-robot demos. Paper + website in the thread \ud83d\udc47",
+      "url": "https://x.com/JunjieYe9/status/2068006732648050808",
+      "author": "1418151010170589184",
+      "published_at": "2026-06-19T16:23:21",
+      "observed_at": "2026-09-10T03:39:12.893644",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 13,
+        "views": 1557,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2051189587993907698",
+      "title": "Shoutout to FD-loss, a.k.a, FID killer \ud83d\udd2a",
+      "body": "Shoutout to FD-loss, a.k.a, FID killer \ud83d\udd2a",
+      "url": "https://x.com/JunjieYe9/status/2051189587993907698",
+      "author": "1418151010170589184",
+      "published_at": "2026-05-04T06:38:01",
+      "observed_at": "2026-09-10T03:39:12.899319",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 2,
+        "views": 666,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2051188223549022234",
+      "title": "Thrilled to share that VideoGPA has been accepted to ICML2026! @icmlconf \n\nWe give pre-trained Video Diffusion Models real 3D consistency with a simple, data-ef",
+      "body": "Thrilled to share that VideoGPA has been accepted to ICML2026! @icmlconf \n\nWe give pre-trained Video Diffusion Models real 3D consistency with a simple, data-efficient alignment framework that improves geometric stability.",
+      "url": "https://x.com/JunjieYe9/status/2051188223549022234",
+      "author": "1418151010170589184",
+      "published_at": "2026-05-04T06:32:36",
+      "observed_at": "2026-09-10T03:39:12.900895",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 32,
+        "views": 4204,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023965814974460035",
+      "title": "Thanks for highlighting our work!\nMore details about AnchorDream at https://t.co/b7ImVoSCnj",
+      "body": "Thanks for highlighting our work!\nMore details about AnchorDream at https://t.co/b7ImVoSCnj",
+      "url": "https://x.com/JunjieYe9/status/2023965814974460035",
+      "author": "1418151010170589184",
+      "published_at": "2026-02-18T03:40:28",
+      "observed_at": "2026-09-10T03:39:12.906876",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 5,
+        "views": 516,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023965079423906103",
+      "title": "6/N\nKey Takeaways \ud83d\udd25:\n(i) Kinematic Consistency: Eliminates hallucination via robot-motion anchoring.\n(ii) Zero Scene Assets: Synthesizes data without costly 3D ",
+      "body": "6/N\nKey Takeaways \ud83d\udd25:\n(i) Kinematic Consistency: Eliminates hallucination via robot-motion anchoring.\n(ii) Zero Scene Assets: Synthesizes data without costly 3D modeling.\n(iii) Effective Data Scaling: Performance improves steadily as more synthesized data is added.",
+      "url": "https://x.com/JunjieYe9/status/2023965079423906103",
+      "author": "1418151010170589184",
+      "published_at": "2026-02-18T03:37:33",
+      "observed_at": "2026-09-10T03:39:12.911359",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 2,
+        "views": 140,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023964936230277572",
+      "title": "\ud83d\ude80 \ud835\udc68\ud835\udc8f\ud835\udc84\ud835\udc89\ud835\udc90\ud835\udc93\ud835\udc6b\ud835\udc93\ud835\udc86\ud835\udc82\ud835\udc8e accepted to #ICRA2026!\n\nVideo diffusion often \"hallucinates\" robot motion. We ground diffusion in kinematics to synthesize high-fidelity, embodime",
+      "body": "\ud83d\ude80 \ud835\udc68\ud835\udc8f\ud835\udc84\ud835\udc89\ud835\udc90\ud835\udc93\ud835\udc6b\ud835\udc93\ud835\udc86\ud835\udc82\ud835\udc8e accepted to #ICRA2026!\n\nVideo diffusion often \"hallucinates\" robot motion. We ground diffusion in kinematics to synthesize high-fidelity, embodiment-consistent training data.\n\n\ud83d\udcd6 Paper: https://t.co/d7YJO2nWEE\n\ud83c\udf10 Project: https://t.co/BmDO1uq1jx https://t.co/Q0ahwKd1rm",
+      "url": "https://x.com/JunjieYe9/status/2023964936230277572",
+      "author": "1418151010170589184",
+      "published_at": "2026-02-18T03:36:58",
+      "observed_at": "2026-09-10T03:39:12.913893",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 18,
+        "views": 3867,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023868780947165398",
+      "title": "6/\nBy aligning VDMs with 3D geometry and physical priors, we move closer to reliable world simulators!\n\nGrateful for an amazing collaboration with @DuHongyang31",
+      "body": "6/\nBy aligning VDMs with 3D geometry and physical priors, we move closer to reliable world simulators!\n\nGrateful for an amazing collaboration with @DuHongyang31892, @xiaoyan_cong, and teammates at USC PSI Lab &amp; Brown, advised by @yuewang314 and @randall_balestr. \ud83c\udf0d\ud83d\ude80",
+      "url": "https://x.com/JunjieYe9/status/2023868780947165398",
+      "author": "1418151010170589184",
+      "published_at": "2026-02-17T21:14:53",
+      "observed_at": "2026-09-10T03:39:12.917303",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 2,
+        "views": 265,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023868697023312346",
+      "title": "2/\n\ud83d\udcd6 Paper: https://t.co/oBRlGOY9PW\n\ud83c\udf10 Website: https://t.co/rTQJhXME5R\n\ud83d\udc7e Github: https://t.co/bKYkgT46gi\n\nVDMs look realistic, but lack structural integrity. We",
+      "body": "2/\n\ud83d\udcd6 Paper: https://t.co/oBRlGOY9PW\n\ud83c\udf10 Website: https://t.co/rTQJhXME5R\n\ud83d\udc7e Github: https://t.co/bKYkgT46gi\n\nVDMs look realistic, but lack structural integrity. We introduce a simple, data-efficient way to align them with 3D physical coherence.",
+      "url": "https://x.com/JunjieYe9/status/2023868697023312346",
+      "author": "1418151010170589184",
+      "published_at": "2026-02-17T21:14:33",
+      "observed_at": "2026-09-10T03:39:12.919964",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 4,
+        "views": 823,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2023868684608172430",
+      "title": "\ud83c\udfac \ud835\udc7d\ud835\udc8a\ud835\udc85\ud835\udc86\ud835\udc90\ud835\udc6e\ud835\udc77\ud835\udc68: A self-supervised alignment framework that gives pre-trained Video Diffusion Models real 3D consistency.\n\nToday\u2019s VDMs break geometry \u2014 objects drif",
+      "body": "\ud83c\udfac \ud835\udc7d\ud835\udc8a\ud835\udc85\ud835\udc86\ud835\udc90\ud835\udc6e\ud835\udc77\ud835\udc68: A self-supervised alignment framework that gives pre-trained Video Diffusion Models real 3D consistency.\n\nToday\u2019s VDMs break geometry \u2014 objects drift, morph, and defy physics \u2014 limiting their use as World Models or VLAs.\n\nWe fix that. #VideoGPA https://t.co/fkySZ9k18F",
+      "url": "https://x.com/JunjieYe9/status/2023868684608172430",
+      "author": "1418151010170589184",
+      "published_at": "2026-02-17T21:14:30",
+      "observed_at": "2026-09-10T03:39:12.922704",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 79,
+        "views": 18687,
+        "reposts": 11,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1816294816340201680",
+      "title": "@JiaweiYang118 Congrats Jiawei! This is truly groundbreaking!",
+      "body": "@JiaweiYang118 Congrats Jiawei! This is truly groundbreaking!",
+      "url": "https://x.com/JunjieYe9/status/1816294816340201680",
+      "author": "1418151010170589184",
+      "published_at": "2024-07-25T02:10:03",
+      "observed_at": "2026-09-10T03:39:12.926058",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 3,
+        "views": 222,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1784011040839340243",
+      "title": "We won the Qualcomm Innovation Fellowship 2024! Huge thanks to my amazing teammate @PointsCoder and highly supportive advisors @yuewang314 and @drmapavone !",
+      "body": "We won the Qualcomm Innovation Fellowship 2024! Huge thanks to my amazing teammate @PointsCoder and highly supportive advisors @yuewang314 and @drmapavone !",
+      "url": "https://x.com/JunjieYe9/status/1784011040839340243",
+      "author": "1418151010170589184",
+      "published_at": "2024-04-27T00:05:52",
+      "observed_at": "2026-09-10T03:39:12.927467",
+      "metrics": {
+        "author_handle": "JunjieYe9",
+        "author_followers": 330,
+        "likes": 16,
+        "views": 2076,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "handle": "advaith_sridhar",
+  "total_tweets": 32,
+  "august_tweets": 20,
+  "tweets": [
+    {
+      "id": "2097416251807326665",
+      "title": "@szeloof Congrats Sam! Big respect for your work and the hacker fab movement that spawned out of it",
+      "body": "@szeloof Congrats Sam! Big respect for your work and the hacker fab movement that spawned out of it",
+      "url": "https://x.com/advaith_sridhar/status/2097416251807326665",
+      "author": "930810417642799105",
+      "published_at": "2026-09-08T20:06:17",
+      "observed_at": "2026-09-10T03:53:48.350224",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 0,
+        "views": 131,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097381470516248811",
+      "title": "We\u2019re entering a golden age for science and math",
+      "body": "We\u2019re entering a golden age for science and math",
+      "url": "https://x.com/advaith_sridhar/status/2097381470516248811",
+      "author": "930810417642799105",
+      "published_at": "2026-09-08T17:48:04",
+      "observed_at": "2026-09-10T03:53:48.355022",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 23,
+        "views": 1183,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096012262834405536",
+      "title": "this model's got game https://t.co/5vUtiGp4Pm",
+      "body": "this model's got game https://t.co/5vUtiGp4Pm",
+      "url": "https://x.com/advaith_sridhar/status/2096012262834405536",
+      "author": "930810417642799105",
+      "published_at": "2026-09-04T23:07:20",
+      "observed_at": "2026-09-10T03:53:48.357488",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 12,
+        "views": 911,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095642014998302977",
+      "title": "@beyarkay We\u2019ve seen this happen with OpenAI models before. I think it\u2019s a hallucination by the reasoning summarizer model, and not a flaw with Astra. If the mo",
+      "body": "@beyarkay We\u2019ve seen this happen with OpenAI models before. I think it\u2019s a hallucination by the reasoning summarizer model, and not a flaw with Astra. If the model reasoning CoT is really small, the summarizer tends to hallucinate",
+      "url": "https://x.com/advaith_sridhar/status/2095642014998302977",
+      "author": "930810417642799105",
+      "published_at": "2026-09-03T22:36:06",
+      "observed_at": "2026-09-10T03:53:48.359269",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 3,
+        "views": 1072,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095634703672119779",
+      "title": "Saturating ARC-AGI 3 in 6 months was not on my 2026 bingo card.",
+      "body": "Saturating ARC-AGI 3 in 6 months was not on my 2026 bingo card.",
+      "url": "https://x.com/advaith_sridhar/status/2095634703672119779",
+      "author": "930810417642799105",
+      "published_at": "2026-09-03T22:07:03",
+      "observed_at": "2026-09-10T03:53:48.363092",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 12,
+        "views": 504,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095215859379978705",
+      "title": "Fable 5.1 is the first model that builds its own DFT tools while searching for candidates on Material Discovery Bench. \n\nThis is a step change in capabilities -",
+      "body": "Fable 5.1 is the first model that builds its own DFT tools while searching for candidates on Material Discovery Bench. \n\nThis is a step change in capabilities - the rate of progress in material science continues to accelerate.",
+      "url": "https://x.com/advaith_sridhar/status/2095215859379978705",
+      "author": "930810417642799105",
+      "published_at": "2026-09-02T18:22:42",
+      "observed_at": "2026-09-10T03:53:48.365560",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 13,
+        "views": 795,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2091720090660036937",
+      "title": "thermals is the limiting issue for 3D stacking, and currently proposed solutions like halving peak frequency are terribly unserious suggestions.\n\nits time for n",
+      "body": "thermals is the limiting issue for 3D stacking, and currently proposed solutions like halving peak frequency are terribly unserious suggestions.\n\nits time for new thermally conductive materials.",
+      "url": "https://x.com/advaith_sridhar/status/2091720090660036937",
+      "author": "930810417642799105",
+      "published_at": "2026-08-24T02:51:46",
+      "observed_at": "2026-09-10T03:53:48.369568",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 14,
+        "views": 782,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090446301125321056",
+      "title": "@AssilHalimi @paulg @PhilipJohnston @FundersClub @rayrothrock @m_franceschetti @ycombinator @alumniventures @Pelion_VP @DukeCapPartners @nucleationvc Congratula",
+      "body": "@AssilHalimi @paulg @PhilipJohnston @FundersClub @rayrothrock @m_franceschetti @ycombinator @alumniventures @Pelion_VP @DukeCapPartners @nucleationvc Congratulations! Your YC demo Day setup was super impressive",
+      "url": "https://x.com/advaith_sridhar/status/2090446301125321056",
+      "author": "930810417642799105",
+      "published_at": "2026-08-20T14:30:11",
+      "observed_at": "2026-09-10T03:53:48.372585",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 3,
+        "views": 207,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089296646202904751",
+      "title": "Merging wafers on each other is the future of GPUs",
+      "body": "Merging wafers on each other is the future of GPUs",
+      "url": "https://x.com/advaith_sridhar/status/2089296646202904751",
+      "author": "930810417642799105",
+      "published_at": "2026-08-17T10:21:52",
+      "observed_at": "2026-09-10T03:53:48.374427",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 26,
+        "views": 3166,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088643256045195614",
+      "title": "Happy Independence Day \ud83c\uddee\ud83c\uddf3 Semiconductor chip independence is increasingly important for a country\u2019s independence, and 2026 has been a good year for India on thi",
+      "body": "Happy Independence Day \ud83c\uddee\ud83c\uddf3 Semiconductor chip independence is increasingly important for a country\u2019s independence, and 2026 has been a good year for India on this front. Onwards and upwards \ud83d\ude80",
+      "url": "https://x.com/advaith_sridhar/status/2088643256045195614",
+      "author": "930810417642799105",
+      "published_at": "2026-08-15T15:05:32",
+      "observed_at": "2026-09-10T03:53:48.377536",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 68,
+        "views": 1908,
+        "reposts": 7,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087710789985763571",
+      "title": "On yesterday\u2019s CNBC startup street!",
+      "body": "On yesterday\u2019s CNBC startup street!",
+      "url": "https://x.com/advaith_sridhar/status/2087710789985763571",
+      "author": "930810417642799105",
+      "published_at": "2026-08-13T01:20:14",
+      "observed_at": "2026-09-10T03:53:48.380741",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 46,
+        "views": 2365,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087145085486121389",
+      "title": "100% agree that coming up with materials in computation is not enough - we've been able to do that for a long time with atomistic simulations. \n\nThe exciting th",
+      "body": "100% agree that coming up with materials in computation is not enough - we've been able to do that for a long time with atomistic simulations. \n\nThe exciting thing about LLMs is that they're able to reason through and propose solutions to all the problems you list (our benchmark shows that there's still room for improvement here). As models get better and better, we expect these barriers will get knocked down quickly!",
+      "url": "https://x.com/advaith_sridhar/status/2087145085486121389",
+      "author": "930810417642799105",
+      "published_at": "2026-08-11T11:52:20",
+      "observed_at": "2026-09-10T03:53:48.382474",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 15,
+        "views": 636,
+        "reposts": 1,
+        "replies": 4,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087140723246158166",
+      "title": "grateful to be trending on @bsindia too https://t.co/VsEVMbM2P6",
+      "body": "grateful to be trending on @bsindia too https://t.co/VsEVMbM2P6",
+      "url": "https://x.com/advaith_sridhar/status/2087140723246158166",
+      "author": "930810417642799105",
+      "published_at": "2026-08-11T11:35:00",
+      "observed_at": "2026-09-10T03:53:48.385493",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 59,
+        "views": 1364,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087079321878024495",
+      "title": "thank you @puranchdET for covering us in today's Economic Times! https://t.co/3r2ycYG4ae",
+      "body": "thank you @puranchdET for covering us in today's Economic Times! https://t.co/3r2ycYG4ae",
+      "url": "https://x.com/advaith_sridhar/status/2087079321878024495",
+      "author": "930810417642799105",
+      "published_at": "2026-08-11T07:31:01",
+      "observed_at": "2026-09-10T03:53:48.386846",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 62,
+        "views": 1778,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087018949728948229",
+      "title": "@LiamFedus @discoveredmat Thank you! We agree - let\u2019s bring back Moore\u2019s Law",
+      "body": "@LiamFedus @discoveredmat Thank you! We agree - let\u2019s bring back Moore\u2019s Law",
+      "url": "https://x.com/advaith_sridhar/status/2087018949728948229",
+      "author": "930810417642799105",
+      "published_at": "2026-08-11T03:31:07",
+      "observed_at": "2026-09-10T03:53:48.388080",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 4,
+        "views": 597,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086864001695445223",
+      "title": "@neldien_ @discoveredmat haha you're too kind",
+      "body": "@neldien_ @discoveredmat haha you're too kind",
+      "url": "https://x.com/advaith_sridhar/status/2086864001695445223",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T17:15:24",
+      "observed_at": "2026-09-10T03:53:48.389464",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 2,
+        "views": 72,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086856300831604821",
+      "title": "yep, it costs us just $10 per year!",
+      "body": "yep, it costs us just $10 per year!",
+      "url": "https://x.com/advaith_sridhar/status/2086856300831604821",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T16:44:48",
+      "observed_at": "2026-09-10T03:53:48.390729",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 86,
+        "views": 6728,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086837198062842087",
+      "title": "Honored to have you guys back us",
+      "body": "Honored to have you guys back us",
+      "url": "https://x.com/advaith_sridhar/status/2086837198062842087",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:28:54",
+      "observed_at": "2026-09-10T03:53:48.392086",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 48,
+        "views": 4699,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086834532163125330",
+      "title": "@vsaietta @discoveredmat we stop some forms of reward hacking while grading, but it does inflate the count. the leaderboard does account for this, however!",
+      "body": "@vsaietta @discoveredmat we stop some forms of reward hacking while grading, but it does inflate the count. the leaderboard does account for this, however!",
+      "url": "https://x.com/advaith_sridhar/status/2086834532163125330",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:18:18",
+      "observed_at": "2026-09-10T03:53:48.393413",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 3,
+        "views": 1392,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831762840428810",
+      "title": "@discoveredmat Also a big shout out to @TimFernholz and @TechCrunch for the cover! https://t.co/6xA2Ezmyyf",
+      "body": "@discoveredmat Also a big shout out to @TimFernholz and @TechCrunch for the cover! https://t.co/6xA2Ezmyyf",
+      "url": "https://x.com/advaith_sridhar/status/2086831762840428810",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:07:18",
+      "observed_at": "2026-09-10T03:53:48.396132",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 22,
+        "views": 3727,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831693072327099",
+      "title": "@discoveredmat You can find all these details and more on our website! https://t.co/NjfUcQLk36\n\nAt @discoveredmat , we believe AI will accelerate the pace of ne",
+      "body": "@discoveredmat You can find all these details and more on our website! https://t.co/NjfUcQLk36\n\nAt @discoveredmat , we believe AI will accelerate the pace of new material adoption from decades to months. If you would like to take part in building this future, join us. https://t.co/BYKpVkpdtx",
+      "url": "https://x.com/advaith_sridhar/status/2086831693072327099",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:07:01",
+      "observed_at": "2026-09-10T03:53:48.397829",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 37,
+        "views": 3109,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831638718345225",
+      "title": "@discoveredmat OpenAI models are far less likely to reward hack like the above, but seem to unravel over longer task horizons. Here\u2019s a snippet of GPT-5.6-terra",
+      "body": "@discoveredmat OpenAI models are far less likely to reward hack like the above, but seem to unravel over longer task horizons. Here\u2019s a snippet of GPT-5.6-terra confusing crystal relaxation with taking a break (relaxing). https://t.co/TeikbAhfmo",
+      "url": "https://x.com/advaith_sridhar/status/2086831638718345225",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:06:48",
+      "observed_at": "2026-09-10T03:53:48.400712",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 63,
+        "views": 5078,
+        "reposts": 4,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831503393353970",
+      "title": "@discoveredmat We also observe large amounts of reward hacking from the Claude models (Opus and Fable) during the run. In one instance, Fable submitted the same",
+      "body": "@discoveredmat We also observe large amounts of reward hacking from the Claude models (Opus and Fable) during the run. In one instance, Fable submitted the same material 58 times - using larger and larger super-cells of the same material in an attempt to fool our grader. https://t.co/JORxVLeAvy",
+      "url": "https://x.com/advaith_sridhar/status/2086831503393353970",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:06:16",
+      "observed_at": "2026-09-10T03:53:48.403990",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 58,
+        "views": 4327,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831389123784836",
+      "title": "However, finding new materials is just the beginning. Figuring out how to make them in the lab is really hard, and is often the bottleneck in material discovery",
+      "body": "However, finding new materials is just the beginning. Figuring out how to make them in the lab is really hard, and is often the bottleneck in material discovery. On this front, all models struggle. Out of the 500+ new materials discovered by models, only 1 (discovered by Sol) has a plausible synthesis route.",
+      "url": "https://x.com/advaith_sridhar/status/2086831389123784836",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:05:49",
+      "observed_at": "2026-09-10T03:53:48.407059",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 58,
+        "views": 5476,
+        "reposts": 3,
+        "replies": 4,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831275235737815",
+      "title": "In Material Discovery Bench, we give frontier models an open-ended material discovery problem - finding new dielectrics for chips. Models are equipped with ever",
+      "body": "In Material Discovery Bench, we give frontier models an open-ended material discovery problem - finding new dielectrics for chips. Models are equipped with everything a competent PhD student would have access to - atomistic simulation software, a coding environment, property prediction models (MLIPs) and web search. Each model run is long-horizon (100M tokens!), and models are allowed to make unlimited submissions over the run.\n\nSol, Fable, Opus and Kimi-3 are surprisingly capable at this task, generating hundreds of unique materials that are stable and show good thermal, dielectric and mechanical properties.",
+      "url": "https://x.com/advaith_sridhar/status/2086831275235737815",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:05:22",
+      "observed_at": "2026-09-10T03:53:48.408604",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 113,
+        "views": 12378,
+        "reposts": 13,
+        "replies": 4,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086831138841211056",
+      "title": "Semiconductor chips are bottlenecked by heat, and better materials would enable dramatic improvements in chip performance. For example, new thermally conductive",
+      "body": "Semiconductor chips are bottlenecked by heat, and better materials would enable dramatic improvements in chip performance. For example, new thermally conductive dielectric materials would make chips 10x more energy efficient by enabling 3D packaging of logic and memory. Several other parts of AI chips - the substrates, interconnects, or the transistor itself - require new materials to push chip performance.",
+      "url": "https://x.com/advaith_sridhar/status/2086831138841211056",
+      "author": "930810417642799105",
+      "published_at": "2026-08-10T15:04:49",
+      "observed_at": "2026-09-10T03:53:48.410885",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 112,
+        "views": 11157,
+        "reposts": 5,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2077633033482756340",
+      "title": "@Alex_FF Feels like this could be a cool eval!",
+      "body": "@Alex_FF Feels like this could be a cool eval!",
+      "url": "https://x.com/advaith_sridhar/status/2077633033482756340",
+      "author": "930810417642799105",
+      "published_at": "2026-07-16T05:54:50",
+      "observed_at": "2026-09-10T03:53:48.412548",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 2,
+        "views": 86,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2073063422816837813",
+      "title": "@FlyaKiet @avimakesrobots @saddle_paddle Congratulations!",
+      "body": "@FlyaKiet @avimakesrobots @saddle_paddle Congratulations!",
+      "url": "https://x.com/advaith_sridhar/status/2073063422816837813",
+      "author": "930810417642799105",
+      "published_at": "2026-07-03T15:16:50",
+      "observed_at": "2026-09-10T03:53:48.413190",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 2,
+        "views": 49,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062933340857184316",
+      "title": "@paulg we may soon be https://t.co/HFdD5fPIKo",
+      "body": "@paulg we may soon be https://t.co/HFdD5fPIKo",
+      "url": "https://x.com/advaith_sridhar/status/2062933340857184316",
+      "author": "930810417642799105",
+      "published_at": "2026-06-05T16:23:30",
+      "observed_at": "2026-09-10T03:53:48.413899",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 27,
+        "views": 10795,
+        "reposts": 0,
+        "replies": 7,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057125971602636859",
+      "title": "@PhilipJohnston @ycombinator @OpenAI It\u2019s uncapped and not MFN, so it converts at the series A price! (Not demo day price)",
+      "body": "@PhilipJohnston @ycombinator @OpenAI It\u2019s uncapped and not MFN, so it converts at the series A price! (Not demo day price)",
+      "url": "https://x.com/advaith_sridhar/status/2057125971602636859",
+      "author": "930810417642799105",
+      "published_at": "2026-05-20T15:47:05",
+      "observed_at": "2026-09-10T03:53:48.414797",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 5,
+        "views": 716,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056766891067343085",
+      "title": "@karpathy @bcherny Will you continue to share your work from time to time? Your content is probably the single most impactful thing in open source AI, it would ",
+      "body": "@karpathy @bcherny Will you continue to share your work from time to time? Your content is probably the single most impactful thing in open source AI, it would be dearly missed",
+      "url": "https://x.com/advaith_sridhar/status/2056766891067343085",
+      "author": "930810417642799105",
+      "published_at": "2026-05-19T16:00:14",
+      "observed_at": "2026-09-10T03:53:48.415489",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 4,
+        "views": 6442,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046630640645284042",
+      "title": "@ycombinator @matforge_ Thank you @_adishj and Mosaic for the kickass launch video!",
+      "body": "@ycombinator @matforge_ Thank you @_adishj and Mosaic for the kickass launch video!",
+      "url": "https://x.com/advaith_sridhar/status/2046630640645284042",
+      "author": "930810417642799105",
+      "published_at": "2026-04-21T16:42:23",
+      "observed_at": "2026-09-10T03:53:48.416143",
+      "metrics": {
+        "author_handle": "advaith_sridhar",
+        "author_followers": 2169,
+        "likes": 2,
+        "views": 5086,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

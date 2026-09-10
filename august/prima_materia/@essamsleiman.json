@@ -1,0 +1,425 @@
+{
+  "handle": "essamsleiman",
+  "total_tweets": 22,
+  "august_tweets": 6,
+  "tweets": [
+    {
+      "id": "2095330759490044402",
+      "title": "@bhavye_khetan who is bro \ud83e\uddd0",
+      "body": "@bhavye_khetan who is bro \ud83e\uddd0",
+      "url": "https://x.com/essamsleiman/status/2095330759490044402",
+      "author": "1530772574862381056",
+      "published_at": "2026-09-03T01:59:17",
+      "observed_at": "2026-09-10T03:56:16.021545",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 0,
+        "views": 104,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095250028986348011",
+      "title": "The speed at which MSL has caught up to the frontier is insane, great work @alexandr_wang + team",
+      "body": "The speed at which MSL has caught up to the frontier is insane, great work @alexandr_wang + team",
+      "url": "https://x.com/essamsleiman/status/2095250028986348011",
+      "author": "1530772574862381056",
+      "published_at": "2026-09-02T20:38:29",
+      "observed_at": "2026-09-10T03:56:16.022509",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 25,
+        "views": 1431,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2092670672967458903",
+      "title": "narrative is everything",
+      "body": "narrative is everything",
+      "url": "https://x.com/essamsleiman/status/2092670672967458903",
+      "author": "1530772574862381056",
+      "published_at": "2026-08-26T17:49:03",
+      "observed_at": "2026-09-10T03:56:16.023234",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 18,
+        "views": 676,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2091729591308267969",
+      "title": "@madhavsinghal_ amen",
+      "body": "@madhavsinghal_ amen",
+      "url": "https://x.com/essamsleiman/status/2091729591308267969",
+      "author": "1530772574862381056",
+      "published_at": "2026-08-24T03:29:31",
+      "observed_at": "2026-09-10T03:56:16.023951",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 5,
+        "views": 5625,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090294291281441246",
+      "title": "@ScottWu46 Why do people automatically assume Scott would tell the truth here? It's in a company's strong interest to not expose an acquisition before it's conf",
+      "body": "@ScottWu46 Why do people automatically assume Scott would tell the truth here? It's in a company's strong interest to not expose an acquisition before it's confirmed and signed",
+      "url": "https://x.com/essamsleiman/status/2090294291281441246",
+      "author": "1530772574862381056",
+      "published_at": "2026-08-20T04:26:09",
+      "observed_at": "2026-09-10T03:56:16.024698",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 3,
+        "views": 209,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088030352342487470",
+      "title": "@contractedai @physicreality lets goo \ud83d\udd25",
+      "body": "@contractedai @physicreality lets goo \ud83d\udd25",
+      "url": "https://x.com/essamsleiman/status/2088030352342487470",
+      "author": "1530772574862381056",
+      "published_at": "2026-08-13T22:30:04",
+      "observed_at": "2026-09-10T03:56:16.026162",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 5,
+        "views": 162,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2085048198822019463",
+      "title": "@farhunky @ShotwellSt Big congrats! Very relevant problem and there\u2019s no better team to crack it!",
+      "body": "@farhunky @ShotwellSt Big congrats! Very relevant problem and there\u2019s no better team to crack it!",
+      "url": "https://x.com/essamsleiman/status/2085048198822019463",
+      "author": "1530772574862381056",
+      "published_at": "2026-08-05T17:00:03",
+      "observed_at": "2026-09-10T03:56:16.027319",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 4,
+        "views": 152,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084692486052778400",
+      "title": "@hassantsyed rip",
+      "body": "@hassantsyed rip",
+      "url": "https://x.com/essamsleiman/status/2084692486052778400",
+      "author": "1530772574862381056",
+      "published_at": "2026-08-04T17:26:35",
+      "observed_at": "2026-09-10T03:56:16.027985",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 88,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2079652387468529843",
+      "title": "@yousefhll @runvendo @nourzahzah love it!",
+      "body": "@yousefhll @runvendo @nourzahzah love it!",
+      "url": "https://x.com/essamsleiman/status/2079652387468529843",
+      "author": "1530772574862381056",
+      "published_at": "2026-07-21T19:39:01",
+      "observed_at": "2026-09-10T03:56:16.028622",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 132,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077909036297867625",
+      "title": "@arena @Kimi_Moonshot the \"distilled\" model outperforms its teacher",
+      "body": "@arena @Kimi_Moonshot the \"distilled\" model outperforms its teacher",
+      "url": "https://x.com/essamsleiman/status/2077909036297867625",
+      "author": "1530772574862381056",
+      "published_at": "2026-07-17T00:11:34",
+      "observed_at": "2026-09-10T03:56:16.029287",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 3,
+        "views": 1169,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075079699844497419",
+      "title": "@CathPoaster \ud83e\udd23",
+      "body": "@CathPoaster \ud83e\udd23",
+      "url": "https://x.com/essamsleiman/status/2075079699844497419",
+      "author": "1530772574862381056",
+      "published_at": "2026-07-09T04:48:48",
+      "observed_at": "2026-09-10T03:56:16.030015",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 281,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074956899964076534",
+      "title": "@madhavsinghal_ also -  when i switch between agent tabs, for some reason it will auto-scroll be to the top of the convo sometimes\n\nthis especially happens for ",
+      "body": "@madhavsinghal_ also -  when i switch between agent tabs, for some reason it will auto-scroll be to the top of the convo sometimes\n\nthis especially happens for longer agent chats",
+      "url": "https://x.com/essamsleiman/status/2074956899964076534",
+      "author": "1530772574862381056",
+      "published_at": "2026-07-08T20:40:50",
+      "observed_at": "2026-09-10T03:56:16.030744",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 166,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2069572937229943193",
+      "title": "@pattssun @nyknicks let's run it",
+      "body": "@pattssun @nyknicks let's run it",
+      "url": "https://x.com/essamsleiman/status/2069572937229943193",
+      "author": "1530772574862381056",
+      "published_at": "2026-06-24T00:06:53",
+      "observed_at": "2026-09-10T03:56:16.031523",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 588,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062626125487259935",
+      "title": "@shiringhaffary @EdLudlow @natlungfy lol what",
+      "body": "@shiringhaffary @EdLudlow @natlungfy lol what",
+      "url": "https://x.com/essamsleiman/status/2062626125487259935",
+      "author": "1530772574862381056",
+      "published_at": "2026-06-04T20:02:44",
+      "observed_at": "2026-09-10T03:56:16.032250",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 1248,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062608328015147366",
+      "title": "@kiwicopple @supabase wowza",
+      "body": "@kiwicopple @supabase wowza",
+      "url": "https://x.com/essamsleiman/status/2062608328015147366",
+      "author": "1530772574862381056",
+      "published_at": "2026-06-04T18:52:01",
+      "observed_at": "2026-09-10T03:56:16.032931",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 68,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2060403300496003444",
+      "title": "@suchenzang found this old vid! https://t.co/BSq9jPuzLN",
+      "body": "@suchenzang found this old vid! https://t.co/BSq9jPuzLN",
+      "url": "https://x.com/essamsleiman/status/2060403300496003444",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-29T16:50:01",
+      "observed_at": "2026-09-10T03:56:16.033568",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 3,
+        "views": 268,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2060395956550705661",
+      "title": "@suchenzang Washington square park, SF every morning",
+      "body": "@suchenzang Washington square park, SF every morning",
+      "url": "https://x.com/essamsleiman/status/2060395956550705661",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-29T16:20:51",
+      "observed_at": "2026-09-10T03:56:16.034253",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 6,
+        "views": 818,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2059073266120368333",
+      "title": "@rayyanfkhan well you did ask them: \"anything i can help with\" \ud83e\udd37\u200d\u2642\ufe0f",
+      "body": "@rayyanfkhan well you did ask them: \"anything i can help with\" \ud83e\udd37\u200d\u2642\ufe0f",
+      "url": "https://x.com/essamsleiman/status/2059073266120368333",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-26T00:44:57",
+      "observed_at": "2026-09-10T03:56:16.034920",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 3,
+        "views": 136,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2058604713483059644",
+      "title": "@maxzimmerberlin @Sree_Harsha_N @spokutta very cool work!",
+      "body": "@maxzimmerberlin @Sree_Harsha_N @spokutta very cool work!",
+      "url": "https://x.com/essamsleiman/status/2058604713483059644",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-24T17:43:05",
+      "observed_at": "2026-09-10T03:56:16.035562",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 2,
+        "views": 97,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057680095503163760",
+      "title": "@chrisfirst wait this is insane",
+      "body": "@chrisfirst wait this is insane",
+      "url": "https://x.com/essamsleiman/status/2057680095503163760",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-22T04:28:59",
+      "observed_at": "2026-09-10T03:56:16.036255",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 3,
+        "views": 688,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2055032149804527626",
+      "title": "and special thanks to @madhavsinghal_ @achakravarthy01 @zeeshanp_ @Vtrivedy10 for reviewing this blog!",
+      "body": "and special thanks to @madhavsinghal_ @achakravarthy01 @zeeshanp_ @Vtrivedy10 for reviewing this blog!",
+      "url": "https://x.com/essamsleiman/status/2055032149804527626",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-14T21:06:59",
+      "observed_at": "2026-09-10T03:56:16.037049",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 4,
+        "views": 247,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2052209955407908942",
+      "title": "@mattsenger10 wrong founder but \ud83e\udd23\ud83e\udd23",
+      "body": "@mattsenger10 wrong founder but \ud83e\udd23\ud83e\udd23",
+      "url": "https://x.com/essamsleiman/status/2052209955407908942",
+      "author": "1530772574862381056",
+      "published_at": "2026-05-07T02:12:36",
+      "observed_at": "2026-09-10T03:56:16.037734",
+      "metrics": {
+        "author_handle": "essamsleiman",
+        "author_followers": 2064,
+        "likes": 29,
+        "views": 12565,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

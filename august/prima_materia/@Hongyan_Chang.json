@@ -1,0 +1,178 @@
+{
+  "handle": "Hongyan_Chang",
+  "total_tweets": 9,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2002009560953835717",
+      "title": "I\u2019m excited to share that I\u2019ve joined Meta FAIR Paris as a postdoctoral researcher \ud83c\udf89\n\nWe\u2019ve just open-sourced Meta Seal, a production-ready invisible watermarki",
+      "body": "I\u2019m excited to share that I\u2019ve joined Meta FAIR Paris as a postdoctoral researcher \ud83c\udf89\n\nWe\u2019ve just open-sourced Meta Seal, a production-ready invisible watermarking suite for image, video, audio, and text, released under the MIT license. Please check out\ud83d\udc47",
+      "url": "https://x.com/Hongyan_Chang/status/2002009560953835717",
+      "author": "1335821784155738113",
+      "published_at": "2025-12-19T13:34:09",
+      "observed_at": "2026-09-10T03:54:09.521545",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 15,
+        "views": 1521,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1986047262833996023",
+      "title": "Excited to present two papers at #EMNLP2025 tomorrow \ud83c\udf89\n\n\ud83e\udde9 Poster: \u201cWatermark Smoothing Attacks against LMs\u201d \u2014 12:30\u201313:30, Hall C3\n\ud83e\udde0 Oral: \u201cContext-Aware Member",
+      "body": "Excited to present two papers at #EMNLP2025 tomorrow \ud83c\udf89\n\n\ud83e\udde9 Poster: \u201cWatermark Smoothing Attacks against LMs\u201d \u2014 12:30\u201313:30, Hall C3\n\ud83e\udde0 Oral: \u201cContext-Aware Membership Inference Attacks\u201d \u2014 17:00, Room A104-105\n\nCome chat about LLM safety &amp; privacy!",
+      "url": "https://x.com/Hongyan_Chang/status/1986047262833996023",
+      "author": "1335821784155738113",
+      "published_at": "2025-11-05T12:25:41",
+      "observed_at": "2026-09-10T03:54:09.523644",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 10,
+        "views": 1957,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1974794269312635164",
+      "title": "Excited to share that my internship project has been accepted at EMNLP! Grateful for the amazing experience working with @AliShahinShams1  and @minoskt in @Brav",
+      "body": "Excited to share that my internship project has been accepted at EMNLP! Grateful for the amazing experience working with @AliShahinShams1  and @minoskt in @Brave.",
+      "url": "https://x.com/Hongyan_Chang/status/1974794269312635164",
+      "author": "1335821784155738113",
+      "published_at": "2025-10-05T11:10:18",
+      "observed_at": "2026-09-10T03:54:09.527870",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 29,
+        "views": 7962,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1858483030488449219",
+      "title": "@AliShahinShams1 is a really cool mentor. Working with him is as fun as traveling in London. If you are interested in privacy and fairness in machine learning, ",
+      "body": "@AliShahinShams1 is a really cool mentor. Working with him is as fun as traveling in London. If you are interested in privacy and fairness in machine learning, please check it out.",
+      "url": "https://x.com/Hongyan_Chang/status/1858483030488449219",
+      "author": "1335821784155738113",
+      "published_at": "2024-11-18T12:10:58",
+      "observed_at": "2026-09-10T03:54:09.532652",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 6,
+        "views": 405,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1795062773044379902",
+      "title": "I am very excited to kick off my internship @brave and join the brave research family!!\n\nLooking forward to collaborating with my mentors @AliShahinShams1  and ",
+      "body": "I am very excited to kick off my internship @brave and join the brave research family!!\n\nLooking forward to collaborating with my mentors @AliShahinShams1  and @minoskt  and learning from this wonderful team this summer!\ud83e\udd81",
+      "url": "https://x.com/Hongyan_Chang/status/1795062773044379902",
+      "author": "1335821784155738113",
+      "published_at": "2024-05-27T12:01:30",
+      "observed_at": "2026-09-10T03:54:09.536802",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 16,
+        "views": 3302,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1735601143009702044",
+      "title": "We have been working on fairness problems in federated learning. We showed that FL may propagate bias from the most biased parties to the less biased parties. C",
+      "body": "We have been working on fairness problems in federated learning. We showed that FL may propagate bias from the most biased parties to the less biased parties. Check our paper here https://t.co/CxHGm0B9gg and a blog post here https://t.co/b0Z8iD7b3h.",
+      "url": "https://x.com/Hongyan_Chang/status/1735601143009702044",
+      "author": "1335821784155738113",
+      "published_at": "2023-12-15T10:02:13",
+      "observed_at": "2026-09-10T03:54:09.540567",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 14,
+        "views": 1320,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1549969179851206657",
+      "title": "The summer school and workshop about algorithmic fairness held by @ipam_ucla were so wonderful! I am grateful for the experience!! https://t.co/D2Ec6hl3Rx",
+      "body": "The summer school and workshop about algorithmic fairness held by @ipam_ucla were so wonderful! I am grateful for the experience!! https://t.co/D2Ec6hl3Rx",
+      "url": "https://x.com/Hongyan_Chang/status/1549969179851206657",
+      "author": "1335821784155738113",
+      "published_at": "2022-07-21T04:07:04",
+      "observed_at": "2026-09-10T03:54:09.544295",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 6,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1427492616808001537",
+      "title": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d Prof. Naftali Tishby gave great talks, and I watched them again and again. So sad to hear that he passed away .....\nhttps://t.co/bcmSCIqBK8",
+      "body": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d Prof. Naftali Tishby gave great talks, and I watched them again and again. So sad to hear that he passed away .....\nhttps://t.co/bcmSCIqBK8",
+      "url": "https://x.com/Hongyan_Chang/status/1427492616808001537",
+      "author": "1335821784155738113",
+      "published_at": "2021-08-17T04:48:56",
+      "observed_at": "2026-09-10T03:54:09.547761",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1345758544964931584",
+      "title": "\u7d20\u8d28\u4e09\u8fde\ud83d\ude0f",
+      "body": "\u7d20\u8d28\u4e09\u8fde\ud83d\ude0f",
+      "url": "https://x.com/Hongyan_Chang/status/1345758544964931584",
+      "author": "1335821784155738113",
+      "published_at": "2021-01-03T15:46:54",
+      "observed_at": "2026-09-10T03:54:09.550776",
+      "metrics": {
+        "author_handle": "Hongyan_Chang",
+        "author_followers": 144,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

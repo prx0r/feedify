@@ -1,0 +1,406 @@
+{
+  "handle": "guguoying",
+  "total_tweets": 21,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2001899449065603173",
+      "title": "Our recent Science Advances paper presents a design and fabrication framework for autonomous soft robots with embedded actuation and sensing.\nhttps://t.co/i9vew",
+      "body": "Our recent Science Advances paper presents a design and fabrication framework for autonomous soft robots with embedded actuation and sensing.\nhttps://t.co/i9vewbCXkC",
+      "url": "https://x.com/guguoying/status/2001899449065603173",
+      "author": "3048395124",
+      "published_at": "2025-12-19T06:16:36",
+      "observed_at": "2026-09-10T03:54:30.615541",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 5,
+        "views": 263,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1998060302651498940",
+      "title": "Our recent Science paper presents a class of semiseparated biphasic bicontinuous dielectric elastomer for high-performance artificial muscle.\n\nhttps://t.co/aLkZ",
+      "body": "Our recent Science paper presents a class of semiseparated biphasic bicontinuous dielectric elastomer for high-performance artificial muscle.\n\nhttps://t.co/aLkZn1zMBH",
+      "url": "https://x.com/guguoying/status/1998060302651498940",
+      "author": "3048395124",
+      "published_at": "2025-12-08T16:01:12",
+      "observed_at": "2026-09-10T03:54:30.620135",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 8,
+        "views": 377,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1915400250908705058",
+      "title": "Our recent Science Advances paper presents a biomimetic finger design that preserves these principles through coordinated rigid-soft interplay, achieving struct",
+      "body": "Our recent Science Advances paper presents a biomimetic finger design that preserves these principles through coordinated rigid-soft interplay, achieving structural and control simplicity for constructing dexterous robotic hands, like piano playing.\nhttps://t.co/xPjB5kojup",
+      "url": "https://x.com/guguoying/status/1915400250908705058",
+      "author": "3048395124",
+      "published_at": "2025-04-24T13:39:40",
+      "observed_at": "2026-09-10T03:54:30.624797",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 17,
+        "views": 715,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1900330721220374628",
+      "title": "Our NC paper presents a sensorized robotic hand that integrates a high-density visual tactile palm,\ndexterous soft fingers, and cooperative palm-finger interact",
+      "body": "Our NC paper presents a sensorized robotic hand that integrates a high-density visual tactile palm,\ndexterous soft fingers, and cooperative palm-finger interaction strategies. \nhttps://t.co/02niEFr3nw",
+      "url": "https://x.com/guguoying/status/1900330721220374628",
+      "author": "3048395124",
+      "published_at": "2025-03-13T23:38:45",
+      "observed_at": "2026-09-10T03:54:30.632241",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 14,
+        "views": 305,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1887071532507111463",
+      "title": "Thanks Dr. Caroline Beyer, highlight our NC paper on multimaterial cryogenic printing at  Nature Reviews Bioengineering . \nhttps://t.co/0z57hnUyFN",
+      "body": "Thanks Dr. Caroline Beyer, highlight our NC paper on multimaterial cryogenic printing at  Nature Reviews Bioengineering . \nhttps://t.co/0z57hnUyFN",
+      "url": "https://x.com/guguoying/status/1887071532507111463",
+      "author": "3048395124",
+      "published_at": "2025-02-05T09:31:28",
+      "observed_at": "2026-09-10T03:54:30.635665",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 23,
+        "views": 1240,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1885928824992604260",
+      "title": "Our new SA paper presents a class of BFMs with embedded pneumatic control components, capable of functioning as various soft actuators and control modules, incl",
+      "body": "Our new SA paper presents a class of BFMs with embedded pneumatic control components, capable of functioning as various soft actuators and control modules, including bistable actuators, pneumatic circuit switches, and pneumatic logic gates.\nhttps://t.co/Oa5V1C97hW",
+      "url": "https://x.com/guguoying/status/1885928824992604260",
+      "author": "3048395124",
+      "published_at": "2025-02-02T05:50:45",
+      "observed_at": "2026-09-10T03:54:30.639091",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 19,
+        "views": 295,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1876545788706480400",
+      "title": "Our new NC paper presents a multimaterial cryogenic printing technique harnessing an all-in-cryogenic solvent phase transition strategy for soft 3D hydrogel str",
+      "body": "Our new NC paper presents a multimaterial cryogenic printing technique harnessing an all-in-cryogenic solvent phase transition strategy for soft 3D hydrogel structures and robots. https://t.co/vnrz9P5Rqg",
+      "url": "https://x.com/guguoying/status/1876545788706480400",
+      "author": "3048395124",
+      "published_at": "2025-01-07T08:25:55",
+      "observed_at": "2026-09-10T03:54:30.642337",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 17,
+        "views": 355,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1705732288770953358",
+      "title": "Our X-crossing pneumatic artificial muscles (X-PAMs) t\nhat are lightweight, high\u2013contraction ratio, high\u2013output force, and positive pressure\u2013driven.\nhttps://t.c",
+      "body": "Our X-crossing pneumatic artificial muscles (X-PAMs) t\nhat are lightweight, high\u2013contraction ratio, high\u2013output force, and positive pressure\u2013driven.\nhttps://t.co/QfrRarp4Sn",
+      "url": "https://x.com/guguoying/status/1705732288770953358",
+      "author": "3048395124",
+      "published_at": "2023-09-23T23:54:03",
+      "observed_at": "2026-09-10T03:54:30.644562",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 32,
+        "views": 3198,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1696338244550774881",
+      "title": "Our NC paper presents a kind of small-scale dexterous soft robot, with dielectric elastomer artificial muscle and reconfigurable chiral-lattice foot for immedia",
+      "body": "Our NC paper presents a kind of small-scale dexterous soft robot, with dielectric elastomer artificial muscle and reconfigurable chiral-lattice foot for immediate and reversible forward, backward and circular direction changes during fast movement.\nhttps://t.co/dyQswFuAac",
+      "url": "https://x.com/guguoying/status/1696338244550774881",
+      "author": "3048395124",
+      "published_at": "2023-08-29T01:45:28",
+      "observed_at": "2026-09-10T03:54:30.647246",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 16,
+        "views": 1575,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1696337195844694508",
+      "title": "Our review paper 3D-printed PEDOT:PSS for soft robotics has been published on Nature Reviews Materials. We aim to bridge the gap between different research area",
+      "body": "Our review paper 3D-printed PEDOT:PSS for soft robotics has been published on Nature Reviews Materials. We aim to bridge the gap between different research areas by specifically discussing the use of PEDOT:PSS-based inks in 3D printing for soft robotics.\nhttps://t.co/Nfwm97O4Km",
+      "url": "https://x.com/guguoying/status/1696337195844694508",
+      "author": "3048395124",
+      "published_at": "2023-08-29T01:41:18",
+      "observed_at": "2026-09-10T03:54:30.648588",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 25,
+        "views": 2664,
+        "reposts": 4,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1667867603963121665",
+      "title": "Thanks the editors and reviewers. Our invited Perspective paper on ACS Nano \"Soft Robotics Enables Neuroprosthetic Hand Design\" is published:\nhttps://t.co/7Dt8w",
+      "body": "Thanks the editors and reviewers. Our invited Perspective paper on ACS Nano \"Soft Robotics Enables Neuroprosthetic Hand Design\" is published:\nhttps://t.co/7Dt8wOuX46",
+      "url": "https://x.com/guguoying/status/1667867603963121665",
+      "author": "3048395124",
+      "published_at": "2023-06-11T12:13:18",
+      "observed_at": "2026-09-10T03:54:30.650946",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 20,
+        "views": 1673,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1542807501946912769",
+      "title": "Glad to share our new AM paper on high-stretchability, ultralow-hysteresis conducting polymer hydrogel strain sensors for Ssoft machines:\nhttps://t.co/axUDqXV8o",
+      "body": "Glad to share our new AM paper on high-stretchability, ultralow-hysteresis conducting polymer hydrogel strain sensors for Ssoft machines:\nhttps://t.co/axUDqXV8ox",
+      "url": "https://x.com/guguoying/status/1542807501946912769",
+      "author": "3048395124",
+      "published_at": "2022-07-01T09:49:07",
+      "observed_at": "2026-09-10T03:54:30.653490",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 23,
+        "views": 0,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1537244272621416448",
+      "title": "@ReneeZhao13 @ZhaoSIMLab Congratulations, Ruike!!! Impressive work!!!!",
+      "body": "@ReneeZhao13 @ZhaoSIMLab Congratulations, Ruike!!! Impressive work!!!!",
+      "url": "https://x.com/guguoying/status/1537244272621416448",
+      "author": "3048395124",
+      "published_at": "2022-06-16T01:22:49",
+      "observed_at": "2026-09-10T03:54:30.656183",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1534877595216793600",
+      "title": "As a continuous work of our TMECH paper [https://t.co/D4v2enVC5J],  we further  propose a 3D kinematics modeling framework for characterization and control for ",
+      "body": "As a continuous work of our TMECH paper [https://t.co/D4v2enVC5J],  we further  propose a 3D kinematics modeling framework for characterization and control for a class of soft parallel robots, which is just published by IEEE T-RO.\nhttps://t.co/Jxl3ArOBvq",
+      "url": "https://x.com/guguoying/status/1534877595216793600",
+      "author": "3048395124",
+      "published_at": "2022-06-09T12:38:30",
+      "observed_at": "2026-09-10T03:54:30.657513",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 14,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1514623869222797312",
+      "title": "@ProfZhaoMIT @YoonhoKim_MIT @MITMechE @MIT @AmanBPatel @rwregen @AdamDmytriw @MGHNeurosurg @Philips Congratulations!!!",
+      "body": "@ProfZhaoMIT @YoonhoKim_MIT @MITMechE @MIT @AmanBPatel @rwregen @AdamDmytriw @MGHNeurosurg @Philips Congratulations!!!",
+      "url": "https://x.com/guguoying/status/1514623869222797312",
+      "author": "3048395124",
+      "published_at": "2022-04-14T15:17:25",
+      "observed_at": "2026-09-10T03:54:30.660005",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1473865083273244672",
+      "title": "Flexible tentaclelike robotic manipulators inspired by nature https://t.co/RdNBiHJW4F via @techxplore_com",
+      "body": "Flexible tentaclelike robotic manipulators inspired by nature https://t.co/RdNBiHJW4F via @techxplore_com",
+      "url": "https://x.com/guguoying/status/1473865083273244672",
+      "author": "3048395124",
+      "published_at": "2021-12-23T03:56:33",
+      "observed_at": "2026-09-10T03:54:30.661286",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1473862978202390528",
+      "title": "Sharing our new paper on modeling and inverse design of bio-inspired multi-segment pneu-net soft manipulators for 3D trajectory motion published on Applied Phys",
+      "body": "Sharing our new paper on modeling and inverse design of bio-inspired multi-segment pneu-net soft manipulators for 3D trajectory motion published on Applied Physics Reviews.\nhttps://t.co/0pCvryvs7R",
+      "url": "https://x.com/guguoying/status/1473862978202390528",
+      "author": "3048395124",
+      "published_at": "2021-12-23T03:48:11",
+      "observed_at": "2026-09-10T03:54:30.662430",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 36,
+        "views": 0,
+        "reposts": 5,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1472408441029562373",
+      "title": "Our new paper of inchworm inspired multimodal soft robots published on IEEE T-RO is highlited by IEEE Spectrum as follows:\nThis Robotic Inchworm Just Made It to",
+      "body": "Our new paper of inchworm inspired multimodal soft robots published on IEEE T-RO is highlited by IEEE Spectrum as follows:\nThis Robotic Inchworm Just Made It to Higher Ground https://t.co/4Vb5MiNhc9",
+      "url": "https://x.com/guguoying/status/1472408441029562373",
+      "author": "3048395124",
+      "published_at": "2021-12-19T03:28:23",
+      "observed_at": "2026-09-10T03:54:30.664911",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 22,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1428198974272327681",
+      "title": "Our Nature Biomed. Eng.  paper \"soft neuroprosthetic hand\" is highlighted by Nature. @ProfZhaoMIT \n\nhttps://t.co/hVD3iRsh1X",
+      "body": "Our Nature Biomed. Eng.  paper \"soft neuroprosthetic hand\" is highlighted by Nature. @ProfZhaoMIT \n\nhttps://t.co/hVD3iRsh1X",
+      "url": "https://x.com/guguoying/status/1428198974272327681",
+      "author": "3048395124",
+      "published_at": "2021-08-19T03:35:44",
+      "observed_at": "2026-09-10T03:54:30.667568",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 22,
+        "views": 0,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1427442405981134851",
+      "title": "Our new Nature Biomedical Engineering paper on soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback. Thanks all collaborato",
+      "body": "Our new Nature Biomedical Engineering paper on soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback. Thanks all collaborators at SJTU and MIT @ProfZhaoMIT \n\nhttps://t.co/B7eIm88GjQ",
+      "url": "https://x.com/guguoying/status/1427442405981134851",
+      "author": "3048395124",
+      "published_at": "2021-08-17T01:29:24",
+      "observed_at": "2026-09-10T03:54:30.668484",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 47,
+        "views": 0,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1386826860953104384",
+      "title": "@HyunwooYuk welcome to visit Shanghai for a period",
+      "body": "@HyunwooYuk welcome to visit Shanghai for a period",
+      "url": "https://x.com/guguoying/status/1386826860953104384",
+      "author": "3048395124",
+      "published_at": "2021-04-26T23:37:44",
+      "observed_at": "2026-09-10T03:54:30.670113",
+      "metrics": {
+        "author_handle": "guguoying",
+        "author_followers": 728,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

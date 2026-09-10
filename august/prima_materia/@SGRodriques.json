@@ -1,0 +1,634 @@
+{
+  "handle": "SGRodriques",
+  "total_tweets": 33,
+  "august_tweets": 6,
+  "tweets": [
+    {
+      "id": "2092654075397705787",
+      "title": "Read more: https://t.co/lJaT0IME9U\n\nand: https://t.co/B5LlJeCkO0\n\nAlso check out this cool failure mode analysis below. https://t.co/8SGl3rBvtr",
+      "body": "Read more: https://t.co/lJaT0IME9U\n\nand: https://t.co/B5LlJeCkO0\n\nAlso check out this cool failure mode analysis below. https://t.co/8SGl3rBvtr",
+      "url": "https://x.com/SGRodriques/status/2092654075397705787",
+      "author": "2897742299",
+      "published_at": "2026-08-26T16:43:05",
+      "observed_at": "2026-09-10T03:56:02.524790",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 5,
+        "views": 1090,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092654072793121105",
+      "title": "BixBench3 is out! Our latest eval for biology capabilities in language models. Essentially requires agents to reproduce all work needed to write a paper from ra",
+      "body": "BixBench3 is out! Our latest eval for biology capabilities in language models. Essentially requires agents to reproduce all work needed to write a paper from raw data. OpenAI is in the lead with 5.6-Sol at 48%, Anthropic is in 4th with Opus 4.8, after Kimi and GLM. Opus 5 has weird instruction following problems that severely degrade its performance. I\u2019m sure Fable is great but can't be evalled on this. Read more below.\n\nAlso lest we miss the forest for the trees, we\u2019re in a position now where the models can essentially reproduce entire papers ~50% of the time. Crazy time to be alive.",
+      "url": "https://x.com/SGRodriques/status/2092654072793121105",
+      "author": "2897742299",
+      "published_at": "2026-08-26T16:43:05",
+      "observed_at": "2026-09-10T03:56:02.529112",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 169,
+        "views": 9077,
+        "reposts": 25,
+        "replies": 8,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089820210995888208",
+      "title": "(This is what happens when you are on a boat in Greenland in bad weather with @MartinBJensen)",
+      "body": "(This is what happens when you are on a boat in Greenland in bad weather with @MartinBJensen)",
+      "url": "https://x.com/SGRodriques/status/2089820210995888208",
+      "author": "2897742299",
+      "published_at": "2026-08-18T21:02:19",
+      "observed_at": "2026-09-10T03:56:02.543829",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 11,
+        "views": 2745,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089819908830040082",
+      "title": "Many diseases could be cured in 10 years. The best candidates are the diseases that either have good biomarkers or good disease models. The right way to cure th",
+      "body": "Many diseases could be cured in 10 years. The best candidates are the diseases that either have good biomarkers or good disease models. The right way to cure those diseases is to aggressively screen for disease-modifying perturbations. We should do dose-response trials in healthy human volunteers for antibodies against all receptors, for mRNA LNPs and siRNAs for all transcription factors, and for all endogenous peptides, do a highly multiplexed biomarker readout on the output (physiology+behavior), and we would find a lot of new ways to modulate human physiology that would lead to new cures for diseases. This would probably require ~5 million healthy volunteers and more manufacturing capacity than currently exists on the planet, but it is doable in principle, and probably costs ~$100B. For diseases that have good disease models, you can do the same thing straight in the disease model.\n\nIn parallel, we can supercharge our efforts to find good biomarkers. We should be doing scalable blood proteomics from existing biobanks. We should also be doing genomics+blood proteomics+behavioral monitoring from extremely large cohorts of patients. We should also be screening ligands (e.g. in consented decedent patients) to identify tissue- or cell-type-specific delivery mechanisms for all major tissues/cell-types in the body.\n\nThere will still be many diseases that do not have any easily measurable biomarkers and no good animal models, and that will therefore be refractory to cures. Those diseases will need to be solved in the old fashioned way, by hard iterative science that will take time, simply because it takes time to move atoms in the world. Nonetheless, I am extremely optimistic that a huge fraction of human disease burden could be relieved in 10 years, if we started on a major project like this today. Given the amount of time and money it would take to actually get started on this kind of a program, I think 15 or maybe 20 is perhaps more realistic. But it is going to happen.",
+      "url": "https://x.com/SGRodriques/status/2089819908830040082",
+      "author": "2897742299",
+      "published_at": "2026-08-18T21:01:07",
+      "observed_at": "2026-09-10T03:56:02.545942",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 185,
+        "views": 32084,
+        "reposts": 26,
+        "replies": 22,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087963751421280508",
+      "title": "Here's what we are hiring for: https://t.co/LtQkGTv7R8",
+      "body": "Here's what we are hiring for: https://t.co/LtQkGTv7R8",
+      "url": "https://x.com/SGRodriques/status/2087963751421280508",
+      "author": "2897742299",
+      "published_at": "2026-08-13T18:05:25",
+      "observed_at": "2026-09-10T03:56:02.551986",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 8,
+        "views": 985,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087963749621829756",
+      "title": "When your children ask what you were doing during the AI revolution, what do you want to tell them?\n\nWe're using AI to find new medicines and save lives. Join u",
+      "body": "When your children ask what you were doing during the AI revolution, what do you want to tell them?\n\nWe're using AI to find new medicines and save lives. Join us. https://t.co/inPr0UY1LX",
+      "url": "https://x.com/SGRodriques/status/2087963749621829756",
+      "author": "2897742299",
+      "published_at": "2026-08-13T18:05:25",
+      "observed_at": "2026-09-10T03:56:02.553619",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 108,
+        "views": 13110,
+        "reposts": 20,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083233855876821006",
+      "title": "Read more about Edison Advances here: https://t.co/f91nnep4vW",
+      "body": "Read more about Edison Advances here: https://t.co/f91nnep4vW",
+      "url": "https://x.com/SGRodriques/status/2083233855876821006",
+      "author": "2897742299",
+      "published_at": "2026-07-31T16:50:30",
+      "observed_at": "2026-09-10T03:56:02.556590",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 10,
+        "views": 1092,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2083233854144541126",
+      "title": "Today, we're announcing Edison Advances, a home for our research announcements, engineering blogs, open-weights models and benchmarks.\n\nAt Edison, we\u2019re buildin",
+      "body": "Today, we're announcing Edison Advances, a home for our research announcements, engineering blogs, open-weights models and benchmarks.\n\nAt Edison, we\u2019re building Kosmos, an AI Scientist, to solve foundational research problems and make truly novel discoveries across scientific domains.\n\nAlongside that work, we\u2019re developing better ways to measure and evaluate AI scientists, push their ability to work on long-horizon tasks, and identify gaps in their reasoning.\n\nEdison Advances brings our existing work together in one place and we will use it to publish new work as our research progresses.\n\nFollow along as the work develops, and get in touch if you\u2019re interested in contributing.",
+      "url": "https://x.com/SGRodriques/status/2083233854144541126",
+      "author": "2897742299",
+      "published_at": "2026-07-31T16:50:30",
+      "observed_at": "2026-09-10T03:56:02.558277",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 329,
+        "views": 14790,
+        "reposts": 39,
+        "replies": 14,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2080635029701419456",
+      "title": "Here are a few of the beliefs that guide our culture at Edison:\n\n1. AI will unlock a new era of scientific progress.\n\n2. Developing medicines is a serious busin",
+      "body": "Here are a few of the beliefs that guide our culture at Edison:\n\n1. AI will unlock a new era of scientific progress.\n\n2. Developing medicines is a serious business that requires deep humility and skepticism. It is not enough to simply assert that AI will accelerate medicine; we have to prove it.\n\n3. Trust is critical, and we can\u2019t build trust with our customers if we compete with them.\n\n4. Generic concerns about safety do not justify broad restrictions on science. When there are specific, credible threats, we should mitigate those threats transparently and proportionately. Otherwise, we should trust our customers to use their judgment.\n\n5. Open-weights models are good for science, since they improve reproducibility and transparency.\n\n6. There are real human lives on the line here. Every day counts.",
+      "url": "https://x.com/SGRodriques/status/2080635029701419456",
+      "author": "2897742299",
+      "published_at": "2026-07-24T12:43:42",
+      "observed_at": "2026-09-10T03:56:02.561412",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 143,
+        "views": 10343,
+        "reposts": 17,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077604667060822132",
+      "title": "TIL the problem of deploying UVC to disinfect the air and suppress respiratory infections is essentially the problem of manufacturing a material with a bandgap ",
+      "body": "TIL the problem of deploying UVC to disinfect the air and suppress respiratory infections is essentially the problem of manufacturing a material with a bandgap at 222nm/5.59eV at scale (e.g. AlGaN). This actually seems like probably a good problem for the material science AI labs.",
+      "url": "https://x.com/SGRodriques/status/2077604667060822132",
+      "author": "2897742299",
+      "published_at": "2026-07-16T04:02:07",
+      "observed_at": "2026-09-10T03:56:02.564508",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 37,
+        "views": 6130,
+        "reposts": 2,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2076849690726007261",
+      "title": "it's amazing how much I appreciate bad punctuation now in chats with customer service agents because at least it means they're human",
+      "body": "it's amazing how much I appreciate bad punctuation now in chats with customer service agents because at least it means they're human",
+      "url": "https://x.com/SGRodriques/status/2076849690726007261",
+      "author": "2897742299",
+      "published_at": "2026-07-14T02:02:06",
+      "observed_at": "2026-09-10T03:56:02.567877",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 13,
+        "views": 2704,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2076312926684910060",
+      "title": "The steamboat singularity.\n\nIn 1850 it was realized that there was an empirical scaling law governing the horsepower of steam engines, and thus the speed of ste",
+      "body": "The steamboat singularity.\n\nIn 1850 it was realized that there was an empirical scaling law governing the horsepower of steam engines, and thus the speed of steamboats.\n\nBy the year 2026, steamboats would achieve top speeds of 26,000mph. New York to London in 9 minutes. https://t.co/vCW2xNXZ2Y",
+      "url": "https://x.com/SGRodriques/status/2076312926684910060",
+      "author": "2897742299",
+      "published_at": "2026-07-12T14:29:12",
+      "observed_at": "2026-09-10T03:56:02.571062",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 164,
+        "views": 93058,
+        "reposts": 11,
+        "replies": 16,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075585708950221126",
+      "title": "Our paper on Robin came out in Nature yesterday -- awesome to see it in print finally. Congrats to the team! @agreeb66 @MichaelaThinks @andrewwhite01 @benjamin0",
+      "body": "Our paper on Robin came out in Nature yesterday -- awesome to see it in print finally. Congrats to the team! @agreeb66 @MichaelaThinks @andrewwhite01 @benjamin0chang and many others. https://t.co/r6PuoFrR1s",
+      "url": "https://x.com/SGRodriques/status/2075585708950221126",
+      "author": "2897742299",
+      "published_at": "2026-07-10T14:19:30",
+      "observed_at": "2026-09-10T03:56:02.574392",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 460,
+        "views": 34227,
+        "reposts": 76,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074122644983881838",
+      "title": "Intelligence will soon be commoditized. The thing that will not be commoditized is data. Nowhere is data more important than in science. Karp's words are import",
+      "body": "Intelligence will soon be commoditized. The thing that will not be commoditized is data. Nowhere is data more important than in science. Karp's words are important for all companies, but especially for companies in science: you have to make sure you own your data.",
+      "url": "https://x.com/SGRodriques/status/2074122644983881838",
+      "author": "2897742299",
+      "published_at": "2026-07-06T13:25:48",
+      "observed_at": "2026-09-10T03:56:02.577611",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 217,
+        "views": 29751,
+        "reposts": 27,
+        "replies": 17,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2071635258701693426",
+      "title": "If you want to work on using AI to accelerate the discovery of new medicines and scale up the creation of new biotech companies, get in touch.",
+      "body": "If you want to work on using AI to accelerate the discovery of new medicines and scale up the creation of new biotech companies, get in touch.",
+      "url": "https://x.com/SGRodriques/status/2071635258701693426",
+      "author": "2897742299",
+      "published_at": "2026-06-29T16:41:49",
+      "observed_at": "2026-09-10T03:56:02.579171",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 408,
+        "views": 26571,
+        "reposts": 26,
+        "replies": 51,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2071626849290236138",
+      "title": "@celinehalioua Thanks @celinehalioua!",
+      "body": "@celinehalioua Thanks @celinehalioua!",
+      "url": "https://x.com/SGRodriques/status/2071626849290236138",
+      "author": "2897742299",
+      "published_at": "2026-06-29T16:08:24",
+      "observed_at": "2026-09-10T03:56:02.580334",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 3,
+        "views": 551,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2071616650059956492",
+      "title": "More on our collaboration here: https://t.co/9z1dJw3vld",
+      "body": "More on our collaboration here: https://t.co/9z1dJw3vld",
+      "url": "https://x.com/SGRodriques/status/2071616650059956492",
+      "author": "2897742299",
+      "published_at": "2026-06-29T15:27:52",
+      "observed_at": "2026-09-10T03:56:02.581524",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 10,
+        "views": 1443,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2071616647820177564",
+      "title": "At Edison, we are on a mission to leverage AI to prevent or cure all diseases.\n\nToday, we are announcing a critical step: our first partnership using our AI sci",
+      "body": "At Edison, we are on a mission to leverage AI to prevent or cure all diseases.\n\nToday, we are announcing a critical step: our first partnership using our AI scientist, Kosmos, to launch new biotech companies.\n\nMany of the most transformative new medicines begin life in biotech companies rather than big pharmas.\n\nWe are partnering with Population Health Partners (PHP) to deploy Kosmos across their company creation pipeline. Kosmos will assist in the creation of PHP\u2019s companies, allowing us to bring more medicines to patients.\n\nPHP has an outstanding track record of incubating successful biotech companies like @MetseraInc (acquired by @pfizer in a $10B deal), and The Medicines Company (acquired by @Novartis for $9.7B), to name just two. With PHP, we will focus on biotechs treating population-scale diseases like cardiovascular disease and obesity.\n\nIf we can scale up the process of launching Metsera-style companies, we have an opportunity to transform medicine in the coming years.",
+      "url": "https://x.com/SGRodriques/status/2071616647820177564",
+      "author": "2897742299",
+      "published_at": "2026-06-29T15:27:52",
+      "observed_at": "2026-09-10T03:56:02.582708",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 167,
+        "views": 31644,
+        "reposts": 35,
+        "replies": 6,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2067848557638648089",
+      "title": "@russelljkaplan Yeah my general reaction to the Midjourney launch was that it\u2019s super cool but I tend to think that the future of diagnosis is molecular technol",
+      "body": "@russelljkaplan Yeah my general reaction to the Midjourney launch was that it\u2019s super cool but I tend to think that the future of diagnosis is molecular technologies, not ultrasound\u2026",
+      "url": "https://x.com/SGRodriques/status/2067848557638648089",
+      "author": "2897742299",
+      "published_at": "2026-06-19T05:54:49",
+      "observed_at": "2026-09-10T03:56:02.585738",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 28,
+        "views": 3646,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065431085316821260",
+      "title": "Wow this is insanely awesome. I bet like &lt;0.01% of X understands even remotely what this is or why it's important but this is insanely awesome.",
+      "body": "Wow this is insanely awesome. I bet like &lt;0.01% of X understands even remotely what this is or why it's important but this is insanely awesome.",
+      "url": "https://x.com/SGRodriques/status/2065431085316821260",
+      "author": "2897742299",
+      "published_at": "2026-06-12T13:48:39",
+      "observed_at": "2026-09-10T03:56:02.587529",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 180,
+        "views": 24458,
+        "reposts": 11,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057092114232795516",
+      "title": "Check it out here: https://t.co/6FHIpzkblv",
+      "body": "Check it out here: https://t.co/6FHIpzkblv",
+      "url": "https://x.com/SGRodriques/status/2057092114232795516",
+      "author": "2897742299",
+      "published_at": "2026-05-20T13:32:33",
+      "observed_at": "2026-09-10T03:56:02.589891",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 7,
+        "views": 1208,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056805897897492747",
+      "title": "More on our collaboration, and our improvements to Kosmos, here:\n\nhttps://t.co/tnhYAtG1Rt",
+      "body": "More on our collaboration, and our improvements to Kosmos, here:\n\nhttps://t.co/tnhYAtG1Rt",
+      "url": "https://x.com/SGRodriques/status/2056805897897492747",
+      "author": "2897742299",
+      "published_at": "2026-05-19T18:35:14",
+      "observed_at": "2026-09-10T03:56:02.590793",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 19,
+        "views": 4456,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056772337601798476",
+      "title": "@IntuitMachine Thanks Carlos, appreciate it.",
+      "body": "@IntuitMachine Thanks Carlos, appreciate it.",
+      "url": "https://x.com/SGRodriques/status/2056772337601798476",
+      "author": "2897742299",
+      "published_at": "2026-05-19T16:21:52",
+      "observed_at": "2026-09-10T03:56:02.591490",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 2,
+        "views": 760,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056766883286929647",
+      "title": "@zeng_wt Every program that starts smarter is time given back to someone waiting. That's worth a lot.",
+      "body": "@zeng_wt Every program that starts smarter is time given back to someone waiting. That's worth a lot.",
+      "url": "https://x.com/SGRodriques/status/2056766883286929647",
+      "author": "2897742299",
+      "published_at": "2026-05-19T16:00:12",
+      "observed_at": "2026-09-10T03:56:02.592218",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 2,
+        "views": 928,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056751296380842151",
+      "title": "@xtzhou @EdisonSci Delighted to be partnered with you guys. Science is going to be the most impactful application of AI, and we're only going to achieve full ac",
+      "body": "@xtzhou @EdisonSci Delighted to be partnered with you guys. Science is going to be the most impactful application of AI, and we're only going to achieve full acceleration when we go end-to-end.",
+      "url": "https://x.com/SGRodriques/status/2056751296380842151",
+      "author": "2897742299",
+      "published_at": "2026-05-19T14:58:16",
+      "observed_at": "2026-09-10T03:56:02.592993",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 2,
+        "views": 197,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056747966816567408",
+      "title": "@kulesatony I have been extremely impressed by our interactions with Incyte so far.",
+      "body": "@kulesatony I have been extremely impressed by our interactions with Incyte so far.",
+      "url": "https://x.com/SGRodriques/status/2056747966816567408",
+      "author": "2897742299",
+      "published_at": "2026-05-19T14:45:02",
+      "observed_at": "2026-09-10T03:56:02.593754",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 2,
+        "views": 190,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056746721397580209",
+      "title": "@erika_alden_d @EdisonSci Never stop shipping \ud83d\udea2",
+      "body": "@erika_alden_d @EdisonSci Never stop shipping \ud83d\udea2",
+      "url": "https://x.com/SGRodriques/status/2056746721397580209",
+      "author": "2897742299",
+      "published_at": "2026-05-19T14:40:05",
+      "observed_at": "2026-09-10T03:56:02.594431",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 6,
+        "views": 689,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056746664665416120",
+      "title": "@brycent @EdisonSci Decades of proprietary data is what made Incyte the right partner. They had something worth compounding on.",
+      "body": "@brycent @EdisonSci Decades of proprietary data is what made Incyte the right partner. They had something worth compounding on.",
+      "url": "https://x.com/SGRodriques/status/2056746664665416120",
+      "author": "2897742299",
+      "published_at": "2026-05-19T14:39:52",
+      "observed_at": "2026-09-10T03:56:02.595119",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 12,
+        "views": 554,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056744513444737052",
+      "title": "@NanouuSymeon True, people leave and the knowledge leaves with them. Nobody publishes what didn't work.",
+      "body": "@NanouuSymeon True, people leave and the knowledge leaves with them. Nobody publishes what didn't work.",
+      "url": "https://x.com/SGRodriques/status/2056744513444737052",
+      "author": "2897742299",
+      "published_at": "2026-05-19T14:31:19",
+      "observed_at": "2026-09-10T03:56:02.595845",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 2,
+        "views": 143,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2045174060301349173",
+      "title": "Read more about them here: https://t.co/KpUt5JScl9",
+      "body": "Read more about them here: https://t.co/KpUt5JScl9",
+      "url": "https://x.com/SGRodriques/status/2045174060301349173",
+      "author": "2897742299",
+      "published_at": "2026-04-17T16:14:28",
+      "observed_at": "2026-09-10T03:56:02.596479",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 5,
+        "views": 680,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2045174058313232879",
+      "title": "Andrew Lu @andreww_lu previously helped establish synthetic protein circuits as a new modality to treat human disease, developing core design principles for cir",
+      "body": "Andrew Lu @andreww_lu previously helped establish synthetic protein circuits as a new modality to treat human disease, developing core design principles for circuits that can sense disease signatures inside cells and reroute them towards targeted therapeutic outputs. As a FutureHouse Fellow with Michael Elowitz, Andrew will close the loop between AI-driven design and experimental validation to accelerate the discovery of programmable therapeutics.",
+      "url": "https://x.com/SGRodriques/status/2045174058313232879",
+      "author": "2897742299",
+      "published_at": "2026-04-17T16:14:27",
+      "observed_at": "2026-09-10T03:56:02.597208",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 3,
+        "views": 934,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2045174055834460320",
+      "title": "Soojung Yang @SoojungYang2 previously created approaches to identify rare protein conformational transitions and, in collaboration with Microsoft Research, to e",
+      "body": "Soojung Yang @SoojungYang2 previously created approaches to identify rare protein conformational transitions and, in collaboration with Microsoft Research, to efficiently sample equilibrium ensembles at scale. As a FutureHouse Fellow with Grant Rotskoff @grantrotskoff, she will build machine learning models that unify protein structure, thermodynamics, and kinetics, and deploy agentic AI to search variant space and enable biochemistry-informed protein optimization.",
+      "url": "https://x.com/SGRodriques/status/2045174055834460320",
+      "author": "2897742299",
+      "published_at": "2026-04-17T16:14:27",
+      "observed_at": "2026-09-10T03:56:02.598033",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 19,
+        "views": 7241,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2045174053535945192",
+      "title": "Jeremy Koob @jgkoob previously developed reprogrammable RNA sensors for cell-type specific protein delivery. As a FutureHouse Fellow working with David Baker at",
+      "body": "Jeremy Koob @jgkoob previously developed reprogrammable RNA sensors for cell-type specific protein delivery. As a FutureHouse Fellow working with David Baker at the IPD @UWproteindesign, Jeremy will develop and integrate AI agents into protein design workflows to accelerate the discovery of biocatalysts for sustainable chemistry.",
+      "url": "https://x.com/SGRodriques/status/2045174053535945192",
+      "author": "2897742299",
+      "published_at": "2026-04-17T16:14:26",
+      "observed_at": "2026-09-10T03:56:02.599747",
+      "metrics": {
+        "author_handle": "SGRodriques",
+        "author_followers": 21475,
+        "likes": 2,
+        "views": 415,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

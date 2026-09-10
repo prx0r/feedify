@@ -1,0 +1,387 @@
+{
+  "handle": "jianwen_xie",
+  "total_tweets": 20,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2097773116219077080",
+      "title": "Physical AI by Stanford + Northwestern + Lambda",
+      "body": "Physical AI by Stanford + Northwestern + Lambda",
+      "url": "https://x.com/jianwen_xie/status/2097773116219077080",
+      "author": "1200655784624869381",
+      "published_at": "2026-09-09T19:44:20",
+      "observed_at": "2026-09-10T03:56:36.509486",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 4,
+        "views": 196,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2090288733006508290",
+      "title": "Excited to co-organize a workshop at CoRL on World Action Models. Lambda @LambdaAPI  will also sponsor awards for the accepted papers and challenge winners.",
+      "body": "Excited to co-organize a workshop at CoRL on World Action Models. Lambda @LambdaAPI  will also sponsor awards for the accepted papers and challenge winners.",
+      "url": "https://x.com/jianwen_xie/status/2090288733006508290",
+      "author": "1200655784624869381",
+      "published_at": "2026-08-20T04:04:04",
+      "observed_at": "2026-09-10T03:56:36.510628",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 6,
+        "views": 533,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2080003901315862918",
+      "title": "@zx1239856 @UCSD @chuanli11 @zhuowent @mlpcucsd",
+      "body": "@zx1239856 @UCSD @chuanli11 @zhuowent @mlpcucsd",
+      "url": "https://x.com/jianwen_xie/status/2080003901315862918",
+      "author": "1200655784624869381",
+      "published_at": "2026-07-22T18:55:49",
+      "observed_at": "2026-09-10T03:56:36.511567",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 3,
+        "views": 455,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2072734598388486578",
+      "title": "Thanks for the heroic work! @zhuofengli96475 @GhxIsaac @chuanli11 @yuz9yuz @ShuiwangJi @DongfuJiang @YuyangBai02 \n\nIf you're attending ACL, we'd love to see you",
+      "body": "Thanks for the heroic work! @zhuofengli96475 @GhxIsaac @chuanli11 @yuz9yuz @ShuiwangJi @DongfuJiang @YuyangBai02 \n\nIf you're attending ACL, we'd love to see you at our poster session!\n\n\ud83d\uddd3 Tuesday, July 7\n\ud83d\udd5a 11:00 AM\u201312:30 PM\n\ud83d\udccd Grand Hall\n\n#acl #llm #agenticAI #AIforResearch #nlp @aclmeeting",
+      "url": "https://x.com/jianwen_xie/status/2072734598388486578",
+      "author": "1200655784624869381",
+      "published_at": "2026-07-02T17:30:12",
+      "observed_at": "2026-09-10T03:56:36.512433",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 5,
+        "views": 890,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2068042938282868771",
+      "title": "A big thank you to all my collaborators for making our CVPR activities possible this year! \n\nFor the CVPR workshops: @jieneng_chen @tianminshu  @yenling_kuo @xi",
+      "body": "A big thank you to all my collaborators for making our CVPR activities possible this year! \n\nFor the CVPR workshops: @jieneng_chen @tianminshu  @yenling_kuo @xiwang1212\n\nFor the CVPR demos: @yifanyin_11 @RuohanZhang76 @EvansXuHan  @BoAi0110 @zx1239856\n\nLooking forward to many more exciting projects and workshops together!",
+      "url": "https://x.com/jianwen_xie/status/2068042938282868771",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-19T18:47:13",
+      "observed_at": "2026-09-10T03:56:36.514347",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 10,
+        "views": 574,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2063710151614533818",
+      "title": "Thank you to everyone who dropped by Lambda\u2019s booth at CVPR!\n\nFrom Physical AI and embodied intelligence to world models and robot learning, I had countless gre",
+      "body": "Thank you to everyone who dropped by Lambda\u2019s booth at CVPR!\n\nFrom Physical AI and embodied intelligence to world models and robot learning, I had countless great conversations throughout these days. \n\nI appreciate every discussion, idea, question, and piece of feedback. \n\nSee you at the next conference!\n\n#CVPR2026 #PhysicalAI #EmbodiedAI #Robotics #ComputerVision @CVPRConf @CVPR #superintelligence #gpus #cloud",
+      "url": "https://x.com/jianwen_xie/status/2063710151614533818",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-07T19:50:16",
+      "observed_at": "2026-09-10T03:56:36.516977",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 14,
+        "views": 1211,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062648960741990815",
+      "title": "Thanks for the heroic work ! I'm excited to see the impact StereoPolicy will have on the robotics community.",
+      "body": "Thanks for the heroic work ! I'm excited to see the impact StereoPolicy will have on the robotics community.",
+      "url": "https://x.com/jianwen_xie/status/2062648960741990815",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-04T21:33:29",
+      "observed_at": "2026-09-10T03:56:36.519324",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 4,
+        "views": 1037,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062262160072523910",
+      "title": "looking forward to your talk at our ReLearn workshop!",
+      "body": "looking forward to your talk at our ReLearn workshop!",
+      "url": "https://x.com/jianwen_xie/status/2062262160072523910",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-03T19:56:28",
+      "observed_at": "2026-09-10T03:56:36.520402",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 3,
+        "views": 290,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062259998479303061",
+      "title": "The CVPR Workshop @CVPR on Rediscovering Intelligence: Can AI Still Learn from Humans? is happening right now!\n\nOur speaker Alexei (Alyosha) Efros from UC Berke",
+      "body": "The CVPR Workshop @CVPR on Rediscovering Intelligence: Can AI Still Learn from Humans? is happening right now!\n\nOur speaker Alexei (Alyosha) Efros from UC Berkeley is presenting now.\n\nJoin us at Mile High 4AB for engaging discussions and talks exploring how AI can continue to learn from human intelligence, behavior, and cognition.\n\nSee you there!\n\u2028#CVPR2026 #ArtificialIntelligence #HumanLearning #MachineLearning #CVPRWorkshop @LambdaAPI @tianminshu",
+      "url": "https://x.com/jianwen_xie/status/2062259998479303061",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-03T19:47:53",
+      "observed_at": "2026-09-10T03:56:36.521094",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 13,
+        "views": 1847,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062190290858111255",
+      "title": "The CVPR Workshop @CVPR  on World Models Meet Active Sensing and Closed-Loop Planning is happening right now!\n\nJoin us at Mile High 2A for an exciting lineup of",
+      "body": "The CVPR Workshop @CVPR  on World Models Meet Active Sensing and Closed-Loop Planning is happening right now!\n\nJoin us at Mile High 2A for an exciting lineup of talks on world models, active sensing, embodied AI, and closed-loop decision-making.\n\nSee you there!\n#CVPR2026 #EmbodiedAI #WorldModels #ActiveSensing #Robotics @LambdaAPI @jieneng_chen @tianminshu",
+      "url": "https://x.com/jianwen_xie/status/2062190290858111255",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-03T15:10:53",
+      "observed_at": "2026-09-10T03:56:36.522491",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 8,
+        "views": 799,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062038155889705321",
+      "title": "Just landed at Denver Airport this morning for CVPR @CVPR  and opened Uber app to head into the city\u2014only to be greeted by a Lambda in the app \ud83d\ude04\n\nIf you\u2019re at C",
+      "body": "Just landed at Denver Airport this morning for CVPR @CVPR  and opened Uber app to head into the city\u2014only to be greeted by a Lambda in the app \ud83d\ude04\n\nIf you\u2019re at CVPR this week, come visit us at the Lambda booth 523! \n\nWe\u2019ll be showcasing exciting demos and would love to chat about AI, research, and infrastructure.\n\nSee you there! \ud83d\ude80\n\n#CVPR2026 @LambdaAPI #MachineLearning #lambda #ComputerVision",
+      "url": "https://x.com/jianwen_xie/status/2062038155889705321",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-03T05:06:21",
+      "observed_at": "2026-09-10T03:56:36.524036",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 7,
+        "views": 904,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2061578508498030863",
+      "title": "Nice work! World models meet active sensing and closed-loop planning.  \n\nWe'll be showcasing this demo at the Lambda booth @chuanli11 during CVPR main conferenc",
+      "body": "Nice work! World models meet active sensing and closed-loop planning.  \n\nWe'll be showcasing this demo at the Lambda booth @chuanli11 during CVPR main conference at Denver. If you're attending, stop by and check it out! #cvpr @CVPR\n\nWe are also hosting a world-model-related workshop at CVPR : https://t.co/k7uKAyzybO",
+      "url": "https://x.com/jianwen_xie/status/2061578508498030863",
+      "author": "1200655784624869381",
+      "published_at": "2026-06-01T22:39:53",
+      "observed_at": "2026-09-10T03:56:36.525572",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 11,
+        "views": 1717,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057510546002624854",
+      "title": "\ud83d\ude80 Excited to share our @CVPR  paper on reconstructing mesh-based 3D scenes from a single 2D image, in collaboration with researchers from UCSD @UCSD  and Lambda",
+      "body": "\ud83d\ude80 Excited to share our @CVPR  paper on reconstructing mesh-based 3D scenes from a single 2D image, in collaboration with researchers from UCSD @UCSD  and Lambda @LambdaAPI .\n\n\ud83d\udcc4 PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction\n\n\ud83d\udcc4Paper: https://t.co/vAKcxu83cD\n\ud83d\udcbbPage: https://t.co/14MKwYGDmR\n\u2699\ufe0fCode: https://t.co/67LT0Fij7m \n\n\ud83d\uddbc\ufe0f Can we reconstruct a complete mesh-based 3D indoor scene from just a single RGB image?\n\nThis is fundamentally hard:\n\ud83d\udc40 Only partial observations\n\ud83e\udee5 Heavy occlusion & missing geometry\n\ud83d\udcd0 Ambiguous depth & scene layout\n\nMost prior approaches rely on:\n\u274c Implicit representations (e.g., SDFs)\n\u274c Multi-stage optimization pipelines\n\u274c Post-hoc layout refinement\n\nPixARMesh takes a different route:\n\u26a1 Directly generates native 3D meshes autoregressively\n\ud83c\udfe0 Jointly predicts scene layout + object geometry in a unified model\n\ud83c\udfaf Produces coherent, compact, artist-ready meshes in a single forward pass\n\nExtensive experiments validate the effectiveness of our design and highlight autoregressive mesh generation as a promising 2D-to-3D reconstruction method.\n\nCongratulations to the amazing collaborators: Xiang Zhang, Sohyun Yoo, Hongrui Wu, @jianwen_xie @chuanli11, Zhuowen Tu @mlpcucsd .\n\n#3DVision #ComputerVision #LLM #AutoregressiveModels #GenerativeAI #2DTo3D #MeshGeneration #SceneReconstruction #CVPR #ECCV #Neurips",
+      "url": "https://x.com/jianwen_xie/status/2057510546002624854",
+      "author": "1200655784624869381",
+      "published_at": "2026-05-21T17:15:15",
+      "observed_at": "2026-09-10T03:56:36.527106",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 2,
+        "views": 480,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056758386130407627",
+      "title": "\ud83d\ude80 Excited to share our work on materials foundation models, which is accepetd by Transactions on Machine Learning Research @TmlrOrg @TmlrPub:\n\n\"Learning Materia",
+      "body": "\ud83d\ude80 Excited to share our work on materials foundation models, which is accepetd by Transactions on Machine Learning Research @TmlrOrg @TmlrPub:\n\n\"Learning Materials Interatomic Potentials via Hybrid Invariant-Equivariant Architectures\"\n\n\ud83d\udcc4 Paper: https://t.co/PnlHsR45By\n\ud83d\udcbbCode: https://t.co/4AzlqbjVXe\n\n\u269b\ufe0f Machine learning interatomic potentials (MLIPs) are critical for predicting energy, force, and stress in materials. It powers downstream tasks from materials discovery to molecular simulation.\n\nBut there is a key tradeoff:\n\n\u26a1 Invariant models \u2192 efficient, scalable, but can struggle with higher-order physics\n\ud83e\udde0 Equivariant models \u2192 physically expressive, symmetry-aware, but computationally expensive\n\ud83d\udca1 We introduce HIENet, a hybrid invariant\u2013equivariant architecture that combines the best of both worlds:\n\n\u2705 Integrates invariant + equivariant message passing\n\u2705 Provably satisfies key physical constraints\n\u2705 Strong accuracy\u2013efficiency tradeoff\n\u2705 Significant computational speedups over prior methods\n\u2705 Scales across model sizes & different equivariant backbones\n\nOur experiments on benchmark datasets + downstream materials discovery tasks show that hybrid architectures may be a powerful direction for next-generation MLIPs \ud83d\udd2c\n\nGreat collaboration with amazing researchers\n@KeqiangY, Montgomery Bohde, Andrii Kryvenko, Ziyu Xiang, Kaiji Zhao, Siya Zhu, Saagar Kolachina, Doguhan Sar\u0131t\u00fcrk, Raymundo Arr\u00f3yave, Xiaoning Qian, Xiaofeng Qian, @ShuiwangJi @TAMU\n\n#AI4Science #MaterialsFoundationModel #MachineLearning #GeometricDeepLearning #FoundationModels #ForceFieldPrediction #ComputationalChemistry #TMLR #MolecularDynamics #icml #neurips #iclr",
+      "url": "https://x.com/jianwen_xie/status/2056758386130407627",
+      "author": "1200655784624869381",
+      "published_at": "2026-05-19T15:26:26",
+      "observed_at": "2026-09-10T03:56:36.528768",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 3,
+        "views": 216,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2052791624955273299",
+      "title": "Excited to see this out!\ud83d\ude80Great work @zhuofengli96475!",
+      "body": "Excited to see this out!\ud83d\ude80Great work @zhuofengli96475!",
+      "url": "https://x.com/jianwen_xie/status/2052791624955273299",
+      "author": "1200655784624869381",
+      "published_at": "2026-05-08T16:43:57",
+      "observed_at": "2026-09-10T03:56:36.530561",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 6,
+        "views": 1125,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2049506031420703038",
+      "title": "\ud83c\udf0dIf you're working on world models, active sensing, or closed-loop planning, we'd love to see your ideas.\n\n\ud83c\udfc6 Lambda is generously sponsoring awards for the work",
+      "body": "\ud83c\udf0dIf you're working on world models, active sensing, or closed-loop planning, we'd love to see your ideas.\n\n\ud83c\udfc6 Lambda is generously sponsoring awards for the workshop: one Best Paper Award ($3,000 in compute credits), two Runner-Up Awards ($1,500 in credits each), and $400 in compute credits for every accepted paper.\n\n\ud83d\udce9Looking forward to your submissions in our CVPR workshop! \n #CVPR2026 @LambdaAPI #WorldModel #ActiveSensing #EmbodiedAI",
+      "url": "https://x.com/jianwen_xie/status/2049506031420703038",
+      "author": "1200655784624869381",
+      "published_at": "2026-04-29T15:08:10",
+      "observed_at": "2026-09-10T03:56:36.531232",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 6,
+        "views": 3418,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2048914984697303334",
+      "title": "\ud83c\udf89 Excited to see our ACL 2026 @aclmeeting  paper \ud83e\udd16ReviewGrounder\ud83e\udd16 out!\n\n\ud83d\ude80Try out the demo here: https://t.co/qsuIMByqsT\n\nWe designed a rubric-guided, tool-integ",
+      "body": "\ud83c\udf89 Excited to see our ACL 2026 @aclmeeting  paper \ud83e\udd16ReviewGrounder\ud83e\udd16 out!\n\n\ud83d\ude80Try out the demo here: https://t.co/qsuIMByqsT\n\nWe designed a rubric-guided, tool-integrated multi-agent reviewer where specialist agents:\n\ud83d\udd0d examine the paper\n\ud83d\udcda search related work\n\u2705 check evidence\n\ud83e\udde0 synthesize grounded feedback\n\n\ufffd\ufffd Proud of this collaboration and excited for the broader conversation on how AI-assisted peer review can become more rigorous, evidence-grounded, and genuinely useful.\n\n@LambdaAPI @chuanli11 #ACL2026 #agents #MultiAgents #AIReviewer #NLP #neurips #icml",
+      "url": "https://x.com/jianwen_xie/status/2048914984697303334",
+      "author": "1200655784624869381",
+      "published_at": "2026-04-27T23:59:34",
+      "observed_at": "2026-09-10T03:56:36.532570",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 3,
+        "views": 565,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2047703199818416559",
+      "title": "ICLR 2026 paper list of Lambda @LambdaAPI is live \ud83d\udcc4\ud83d\udcf7!\n\n\ud83e\udd16 Agentic AI\n[1] In-The-Flow Agentic System Optimization for Effective Planning and Tool Use https://t.co",
+      "body": "ICLR 2026 paper list of Lambda @LambdaAPI is live \ud83d\udcc4\ud83d\udcf7!\n\n\ud83e\udd16 Agentic AI\n[1] In-The-Flow Agentic System Optimization for Effective Planning and Tool Use https://t.co/qn5a9YlN3k\n\n[2] EdiVal-Agent: An Object-Centric Framework for Automated, Fine-Grained Evaluation of Multi-Turn Editing https://t.co/5OlFDN3XKg\n\n\ud83d\udee1\ufe0f Trustworthy AI\n[3] Measuring and Mitigating Rapport Bias of Large Language Models under Multi-Agent Social Interactions https://t.co/ZWM17NcIcz\n\n[4] OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost Always! https://t.co/4DwRWMgHWP\n\n[5] Randomized Antipodal Search Done Right for Data Pareto Improvement of LLM Unlearning https://t.co/PX6ie67adr\n\n\ud83c\udfa7 Multimodal AI\n[6] TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and CLAP-Ranked Preference Optimization https://t.co/BN5Qho0BC0\n\n[7] Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling https://t.co/TzVJJZ5CLb\n\n\ud83c\udf00 Diffusion LLM\n[8] Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective https://t.co/EGpBTZr9HZ\n\n\ud83e\uddea AI for Science\n[9] Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics https://t.co/1ibeOmqOgq\n\n\u26a1 Efficient AI\n[10] VideoNSA: Native Sparse Attention Scales Video Understanding https://t.co/gXrbWsUpD2\n\n[11] To Compress or Not? Pushing the Frontier of Lossless GenAI Model Weights Compression with Exponent Concentration https://t.co/qxSRjMW8cS\n\n[12] Mitigating Non-IID Drift in Zeroth-Order Federated LLM Fine-Tuning with Transferable Sparsity https://t.co/qpr3YGm6h4\n\nHuge shoutout to all of our collaborators!\n\n#ICLR2026 #MachineLearning #AI #gpu #ai4science #agents #worldmodel #federatedLLM #modelcompression #sparseattention #vlm #rl #diffusionLLM #MolecularDynamics #LLMUnlearning #Text2Audio #TrustworthyAI @iclr_conf @chuanli11",
+      "url": "https://x.com/jianwen_xie/status/2047703199818416559",
+      "author": "1200655784624869381",
+      "published_at": "2026-04-24T15:44:21",
+      "observed_at": "2026-09-10T03:56:36.534160",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 9,
+        "views": 707,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046633834415083614",
+      "title": "\ud83d\ude80 Excited to share our ICLR2026 @iclr_conf work on AI for molecular dynamics generation \u2014 a collaboration between Stanford University @Stanford  and Lambda @Lam",
+      "body": "\ud83d\ude80 Excited to share our ICLR2026 @iclr_conf work on AI for molecular dynamics generation \u2014 a collaboration between Stanford University @Stanford  and Lambda @LambdaAPI !\n\n\ud83d\udcc4 \"Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics\"\n \ud83d\udd17 Paper: https://t.co/9eZxZYrjnG\n\n\ud83e\uddec Learning molecular dynamics (MD) trajectories is challenging due to the scarcity and high dimensionality of trajectory data.\n\n\ud83d\udca1This work proposes EGInterpolator, a framework that leverages structure pretraining to overcome this bottleneck:\n    \u2022\ud83e\uddecPretrains on large-scale molecular structure datasets\n    \u2022\u23f3Introduces an equivariant temporal interpolator to model trajectory evolution\n    \u2022\ud83d\udd04Blends structure-based predictions with temporal modeling via learnable mixing\n    \u2022\ud83d\udcc8Enables more stable and data-efficient trajectory generation\n\nKey results:\n \ud83d\ude80 Improved trajectory generation quality across QM9 and GEOM-Drugs\n \ud83e\udde0 Better modeling of geometric, dynamical, and energetic distributions\n \u26a1 Strong performance gains in forward simulation and interpolation tasks\n \ud83d\udd01 Generalizes to peptides and preliminary protein settings\n\nTakeaway:\n\u2728Leveraging abundant molecular structures can significantly reduce the difficulty of learning molecular dynamics trajectories.\n\n\ud83d\ude4c Huge shoutout to my Stanford collaborators: @aniketh_iyengar,  @jiaqihan99, Pengwei Sun, @MingjianJ , and @StefanoErmon \n\n#AI4Science #MolecularDynamics #MD #GenerativeModels #ICLR2026 #neurips #icml #DrugDesign #GeometricDiffusion #StructurePretraining",
+      "url": "https://x.com/jianwen_xie/status/2046633834415083614",
+      "author": "1200655784624869381",
+      "published_at": "2026-04-21T16:55:05",
+      "observed_at": "2026-09-10T03:56:36.535956",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 2,
+        "views": 263,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046400779389726794",
+      "title": "\ud83d\ude80 Proud to share our latest work by quoting my collaborator\u2019s post below. \n\n\ud83d\udcc4AgentOdyssey: Open-Ended Long-Horizon Text GameGeneration for Test-Time Continual L",
+      "body": "\ud83d\ude80 Proud to share our latest work by quoting my collaborator\u2019s post below. \n\n\ud83d\udcc4AgentOdyssey: Open-Ended Long-Horizon Text GameGeneration for Test-Time Continual Learning Agents\n\ud83d\udd17 Paper: https://t.co/15xl2slCCQ\n\ud83c\udf10 Page: https://t.co/TBAYqfSjGU\n\nAgentOdyssey is a step toward studying how agents can keep learning at test time, rather than treating training and deployment as separate phases.\n\nExcited to see how the community uses it to benchmark agents and LLMs \ud83e\udd16\ud83d\udcca\ud83e\udde0\n#Agent #LLM #AgentOdyssey #neurips #icml #iclr",
+      "url": "https://x.com/jianwen_xie/status/2046400779389726794",
+      "author": "1200655784624869381",
+      "published_at": "2026-04-21T01:29:00",
+      "observed_at": "2026-09-10T03:56:36.538119",
+      "metrics": {
+        "author_handle": "jianwen_xie",
+        "author_followers": 729,
+        "likes": 6,
+        "views": 887,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "handle": "ssbmaltimor",
+  "total_tweets": 37,
+  "august_tweets": 5,
+  "tweets": [
+    {
+      "id": "2096261207497789470",
+      "title": "LLMs are making me sign my \"I was a doubter\" apology letter this year. Not AGI or a replacement for knowledge, but an increasingly amazing STEM automation tool ",
+      "body": "LLMs are making me sign my \"I was a doubter\" apology letter this year. Not AGI or a replacement for knowledge, but an increasingly amazing STEM automation tool with clear paths to keep getting better.",
+      "url": "https://x.com/ssbmaltimor/status/2096261207497789470",
+      "author": "936871616222564353",
+      "published_at": "2026-09-05T15:36:33",
+      "observed_at": "2026-09-10T03:57:13.560991",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 139,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095988896429416922",
+      "title": "https://t.co/2eCxHoDYnc",
+      "body": "https://t.co/2eCxHoDYnc",
+      "url": "https://x.com/ssbmaltimor/status/2095988896429416922",
+      "author": "936871616222564353",
+      "published_at": "2026-09-04T21:34:29",
+      "observed_at": "2026-09-10T03:57:13.562551",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 1,
+        "views": 144,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2093748833905672366",
+      "title": "public ML spaces are hell https://t.co/ZrOUgAv77y",
+      "body": "public ML spaces are hell https://t.co/ZrOUgAv77y",
+      "url": "https://x.com/ssbmaltimor/status/2093748833905672366",
+      "author": "936871616222564353",
+      "published_at": "2026-08-29T17:13:16",
+      "observed_at": "2026-09-10T03:57:13.563811",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 6,
+        "views": 158,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093153045584502989",
+      "title": "i manually implemented gradient descent for a 2 layer autoencoder in a creatures 3 genome using its floating point register machine layer rules https://t.co/MMz",
+      "body": "i manually implemented gradient descent for a 2 layer autoencoder in a creatures 3 genome using its floating point register machine layer rules https://t.co/MMzj1mILyn",
+      "url": "https://x.com/ssbmaltimor/status/2093153045584502989",
+      "author": "936871616222564353",
+      "published_at": "2026-08-28T01:45:49",
+      "observed_at": "2026-09-10T03:57:13.564959",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 247,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087648022066831620",
+      "title": "why did the official account of the Revenue Department, Government of Maharashtra just @ me with a crypto scam lmao",
+      "body": "why did the official account of the Revenue Department, Government of Maharashtra just @ me with a crypto scam lmao",
+      "url": "https://x.com/ssbmaltimor/status/2087648022066831620",
+      "author": "936871616222564353",
+      "published_at": "2026-08-12T21:10:49",
+      "observed_at": "2026-09-10T03:57:13.566246",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 142,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083877651966497161",
+      "title": "https://t.co/nRGIHncomU",
+      "body": "https://t.co/nRGIHncomU",
+      "url": "https://x.com/ssbmaltimor/status/2083877651966497161",
+      "author": "936871616222564353",
+      "published_at": "2026-08-02T11:28:43",
+      "observed_at": "2026-09-10T03:57:13.567330",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 5,
+        "views": 245,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083379060311204217",
+      "title": "I'm working on a creature brain for my artificial life game. It features an innovation in its world model that improves VRAM/compute usage and learning speed- n",
+      "body": "I'm working on a creature brain for my artificial life game. It features an innovation in its world model that improves VRAM/compute usage and learning speed- necessary for each unique brain to learn from scratch on a home GPU.\n\nMore soon https://t.co/vwJlfUcAoS",
+      "url": "https://x.com/ssbmaltimor/status/2083379060311204217",
+      "author": "936871616222564353",
+      "published_at": "2026-08-01T02:27:29",
+      "observed_at": "2026-09-10T03:57:13.568367",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 4,
+        "views": 130,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083065495419240944",
+      "title": "do they hire idiots or are they just trying to get ai regulated",
+      "body": "do they hire idiots or are they just trying to get ai regulated",
+      "url": "https://x.com/ssbmaltimor/status/2083065495419240944",
+      "author": "936871616222564353",
+      "published_at": "2026-07-31T05:41:30",
+      "observed_at": "2026-09-10T03:57:13.570569",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 411,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2055073509978644826",
+      "title": "@th1ghs4hvh @ogisadaDMA It's very common. I haven't kept up, but all ESEA AC devs used to be former cheat devs.",
+      "body": "@th1ghs4hvh @ogisadaDMA It's very common. I haven't kept up, but all ESEA AC devs used to be former cheat devs.",
+      "url": "https://x.com/ssbmaltimor/status/2055073509978644826",
+      "author": "936871616222564353",
+      "published_at": "2026-05-14T23:51:20",
+      "observed_at": "2026-09-10T03:57:13.573024",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 14,
+        "views": 3426,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2054652384807162018",
+      "title": "my inpainting model started replacing text with HELP IM TRAPPED instead of removing it and i had to find the datacenter it was training in and burn it down. thi",
+      "body": "my inpainting model started replacing text with HELP IM TRAPPED instead of removing it and i had to find the datacenter it was training in and burn it down. this is an average day for an ML engineer, but the big companies will never tell you that",
+      "url": "https://x.com/ssbmaltimor/status/2054652384807162018",
+      "author": "936871616222564353",
+      "published_at": "2026-05-13T19:57:56",
+      "observed_at": "2026-09-10T03:57:13.575393",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 6,
+        "views": 160,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2001236532825641041",
+      "title": "&gt;Mozilla has a new CEO, and he's focused on evolving Firefox into a \"modern AI browser.\"\nNOOOOOOOOOOOOOOOOOOO",
+      "body": "&gt;Mozilla has a new CEO, and he's focused on evolving Firefox into a \"modern AI browser.\"\nNOOOOOOOOOOOOOOOOOOO",
+      "url": "https://x.com/ssbmaltimor/status/2001236532825641041",
+      "author": "936871616222564353",
+      "published_at": "2025-12-17T10:22:25",
+      "observed_at": "2026-09-10T03:57:13.577877",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 13,
+        "views": 403,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1968308423801667593",
+      "title": "@py_bun nice skin",
+      "body": "@py_bun nice skin",
+      "url": "https://x.com/ssbmaltimor/status/1968308423801667593",
+      "author": "936871616222564353",
+      "published_at": "2025-09-17T13:37:52",
+      "observed_at": "2026-09-10T03:57:13.580137",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 4,
+        "views": 1032,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1968222797588730173",
+      "title": "@davidvkimball @charliekirk The only reason people are racing to get a read on the guy is so they can unfairly hold half the country responsible for one person\u2019",
+      "body": "@davidvkimball @charliekirk The only reason people are racing to get a read on the guy is so they can unfairly hold half the country responsible for one person\u2019s actions to further their own ideology.",
+      "url": "https://x.com/ssbmaltimor/status/1968222797588730173",
+      "author": "936871616222564353",
+      "published_at": "2025-09-17T07:57:37",
+      "observed_at": "2026-09-10T03:57:13.581288",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 126,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1966397607237820842",
+      "title": "why is nintendo still doing directs? silksong already released",
+      "body": "why is nintendo still doing directs? silksong already released",
+      "url": "https://x.com/ssbmaltimor/status/1966397607237820842",
+      "author": "936871616222564353",
+      "published_at": "2025-09-12T07:04:58",
+      "observed_at": "2026-09-10T03:57:13.583836",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 4,
+        "views": 220,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1966338560723923292",
+      "title": "wtf is hegseth even saying",
+      "body": "wtf is hegseth even saying",
+      "url": "https://x.com/ssbmaltimor/status/1966338560723923292",
+      "author": "936871616222564353",
+      "published_at": "2025-09-12T03:10:20",
+      "observed_at": "2026-09-10T03:57:13.585556",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 327,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1960688752478568555",
+      "title": "booooo",
+      "body": "booooo",
+      "url": "https://x.com/ssbmaltimor/status/1960688752478568555",
+      "author": "936871616222564353",
+      "published_at": "2025-08-27T13:00:01",
+      "observed_at": "2026-09-10T03:57:13.586824",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 221,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1960560075317166475",
+      "title": "i dont understand the grift of these high profile musk suckoff accounts. does he pay them? what else would they have to gain from doing it obsessively and culti",
+      "body": "i dont understand the grift of these high profile musk suckoff accounts. does he pay them? what else would they have to gain from doing it obsessively and cultivating a presence around cock sucking",
+      "url": "https://x.com/ssbmaltimor/status/1960560075317166475",
+      "author": "936871616222564353",
+      "published_at": "2025-08-27T04:28:42",
+      "observed_at": "2026-09-10T03:57:13.588151",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 166,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1957562830418288681",
+      "title": "i need my panera charged lemonade back and i dont care how many lives it costs",
+      "body": "i need my panera charged lemonade back and i dont care how many lives it costs",
+      "url": "https://x.com/ssbmaltimor/status/1957562830418288681",
+      "author": "936871616222564353",
+      "published_at": "2025-08-18T21:58:43",
+      "observed_at": "2026-09-10T03:57:13.589275",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 8,
+        "views": 339,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1952084361559277679",
+      "title": "i wish days were 26 hours long. stay up 16 hours, sleep 10",
+      "body": "i wish days were 26 hours long. stay up 16 hours, sleep 10",
+      "url": "https://x.com/ssbmaltimor/status/1952084361559277679",
+      "author": "936871616222564353",
+      "published_at": "2025-08-03T19:09:14",
+      "observed_at": "2026-09-10T03:57:13.590381",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 148,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1943598982371922229",
+      "title": "THE NUMBERS MASON WHAT DO THEY MEAN https://t.co/stABjyLPQG",
+      "body": "THE NUMBERS MASON WHAT DO THEY MEAN https://t.co/stABjyLPQG",
+      "url": "https://x.com/ssbmaltimor/status/1943598982371922229",
+      "author": "936871616222564353",
+      "published_at": "2025-07-11T09:11:22",
+      "observed_at": "2026-09-10T03:57:13.591418",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 5,
+        "views": 224,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1880819747362943149",
+      "title": "@ryanstrug @ohfuggDD @newyorkers_x yea, that's what taxes are for",
+      "body": "@ryanstrug @ohfuggDD @newyorkers_x yea, that's what taxes are for",
+      "url": "https://x.com/ssbmaltimor/status/1880819747362943149",
+      "author": "936871616222564353",
+      "published_at": "2025-01-19T03:29:06",
+      "observed_at": "2026-09-10T03:57:13.592439",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 5,
+        "views": 131,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1840279624888041678",
+      "title": "@Who_Loves_Dean https://t.co/xrvoFnZeSb",
+      "body": "@Who_Loves_Dean https://t.co/xrvoFnZeSb",
+      "url": "https://x.com/ssbmaltimor/status/1840279624888041678",
+      "author": "936871616222564353",
+      "published_at": "2024-09-29T06:37:07",
+      "observed_at": "2026-09-10T03:57:13.593505",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 26,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1787956547907448976",
+      "title": "We focus on the ability of AI to poorly perform tasks suited for humans so we can be cheap and lazy, but it\u2019s best for augmenting things computers are already g",
+      "body": "We focus on the ability of AI to poorly perform tasks suited for humans so we can be cheap and lazy, but it\u2019s best for augmenting things computers are already good at with rough approximations of things they aren\u2019t.",
+      "url": "https://x.com/ssbmaltimor/status/1787956547907448976",
+      "author": "936871616222564353",
+      "published_at": "2024-05-07T21:23:54",
+      "observed_at": "2026-09-10T03:57:13.594582",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 155,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1755540219380515029",
+      "title": "@Rallenisgay @SimpleFlips that really depends on if the penny physically doubles (keter class scp apocalypse scenario) or you just gain the equivalent currency",
+      "body": "@Rallenisgay @SimpleFlips that really depends on if the penny physically doubles (keter class scp apocalypse scenario) or you just gain the equivalent currency",
+      "url": "https://x.com/ssbmaltimor/status/1755540219380515029",
+      "author": "936871616222564353",
+      "published_at": "2024-02-08T10:32:59",
+      "observed_at": "2026-09-10T03:57:13.595743",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 379,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1754263164282106157",
+      "title": "@awawawhoami Which month protects my son from having to interact with anyone who believes in astrology",
+      "body": "@awawawhoami Which month protects my son from having to interact with anyone who believes in astrology",
+      "url": "https://x.com/ssbmaltimor/status/1754263164282106157",
+      "author": "936871616222564353",
+      "published_at": "2024-02-04T21:58:25",
+      "observed_at": "2026-09-10T03:57:13.596800",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 22,
+        "views": 782,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1741491807026876441",
+      "title": "@datcravat &gt;If they fly too close to the sun\n\nI see no reason not to immediately call them out.",
+      "body": "@datcravat &gt;If they fly too close to the sun\n\nI see no reason not to immediately call them out.",
+      "url": "https://x.com/ssbmaltimor/status/1741491807026876441",
+      "author": "936871616222564353",
+      "published_at": "2023-12-31T16:09:36",
+      "observed_at": "2026-09-10T03:57:13.597823",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 223,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1741481527735710023",
+      "title": "@stinko_o @basteires @CantEverDie @Liv_Agar I guess I have to live with giving Tucker Carlson a few cents of Twitter revenue now.",
+      "body": "@stinko_o @basteires @CantEverDie @Liv_Agar I guess I have to live with giving Tucker Carlson a few cents of Twitter revenue now.",
+      "url": "https://x.com/ssbmaltimor/status/1741481527735710023",
+      "author": "936871616222564353",
+      "published_at": "2023-12-31T15:28:46",
+      "observed_at": "2026-09-10T03:57:13.598896",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 8,
+        "views": 3755,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1741296438707945598",
+      "title": "@basteires @CantEverDie @Liv_Agar Watching that Tucker Carlson Trump interview on mobile was perhaps the worst experience I\u2019ve ever had with a video player.",
+      "body": "@basteires @CantEverDie @Liv_Agar Watching that Tucker Carlson Trump interview on mobile was perhaps the worst experience I\u2019ve ever had with a video player.",
+      "url": "https://x.com/ssbmaltimor/status/1741296438707945598",
+      "author": "936871616222564353",
+      "published_at": "2023-12-31T03:13:17",
+      "observed_at": "2026-09-10T03:57:13.599957",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 129,
+        "views": 21570,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1740927556436590968",
+      "title": "@technospiderssb https://t.co/HVYICrVRRK\nrun's over now",
+      "body": "@technospiderssb https://t.co/HVYICrVRRK\nrun's over now",
+      "url": "https://x.com/ssbmaltimor/status/1740927556436590968",
+      "author": "936871616222564353",
+      "published_at": "2023-12-30T02:47:28",
+      "observed_at": "2026-09-10T03:57:13.601092",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 1,
+        "views": 19,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1739690307417977221",
+      "title": "@Nuckels @OnArap_ yea, you could force loading two copies of the dat and apply the pal patch to one of them.",
+      "body": "@Nuckels @OnArap_ yea, you could force loading two copies of the dat and apply the pal patch to one of them.",
+      "url": "https://x.com/ssbmaltimor/status/1739690307417977221",
+      "author": "936871616222564353",
+      "published_at": "2023-12-26T16:51:05",
+      "observed_at": "2026-09-10T03:57:13.602129",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 3,
+        "views": 74,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1734310283257188587",
+      "title": "@LiquidHbox Division with / is equivalent and is important for programming and computer math tools.",
+      "body": "@LiquidHbox Division with / is equivalent and is important for programming and computer math tools.",
+      "url": "https://x.com/ssbmaltimor/status/1734310283257188587",
+      "author": "936871616222564353",
+      "published_at": "2023-12-11T20:32:48",
+      "observed_at": "2026-09-10T03:57:13.603154",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 230,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731981719727706297",
+      "title": "@JohnBla48991590 @empathy_cs @OlleOllesson5 If someone is happier living as a woman, why deny them that? Trans people are harmless and there\u2019s no reason to try ",
+      "body": "@JohnBla48991590 @empathy_cs @OlleOllesson5 If someone is happier living as a woman, why deny them that? Trans people are harmless and there\u2019s no reason to try to force your views on them.",
+      "url": "https://x.com/ssbmaltimor/status/1731981719727706297",
+      "author": "936871616222564353",
+      "published_at": "2023-12-05T10:19:55",
+      "observed_at": "2026-09-10T03:57:13.604208",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 157,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731966123162083465",
+      "title": "@larmz_ @PickensBurgh @FortniteGame I\u2019m gonna shit on your dinner plate tonight. Hopefully you can adapt instead of complaining like a scrubbard.",
+      "body": "@larmz_ @PickensBurgh @FortniteGame I\u2019m gonna shit on your dinner plate tonight. Hopefully you can adapt instead of complaining like a scrubbard.",
+      "url": "https://x.com/ssbmaltimor/status/1731966123162083465",
+      "author": "936871616222564353",
+      "published_at": "2023-12-05T09:17:56",
+      "observed_at": "2026-09-10T03:57:13.605321",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 34,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731964942880752000",
+      "title": "@Rickyb616 @HappyPower @FortniteGame So practice building? I don\u2019t know why you\u2019d expect to succeed at something if you aren\u2019t willing to get good at the requir",
+      "body": "@Rickyb616 @HappyPower @FortniteGame So practice building? I don\u2019t know why you\u2019d expect to succeed at something if you aren\u2019t willing to get good at the required skills. \u201cSweats\u201d means people who are better than you and therefore should and will win. Not that a speed nerf will change much about that.",
+      "url": "https://x.com/ssbmaltimor/status/1731964942880752000",
+      "author": "936871616222564353",
+      "published_at": "2023-12-05T09:13:15",
+      "observed_at": "2026-09-10T03:57:13.606444",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 1,
+        "views": 88,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731917399392194799",
+      "title": "@giles_wells @FortniteGame Why would you want to preserve your mistakes just because you put effort into them?",
+      "body": "@giles_wells @FortniteGame Why would you want to preserve your mistakes just because you put effort into them?",
+      "url": "https://x.com/ssbmaltimor/status/1731917399392194799",
+      "author": "936871616222564353",
+      "published_at": "2023-12-05T06:04:20",
+      "observed_at": "2026-09-10T03:57:13.608363",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 2,
+        "views": 127,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731087994935796001",
+      "title": "@Swiftssbm The nerfs subtly to significantly affect *all* directional input sequences. TT is an arbitrary delay with no feedback that depends on the specific se",
+      "body": "@Swiftssbm The nerfs subtly to significantly affect *all* directional input sequences. TT is an arbitrary delay with no feedback that depends on the specific sequence and analog threshold. NSOCD requires relearning movement you use constantly. If adjusting to that isn't hard, what is?",
+      "url": "https://x.com/ssbmaltimor/status/1731087994935796001",
+      "author": "936871616222564353",
+      "published_at": "2023-12-02T23:08:34",
+      "observed_at": "2026-09-10T03:57:13.609805",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 0,
+        "views": 88,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1726763944327491990",
+      "title": "@bobbybigballz19 Fucked up that twitch can effectively ban people from nearly all tournaments",
+      "body": "@bobbybigballz19 Fucked up that twitch can effectively ban people from nearly all tournaments",
+      "url": "https://x.com/ssbmaltimor/status/1726763944327491990",
+      "author": "936871616222564353",
+      "published_at": "2023-11-21T00:46:20",
+      "observed_at": "2026-09-10T03:57:13.610711",
+      "metrics": {
+        "author_handle": "ssbmaltimor",
+        "author_followers": 462,
+        "likes": 10,
+        "views": 1442,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

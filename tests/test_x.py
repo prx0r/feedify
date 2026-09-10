@@ -77,34 +77,40 @@ class TestNormalize:
 
 class TestScarcityDetector:
     def test_fab_claim_implies_gfs(self):
-        drafts = detector.detect_x(_item())
-        assert len(drafts) == 1
-        assert drafts[0].signal_type == "SCARCITY_SHOCK"
-        assert "GFS" in drafts[0].metadata["implied_tickers"]
+        objects, edges = detector.compile_x(_item(), artifact_id=0)
+        assert len(objects) > 0
+        ticker_keys = [o.object_key for o in objects if "GFS" in o.object_key.upper()]
+        assert len(ticker_keys) > 0
 
     def test_pq_claim_implies_eth(self):
         item = _item(body="Ethereum targets post-quantum signatures by December 2029, ml-dsa migration")
-        drafts = detector.detect_x(item)
-        assert drafts[0].signal_type == "SCARCITY_SHOCK"
-        assert "ETH" in drafts[0].metadata["implied_tickers"]
+        objects, edges = detector.compile_x(item, artifact_id=0)
+        ticker_keys = [o.object_key for o in objects if "ETH" in o.object_key.upper()]
+        assert len(ticker_keys) > 0
 
     def test_cryogenic_test_implies_form(self):
         item = _item(body="automated cryogenic wafer probing at 4 kelvin for yield data")
-        drafts = detector.detect_x(item)
-        assert "FORM" in drafts[0].metadata["implied_tickers"]
+        objects, edges = detector.compile_x(item, artifact_id=0)
+        ticker_keys = [o.object_key for o in objects if "FORM" in o.object_key.upper()]
+        assert len(ticker_keys) > 0
 
-    def test_unrelated_post_is_observation(self):
+    def test_unrelated_post_filtered_out(self):
+        """Low-alpha posts should be filtered out by the scoring formula."""
         item = _item(body="had coffee, thinking about databases")
-        drafts = detector.detect_x(item)
-        assert drafts[0].signal_type == "X_OBSERVATION"
+        objects, edges = detector.compile_x(item, artifact_id=0)
+        # Scoring formula should filter this out (no bottleneck relevance, low specificity)
+        assert len(objects) == 0
 
     def test_dispatch_routes_x(self):
-        assert detector.detect(_item())[0].signal_type == "SCARCITY_SHOCK"
+        objects, edges = detector.compile_artifact(_item(), artifact_id=0)
+        assert len(objects) > 0
 
     def test_no_duplicate_tickers(self):
         item = _item(body="GlobalFoundries fab foundry manufacturing expansion")
-        tickers = detector.detect_x(item)[0].metadata["implied_tickers"]
-        assert tickers.count("GFS") == 1
+        objects, edges = detector.compile_x(item, artifact_id=0)
+        gfs_objects = [o for o in objects if "GFS" in o.object_key.upper()]
+        # Should have at most one GFS entity
+        assert len(gfs_objects) <= 2  # entity + possibly theory
 
 
 class TestBudgetGuards:

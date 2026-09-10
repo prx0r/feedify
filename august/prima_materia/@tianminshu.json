@@ -1,0 +1,653 @@
+{
+  "handle": "tianminshu",
+  "total_tweets": 34,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2097720545747861994",
+      "title": "Our recent work found a simple recipe for long-horizon memorization: it turns out that compositions of continual learning mechanisms can greatly reduce catastro",
+      "body": "Our recent work found a simple recipe for long-horizon memorization: it turns out that compositions of continual learning mechanisms can greatly reduce catastrophic forgetting. See the thread by @zheyuanzhang99 below",
+      "url": "https://x.com/tianminshu/status/2097720545747861994",
+      "author": "3218776230",
+      "published_at": "2026-09-09T16:15:26",
+      "observed_at": "2026-09-10T03:55:07.002751",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 11,
+        "views": 916,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097404723259154481",
+      "title": "@ShuangL13799063 @techreview Congrats!",
+      "body": "@ShuangL13799063 @techreview Congrats!",
+      "url": "https://x.com/tianminshu/status/2097404723259154481",
+      "author": "3218776230",
+      "published_at": "2026-09-08T19:20:28",
+      "observed_at": "2026-09-10T03:55:07.009894",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 1,
+        "views": 173,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074136594366239199",
+      "title": "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions (Best paper award at the RLxF workshop!)  \n\nOral session at the RLxF workshop: Fri, Jul",
+      "body": "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions (Best paper award at the RLxF workshop!)  \n\nOral session at the RLxF workshop: Fri, Jul 10, 9:10\u201310:00 AM KST, at Grand Ballroom 101-102\n\nhttps://t.co/cFdU35RZFz",
+      "url": "https://x.com/tianminshu/status/2074136594366239199",
+      "author": "3218776230",
+      "published_at": "2026-07-06T14:21:14",
+      "observed_at": "2026-09-10T03:55:07.011303",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 4,
+        "views": 316,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074136591597961387",
+      "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations  \n\nMorning poster session on the first day of the main conference: Tue, Jul 7, 2026, 10:30 AM \u2013",
+      "body": "MindZero: Learning Online Mental Reasoning With Zero Annotations  \n\nMorning poster session on the first day of the main conference: Tue, Jul 7, 2026, 10:30 AM \u2013 12:15 PM KST, at Hall A #412\n\nhttps://t.co/wyAgOUP34f\n\nhttps://t.co/lhVb1fNnGm",
+      "url": "https://x.com/tianminshu/status/2074136591597961387",
+      "author": "3218776230",
+      "published_at": "2026-07-06T14:21:13",
+      "observed_at": "2026-09-10T03:55:07.012954",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 7,
+        "views": 884,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2074136590352277999",
+      "title": "I won't be at #ICML2026 this year, but my students/collaborators will present MindZero and ThoughtTrace. See \ud83e\uddf5 below for details:",
+      "body": "I won't be at #ICML2026 this year, but my students/collaborators will present MindZero and ThoughtTrace. See \ud83e\uddf5 below for details:",
+      "url": "https://x.com/tianminshu/status/2074136590352277999",
+      "author": "3218776230",
+      "published_at": "2026-07-06T14:21:13",
+      "observed_at": "2026-09-10T03:55:07.014708",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 21,
+        "views": 2002,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2066963281839886347",
+      "title": "One of the challenges for training Theory of Mind models is the lack of ground-truth mental state annotations. How can we address this? It turns out that you do",
+      "body": "One of the challenges for training Theory of Mind models is the lack of ground-truth mental state annotations. How can we address this? It turns out that you don't need any annotations! Introducing MindZero, a self-supervised RL approach for training LLMs to internalize Bayesian inverse planning with ZERO annotations, accepted to #ICML2026.\n\nKey idea: Bayesian inverse planning provides self-supervised reward for training an LLM; after training, LLM generates amortized inferences end-to-end. This is a significant step toward scaling Bayesian inverse planning style Theory of Mind reasoning. Check out @ShunchiZhang's thread for details \ud83d\udc47",
+      "url": "https://x.com/tianminshu/status/2066963281839886347",
+      "author": "3218776230",
+      "published_at": "2026-06-16T19:17:03",
+      "observed_at": "2026-09-10T03:55:07.015553",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 31,
+        "views": 4523,
+        "reposts": 6,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062152439541694536",
+      "title": "@LChoshen @DanielKhashabi @arxiv Perhaps minimally a dashboard to show queue time and moderation status. But hopefully some kind of community discussion on mode",
+      "body": "@LChoshen @DanielKhashabi @arxiv Perhaps minimally a dashboard to show queue time and moderation status. But hopefully some kind of community discussion on moderation practice (maybe as an event at a conference).",
+      "url": "https://x.com/tianminshu/status/2062152439541694536",
+      "author": "3218776230",
+      "published_at": "2026-06-03T12:40:29",
+      "observed_at": "2026-09-10T03:55:07.017087",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 365,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2061565903217799290",
+      "title": "To plan effectively in an unseen 3D world, embodied agents need to form and update beliefs of the 3D world. In our recent work, @yifanyin_11 proposed 3D-Belief,",
+      "body": "To plan effectively in an unseen 3D world, embodied agents need to form and update beliefs of the 3D world. In our recent work, @yifanyin_11 proposed 3D-Belief, a generative 3D world model that continuously updates  scene memory AND 3D imagination of unseen space as an agent explores a new environment. We show great results of improved imagination quality \ud83d\uddbc\ufe0f, spatial reasoning \ud83c\udf0e, and closed-loop planning \ud83e\udd16 with 3D-Belief. This work presents a new way to think about what kinds of world modeling are necessary for embodied reasoning and planning under partial observability, particularly in unseen environments. \n\nSee the thread below for more details \ud83d\udc47",
+      "url": "https://x.com/tianminshu/status/2061565903217799290",
+      "author": "3218776230",
+      "published_at": "2026-06-01T21:49:48",
+      "observed_at": "2026-09-10T03:55:07.017960",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 19,
+        "views": 2708,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057135561186660800",
+      "title": "Users\u2019 interactions with LLMs are driven by their latent thoughts \ud83e\udde0, such as how they react to LLM responses and why they send follow-up requests. In our recent",
+      "body": "Users\u2019 interactions with LLMs are driven by their latent thoughts \ud83e\udde0, such as how they react to LLM responses and why they send follow-up requests. In our recent work with @GoogleResearch, we collected ThoughtTrace, a large-scale dataset of user thoughts during multi-turn human-AI interactions. We found that these self-reported thoughts (1) reveal useful information for user behavior modeling and (2) provide learning signals for model alignment that are otherwise unavailable from just the conversations.\n\nCheck out the following thread from @chuanyang_jin\ud83d\udc47",
+      "url": "https://x.com/tianminshu/status/2057135561186660800",
+      "author": "3218776230",
+      "published_at": "2026-05-20T16:25:12",
+      "observed_at": "2026-09-10T03:55:07.019412",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 38,
+        "views": 7039,
+        "reposts": 4,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046658550512877600",
+      "title": "In addition to the workshop, we are hosting a multimodal Theory of Mind challenge. Winner of each track will receive $3k Lambda credits! Submission due by May 3",
+      "body": "In addition to the workshop, we are hosting a multimodal Theory of Mind challenge. Winner of each track will receive $3k Lambda credits! Submission due by May 3. Challenge page: https://t.co/jx39K1uyvE",
+      "url": "https://x.com/tianminshu/status/2046658550512877600",
+      "author": "3218776230",
+      "published_at": "2026-04-21T18:33:18",
+      "observed_at": "2026-09-10T03:55:07.021153",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 13,
+        "views": 2645,
+        "reposts": 6,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046297808458707078",
+      "title": "Real-world, open-ended agents need to continually acquire knowledge and skills after deployment. In our recent work, we introduce AgentOdyssey, a game generator",
+      "body": "Real-world, open-ended agents need to continually acquire knowledge and skills after deployment. In our recent work, we introduce AgentOdyssey, a game generator that procedurally creates long-horizon text games for evaluating test-time continual learning agents. This presents a new challenge for LLM agents and continual learning where learning and testing happen at the same time over a long horizon. See @zheyuanzhang99's thread for details.",
+      "url": "https://x.com/tianminshu/status/2046297808458707078",
+      "author": "3218776230",
+      "published_at": "2026-04-20T18:39:50",
+      "observed_at": "2026-09-10T03:55:07.022705",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 16,
+        "views": 1268,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044542253364846648",
+      "title": "Very excited that our project was selected as a runner-up for the @LaudeInstitute Moonshot program! With the seed grant, we will study how to build new institut",
+      "body": "Very excited that our project was selected as a runner-up for the @LaudeInstitute Moonshot program! With the seed grant, we will study how to build new institutions to ensure that AI works for communities and is governed by communities.",
+      "url": "https://x.com/tianminshu/status/2044542253364846648",
+      "author": "3218776230",
+      "published_at": "2026-04-15T22:23:53",
+      "observed_at": "2026-09-10T03:55:07.024311",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 20,
+        "views": 2402,
+        "reposts": 5,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031764250687934753",
+      "title": "Submission due today! Lambda compute credits will be awarded to *all* accepted papers.",
+      "body": "Submission due today! Lambda compute credits will be awarded to *all* accepted papers.",
+      "url": "https://x.com/tianminshu/status/2031764250687934753",
+      "author": "3218776230",
+      "published_at": "2026-03-11T16:08:40",
+      "observed_at": "2026-09-10T03:55:07.025175",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 7,
+        "views": 2077,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2031084585438646499",
+      "title": "Coordinating paths among multiple agents remains extremely challenging, especially in tight spaces. This includes:\n\ud83e\udd1d human\u2013robot coordination\n\ud83e\udd16 multi-robot coll",
+      "body": "Coordinating paths among multiple agents remains extremely challenging, especially in tight spaces. This includes:\n\ud83e\udd1d human\u2013robot coordination\n\ud83e\udd16 multi-robot collaboration\n\nCommunication helps, but we still lack generalizable models that ground language in multi-agent path planning for open-ended environments.\n\nIn a new work led by two amazing undergrads in our lab, Haojun Shi and @suyu_ye, we introduce:\n\n\ud83e\udde9 Code as Path Editor (CaPE), a safe, interpretable multimodal framework for multi-agent path coordination.\n\nKey idea:\nInstead of asking a model to generate robot trajectories directly, CaPE trains a small VLM to act as a path editor.\n1\ufe0f\u20e3 A conventional planner proposes paths\n2\ufe0f\u20e3 The VLM converts language + current state into structured path edits\n3\ufe0f\u20e3 Edits are verified against safety constraints before execution\n\nThis makes CaPE:\n\u2705 Safe (constraint-verified)\n\ud83d\udd0d Interpretable (explicit path edits)\n\ud83d\udd0c Plug-and-play (works with existing planners)\n\nThe result: strong generalization across diverse settings with zero finetuning, including\n1) human-robot teaming in household tasks\n2) human-robot joint object carrying\n3) multi-robot coordination",
+      "url": "https://x.com/tianminshu/status/2031084585438646499",
+      "author": "3218776230",
+      "published_at": "2026-03-09T19:07:55",
+      "observed_at": "2026-09-10T03:55:07.025802",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 13,
+        "views": 1087,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2009029600056115303",
+      "title": "Application for the JHU DSAI postdoc fellowship is open until Jan 23, 2026. If you are interested in working with me, please apply and reach out!",
+      "body": "Application for the JHU DSAI postdoc fellowship is open until Jan 23, 2026. If you are interested in working with me, please apply and reach out!",
+      "url": "https://x.com/tianminshu/status/2009029600056115303",
+      "author": "3218776230",
+      "published_at": "2026-01-07T22:29:17",
+      "observed_at": "2026-09-10T03:55:07.027261",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 6,
+        "views": 1202,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1997745886257127733",
+      "title": "@fchollet The shortcut rule https://t.co/RfgmYttow7",
+      "body": "@fchollet The shortcut rule https://t.co/RfgmYttow7",
+      "url": "https://x.com/tianminshu/status/1997745886257127733",
+      "author": "3218776230",
+      "published_at": "2025-12-07T19:11:50",
+      "observed_at": "2026-09-10T03:55:07.028929",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 287,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1997744875241161088",
+      "title": "@fchollet on ARC challenge. \u201cWhy didn\u2019t pretraining lead to AGI?\u201d https://t.co/bUSCtzUJXs",
+      "body": "@fchollet on ARC challenge. \u201cWhy didn\u2019t pretraining lead to AGI?\u201d https://t.co/bUSCtzUJXs",
+      "url": "https://x.com/tianminshu/status/1997744875241161088",
+      "author": "3218776230",
+      "published_at": "2025-12-07T19:07:49",
+      "observed_at": "2026-09-10T03:55:07.030026",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 3,
+        "views": 330,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1997714483956080913",
+      "title": "LAW 2025 workshop is happening right now in Ballroom 20D. First speaker, Sherry Yang, is talking about WorldGym! #NeurIPS2025 https://t.co/84Qjz5vb7s",
+      "body": "LAW 2025 workshop is happening right now in Ballroom 20D. First speaker, Sherry Yang, is talking about WorldGym! #NeurIPS2025 https://t.co/84Qjz5vb7s",
+      "url": "https://x.com/tianminshu/status/1997714483956080913",
+      "author": "3218776230",
+      "published_at": "2025-12-07T17:07:03",
+      "observed_at": "2026-09-10T03:55:07.030804",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 8,
+        "views": 612,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1995617514488037507",
+      "title": "Excited to share the works my lab will present at #NeurIPS. Happy to chat! https://t.co/aDWCHvMwPi",
+      "body": "Excited to share the works my lab will present at #NeurIPS. Happy to chat! https://t.co/aDWCHvMwPi",
+      "url": "https://x.com/tianminshu/status/1995617514488037507",
+      "author": "3218776230",
+      "published_at": "2025-12-01T22:14:26",
+      "observed_at": "2026-09-10T03:55:07.032213",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 20,
+        "views": 1524,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1995613498190299422",
+      "title": "SimWorld is coming to #NeurIPS!\nSimWorld: https://t.co/5ntrTl6tBY\nSimWorld-Robotics: https://t.co/jhztRi9UmV",
+      "body": "SimWorld is coming to #NeurIPS!\nSimWorld: https://t.co/5ntrTl6tBY\nSimWorld-Robotics: https://t.co/jhztRi9UmV",
+      "url": "https://x.com/tianminshu/status/1995613498190299422",
+      "author": "3218776230",
+      "published_at": "2025-12-01T21:58:29",
+      "observed_at": "2026-09-10T03:55:07.033055",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 14,
+        "views": 3137,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1939721550501958136",
+      "title": "@xuanalogue Congrats! Looking forward to seeing the future work from your lab!",
+      "body": "@xuanalogue Congrats! Looking forward to seeing the future work from your lab!",
+      "url": "https://x.com/tianminshu/status/1939721550501958136",
+      "author": "3218776230",
+      "published_at": "2025-06-30T16:23:50",
+      "observed_at": "2026-09-10T03:55:07.033742",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 249,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936463302873494004",
+      "title": "@chuanyang_jin @yifanyin_11 @LanceYing42 @ShuangL13799063 @xavierpuigf @TheAndiPenguin Second talk is happening. Mahi Shafiullah is talking about generalization",
+      "body": "@chuanyang_jin @yifanyin_11 @LanceYing42 @ShuangL13799063 @xavierpuigf @TheAndiPenguin Second talk is happening. Mahi Shafiullah is talking about generalization in robotics. https://t.co/vgUfS29eKn",
+      "url": "https://x.com/tianminshu/status/1936463302873494004",
+      "author": "3218776230",
+      "published_at": "2025-06-21T16:36:43",
+      "observed_at": "2026-09-10T03:55:07.034419",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 6,
+        "views": 1262,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936456696123285875",
+      "title": "@chuanyang_jin @yifanyin_11 @LanceYing42 @ShuangL13799063 @xavierpuigf @TheAndiPenguin Our first speaker, Yonatan Bisk is talking about how to better understand",
+      "body": "@chuanyang_jin @yifanyin_11 @LanceYing42 @ShuangL13799063 @xavierpuigf @TheAndiPenguin Our first speaker, Yonatan Bisk is talking about how to better understand ambiguous human instructions https://t.co/kRm7MPY1rK",
+      "url": "https://x.com/tianminshu/status/1936456696123285875",
+      "author": "3218776230",
+      "published_at": "2025-06-21T16:10:28",
+      "observed_at": "2026-09-10T03:55:07.035863",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 5,
+        "views": 937,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936101183011111050",
+      "title": "Organizers: @chuanyang_jin @yifanyin_11 @LanceYing42 @ShuangL13799063 @xavierpuigf @TheAndiPenguin",
+      "body": "Organizers: @chuanyang_jin @yifanyin_11 @LanceYing42 @ShuangL13799063 @xavierpuigf @TheAndiPenguin",
+      "url": "https://x.com/tianminshu/status/1936101183011111050",
+      "author": "3218776230",
+      "published_at": "2025-06-20T16:37:47",
+      "observed_at": "2026-09-10T03:55:07.037331",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 378,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936100780785729828",
+      "title": "We also have a great collection of contributed papers covering diverse topics on continual robot learning from humans. Come check out the posters. https://t.co/",
+      "body": "We also have a great collection of contributed papers covering diverse topics on continual robot learning from humans. Come check out the posters. https://t.co/BAQbdzuWmf",
+      "url": "https://x.com/tianminshu/status/1936100780785729828",
+      "author": "3218776230",
+      "published_at": "2025-06-20T16:36:11",
+      "observed_at": "2026-09-10T03:55:07.037930",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 357,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1936100778445263163",
+      "title": "Speakers: @chelseabfinn @du_yilun @ybisk @mangahomanga @notmahi Maja Matari\u0107 https://t.co/Q8Ul8DRxST",
+      "body": "Speakers: @chelseabfinn @du_yilun @ybisk @mangahomanga @notmahi Maja Matari\u0107 https://t.co/Q8Ul8DRxST",
+      "url": "https://x.com/tianminshu/status/1936100778445263163",
+      "author": "3218776230",
+      "published_at": "2025-06-20T16:36:11",
+      "observed_at": "2026-09-10T03:55:07.038550",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 352,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1934275151769587824",
+      "title": "@JohnsHopkins @ZhitingHu @Lianhuiq @UCSD Live demo session #2 has started in Hall B, in the CVPR demo track area. Our booth is next to Latitude. Come try out th",
+      "body": "@JohnsHopkins @ZhitingHu @Lianhuiq @UCSD Live demo session #2 has started in Hall B, in the CVPR demo track area. Our booth is next to Latitude. Come try out the interactive demo yourself! https://t.co/9PBHBX26wa",
+      "url": "https://x.com/tianminshu/status/1934275151769587824",
+      "author": "3218776230",
+      "published_at": "2025-06-15T15:41:47",
+      "observed_at": "2026-09-10T03:55:07.039187",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 3,
+        "views": 1229,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1933935582880710947",
+      "title": "@JohnsHopkins @ZhitingHu @Lianhuiq @UCSD Demo is ongoing at the JHU booth in Hall B. We have an interactive demo where you can try out the simulator yourself! h",
+      "body": "@JohnsHopkins @ZhitingHu @Lianhuiq @UCSD Demo is ongoing at the JHU booth in Hall B. We have an interactive demo where you can try out the simulator yourself! https://t.co/kXnIMLoAiS",
+      "url": "https://x.com/tianminshu/status/1933935582880710947",
+      "author": "3218776230",
+      "published_at": "2025-06-14T17:12:28",
+      "observed_at": "2026-09-10T03:55:07.040667",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 7,
+        "views": 1521,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1933765651140645173",
+      "title": "Code and documentation available at our website: https://t.co/rpKoXU5XSn\n\nJoint effort by my group at @JohnsHopkins, and @ZhitingHu and @Lianhuiq's groups at @U",
+      "body": "Code and documentation available at our website: https://t.co/rpKoXU5XSn\n\nJoint effort by my group at @JohnsHopkins, and @ZhitingHu and @Lianhuiq's groups at @UCSD.",
+      "url": "https://x.com/tianminshu/status/1933765651140645173",
+      "author": "3218776230",
+      "published_at": "2025-06-14T05:57:13",
+      "observed_at": "2026-09-10T03:55:07.041539",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 5,
+        "views": 1128,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1894775572569452791",
+      "title": "Kudos to the lead authors @zhining_zhang03, Mung Yao Jia, @chuanyang_jin",
+      "body": "Kudos to the lead authors @zhining_zhang03, Mung Yao Jia, @chuanyang_jin",
+      "url": "https://x.com/tianminshu/status/1894775572569452791",
+      "author": "3218776230",
+      "published_at": "2025-02-26T15:44:34",
+      "observed_at": "2026-09-10T03:55:07.042899",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 3,
+        "views": 257,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1894775570816217519",
+      "title": "AutoToM can also discover relevant history in the context (e.g., an agent\u2019s past behavior), whether prior works often assume all history is relevant. Such abili",
+      "body": "AutoToM can also discover relevant history in the context (e.g., an agent\u2019s past behavior), whether prior works often assume all history is relevant. Such ability is crucial in AutoToM\u2019s success in ToM reasoning given long context while reducing computational cost.",
+      "url": "https://x.com/tianminshu/status/1894775570816217519",
+      "author": "3218776230",
+      "published_at": "2025-02-26T15:44:33",
+      "observed_at": "2026-09-10T03:55:07.043702",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 3,
+        "views": 277,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1894775569193034150",
+      "title": "Conventional Bayesian inverse planning assumes a given model (e.g., MDP, POMDP, I-POMDP) to interpret agent behavior in a specific domain. AutoToM fully automat",
+      "body": "Conventional Bayesian inverse planning assumes a given model (e.g., MDP, POMDP, I-POMDP) to interpret agent behavior in a specific domain. AutoToM fully automates this process, adapting Bayesian inverse planning to open-ended scenarios without any domain knowledge.",
+      "url": "https://x.com/tianminshu/status/1894775569193034150",
+      "author": "3218776230",
+      "published_at": "2025-02-26T15:44:33",
+      "observed_at": "2026-09-10T03:55:07.044349",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 4,
+        "views": 89,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1821662502641422370",
+      "title": "@sucholutsky @NYUDataScience Congrats!",
+      "body": "@sucholutsky @NYUDataScience Congrats!",
+      "url": "https://x.com/tianminshu/status/1821662502641422370",
+      "author": "3218776230",
+      "published_at": "2024-08-08T21:39:20",
+      "observed_at": "2026-09-10T03:55:07.044975",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 2,
+        "views": 93,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1812913815153176708",
+      "title": "@_jennhu Welcome! Look forward to having you as a colleague.",
+      "body": "@_jennhu Welcome! Look forward to having you as a colleague.",
+      "url": "https://x.com/tianminshu/status/1812913815153176708",
+      "author": "3218776230",
+      "published_at": "2024-07-15T18:15:10",
+      "observed_at": "2026-09-10T03:55:07.045615",
+      "metrics": {
+        "author_handle": "tianminshu",
+        "author_followers": 1370,
+        "likes": 3,
+        "views": 528,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

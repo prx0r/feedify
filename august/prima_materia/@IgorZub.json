@@ -1,0 +1,406 @@
+{
+  "handle": "IgorZub",
+  "total_tweets": 21,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1961722922143293523",
+      "title": "Today I am presenting at #pycon pl about programmatic LLM &amp; VLM use through #DSPy , slides and notebook available at https://t.co/LIVSmRaKwY",
+      "body": "Today I am presenting at #pycon pl about programmatic LLM &amp; VLM use through #DSPy , slides and notebook available at https://t.co/LIVSmRaKwY",
+      "url": "https://x.com/IgorZub/status/1961722922143293523",
+      "author": "300172606",
+      "published_at": "2025-08-30T09:29:26",
+      "observed_at": "2026-09-10T03:54:33.777450",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 120,
+        "views": 8083,
+        "reposts": 15,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1961340672528548037",
+      "title": "Today at #pycon PL we are conducting workshop on #polars. Workshop materials are available at https://t.co/g7064FihWq https://t.co/d7vTKuBW5J",
+      "body": "Today at #pycon PL we are conducting workshop on #polars. Workshop materials are available at https://t.co/g7064FihWq https://t.co/d7vTKuBW5J",
+      "url": "https://x.com/IgorZub/status/1961340672528548037",
+      "author": "300172606",
+      "published_at": "2025-08-29T08:10:30",
+      "observed_at": "2026-09-10T03:54:33.779534",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 202,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1921944990915207639",
+      "title": "My students won a student innovation contest KoKoS: https://t.co/j7TPXY0rVR",
+      "body": "My students won a student innovation contest KoKoS: https://t.co/j7TPXY0rVR",
+      "url": "https://x.com/IgorZub/status/1921944990915207639",
+      "author": "300172606",
+      "published_at": "2025-05-12T15:06:08",
+      "observed_at": "2026-09-10T03:54:33.783132",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 73,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1871161508874404013",
+      "title": "I was nominated for the best teacher award at Lodz University of Technology and received nice presents for it \ud83d\ude09 https://t.co/KbBhFOGq13",
+      "body": "I was nominated for the best teacher award at Lodz University of Technology and received nice presents for it \ud83d\ude09 https://t.co/KbBhFOGq13",
+      "url": "https://x.com/IgorZub/status/1871161508874404013",
+      "author": "300172606",
+      "published_at": "2024-12-23T11:50:42",
+      "observed_at": "2026-09-10T03:54:33.785565",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 3,
+        "views": 105,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1829572482531299681",
+      "title": "Successful workshop with @lidkalee about #Pandas and #Polars on #pyconpl. In my opinion Polars is fantastic tool. https://t.co/lxUEdf2ts4",
+      "body": "Successful workshop with @lidkalee about #Pandas and #Polars on #pyconpl. In my opinion Polars is fantastic tool. https://t.co/lxUEdf2ts4",
+      "url": "https://x.com/IgorZub/status/1829572482531299681",
+      "author": "300172606",
+      "published_at": "2024-08-30T17:30:46",
+      "observed_at": "2026-09-10T03:54:33.787166",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 4,
+        "views": 226,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1778434312007754108",
+      "title": "Currently attending the Robotics in Education conference in the picturesque city of Koblenz, where two rivers meet. Delving into the impact of robotics on educa",
+      "body": "Currently attending the Robotics in Education conference in the picturesque city of Koblenz, where two rivers meet. Delving into the impact of robotics on education and the innovative approaches to teaching modern robotics. #RoboticsinEducation #Koblenz https://t.co/yRnbdDym7F",
+      "url": "https://x.com/IgorZub/status/1778434312007754108",
+      "author": "300172606",
+      "published_at": "2024-04-11T14:45:56",
+      "observed_at": "2026-09-10T03:54:33.788727",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 135,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1572181780136079362",
+      "title": "I was invited to the \"Kopernik By\u0142a Kobiet\u0105\" science popularisation TV series, this time about bionic eyes. I 3D printed a model of the Argus II bionic eye. It ",
+      "body": "I was invited to the \"Kopernik By\u0142a Kobiet\u0105\" science popularisation TV series, this time about bionic eyes. I 3D printed a model of the Argus II bionic eye. It went quite well. Please watch the episode about eyes and eye illnesses to see yourself. ;-) #rzecznicynauki #SciComm https://t.co/DN3QOrXIQT",
+      "url": "https://x.com/IgorZub/status/1572181780136079362",
+      "author": "300172606",
+      "published_at": "2022-09-20T11:12:00",
+      "observed_at": "2026-09-10T03:54:33.791782",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1534323729844797441",
+      "title": "Saw this delivery robot in a family restaurant in Nagoya. Quite busy and sometimes confused. #Robotics #socialrobots #nagoya https://t.co/u4CE1uwDQZ",
+      "body": "Saw this delivery robot in a family restaurant in Nagoya. Quite busy and sometimes confused. #Robotics #socialrobots #nagoya https://t.co/u4CE1uwDQZ",
+      "url": "https://x.com/IgorZub/status/1534323729844797441",
+      "author": "300172606",
+      "published_at": "2022-06-07T23:57:38",
+      "observed_at": "2026-09-10T03:54:33.795351",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1532883848568406017",
+      "title": "My presentation (in Polish) at #pytechsummit: Python in embedded applications using machine learning: https://t.co/IMfrjKsLHx #pytech #ML #ESP32",
+      "body": "My presentation (in Polish) at #pytechsummit: Python in embedded applications using machine learning: https://t.co/IMfrjKsLHx #pytech #ML #ESP32",
+      "url": "https://x.com/IgorZub/status/1532883848568406017",
+      "author": "300172606",
+      "published_at": "2022-06-04T00:36:03",
+      "observed_at": "2026-09-10T03:54:33.798752",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1515303863511040005",
+      "title": "Rollerblading in Nagoya is for sure a lot of fun. https://t.co/r9U46A5Bmp",
+      "body": "Rollerblading in Nagoya is for sure a lot of fun. https://t.co/r9U46A5Bmp",
+      "url": "https://x.com/IgorZub/status/1515303863511040005",
+      "author": "300172606",
+      "published_at": "2022-04-16T12:19:28",
+      "observed_at": "2026-09-10T03:54:33.801711",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1514823753188130821",
+      "title": "Finally arrived in Japan for my #JSPS fellowship, two years later than planned.",
+      "body": "Finally arrived in Japan for my #JSPS fellowship, two years later than planned.",
+      "url": "https://x.com/IgorZub/status/1514823753188130821",
+      "author": "300172606",
+      "published_at": "2022-04-15T04:31:41",
+      "observed_at": "2026-09-10T03:54:33.802939",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 5,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1247593953647636482",
+      "title": "We are making face shields, up to now around 150. I would say it is bittersweet being thanked by a doctor or a nurse or an elderly persons guardian in this situ",
+      "body": "We are making face shields, up to now around 150. I would say it is bittersweet being thanked by a doctor or a nurse or an elderly persons guardian in this situation. Thank you all for your hard work and courage",
+      "url": "https://x.com/IgorZub/status/1247593953647636482",
+      "author": "300172606",
+      "published_at": "2020-04-07T18:35:52",
+      "observed_at": "2026-09-10T03:54:33.803872",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1234167206402981888",
+      "title": "Talking about democratizing robot design at technology-ethics conference. Was super fun",
+      "body": "Talking about democratizing robot design at technology-ethics conference. Was super fun",
+      "url": "https://x.com/IgorZub/status/1234167206402981888",
+      "author": "300172606",
+      "published_at": "2020-03-01T17:22:46",
+      "observed_at": "2026-09-10T03:54:33.805975",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1210518035330748416",
+      "title": "First Japanese - Polish (in \u0141\u00f3d\u017a, \ud83c\uddf5\ud83c\uddf1) and Polish - Japanese (in Nagoya, \ud83c\uddef\ud83c\uddf5) symposium on technologies supporting rehabilitation and medical services was fun. ht",
+      "body": "First Japanese - Polish (in \u0141\u00f3d\u017a, \ud83c\uddf5\ud83c\uddf1) and Polish - Japanese (in Nagoya, \ud83c\uddef\ud83c\uddf5) symposium on technologies supporting rehabilitation and medical services was fun. https://t.co/fB8kK7ehfg",
+      "url": "https://x.com/IgorZub/status/1210518035330748416",
+      "author": "300172606",
+      "published_at": "2019-12-27T11:09:24",
+      "observed_at": "2026-09-10T03:54:33.807403",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1128936494519988224",
+      "title": "Some basic tips about good vs bad design: https://t.co/P3fVYX2toN",
+      "body": "Some basic tips about good vs bad design: https://t.co/P3fVYX2toN",
+      "url": "https://x.com/IgorZub/status/1128936494519988224",
+      "author": "300172606",
+      "published_at": "2019-05-16T08:13:29",
+      "observed_at": "2026-09-10T03:54:33.809765",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1126371767885475840",
+      "title": "Clear review of neural network based 2d pose estimation methods https://t.co/bf5UkvIra9",
+      "body": "Clear review of neural network based 2d pose estimation methods https://t.co/bf5UkvIra9",
+      "url": "https://x.com/IgorZub/status/1126371767885475840",
+      "author": "300172606",
+      "published_at": "2019-05-09T06:22:11",
+      "observed_at": "2026-09-10T03:54:33.811027",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1118608552485097474",
+      "title": "Fantastic set of tools for interfacing playing with ROS (Robot Operating System) in Jupyter: https://t.co/6gWwKgmHgD",
+      "body": "Fantastic set of tools for interfacing playing with ROS (Robot Operating System) in Jupyter: https://t.co/6gWwKgmHgD",
+      "url": "https://x.com/IgorZub/status/1118608552485097474",
+      "author": "300172606",
+      "published_at": "2019-04-17T20:13:56",
+      "observed_at": "2026-09-10T03:54:33.811995",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 1,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1118306185202012162",
+      "title": "Python compiled to Javascript / WebAssembly so available directly in the browser with Numpy available and pip access on the way. Super cool https://t.co/mK18Yxb",
+      "body": "Python compiled to Javascript / WebAssembly so available directly in the browser with Numpy available and pip access on the way. Super cool https://t.co/mK18YxbTMK",
+      "url": "https://x.com/IgorZub/status/1118306185202012162",
+      "author": "300172606",
+      "published_at": "2019-04-17T00:12:26",
+      "observed_at": "2026-09-10T03:54:33.812954",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 16,
+        "views": 0,
+        "reposts": 6,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1116243616765231104",
+      "title": "We published a new paper: Participatory design of a robot for demonstrating an epileptic seizure https://t.co/sn1LRiArT5",
+      "body": "We published a new paper: Participatory design of a robot for demonstrating an epileptic seizure https://t.co/sn1LRiArT5",
+      "url": "https://x.com/IgorZub/status/1116243616765231104",
+      "author": "300172606",
+      "published_at": "2019-04-11T07:36:31",
+      "observed_at": "2026-09-10T03:54:33.815063",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1092018865578655745",
+      "title": "Einsum (notation/ function) uses in deep learning\nhttps://t.co/1qsXl5GhsL",
+      "body": "Einsum (notation/ function) uses in deep learning\nhttps://t.co/1qsXl5GhsL",
+      "url": "https://x.com/IgorZub/status/1092018865578655745",
+      "author": "300172606",
+      "published_at": "2019-02-03T11:16:00",
+      "observed_at": "2026-09-10T03:54:33.816299",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 0,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "973966265189531649",
+      "title": "@CCWDigital @TateExchange @lidkalee @ODM_Platform @ODM_UAL we are happy that we could contribute to this fun event, we had a great time, we met fascinating peop",
+      "body": "@CCWDigital @TateExchange @lidkalee @ODM_Platform @ODM_UAL we are happy that we could contribute to this fun event, we had a great time, we met fascinating people and had interesting conversations. Thank you!",
+      "url": "https://x.com/IgorZub/status/973966265189531649",
+      "author": "300172606",
+      "published_at": "2018-03-14T16:57:07",
+      "observed_at": "2026-09-10T03:54:33.817297",
+      "metrics": {
+        "author_handle": "IgorZub",
+        "author_followers": 121,
+        "likes": 3,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

@@ -1,870 +1,104 @@
 [
-  {
-    "handle": "shengranhu",
-    "domain": "agi",
-    "kind": "automated_research",
-    "priority": "S+",
-    "lab": "Recursive",
-    "role": "founding member, ADAS/Darwin G\u00f6del Machine"
-  },
-  {
-    "handle": "timshi_ai",
-    "domain": "agi",
-    "kind": "recursive_ai",
-    "priority": "S",
-    "lab": "Recursive",
-    "role": "cofounder, early OpenAI"
-  },
-  {
-    "handle": "_rockt",
-    "domain": "agi",
-    "kind": "recursive_self_improvement",
-    "priority": "S",
-    "lab": "Meta/FAIR",
-    "role": "recursive self-improvement"
-  },
-  {
-    "handle": "rballeba",
-    "domain": "agi",
-    "kind": "formal_math",
-    "priority": "S+",
-    "lab": "Axiom",
-    "role": "theorem proving, agentic engineering"
-  },
-  {
-    "handle": "albe_alfa",
-    "domain": "agi",
-    "kind": "discovery_math",
-    "priority": "S+",
-    "lab": "Axiom",
-    "role": "founding technical, formal math"
-  },
-  {
-    "handle": "raanegola",
-    "domain": "agi",
-    "kind": "post_training",
-    "priority": "S+",
-    "lab": "Axiom",
-    "role": "post-training, ~25 followers"
-  },
-  {
-    "handle": "hughleat",
-    "domain": "hardware",
-    "kind": "formal_hardware",
-    "priority": "S++",
-    "lab": "Architect Labs",
-    "role": "formal hardware verification, ~21 followers"
-  },
-  {
-    "handle": "aadityasubedi_",
-    "domain": "hardware",
-    "kind": "ai_chip_recursion",
-    "priority": "S+",
-    "lab": "Architect Labs",
-    "role": "cofounder, AI\u2192chip\u2192AI recursion"
-  },
-  {
-    "handle": "axi_master",
-    "domain": "hardware",
-    "kind": "ai_native_silicon",
-    "priority": "S+",
-    "lab": "Architect Labs",
-    "role": "cofounder/CEO, AI-native silicon"
-  },
-  {
-    "handle": "ekinthesumbul",
-    "domain": "hardware",
-    "kind": "silicon_ip",
-    "priority": "S+",
-    "lab": "Architect Labs",
-    "role": "head of IP, ex-Meta Silicon/Intel"
-  },
-  {
-    "handle": "polymath_james",
-    "domain": "hardware",
-    "kind": "agent_infra",
-    "priority": "S",
-    "lab": "Architect Labs",
-    "role": "agent infrastructure + systems"
-  },
-  {
-    "handle": "reconditesea",
-    "domain": "hardware",
-    "kind": "frontier_ml",
-    "priority": "S",
-    "lab": "Architect Labs",
-    "role": "frontier ML/engineering"
-  },
-  {
-    "handle": "ahsu___",
-    "domain": "hardware",
-    "kind": "execution_scaling",
-    "priority": "A+",
-    "lab": "Architect Labs",
-    "role": "ex-xAI, execution/system scaling"
-  },
-  {
-    "handle": "thomasahle",
-    "domain": "hardware",
-    "kind": "math_agents_eda",
-    "priority": "S+",
-    "lab": "Normal Computing",
-    "role": "head of AI, math/probability/agents/EDA"
-  },
-  {
-    "handle": "FarisSbahi",
-    "domain": "hardware",
-    "kind": "thermodynamic_compute",
-    "priority": "S+",
-    "lab": "Normal Computing",
-    "role": "cofounder/CEO, probabilistic computing"
-  },
-  {
-    "handle": "KillianSheriff",
-    "domain": "science",
-    "kind": "materials_discovery",
-    "priority": "S+",
-    "lab": "Periodic Labs",
-    "role": "materials discovery + ML"
-  },
-  {
-    "handle": "xiangfu_ml",
-    "domain": "science",
-    "kind": "materials_foundation",
-    "priority": "S+",
-    "lab": "Periodic Labs",
-    "role": "materials foundation models"
-  },
-  {
-    "handle": "hsu_byron",
-    "domain": "science",
-    "kind": "rl_atoms",
-    "priority": "S+",
-    "lab": "Periodic Labs",
-    "role": "frontier-scale RL \u2192 atoms"
-  },
-  {
-    "handle": "xanderai",
-    "domain": "science",
-    "kind": "model_infra",
-    "priority": "S",
-    "lab": "Periodic Labs",
-    "role": "large-scale model infrastructure"
-  },
-  {
-    "handle": "reiinakano",
-    "domain": "science",
-    "kind": "agents_rl",
-    "priority": "S",
-    "lab": "Periodic Labs",
-    "role": "agents/RL"
-  },
-  {
-    "handle": "DBahdanau",
-    "domain": "science",
-    "kind": "attention_rl",
-    "priority": "S",
-    "lab": "Periodic Labs",
-    "role": "attention co-inventor, technically excellent"
-  },
-  {
-    "handle": "agarwl_",
-    "domain": "science",
-    "kind": "rl_science",
-    "priority": "S",
-    "lab": "Periodic Labs",
-    "role": "large-scale RL meets scientific data"
-  },
-  {
-    "handle": "AndrewLBeam",
-    "domain": "science",
-    "kind": "scientific_reasoning",
-    "priority": "S+",
-    "lab": "Lila Sciences",
-    "role": "CTO, scientific reasoning agents"
-  },
-  {
-    "handle": "namrata_anand2",
-    "domain": "science",
-    "kind": "protein_design",
-    "priority": "S+",
-    "lab": "Diffuse Bio",
-    "role": "generative protein design + fast verification"
-  },
-  {
-    "handle": "advaith_sridhar",
-    "domain": "science",
-    "kind": "semiconductor_materials",
-    "priority": "S+",
-    "lab": "Discovered Materials",
-    "role": "AI finds semiconductor materials"
-  },
-  {
-    "handle": "theanalognick",
-    "domain": "infrastructure",
-    "kind": "photonic_interconnect",
-    "priority": "S+",
-    "lab": "Lightmatter",
-    "role": "founder/CEO, photonic interconnect"
-  },
-  {
-    "handle": "nic_delfosse",
-    "domain": "quantum",
-    "kind": "qec_engineer",
-    "priority": "S+",
-    "lab": "IonQ",
-    "role": "QEC lead"
-  },
-  {
-    "handle": "sakacc",
-    "domain": "quantum",
-    "kind": "quantum_commercial",
-    "priority": "S",
-    "lab": "IonQ",
-    "role": "commercial technical"
-  },
-  {
-    "handle": "_pgokhale",
-    "domain": "quantum",
-    "kind": "quantum_software",
-    "priority": "S",
-    "lab": "Infleqtion",
-    "role": "CTO/cofounder"
-  },
-  {
-    "handle": "mpmotton",
-    "domain": "quantum",
-    "kind": "superconducting",
-    "priority": "A+",
-    "lab": "IQM",
-    "role": "quantum physicist"
-  },
-  {
-    "handle": "freetonik",
-    "domain": "quantum",
-    "kind": "quantum_engineering",
-    "priority": "A",
-    "lab": "IQM",
-    "role": "staff engineer"
-  },
-  {
-    "handle": "HuaixiuZheng",
-    "domain": "agi",
-    "kind": "quantum_to_llm",
-    "priority": "S++",
-    "lab": "Google DeepMind",
-    "role": "quantum physicist \u2192 LLM reasoning"
-  },
-  {
-    "handle": "Han_Fang_",
-    "domain": "agi",
-    "kind": "self_improving_agents",
-    "priority": "S++",
-    "lab": "Meta Superintelligence Labs",
-    "role": "self-improving agents"
-  },
-  {
-    "handle": "DepeiLi",
-    "domain": "agi",
-    "kind": "rl_science",
-    "priority": "S++",
-    "lab": "xAI",
-    "role": "RL Science + Coding RL bigruns"
-  },
-  {
-    "handle": "saprmarks",
-    "domain": "agi",
-    "kind": "interpretability",
-    "priority": "S+",
-    "lab": "Anthropic",
-    "role": "Cognitive Oversight lead"
-  },
-  {
-    "handle": "MicahCarroll",
-    "domain": "agi",
-    "kind": "recursive_self_improvement",
-    "priority": "S+",
-    "lab": "OpenAI",
-    "role": "recursive self-improvement preparedness"
-  },
-  {
-    "handle": "ritaranx",
-    "domain": "agi",
-    "kind": "llm_agents_rl",
-    "priority": "S+",
-    "lab": "DeepMind",
-    "role": "research scientist, LLM/RAG/agents/RL"
-  },
-  {
-    "handle": "wang_xinyao_",
-    "domain": "agi",
-    "kind": "coding_agents",
-    "priority": "S+",
-    "lab": "Meta MSL",
-    "role": "coding + agents, Muse Spark"
-  },
-  {
-    "handle": "HongxunWu",
-    "domain": "agi",
-    "kind": "reasoning_theory",
-    "priority": "S",
-    "lab": "OpenAI",
-    "role": "theory/reasoning researcher"
-  },
-  {
-    "handle": "zhouwenda",
-    "domain": "agi",
-    "kind": "reasoning_math",
-    "priority": "S",
-    "lab": "OpenAI",
-    "role": "reasoning, chain-of-thought, preparedness"
-  },
-  {
-    "handle": "hunterlightman",
-    "domain": "agi",
-    "kind": "reasoning_o1",
-    "priority": "S",
-    "lab": "OpenAI",
-    "role": "reasoning/o1 line"
-  },
-  {
-    "handle": "Jack_W_Lindsey",
-    "domain": "agi",
-    "kind": "interpretability_neuroscience",
-    "priority": "S",
-    "lab": "Anthropic",
-    "role": "interpretability/neuroscience of AI"
-  },
-  {
-    "handle": "TrentonBricken",
-    "domain": "agi",
-    "kind": "model_internals",
-    "priority": "S",
-    "lab": "Anthropic",
-    "role": "model internals/alignment auditing"
-  },
-  {
-    "handle": "TianheYu",
-    "domain": "agi",
-    "kind": "post_training_rl",
-    "priority": "S",
-    "lab": "Meta MSL",
-    "role": "ex-Gemini post-training/RL, Deep Think"
-  },
-  {
-    "handle": "acbuller",
-    "domain": "agi",
-    "kind": "coding_agents",
-    "priority": "S",
-    "lab": "Meta MSL",
-    "role": "coding/agents, ex-xAI/GDM"
-  },
-  {
-    "handle": "KyriectionZhang",
-    "domain": "agi",
-    "kind": "grok_engineering",
-    "priority": "S",
-    "lab": "xAI",
-    "role": "MTS, Grok work"
-  },
-  {
-    "handle": "deyuanli8",
-    "domain": "agi",
-    "kind": "coding_rl",
-    "priority": "A+",
-    "lab": "xAI",
-    "role": "coding RL/bigruns/RL science"
-  },
-  {
-    "handle": "nautsimon_",
-    "domain": "agi",
-    "kind": "ai_engineering",
-    "priority": "A+",
-    "lab": "Axiom",
-    "role": "founding technical, ex-PyTorch/Meta"
-  },
-  {
-    "handle": "omelmalki",
-    "domain": "hardware",
-    "kind": "ai_chip_design",
-    "priority": "S++",
-    "lab": "Architect Labs",
-    "role": "founding team, ex-DeepMind/EPFL/Princeton"
-  },
-  {
-    "handle": "zhaolebor",
-    "domain": "robotics",
-    "kind": "robot_deployment",
-    "priority": "S++",
-    "lab": "Skild AI",
-    "role": "deploying S1 at customer sites, robotics bottleneck"
-  },
-  {
-    "handle": "bjenik",
-    "domain": "science",
-    "kind": "physics_ai",
-    "priority": "S++",
-    "lab": "Accelerated Understanding",
-    "role": "cofounder, 4D physics AI"
-  },
-  {
-    "handle": "crisbodnar",
-    "domain": "science",
-    "kind": "world_models",
-    "priority": "S++",
-    "lab": "Project Prometheus",
-    "role": "AI + physics/world models"
-  },
-  {
-    "handle": "drew_jaegle",
-    "domain": "science",
-    "kind": "multimodal_physical",
-    "priority": "S++",
-    "lab": "Project Prometheus",
-    "role": "world-model/multimodal lineage"
-  },
-  {
-    "handle": "gin_james",
-    "domain": "science",
-    "kind": "industrial_execution",
-    "priority": "S++",
-    "lab": "Orbital Industries",
-    "role": "CTO, learning/steering/materials"
-  },
-  {
-    "handle": "llllvvuu",
-    "domain": "agi",
-    "kind": "formal_verification",
-    "priority": "S++",
-    "lab": "Harmonic",
-    "role": "research engineer, Lean/formalization"
-  },
-  {
-    "handle": "Mattmcpartlon1",
-    "domain": "science",
-    "kind": "molecular_design",
-    "priority": "S++",
-    "lab": "Chai Discovery",
-    "role": "cofounder, molecular-design research"
-  },
-  {
-    "handle": "PeteShadbolt",
-    "domain": "quantum",
-    "kind": "photonic_ftqc",
-    "priority": "S++",
-    "lab": "PsiQuantum",
-    "role": "cofounder/CSO, photonic FTQC"
-  },
-  {
-    "handle": "trevormccrt1",
-    "domain": "hardware",
-    "kind": "thermodynamic_compute",
-    "priority": "S+",
-    "lab": "Extropic",
-    "role": "cofounder/technical leader"
-  },
-  {
-    "handle": "czhu1729",
-    "domain": "hardware",
-    "kind": "inference_hardware",
-    "priority": "S+",
-    "lab": "Etched",
-    "role": "cofounder, math/HPC background"
-  },
-  {
-    "handle": "robertwachen",
-    "domain": "hardware",
-    "kind": "production_reality",
-    "priority": "S+",
-    "lab": "Etched",
-    "role": "cofounder/president, production realities"
-  },
-  {
-    "handle": "UbertiGavin",
-    "domain": "hardware",
-    "kind": "ai_compiler",
-    "priority": "S+",
-    "lab": "Etched",
-    "role": "CEO, math/AI compiler background"
-  },
-  {
-    "handle": "shoyer",
-    "domain": "science",
-    "kind": "physics_computing",
-    "priority": "S+",
-    "lab": "Periodic Labs",
-    "role": "physics/scientific computing, Xarray creator"
-  },
-  {
-    "handle": "draykol",
-    "domain": "science",
-    "kind": "materials_informatics",
-    "priority": "S+",
-    "lab": "Periodic Labs",
-    "role": "materials informatics, physical discovery"
-  },
-  {
-    "handle": "ekindogus",
-    "domain": "science",
-    "kind": "physics_rsi",
-    "priority": "S+",
-    "lab": "Periodic Labs",
-    "role": "cofounder, ex-DeepMind materials lead"
-  },
-  {
-    "handle": "kenneth0stanley",
-    "domain": "science",
-    "kind": "open_endedness",
-    "priority": "S+",
-    "lab": "Lila Sciences",
-    "role": "open-endedness/novelty search"
-  },
-  {
-    "handle": "ac_edwards_1",
-    "domain": "science",
-    "kind": "materials_industrial",
-    "priority": "S+",
-    "lab": "CuspAI",
-    "role": "AI materials + physical intelligence"
-  },
-  {
-    "handle": "wellingmax",
-    "domain": "science",
-    "kind": "deep_ml_materials",
-    "priority": "A+",
-    "lab": "CuspAI",
-    "role": "deep ML + materials intersection"
-  },
-  {
-    "handle": "Azizzadenesheli",
-    "domain": "science",
-    "kind": "neural_operators",
-    "priority": "A+",
-    "lab": "Project Prometheus",
-    "role": "neural operators / physics intelligence"
-  },
-  {
-    "handle": "sherjilozair",
-    "domain": "science",
-    "kind": "agentic_physical",
-    "priority": "A+",
-    "lab": "Project Prometheus",
-    "role": "ex-DeepMind/Tesla, agentic physical engineering"
-  },
-  {
-    "handle": "tachim",
-    "domain": "agi",
-    "kind": "formal_reasoning",
-    "priority": "A+",
-    "lab": "Harmonic",
-    "role": "formal-verifiable mathematical reasoning"
-  },
-  {
-    "handle": "jackdent",
-    "domain": "science",
-    "kind": "drug_discovery",
-    "priority": "A+",
-    "lab": "Chai Discovery",
-    "role": "cofounder, AI drug design to pharma"
-  },
-  {
-    "handle": "joshim5",
-    "domain": "science",
-    "kind": "protein_language",
-    "priority": "A+",
-    "lab": "Chai Discovery",
-    "role": "protein language models \u2192 molecular CAD"
-  },
-  {
-    "handle": "gupta_abhinav_",
-    "domain": "robotics",
-    "kind": "generalization",
-    "priority": "A+",
-    "lab": "Skild AI",
-    "role": "cofounder/president, CMU professor"
-  },
-  {
-    "handle": "brian_ichter",
-    "domain": "robotics",
-    "kind": "robot_policy",
-    "priority": "A+",
-    "lab": "Physical Intelligence",
-    "role": "robot-policy memory, long horizons, RL"
-  },
-  {
-    "handle": "allenzren",
-    "domain": "robotics",
-    "kind": "generalist_policy",
-    "priority": "A+",
-    "lab": "Physical Intelligence",
-    "role": "generalist robot policy, open-source"
-  },
-  {
-    "handle": "Zhenjia_Xu",
-    "domain": "robotics",
-    "kind": "robotics_stack",
-    "priority": "A+",
-    "lab": "Genesis AI",
-    "role": "roboticist, ex-Nvidia GEAR"
-  },
-  {
-    "handle": "SGRodriques",
-    "domain": "science",
-    "kind": "ai_scientist",
-    "priority": "A+",
-    "lab": "FutureHouse",
-    "role": "AI scientist / automated discovery"
-  },
-  {
-    "handle": "damnang2",
-    "domain": "semiconductors",
-    "kind": "optics_testing",
-    "priority": "S++",
-    "lab": "Independent",
-    "role": "deep optics/laser/SiPh testing decomposition"
-  },
-  {
-    "handle": "ChipsandWafers",
-    "domain": "semiconductors",
-    "kind": "hbm_test_yield",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "HBM test/yield economics"
-  },
-  {
-    "handle": "MooreMorrisSemi",
-    "domain": "semiconductors",
-    "kind": "custom_asic_cowos",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "custom ASIC/CoWoS supply chain"
-  },
-  {
-    "handle": "dnystedt",
-    "domain": "semiconductors",
-    "kind": "taiwan_supply_chain",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "Taiwan semiconductor supply chain"
-  },
-  {
-    "handle": "zephyr_z9",
-    "domain": "semiconductors",
-    "kind": "architecture_analysis",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "architecture-first, bearish calls"
-  },
-  {
-    "handle": "crux_capital_",
-    "domain": "semiconductors",
-    "kind": "photonics_supply_chain",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "photonics supply chain + valuation"
-  },
-  {
-    "handle": "mingchikuo",
-    "domain": "semiconductors",
-    "kind": "industry_surveys",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "industry surveys"
-  },
-  {
-    "handle": "SemiAnalysis_",
-    "domain": "semiconductors",
-    "kind": "ai_infrastructure",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "broad AI infrastructure systems research"
-  },
-  {
-    "handle": "PhotonCap",
-    "domain": "semiconductors",
-    "kind": "photonics_engineering",
-    "priority": "S++",
-    "lab": "Independent",
-    "role": "photonics PhD/industry engineer"
-  },
-  {
-    "handle": "HyperTechInvest",
-    "domain": "semiconductors",
-    "kind": "supply_chain_bottlenecks",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "HBM/packaging/power bottlenecks"
-  },
-  {
-    "handle": "Semicon_player",
-    "domain": "semiconductors",
-    "kind": "skepticism_analysis",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "semiconductor skepticism"
-  },
-  {
-    "handle": "TheValueist",
-    "domain": "semiconductors",
-    "kind": "cross_layer_research",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "cross-layer TMT+energy research"
-  },
-  {
-    "handle": "TraceyRyniec",
-    "domain": "semiconductors",
-    "kind": "industrial_equities",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "industrial equities, early MOD call"
-  },
-  {
-    "handle": "Cat_States",
-    "domain": "quantum",
-    "kind": "quantum_skepticism",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "quantum skepticism, fidelity focus"
-  },
-  {
-    "handle": "TechInnovationz",
-    "domain": "quantum",
-    "kind": "quantum_bull",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "trapped-ion/QEC architecture bull"
-  },
-  {
-    "handle": "nanalyzetweets",
-    "domain": "semiconductors",
-    "kind": "deep_tech_filter",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "deep-tech skepticism filter"
-  },
-  {
-    "handle": "aleabitoreddit",
-    "domain": "semiconductors",
-    "kind": "photonics_discovery",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "photonics supply chain, upstream suppliers"
-  },
-  {
-    "handle": "jukan05",
-    "domain": "semiconductors",
-    "kind": "asian_supply_chain",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "Korean/Taiwan supply chain"
-  },
-  {
-    "handle": "StonkChris",
-    "domain": "semiconductors",
-    "kind": "technical_analysis",
-    "priority": "A",
-    "lab": "Independent",
-    "role": "semiconductor chart analysis, technical setups"
-  },
-  {
-    "handle": "peterstoffel4",
-    "domain": "european_stocks",
-    "kind": "commentary",
-    "priority": "A",
-    "lab": "Independent",
-    "role": "European semiconductor commentary"
-  },
-  {
-    "handle": "Susslablia",
-    "domain": "european_semis",
-    "kind": "suss_specialist",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "SUSS/MicroTec specialist"
-  },
-  {
-    "handle": "EBacher70",
-    "domain": "european_semis",
-    "kind": "semiconductor_analysis",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "semiconductor analysis"
-  },
-  {
-    "handle": "Pep_Invest",
-    "domain": "european_semis",
-    "kind": "silicon_photonics",
-    "priority": "S+",
-    "lab": "Independent",
-    "role": "silicon photonics Europe"
-  },
-  {
-    "handle": "SEMIconex",
-    "domain": "european_semis",
-    "kind": "advanced_packaging",
-    "priority": "S",
-    "lab": "Independent",
-    "role": "advanced packaging Europe"
-  },
-  {
-    "handle": "xyru_fawkes",
-    "reason": "Xinyu Ru / Fawkes - Physical bottleneck migration, LEU Oct 2024, LPKF Apr 2026",
-    "tier": "precursor"
-  },
-  {
-    "handle": "firstadopter",
-    "reason": "Tae Kim - Dec 2023 NVDA+VRT+SMCI call",
-    "tier": "precursor"
-  },
-  {
-    "handle": "dylan522p",
-    "reason": "Dylan Patel / SemiAnalysis - CoWoS+HBM scarcity July 2023",
-    "tier": "precursor"
-  },
-  {
-    "handle": "GavinSBaker",
-    "reason": "Gavin Baker - Transformers shift software to compute Mar 2023",
-    "tier": "precursor"
-  },
-  {
-    "handle": "p_ferragu",
-    "reason": "Pierre Ferragu - Giant AI models need system-scale Sep 2021",
-    "tier": "precursor"
-  },
-  {
-    "handle": "ArjunNMurti",
-    "reason": "Arjun Murti - AI reawakens electricity demand",
-    "tier": "precursor"
-  },
-  {
-    "handle": "FootnotesFirst",
-    "reason": "Mike Alkin - Uranium abandoned/mispriced 2018",
-    "tier": "precursor"
-  },
-  {
-    "handle": "jasonschips",
-    "reason": "Jason's Chips - SUSS specialist, tiny foreign semicap",
-    "tier": "precursor"
-  },
-  {
-    "handle": "energybants",
-    "reason": "Mark Nelson - Existing nuclear undervalued",
-    "tier": "precursor"
-  },
-  {
-    "handle": "solar_chase",
-    "reason": "Jenny Chase - Solar economics surprise forecasters",
-    "tier": "precursor"
-  },
-  {
-    "handle": "ramez",
-    "reason": "Ramez Naam - Solar exponential learning curve 2011",
-    "tier": "precursor"
-  },
-  {
-    "handle": "BeffJezos",
-    "reason": "Beff (e/acc) - effective accelerationism, hardware/physics focused",
-    "tier": "precursor"
-  }
+  {"handle": "braaannigan", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "hands-on AI researcher, failure modes", "priority": "S++"},
+  {"handle": "GenAI_is_real", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "RL infrastructure, Barrel Effect", "priority": "S++"},
+  {"handle": "JunjieYe9", "source_distance": 0, "domain": "robotics", "lab": "USC", "role": "robot world models", "priority": "S+"},
+  {"handle": "msoufi_bioe", "source_distance": 0, "domain": "synbio", "lab": "", "role": "synthetic cells, cell-free ribosomes", "priority": "S+"},
+  {"handle": "Magic3007Mai", "source_distance": 0, "domain": "hardware", "lab": "PKU/NVIDIA/ByteDance", "role": "AI4Chip, algorithm/hardware co-design", "priority": "S+"},
+  {"handle": "AnnaCiaunica", "source_distance": 0, "domain": "cognition", "lab": "", "role": "basal cognition, embodiment", "priority": "S"},
+  {"handle": "CanAztekin", "source_distance": 0, "domain": "bio", "lab": "", "role": "limb regeneration, oxygen sensing", "priority": "S"},
+  {"handle": "TweetEdMiller", "source_distance": 2, "domain": "robotics", "lab": "", "role": "robot-data economics", "priority": "S"},
+  {"handle": "KostasPenn", "source_distance": 0, "domain": "robotics", "lab": "UPenn GRASP", "role": "VLA scaling critique, composable perception", "priority": "S"},
+  {"handle": "adriamilcar", "source_distance": 0, "domain": "ai-robotics", "lab": "", "role": "multiscale world models", "priority": "S"},
+  {"handle": "mmslabodnick", "source_distance": 0, "domain": "bio", "lab": "", "role": "single-cell morphogenesis, Stentor", "priority": "A+"},
+  {"handle": "nicole_delrosso", "source_distance": 0, "domain": "synbio", "lab": "", "role": "gene-regulation primitives", "priority": "A+"},
+  {"handle": "LeonardoMorsut", "source_distance": 0, "domain": "synbio", "lab": "", "role": "synthetic developmental biology", "priority": "A"},
+  {"handle": "caldarellip1", "source_distance": 0, "domain": "bio", "lab": "", "role": "embryo self-regulation", "priority": "A"},
+  {"handle": "EliseScience", "source_distance": 0, "domain": "synbio", "lab": "", "role": "regulatory DNA/RNA", "priority": "A"},
+  {"handle": "behaviOrganisms", "source_distance": 2, "domain": "cognition", "lab": "", "role": "organism-level cognition", "priority": "A"},
+  {"handle": "xielablife", "source_distance": 0, "domain": "bio", "lab": "", "role": "epigenetic reprogramming", "priority": "A"},
+  {"handle": "FarbodNezami", "source_distance": 0, "domain": "neuromorphic", "lab": "", "role": "neuromorphic computing", "priority": "A+"},
+  {"handle": "AmirDGat", "source_distance": 0, "domain": "soft-robotics", "lab": "", "role": "soft robots + neuromorphic + meta-fluid", "priority": "A+"},
+  {"handle": "khoribe3", "source_distance": 0, "domain": "alife", "lab": "", "role": "theoretical biology, ALife", "priority": "A"},
+  {"handle": "NoamKfir", "source_distance": 0, "domain": "alife", "lab": "", "role": "evolving wetware", "priority": "A"},
+  {"handle": "Antihebbiann", "source_distance": 0, "domain": "neuroscience", "lab": "", "role": "internal-state models, reservoir computing", "priority": "A"},
+  {"handle": "Rihui_Li", "source_distance": 0, "domain": "neuroscience", "lab": "", "role": "computational neuroscience", "priority": "A"},
+  {"handle": "LundqvistNeuro", "source_distance": 0, "domain": "neuroscience", "lab": "", "role": "brain dynamics", "priority": "A"},
+  {"handle": "YayonNadav", "source_distance": 0, "domain": "neuroscience", "lab": "", "role": "molecular + computational neuroscience", "priority": "A"},
+  {"handle": "ComputingByArts", "source_distance": 0, "domain": "neuromorphic", "lab": "", "role": "dataflow/neuromorphic computation", "priority": "A"},
+  {"handle": "advaith_sridhar", "source_distance": 0, "domain": "materials", "lab": "", "role": "materials/thermal constraints, Matforge", "priority": "A+"},
+  {"handle": "theanalognick", "source_distance": 0, "domain": "photonics", "lab": "Lightmatter", "role": "optical interconnect, photonic compute", "priority": "A+"},
+  {"handle": "ColesThermoAI", "source_distance": 0, "domain": "thermodynamic", "lab": "Normal Computing", "role": "thermodynamic computing", "priority": "A"},
+  {"handle": "ProfIncorvia", "source_distance": 0, "domain": "neuromorphic", "lab": "", "role": "stochastic magnetic devices, p-bits", "priority": "A"},
+  {"handle": "tengyanAI", "source_distance": 2, "domain": "hardware", "lab": "", "role": "memory wall decomposition", "priority": "A"},
+  {"handle": "theaustinlyons", "source_distance": 2, "domain": "hardware", "lab": "", "role": "inference economics, HBM vs SRAM", "priority": "A"},
+  {"handle": "Hongyan_Chang", "source_distance": 0, "domain": "ai", "lab": "FAIR", "role": "small account, high lab proximity", "priority": "A"},
+  {"handle": "zisheng_zhang_", "source_distance": 0, "domain": "materials", "lab": "", "role": "computational electrochemistry", "priority": "A"},
+  {"handle": "EDM_eng", "source_distance": 0, "domain": "power", "lab": "", "role": "power-electronics, GaN", "priority": "A"},
+  {"handle": "PietroTricoli", "source_distance": 0, "domain": "power", "lab": "", "role": "power electronics infrastructure", "priority": "A+"},
+  {"handle": "YildizProf", "source_distance": 0, "domain": "materials", "lab": "", "role": "critical minerals + geothermal", "priority": "A+"},
+  {"handle": "TheDoctorRAB", "source_distance": 0, "domain": "nuclear", "lab": "", "role": "nuclear engineering", "priority": "A+"},
+  {"handle": "gin_james", "source_distance": 0, "domain": "materials", "lab": "Orbital Materials", "role": "AI-designed physical materials", "priority": "A+"},
+  {"handle": "skinniderlab", "source_distance": 0, "domain": "ml-chem", "lab": "", "role": "ML at biological/chemical boundary", "priority": "A"},
+  {"handle": "guguoying", "source_distance": 0, "domain": "materials", "lab": "", "role": "smart materials, sensing", "priority": "A"},
+  {"handle": "IgorZub", "source_distance": 0, "domain": "soft-robotics", "lab": "", "role": "AI + soft robotics", "priority": "A"},
+  {"handle": "AlgaeProfessor", "source_distance": 0, "domain": "bio", "lab": "", "role": "engineered biological production", "priority": "A"},
+  {"handle": "DrewLinsley", "source_distance": 0, "domain": "neuroscience", "lab": "", "role": "computational neuroscience + AI", "priority": "A"},
+  {"handle": "shurain", "source_distance": 0, "domain": "ml", "lab": "", "role": "evolutionary computation", "priority": "A"},
+  {"handle": "taekyungki", "source_distance": 0, "domain": "world-models", "lab": "KAIST/Apple", "role": "generative models + world models", "priority": "A+"},
+  {"handle": "Mishok2000", "source_distance": 0, "domain": "world-models", "lab": "", "role": "neural rendering + world models", "priority": "A"},
+  {"handle": "bohan_zeng", "source_distance": 0, "domain": "world-models", "lab": "", "role": "OpenWorldLib, world-model evaluation", "priority": "A"},
+  {"handle": "chaoyuaw", "source_distance": 0, "domain": "spatial", "lab": "World Labs", "role": "spatial intelligence", "priority": "A"},
+  {"handle": "s1wase", "source_distance": 0, "domain": "robotics", "lab": "ex-Toyota", "role": "physical AI, robotics-world-model bridge", "priority": "A"},
+  {"handle": "xxlong0", "source_distance": 0, "domain": "spatial", "lab": "", "role": "spatial intelligence + robotics", "priority": "A"},
+  {"handle": "YanyuanQiao", "source_distance": 0, "domain": "embodied", "lab": "", "role": "vision-language/embodied AI", "priority": "A"},
+  {"handle": "tianminshu", "source_distance": 0, "domain": "embodied", "lab": "", "role": "embodied/social intelligence", "priority": "A"},
+  {"handle": "sharan0909", "source_distance": 0, "domain": "world-models", "lab": "Waymo", "role": "foundation/world models", "priority": "A"},
+  {"handle": "palm_alessio", "source_distance": 0, "domain": "embodied", "lab": "", "role": "embodied-AI PhD, 41 followers", "priority": "A+"},
+  {"handle": "f1she1", "source_distance": 0, "domain": "embodied", "lab": "UCSD", "role": "Sim2Real PhD, 138 followers", "priority": "A+"},
+  {"handle": "fei_fay", "source_distance": 0, "domain": "embodied", "lab": "", "role": "safe/robust embodied-AI professor", "priority": "A+"},
+  {"handle": "Jia_Fei_Yu", "source_distance": 0, "domain": "embodied", "lab": "", "role": "humanoid teleoperation PhD", "priority": "A+"},
+  {"handle": "MotonariKambara", "source_distance": 0, "domain": "robotics", "lab": "Toyota R&D", "role": "vision/language/intelligent robotics", "priority": "A"},
+  {"handle": "KyleStachowicz", "source_distance": 0, "domain": "robotics", "lab": "Berkeley/PI", "role": "robot learning", "priority": "A"},
+  {"handle": "YuchenXiao5", "source_distance": 0, "domain": "robotics", "lab": "Unitree", "role": "embodied-AI R&D lead", "priority": "A"},
+  {"handle": "songming_liu", "source_distance": 0, "domain": "robotics", "lab": "", "role": "RDT2/generalizable robot policies", "priority": "A"},
+  {"handle": "ryancjulian", "source_distance": 0, "domain": "robotics", "lab": "NVIDIA GEAR", "role": "robot learning, ex-DeepMind", "priority": "A"},
+  {"handle": "YanHelenZENG", "source_distance": 0, "domain": "autonomous-science", "lab": "", "role": "lab automation + energy-storage", "priority": "A+"},
+  {"handle": "YongchaoC", "source_distance": 0, "domain": "autonomous-science", "lab": "Harvard/MIT", "role": "robotics + LLMs + AI for Science", "priority": "A+"},
+  {"handle": "wertyfg", "source_distance": 0, "domain": "ai4science", "lab": "", "role": "scientific ML", "priority": "A+"},
+  {"handle": "nikparth1", "source_distance": 0, "domain": "ai4science", "lab": "DeepMind", "role": "multimodal + AI for science", "priority": "A+"},
+  {"handle": "cerise_ima", "source_distance": 0, "domain": "ai4science", "lab": "", "role": "AI/information-theory PhD", "priority": "A+"},
+  {"handle": "ShuiwangJi", "source_distance": 0, "domain": "ai4science", "lab": "", "role": "AI-for-science ML", "priority": "A"},
+  {"handle": "bravo_abad", "source_distance": 0, "domain": "autonomous-science", "lab": "", "role": "closed-loop robotic catalyst", "priority": "A"},
+  {"handle": "strnr", "source_distance": 0, "domain": "synbio", "lab": "", "role": "automated synthetic-biology tooling", "priority": "A"},
+  {"handle": "SGRodriques", "source_distance": 0, "domain": "autonomous-science", "lab": "FutureHouse", "role": "autonomous scientific research", "priority": "A"},
+  {"handle": "Charles_Y_WU", "source_distance": 0, "domain": "autonomous-science", "lab": "", "role": "LabOS/LabClaw agent execution", "priority": "A"},
+  {"handle": "ZitongYang0", "source_distance": 0, "domain": "self-improving", "lab": "Stanford", "role": "Continually Self-Improving AI thesis", "priority": "A+"},
+  {"handle": "YisiSang", "source_distance": 0, "domain": "self-improving", "lab": "Amazon", "role": "agent post-training, A-Evolve", "priority": "A+"},
+  {"handle": "jxmnop", "source_distance": 2, "domain": "ai-research", "lab": "", "role": "RL/self-distillation/forgetting", "priority": "A+"},
+  {"handle": "essamsleiman", "source_distance": 0, "domain": "self-improving", "lab": "Canvas", "role": "self-improving AI", "priority": "A"},
+  {"handle": "itzik009", "source_distance": 2, "domain": "ai-research", "lab": "", "role": "memory systems critique", "priority": "A"},
+  {"handle": "christinetyip", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "collective research intelligence", "priority": "A"},
+  {"handle": "arthurcolle", "source_distance": 2, "domain": "ai-research", "lab": "", "role": "mutable ontologies, agent self-modification", "priority": "A"},
+  {"handle": "KaiyuYang4", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "verifiable AI / formal reasoning", "priority": "A"},
+  {"handle": "arna_ghosh", "source_distance": 0, "domain": "ai4science", "lab": "Google Research", "role": "bio-inspired AI", "priority": "A"},
+  {"handle": "jianwen_xie", "source_distance": 0, "domain": "ai4science", "lab": "", "role": "GenAI + AI4Science + agents", "priority": "A"},
+  {"handle": "_shumash", "source_distance": 0, "domain": "ai4science", "lab": "NVIDIA", "role": "creative AI/research acceleration", "priority": "A"},
+  {"handle": "Ryan__Rhys", "source_distance": 0, "domain": "ai4science", "lab": "", "role": "Bayesian optimization + AI4Science", "priority": "A"},
+  {"handle": "MelGSoler", "source_distance": 0, "domain": "ai4science", "lab": "Cronin Lab", "role": "programmable electrochemistry", "priority": "A"},
+  {"handle": "shrimai_", "source_distance": 0, "domain": "ai-research", "lab": "Mistral", "role": "frontier model research", "priority": "A"},
+  {"handle": "dkm2110", "source_distance": 0, "domain": "ai-research", "lab": "Meta", "role": "research scientist, 44 followers", "priority": "A"},
+  {"handle": "arnukk", "source_distance": 0, "domain": "optimization", "lab": "", "role": "optimization/algorithms, 36 followers", "priority": "A"},
+  {"handle": "schillinglab", "source_distance": 0, "domain": "biomedical", "lab": "", "role": "biomedical measurement/instrumentation", "priority": "A"},
+  {"handle": "Almondgodd", "source_distance": 0, "domain": "world-models", "lab": "", "role": "TinyWorlds/minimal world-model", "priority": "A"},
+  {"handle": "nlpxuhui", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "empirical falsifier, LLM simulator critique", "priority": "A+"},
+  {"handle": "MichaelPoli6", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "AI × numerical methods × systems", "priority": "A"},
+  {"handle": "tlandgraf", "source_distance": 0, "domain": "ai-research", "lab": "", "role": "artificial + collective intelligence", "priority": "A"},
+  {"handle": "MarcoVirgolin", "source_distance": 0, "domain": "optimization", "lab": "", "role": "evolutionary computation + ML", "priority": "A"},
+  {"handle": "ssbmaltimor", "source_distance": 2, "domain": "alife", "lab": "", "role": "ALife/evolutionary-computation hacker", "priority": "A"},
+  {"handle": "ProfJohnARogers", "source_distance": 0, "domain": "bio-electronics", "lab": "", "role": "flexible/bio-integrated electronics", "priority": "A"},
+  {"handle": "TimSong52005757", "source_distance": 0, "domain": "robotics", "lab": "", "role": "Omniguide/robot perception-action", "priority": "A"},
+  {"handle": "LongLeRobot", "source_distance": 0, "domain": "robotics", "lab": "GRASP", "role": "composable-robot-intelligence", "priority": "A"},
+  {"handle": "danfei_xu", "source_distance": 0, "domain": "robotics", "lab": "", "role": "robot learning and reasoning", "priority": "A"},
+  {"handle": "aleabitoreddit", "source_distance": 3, "domain": "stocks", "lab": "", "role": "stock researcher, market analysis", "priority": "A"},
+  {"handle": "DeepDishEnjoyer", "source_distance": 3, "domain": "stocks", "lab": "", "role": "stock researcher, market analysis", "priority": "A"}
 ]

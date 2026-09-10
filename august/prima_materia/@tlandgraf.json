@@ -1,0 +1,501 @@
+{
+  "handle": "tlandgraf",
+  "total_tweets": 26,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1848345302001930390",
+      "title": "Highly recommend!",
+      "body": "Highly recommend!",
+      "url": "https://x.com/tlandgraf/status/1848345302001930390",
+      "author": "995571104612745216",
+      "published_at": "2024-10-21T12:47:15",
+      "observed_at": "2026-09-10T03:57:07.375931",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 4,
+        "views": 619,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1824484858501976507",
+      "title": "Nice little article about Emily who visited my lab on a Fulbright grant. Super happy to have had you, thanks for the fish \ud83e\udd73 https://t.co/N9Tfiwowud",
+      "body": "Nice little article about Emily who visited my lab on a Fulbright grant. Super happy to have had you, thanks for the fish \ud83e\udd73 https://t.co/N9Tfiwowud",
+      "url": "https://x.com/tlandgraf/status/1824484858501976507",
+      "author": "995571104612745216",
+      "published_at": "2024-08-16T16:34:22",
+      "observed_at": "2026-09-10T03:57:07.378285",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 6,
+        "views": 386,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1810405090882163071",
+      "title": "Great episode on individual and collective intelligence of our beloved bees! During the interview I thought \"man this is a question for @LChittka !\". Didn't kno",
+      "body": "Great episode on individual and collective intelligence of our beloved bees! During the interview I thought \"man this is a question for @LChittka !\". Didn't know that he was on it too! \ud83d\udc4b",
+      "url": "https://x.com/tlandgraf/status/1810405090882163071",
+      "author": "995571104612745216",
+      "published_at": "2024-07-08T20:06:24",
+      "observed_at": "2026-09-10T03:57:07.383193",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 11,
+        "views": 630,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1759952140494152003",
+      "title": "backstory: from the outside, the hat was a black box. When you opened it, lights were switched on and illuminated the colorful interieur. A perfect hat for a re",
+      "body": "backstory: from the outside, the hat was a black box. When you opened it, lights were switched on and illuminated the colorful interieur. A perfect hat for a researcher in explainable AI. Hats off to the hat builders @andi_gerken, Marie, Wero, Julia, Emily and Manuel (not on X) https://t.co/dBsvb1dx2B",
+      "url": "https://x.com/tlandgraf/status/1759952140494152003",
+      "author": "995571104612745216",
+      "published_at": "2024-02-20T14:44:23",
+      "observed_at": "2026-09-10T03:57:07.385172",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 2,
+        "views": 108,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1759952137927156120",
+      "title": "Incredibly proud of this guy! Finished with highest honors. The room was packed, we had a (math) blast and the HAT was  fantastic! Big thanks to @oisinmacaodha,",
+      "body": "Incredibly proud of this guy! Finished with highest honors. The room was packed, we had a (math) blast and the HAT was  fantastic! Big thanks to @oisinmacaodha, Claudia M\u00fcller-Birn and Bingyi Coa for helping on the committee!",
+      "url": "https://x.com/tlandgraf/status/1759952137927156120",
+      "author": "995571104612745216",
+      "published_at": "2024-02-20T14:44:22",
+      "observed_at": "2026-09-10T03:57:07.390369",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 14,
+        "views": 835,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1746823486369071549",
+      "title": "@LizaBBauer1 @jlugiessen Ich freu mich drauf!",
+      "body": "@LizaBBauer1 @jlugiessen Ich freu mich drauf!",
+      "url": "https://x.com/tlandgraf/status/1746823486369071549",
+      "author": "995571104612745216",
+      "published_at": "2024-01-15T09:15:48",
+      "observed_at": "2026-09-10T03:57:07.394447",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 2,
+        "views": 450,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1712541792124678387",
+      "title": "This challenge is so cool! And maybe I am biased but @Youssef_M_Nader is the BEST \ud83d\ude09",
+      "body": "This challenge is so cool! And maybe I am biased but @Youssef_M_Nader is the BEST \ud83d\ude09",
+      "url": "https://x.com/tlandgraf/status/1712541792124678387",
+      "author": "995571104612745216",
+      "published_at": "2023-10-12T18:52:35",
+      "observed_at": "2026-09-10T03:57:07.395817",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 4,
+        "views": 696,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709627144555331982",
+      "title": "@AshkaanF @_Amlaa No actually this was recorded at 100 Hz with a Basler camera in 2008! @WarioFernando and @DDormagen have developed a software to detect waggle",
+      "body": "@AshkaanF @_Amlaa No actually this was recorded at 100 Hz with a Basler camera in 2008! @WarioFernando and @DDormagen have developed a software to detect waggle dances in video and live cam feeds, and it's free: https://t.co/DPaMavwXN4",
+      "url": "https://x.com/tlandgraf/status/1709627144555331982",
+      "author": "995571104612745216",
+      "published_at": "2023-10-04T17:50:49",
+      "observed_at": "2026-09-10T03:57:07.396861",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 6,
+        "views": 297,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709197477616722040",
+      "title": "Thanks to @vitotrianni for pointing out the echo chamber analogy!",
+      "body": "Thanks to @vitotrianni for pointing out the echo chamber analogy!",
+      "url": "https://x.com/tlandgraf/status/1709197477616722040",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T13:23:28",
+      "observed_at": "2026-09-10T03:57:07.399722",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 9,
+        "views": 1152,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190886301606202",
+      "title": "How elegantly optimized the dance is! \n\nRead the full paper here: https://t.co/LlDnFr8lu5\n\nWork lead by the fantastic David Dormagen @DDormagen, with the amazin",
+      "body": "How elegantly optimized the dance is! \n\nRead the full paper here: https://t.co/LlDnFr8lu5\n\nWork lead by the fantastic David Dormagen @DDormagen, with the amazing @nebww and @WarioFernando. So proud of you guys!\n\n@hiveopolis",
+      "url": "https://x.com/tlandgraf/status/1709190886301606202",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:17",
+      "observed_at": "2026-09-10T03:57:07.401218",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 45,
+        "views": 2590,
+        "reposts": 7,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190884263374883",
+      "title": "Conclusion: The dance SORTS the dance followers spatially into regions that correspond to directions in the world. Following a dance, you drift outwards, and ha",
+      "body": "Conclusion: The dance SORTS the dance followers spatially into regions that correspond to directions in the world. Following a dance, you drift outwards, and hanging around there, you are more likely to sample another dance indicating the same direction --&gt; a simple echo chamber!",
+      "url": "https://x.com/tlandgraf/status/1709190884263374883",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:16",
+      "observed_at": "2026-09-10T03:57:07.403578",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 13,
+        "views": 1094,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190880941199814",
+      "title": "Does this drift determine which dances they follow? YES! We can see a clear decision boundary! https://t.co/aWw3wkQaAS",
+      "body": "Does this drift determine which dances they follow? YES! We can see a clear decision boundary! https://t.co/aWw3wkQaAS",
+      "url": "https://x.com/tlandgraf/status/1709190880941199814",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:15",
+      "observed_at": "2026-09-10T03:57:07.404934",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 13,
+        "views": 1114,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190878638592418",
+      "title": "How does this affect the dance followers? We find that they follow that drift as well! https://t.co/ykhuqWYLPF",
+      "body": "How does this affect the dance followers? We find that they follow that drift as well! https://t.co/ykhuqWYLPF",
+      "url": "https://x.com/tlandgraf/status/1709190878638592418",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:15",
+      "observed_at": "2026-09-10T03:57:07.405947",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 7,
+        "views": 1147,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190875232825853",
+      "title": "Could the waggle angle predict where dancers dance? We measured how much dancers drift between consecutive waggle phases, and indeed: they drift a tiny amount i",
+      "body": "Could the waggle angle predict where dancers dance? We measured how much dancers drift between consecutive waggle phases, and indeed: they drift a tiny amount into the direction of their waggle orientation! The longer the dance, the more pronounced the overall drift! https://t.co/2LQ1jBT8mR",
+      "url": "https://x.com/tlandgraf/status/1709190875232825853",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:14",
+      "observed_at": "2026-09-10T03:57:07.406950",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 13,
+        "views": 1271,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190871470547020",
+      "title": "Both food sites were at the same distance from the hive, hence the dances differed only in the waggle angles. Indeed we find that dances in different subregions",
+      "body": "Both food sites were at the same distance from the hive, hence the dances differed only in the waggle angles. Indeed we find that dances in different subregions agree in their average angle. Look at that beautiful pattern! https://t.co/gZOD5lQMBJ",
+      "url": "https://x.com/tlandgraf/status/1709190871470547020",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:13",
+      "observed_at": "2026-09-10T03:57:07.409188",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 14,
+        "views": 1284,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190869318803753",
+      "title": "Do dancers start their dances already separated? We track the distance between dancers within and between the two groups and find: dancers separate gradually ov",
+      "body": "Do dancers start their dances already separated? We track the distance between dancers within and between the two groups and find: dancers separate gradually over time! https://t.co/wBvGWhcdeY",
+      "url": "https://x.com/tlandgraf/status/1709190869318803753",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:13",
+      "observed_at": "2026-09-10T03:57:07.412784",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 8,
+        "views": 1299,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190865615220928",
+      "title": "We were curious: how do bees know where to dance, and can we see structure in the dance floor? We trained two groups of bees to opposite directions in the field",
+      "body": "We were curious: how do bees know where to dance, and can we see structure in the dance floor? We trained two groups of bees to opposite directions in the field. Et voila: the two forager groups separate on the dance floor! https://t.co/oNevyyV6hx",
+      "url": "https://x.com/tlandgraf/status/1709190865615220928",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:12",
+      "observed_at": "2026-09-10T03:57:07.414429",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 20,
+        "views": 1356,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190862482055584",
+      "title": "They perform these dances on the \u201cdance floor\u201d, a small area close to the nest entrance. We used our automatic dance detection software to confirm this spatial ",
+      "body": "They perform these dances on the \u201cdance floor\u201d, a small area close to the nest entrance. We used our automatic dance detection software to confirm this spatial preference. https://t.co/v7Jtckm7N1",
+      "url": "https://x.com/tlandgraf/status/1709190862482055584",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:11",
+      "observed_at": "2026-09-10T03:57:07.416934",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 21,
+        "views": 1430,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190858812096762",
+      "title": "Honeybees perform \u201cdances\u201d to instruct their nestmates where to find food sources. They move forward waggling their body laterally (\"waggle phase\") and then cir",
+      "body": "Honeybees perform \u201cdances\u201d to instruct their nestmates where to find food sources. They move forward waggling their body laterally (\"waggle phase\") and then circle back (\"return phase\") in left and right turns. The body angle encodes the direction of the food! https://t.co/nzTcLPCF23",
+      "url": "https://x.com/tlandgraf/status/1709190858812096762",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:10",
+      "observed_at": "2026-09-10T03:57:07.419463",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 26,
+        "views": 2249,
+        "reposts": 3,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1709190854378684556",
+      "title": "Echo chambers in the honeybee dance communication! We automatically detected 100K waggle phases of dancing bees and found a fascinating aspect of how bees organ",
+      "body": "Echo chambers in the honeybee dance communication! We automatically detected 100K waggle phases of dancing bees and found a fascinating aspect of how bees organize their colony space. A thread. https://t.co/UQdZRAxXH1",
+      "url": "https://x.com/tlandgraf/status/1709190854378684556",
+      "author": "995571104612745216",
+      "published_at": "2023-10-03T12:57:09",
+      "observed_at": "2026-09-10T03:57:07.422099",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 435,
+        "views": 63457,
+        "reposts": 112,
+        "replies": 10,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1697534987795312815",
+      "title": "@FU_Berlin Und hier noch das ganze Videoprogramm der SommerUni:\n\nhttps://t.co/5o8dsZXQgj\n\nWenn ihr Euch f\u00fcr ein Studium an der @FU_Berlin  interessiert, fragt m",
+      "body": "@FU_Berlin Und hier noch das ganze Videoprogramm der SommerUni:\n\nhttps://t.co/5o8dsZXQgj\n\nWenn ihr Euch f\u00fcr ein Studium an der @FU_Berlin  interessiert, fragt mich aus!",
+      "url": "https://x.com/tlandgraf/status/1697534987795312815",
+      "author": "995571104612745216",
+      "published_at": "2023-09-01T09:00:54",
+      "observed_at": "2026-09-10T03:57:07.424864",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 2,
+        "views": 171,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1634526764520054787",
+      "title": "@SwarmDynamics @andi_gerken I'll be visiting soon in Konstanz! Thanks for dropping by and for interesting discussions!",
+      "body": "@SwarmDynamics @andi_gerken I'll be visiting soon in Konstanz! Thanks for dropping by and for interesting discussions!",
+      "url": "https://x.com/tlandgraf/status/1634526764520054787",
+      "author": "995571104612745216",
+      "published_at": "2023-03-11T12:08:43",
+      "observed_at": "2026-09-10T03:57:07.427410",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 4,
+        "views": 165,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1628375035801923584",
+      "title": "Today, the robots are much smaller, faster, more robust, well, better! And we can use them for really small guppies (with @CollectiveBRL in Berlin) and weakly e",
+      "body": "Today, the robots are much smaller, faster, more robust, well, better! And we can use them for really small guppies (with @CollectiveBRL in Berlin) and weakly electric fish (with Gerhard von der Emde and @heeloaded  in Bonn). https://t.co/lS8E08pdnb",
+      "url": "https://x.com/tlandgraf/status/1628375035801923584",
+      "author": "995571104612745216",
+      "published_at": "2023-02-22T12:43:56",
+      "observed_at": "2026-09-10T03:57:07.428440",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 6,
+        "views": 472,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1628374251198636033",
+      "title": "And did you know? The first prototype was a plaster stickleback with integrated IR LEDs. My student Rami Akkad built a tracking system for these dummies. https:",
+      "body": "And did you know? The first prototype was a plaster stickleback with integrated IR LEDs. My student Rami Akkad built a tracking system for these dummies. https://t.co/SEwp7ZtJE3",
+      "url": "https://x.com/tlandgraf/status/1628374251198636033",
+      "author": "995571104612745216",
+      "published_at": "2023-02-22T12:40:49",
+      "observed_at": "2026-09-10T03:57:07.430442",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 1,
+        "views": 352,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1628373081247866880",
+      "title": "Hai built the first RoboFish prototype based on this omniwheel platform. https://t.co/Ok2cnoeayi",
+      "body": "Hai built the first RoboFish prototype based on this omniwheel platform. https://t.co/Ok2cnoeayi",
+      "url": "https://x.com/tlandgraf/status/1628373081247866880",
+      "author": "995571104612745216",
+      "published_at": "2023-02-22T12:36:10",
+      "observed_at": "2026-09-10T03:57:07.432093",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 2,
+        "views": 168,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1628371467229429761",
+      "title": "@scrippsnews @eatonsam @joevaneeckhout @SindbadRG @meghilling @DDormagen @MarieMesserich @CollectiveBRL While shooting some RoboFish scenes my first ever studen",
+      "body": "@scrippsnews @eatonsam @joevaneeckhout @SindbadRG @meghilling @DDormagen @MarieMesserich @CollectiveBRL While shooting some RoboFish scenes my first ever student on that project, Hai, visits. It's been 12 years since! \ud83e\udd2f https://t.co/0LT4lnjQbZ",
+      "url": "https://x.com/tlandgraf/status/1628371467229429761",
+      "author": "995571104612745216",
+      "published_at": "2023-02-22T12:29:46",
+      "observed_at": "2026-09-10T03:57:07.432997",
+      "metrics": {
+        "author_handle": "tlandgraf",
+        "author_followers": 1034,
+        "likes": 2,
+        "views": 288,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

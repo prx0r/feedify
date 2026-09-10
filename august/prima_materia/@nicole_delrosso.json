@@ -1,0 +1,482 @@
+{
+  "handle": "nicole_delrosso",
+  "total_tweets": 25,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1981567919416045617",
+      "title": "Tired of the bottleneck \u23f3\ud83d\udc54 between screening protein binders and actually measuring their affinities? \n\nThen check out our recent pre-print: https://t.co/dVKExI",
+      "body": "Tired of the bottleneck \u23f3\ud83d\udc54 between screening protein binders and actually measuring their affinities? \n\nThen check out our recent pre-print: https://t.co/dVKExISHor",
+      "url": "https://x.com/nicole_delrosso/status/1981567919416045617",
+      "author": "1564705285578444800",
+      "published_at": "2025-10-24T03:46:22",
+      "observed_at": "2026-09-10T03:53:01.312282",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 16,
+        "views": 1967,
+        "reposts": 8,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1851031993582305637",
+      "title": "The DelRosso Lab is starting @UCSF 1/2025\nand is seeking applicants for a research postbac! We will be developing cutting edge high-throughput approaches to stu",
+      "body": "The DelRosso Lab is starting @UCSF 1/2025\nand is seeking applicants for a research postbac! We will be developing cutting edge high-throughput approaches to study the relationship between disordered protein interactions and transcription in human cells\ud83d\udd0e\n\nhttps://t.co/C1bO6omasm",
+      "url": "https://x.com/nicole_delrosso/status/1851031993582305637",
+      "author": "1564705285578444800",
+      "published_at": "2024-10-28T22:43:12",
+      "observed_at": "2026-09-10T03:53:01.314104",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 103,
+        "views": 22384,
+        "reposts": 36,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825942946698637709",
+      "title": "@baijiangshan1 @fordycelab @BintuLab STAMMPPING is a general protein-protein binding platform and we're looking forward to using it on other systems as well. We",
+      "body": "@baijiangshan1 @fordycelab @BintuLab STAMMPPING is a general protein-protein binding platform and we're looking forward to using it on other systems as well. We think it's important to combine these in vitro measurements with in cellulo studies \ud83d\ude42",
+      "url": "https://x.com/nicole_delrosso/status/1825942946698637709",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T17:08:17",
+      "observed_at": "2026-09-10T03:53:01.316063",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 2,
+        "views": 227,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825940746844991952",
+      "title": "Massive thank you to co-author Peter Suzuki; our wonderful computational collaborators @dgriffith314, @jefflotthammer, Borna Novak, @alexholehouse; along with @",
+      "body": "Massive thank you to co-author Peter Suzuki; our wonderful computational collaborators @dgriffith314, @jefflotthammer, Borna Novak, @alexholehouse; along with @kocalars, @mayayayas; and my amazing Ph.D. co-advisors @BintuLab, @fordycelab\ud83e\uddea",
+      "url": "https://x.com/nicole_delrosso/status/1825940746844991952",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:59:33",
+      "observed_at": "2026-09-10T03:53:01.317626",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 8,
+        "views": 924,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825939849133875315",
+      "title": "By directly comparing measured activation domain/co-activator affinities with activation measurements in cells, we further establish that activation levels depe",
+      "body": "By directly comparing measured activation domain/co-activator affinities with activation measurements in cells, we further establish that activation levels depend on affinities in an ultrasensitive manner. https://t.co/y8AP8eWTjH",
+      "url": "https://x.com/nicole_delrosso/status/1825939849133875315",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:55:59",
+      "observed_at": "2026-09-10T03:53:01.319274",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 3,
+        "views": 1209,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825933711935983646",
+      "title": "Using STAMMPPING, we find that the metazoan-specific co-activator P300 directly binds &gt;100 activation domains, potentially explaining its widespread recruitm",
+      "body": "Using STAMMPPING, we find that the metazoan-specific co-activator P300 directly binds &gt;100 activation domains, potentially explaining its widespread recruitment across the genome to influence transcriptional activation. https://t.co/iPVwNakzyv",
+      "url": "https://x.com/nicole_delrosso/status/1825933711935983646",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:31:35",
+      "observed_at": "2026-09-10T03:53:01.321033",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 3,
+        "views": 576,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825931333799129105",
+      "title": "We introduce STAMMPPING, a high-throughput method for measuring direct protein-protein interactions for &gt;1500 pairs, by recombinantly expressing and purifyin",
+      "body": "We introduce STAMMPPING, a high-throughput method for measuring direct protein-protein interactions for &gt;1500 pairs, by recombinantly expressing and purifying baits in hundreds of microfluidic wells in parallel, and quantifying their binding affinities to labeled preys using \ud83d\udd2c https://t.co/B3tcZxs67K",
+      "url": "https://x.com/nicole_delrosso/status/1825931333799129105",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:22:08",
+      "observed_at": "2026-09-10T03:53:01.322601",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 9,
+        "views": 883,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825930531911119264",
+      "title": "Identifying DIRECT interactions and understanding the relationship between affinities and activities requires the ability to accurately quantify thermodynamic c",
+      "body": "Identifying DIRECT interactions and understanding the relationship between affinities and activities requires the ability to accurately quantify thermodynamic constants. Unfortunately, traditional in vitro methods for quantifying these affinities are low-throughput and laborious.",
+      "url": "https://x.com/nicole_delrosso/status/1825930531911119264",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:18:57",
+      "observed_at": "2026-09-10T03:53:01.324316",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 1,
+        "views": 705,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825930265220493369",
+      "title": "Although we\u2019ve known for over three decades \u2757\ufe0fthat gene activation is the result of transcription factor activation domains recruiting transcriptional machinery",
+      "body": "Although we\u2019ve known for over three decades \u2757\ufe0fthat gene activation is the result of transcription factor activation domains recruiting transcriptional machinery to DNA, we still don't have a comprehensive understanding of the interactions that drive activation in human cells",
+      "url": "https://x.com/nicole_delrosso/status/1825930265220493369",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:17:54",
+      "observed_at": "2026-09-10T03:53:01.325222",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 1,
+        "views": 891,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1825929887963808081",
+      "title": "\ud83e\uddecHow do transcriptional cofactors recognize which genes to regulate?\ud83e\uddec Check out our new preprint from @fordycelab @BintuLab that tackles this question and provi",
+      "body": "\ud83e\uddecHow do transcriptional cofactors recognize which genes to regulate?\ud83e\uddec Check out our new preprint from @fordycelab @BintuLab that tackles this question and provides the first-ever quantitative map of disordered transcriptional protein interactions (1/9) https://t.co/5UV8IafaHM",
+      "url": "https://x.com/nicole_delrosso/status/1825929887963808081",
+      "author": "1564705285578444800",
+      "published_at": "2024-08-20T16:16:24",
+      "observed_at": "2026-09-10T03:53:01.325950",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 223,
+        "views": 28186,
+        "reposts": 61,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1794083666441785358",
+      "title": "@fordycelab @BintuLacra @BintuLab \ud83e\udef6 So grateful to have had you and Lacra as my mentors! Excited to take everything I learned and launch! \ud83d\ude80",
+      "body": "@fordycelab @BintuLacra @BintuLab \ud83e\udef6 So grateful to have had you and Lacra as my mentors! Excited to take everything I learned and launch! \ud83d\ude80",
+      "url": "https://x.com/nicole_delrosso/status/1794083666441785358",
+      "author": "1564705285578444800",
+      "published_at": "2024-05-24T19:10:53",
+      "observed_at": "2026-09-10T03:53:01.327492",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 4,
+        "views": 123,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1732616525620916685",
+      "title": "Wonderfully written review.  I think we will come up with better functional classes of effector domains once we can comprehensively map all the cofactor interac",
+      "body": "Wonderfully written review.  I think we will come up with better functional classes of effector domains once we can comprehensively map all the cofactor interactions",
+      "url": "https://x.com/nicole_delrosso/status/1732616525620916685",
+      "author": "1564705285578444800",
+      "published_at": "2023-12-07T04:22:24",
+      "observed_at": "2026-09-10T03:53:01.332506",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 3,
+        "views": 760,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1729240058660897278",
+      "title": "Check out Renee\u2019s pre-print \ud83d\udcc4\u2757\ufe0f especially fig 6. Lots of surprising design principles that could be used towards engineering TF specificity.",
+      "body": "Check out Renee\u2019s pre-print \ud83d\udcc4\u2757\ufe0f especially fig 6. Lots of surprising design principles that could be used towards engineering TF specificity.",
+      "url": "https://x.com/nicole_delrosso/status/1729240058660897278",
+      "author": "1564705285578444800",
+      "published_at": "2023-11-27T20:45:32",
+      "observed_at": "2026-09-10T03:53:01.333204",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 4,
+        "views": 1270,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1659722742147747840",
+      "title": "Everyone needs to at least glance at figure 2 of this amazing paper \ud83c\udf1f\ud83d\ude0d P300\u2019s C-terminal domain (where the very interesting TAZ2 domain is within) binds chromat",
+      "body": "Everyone needs to at least glance at figure 2 of this amazing paper \ud83c\udf1f\ud83d\ude0d P300\u2019s C-terminal domain (where the very interesting TAZ2 domain is within) binds chromatin more than the catalytic core alone. Really fundamental stuff for gene regulation.",
+      "url": "https://x.com/nicole_delrosso/status/1659722742147747840",
+      "author": "1564705285578444800",
+      "published_at": "2023-05-20T00:48:32",
+      "observed_at": "2026-09-10T03:53:01.334629",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 9,
+        "views": 2226,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1658192036930142209",
+      "title": "Check out this preprint if you\u2019re curious about how transcriptional effector domains vary across promoters, cell types, and DNA binding domains. And especially ",
+      "body": "Check out this preprint if you\u2019re curious about how transcriptional effector domains vary across promoters, cell types, and DNA binding domains. And especially check out Figure 4 - a small activation domain that has better delivery and strength than the current CRISPRa \ud83d\udcaa\ud83c\udffc",
+      "url": "https://x.com/nicole_delrosso/status/1658192036930142209",
+      "author": "1564705285578444800",
+      "published_at": "2023-05-15T19:26:03",
+      "observed_at": "2026-09-10T03:53:01.336460",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 5,
+        "views": 1101,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1643689335433351168",
+      "title": "My first\ud83d\ude09first author paper just came out in Nature today\ud83c\udf89thank you to all the co-authors, collaborator Mike Bassik, and my co-advisors Polly @fordycelab &amp; ",
+      "body": "My first\ud83d\ude09first author paper just came out in Nature today\ud83c\udf89thank you to all the co-authors, collaborator Mike Bassik, and my co-advisors Polly @fordycelab &amp; Lacra @BintuLab. Check out the supplement that contains plots of every protein's tiling results! https://t.co/tMR7HwowLJ",
+      "url": "https://x.com/nicole_delrosso/status/1643689335433351168",
+      "author": "1564705285578444800",
+      "published_at": "2023-04-05T18:57:30",
+      "observed_at": "2026-09-10T03:53:01.338296",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 601,
+        "views": 83433,
+        "reposts": 117,
+        "replies": 22,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1592368069091168256",
+      "title": "@edgigante We find RDs in GLI2 at position 352-491 (NQN\u2026MLV) and 1072-1221 (AHA\u2026VNY). GLI3 at 412-531 (SSQ\u2026AQY) and 1102-1231 (SQN\u2026LML). Found via tiling librar",
+      "body": "@edgigante We find RDs in GLI2 at position 352-491 (NQN\u2026MLV) and 1072-1221 (AHA\u2026VNY). GLI3 at 412-531 (SSQ\u2026AQY) and 1102-1231 (SQN\u2026LML). Found via tiling libraries recruited to the pEF promoter, screened in K562 cells. Hope this helps!",
+      "url": "https://x.com/nicole_delrosso/status/1592368069091168256",
+      "author": "1564705285578444800",
+      "published_at": "2022-11-15T04:05:07",
+      "observed_at": "2026-09-10T03:53:01.340133",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1582789690553339904",
+      "title": "@KiraPoskanzer @BintuLacra Poskanzer Lab for life!!\ud83d\udd2c\ud83e\udd18",
+      "body": "@KiraPoskanzer @BintuLacra Poskanzer Lab for life!!\ud83d\udd2c\ud83e\udd18",
+      "url": "https://x.com/nicole_delrosso/status/1582789690553339904",
+      "author": "1564705285578444800",
+      "published_at": "2022-10-19T17:44:03",
+      "observed_at": "2026-09-10T03:53:01.342379",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659781827624960",
+      "title": "Stay tuned for more work we're doing now in @fordycelab and @BintuLab to try and answer why some EDs are stronger than others...",
+      "body": "Stay tuned for more work we're doing now in @fordycelab and @BintuLab to try and answer why some EDs are stronger than others...",
+      "url": "https://x.com/nicole_delrosso/status/1571659781827624960",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:46",
+      "observed_at": "2026-09-10T03:53:01.344381",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659780175073282",
+      "title": "Please DM me if you'd like to know where the EDs are in your favorite #TranscriptionFactor!",
+      "body": "Please DM me if you'd like to know where the EDs are in your favorite #TranscriptionFactor!",
+      "url": "https://x.com/nicole_delrosso/status/1571659780175073282",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:46",
+      "observed_at": "2026-09-10T03:53:01.345483",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659778426044417",
+      "title": "I'm thankful to all my labmates who I worked with on this project, including @JoshTycko, @PeterSuzuki8, and Cece Andrews; collaborator Mike Bassik; and my co-ad",
+      "body": "I'm thankful to all my labmates who I worked with on this project, including @JoshTycko, @PeterSuzuki8, and Cece Andrews; collaborator Mike Bassik; and my co-advisors Lacra @BintuLab and Polly @fordycelab",
+      "url": "https://x.com/nicole_delrosso/status/1571659778426044417",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:45",
+      "observed_at": "2026-09-10T03:53:01.346425",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 5,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659776316280832",
+      "title": "Finally, along with my labmate Cece Andrews and undergraduate Ivan Liongson, we characterized EDs that could independently activate and repress a single promote",
+      "body": "Finally, along with my labmate Cece Andrews and undergraduate Ivan Liongson, we characterized EDs that could independently activate and repress a single promoter and can dynamically split a cell population into high- and low-expressing cells like this one from ARGFX. https://t.co/NfgUQ5Xkww",
+      "url": "https://x.com/nicole_delrosso/status/1571659776316280832",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:45",
+      "observed_at": "2026-09-10T03:53:01.348516",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 5,
+        "views": 0,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659771606081536",
+      "title": "We were surprised to find SUMOylation motifs are important for the repression of at least 149 repression domains like this one in the SP3 protein. https://t.co/",
+      "body": "We were surprised to find SUMOylation motifs are important for the repression of at least 149 repression domains like this one in the SP3 protein. https://t.co/InwDEgx0GC",
+      "url": "https://x.com/nicole_delrosso/status/1571659771606081536",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:44",
+      "observed_at": "2026-09-10T03:53:01.350310",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659765830545411",
+      "title": "Next, we wanted to know which protein sequences were necessary for ED activity, so we systematically removed  short segments from each ED and made 100s of maps ",
+      "body": "Next, we wanted to know which protein sequences were necessary for ED activity, so we systematically removed  short segments from each ED and made 100s of maps like these\ud83d\udc47We found repeats within ADs were not necessary, but hydrophobic interspersed with other residues are crucial https://t.co/ZIH23Y6XWK",
+      "url": "https://x.com/nicole_delrosso/status/1571659765830545411",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:42",
+      "observed_at": "2026-09-10T03:53:01.352222",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1571659761346826240",
+      "title": "We identified 100s of new EDs by tiling across transcriptional regulators, fusing these 80 amino acid tiles to an inducible DNA binding domain, and recruiting t",
+      "body": "We identified 100s of new EDs by tiling across transcriptional regulators, fusing these 80 amino acid tiles to an inducible DNA binding domain, and recruiting these fusion proteins to integrated reporter genes. Doing so, produced 2,047 maps like this: https://t.co/uP3uLPIFbV",
+      "url": "https://x.com/nicole_delrosso/status/1571659761346826240",
+      "author": "1564705285578444800",
+      "published_at": "2022-09-19T00:37:41",
+      "observed_at": "2026-09-10T03:53:01.354015",
+      "metrics": {
+        "author_handle": "nicole_delrosso",
+        "author_followers": 372,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

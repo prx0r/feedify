@@ -1,0 +1,482 @@
+{
+  "handle": "MarcoVirgolin",
+  "total_tweets": 25,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1863843442452840646",
+      "title": "Indeed, amazing foundations for new gamechanging AI systems",
+      "body": "Indeed, amazing foundations for new gamechanging AI systems",
+      "url": "https://x.com/MarcoVirgolin/status/1863843442452840646",
+      "author": "580688158",
+      "published_at": "2024-12-03T07:11:19",
+      "observed_at": "2026-09-10T03:57:09.870486",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 3,
+        "views": 95,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1836084812421173668",
+      "title": "https://t.co/51Z64ntU5Z yeee",
+      "body": "https://t.co/51Z64ntU5Z yeee",
+      "url": "https://x.com/MarcoVirgolin/status/1836084812421173668",
+      "author": "580688158",
+      "published_at": "2024-09-17T16:48:26",
+      "observed_at": "2026-09-10T03:57:09.872502",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 11,
+        "views": 128,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1663783228505718785",
+      "title": "@karpathy + olive oil &amp; parmigiano, for an extra kick",
+      "body": "@karpathy + olive oil &amp; parmigiano, for an extra kick",
+      "url": "https://x.com/MarcoVirgolin/status/1663783228505718785",
+      "author": "580688158",
+      "published_at": "2023-05-31T05:43:27",
+      "observed_at": "2026-09-10T03:57:09.873767",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 237,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1659193544203022336",
+      "title": "Thank you Pierre, this was an amazing collaboration! \ud83c\udf77\ud83e\uddc0\ud83c\udf55\ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9\ud83c\uddf3\ud83c\uddf1",
+      "body": "Thank you Pierre, this was an amazing collaboration! \ud83c\udf77\ud83e\uddc0\ud83c\udf55\ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9\ud83c\uddf3\ud83c\uddf1",
+      "url": "https://x.com/MarcoVirgolin/status/1659193544203022336",
+      "author": "580688158",
+      "published_at": "2023-05-18T13:45:41",
+      "observed_at": "2026-09-10T03:57:09.875187",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 3,
+        "views": 218,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1651207569791242240",
+      "title": "@OfficialLoganK @LessardCreTech What about the clause on sharing it with openai\u2019a partners?",
+      "body": "@OfficialLoganK @LessardCreTech What about the clause on sharing it with openai\u2019a partners?",
+      "url": "https://x.com/MarcoVirgolin/status/1651207569791242240",
+      "author": "580688158",
+      "published_at": "2023-04-26T12:52:17",
+      "observed_at": "2026-09-10T03:57:09.876462",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 655,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1639020482556203008",
+      "title": "@MilesCranmer @kgourg Besides HW, if you use SR is probably to get something interpretable (small models with not-too-complex function compositions). Simpler ex",
+      "body": "@MilesCranmer @kgourg Besides HW, if you use SR is probably to get something interpretable (small models with not-too-complex function compositions). Simpler expressions tend to represent coarser approximations i.e. lack expressivity",
+      "url": "https://x.com/MarcoVirgolin/status/1639020482556203008",
+      "author": "580688158",
+      "published_at": "2023-03-23T21:45:09",
+      "observed_at": "2026-09-10T03:57:09.880512",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 43,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1634112754029142019",
+      "title": "@astro_wassim Cool work! I would love to see a comparison with genetic programming, e.g., na\u00efve with rejection of invalid solution, and \"grammar-guided GP\", whi",
+      "body": "@astro_wassim Cool work! I would love to see a comparison with genetic programming, e.g., na\u00efve with rejection of invalid solution, and \"grammar-guided GP\", which instead accounts for units.\n\nP.S. SR is already NP-hard *without* constants (seems to me you say const.optim. is needed for that)",
+      "url": "https://x.com/MarcoVirgolin/status/1634112754029142019",
+      "author": "580688158",
+      "published_at": "2023-03-10T08:43:35",
+      "observed_at": "2026-09-10T03:57:09.882302",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 1,
+        "views": 1432,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1618141010110058496",
+      "title": "@GNadizar @CWInl @PeterANBosman And we've been lucky to have you over, it is a pleasure to work with such a talented student \ud83d\udcaa",
+      "body": "@GNadizar @CWInl @PeterANBosman And we've been lucky to have you over, it is a pleasure to work with such a talented student \ud83d\udcaa",
+      "url": "https://x.com/MarcoVirgolin/status/1618141010110058496",
+      "author": "580688158",
+      "published_at": "2023-01-25T06:57:35",
+      "observed_at": "2026-09-10T03:57:09.883616",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 4,
+        "views": 103,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1614939382494138370",
+      "title": "@memecrashes Don't wanna brag but was lucky enough to coauthor with them.",
+      "body": "@memecrashes Don't wanna brag but was lucky enough to coauthor with them.",
+      "url": "https://x.com/MarcoVirgolin/status/1614939382494138370",
+      "author": "580688158",
+      "published_at": "2023-01-16T10:55:27",
+      "observed_at": "2026-09-10T03:57:09.887543",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 0,
+        "views": 1966,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1606390679655092259",
+      "title": "I think we can fit 3 more icons in here. https://t.co/pW43bIwkW4",
+      "body": "I think we can fit 3 more icons in here. https://t.co/pW43bIwkW4",
+      "url": "https://x.com/MarcoVirgolin/status/1606390679655092259",
+      "author": "580688158",
+      "published_at": "2022-12-23T20:45:57",
+      "observed_at": "2026-09-10T03:57:09.888854",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 3,
+        "views": 211,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1597344281035177984",
+      "title": "@tunguz https://t.co/iqQZPEltSe\n\nYou might want to look for \"walks\" in latent space",
+      "body": "@tunguz https://t.co/iqQZPEltSe\n\nYou might want to look for \"walks\" in latent space",
+      "url": "https://x.com/MarcoVirgolin/status/1597344281035177984",
+      "author": "580688158",
+      "published_at": "2022-11-28T21:38:48",
+      "observed_at": "2026-09-10T03:57:09.890086",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 5,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1589873657366851586",
+      "title": "@DocUrbs @sibirbilOPT has some new approaches to rule generation and hierarchical learning of e.g. linear models",
+      "body": "@DocUrbs @sibirbilOPT has some new approaches to rule generation and hierarchical learning of e.g. linear models",
+      "url": "https://x.com/MarcoVirgolin/status/1589873657366851586",
+      "author": "580688158",
+      "published_at": "2022-11-08T06:53:12",
+      "observed_at": "2026-09-10T03:57:09.891167",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1584786204905832448",
+      "title": "Delighted that our work has been accepted in TMLR! \ud83c\udf89\ud83c\udf8a\n\nFind the final version here:\nhttps://t.co/48vGKGJd7A\n\nWe thank the reviewers for their very valuable sugg",
+      "body": "Delighted that our work has been accepted in TMLR! \ud83c\udf89\ud83c\udf8a\n\nFind the final version here:\nhttps://t.co/48vGKGJd7A\n\nWe thank the reviewers for their very valuable suggestions.\n\nWork done with @SolonPissis at @CWInl",
+      "url": "https://x.com/MarcoVirgolin/status/1584786204905832448",
+      "author": "580688158",
+      "published_at": "2022-10-25T05:57:29",
+      "observed_at": "2026-09-10T03:57:09.892198",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 10,
+        "views": 0,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1583866094288539648",
+      "title": "@ilyaraz2 I'm curious: what is \"wrong\" with the comparisons showcased in the paper then?",
+      "body": "@ilyaraz2 I'm curious: what is \"wrong\" with the comparisons showcased in the paper then?",
+      "url": "https://x.com/MarcoVirgolin/status/1583866094288539648",
+      "author": "580688158",
+      "published_at": "2022-10-22T17:01:18",
+      "observed_at": "2026-09-10T03:57:09.894079",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1576826541887356928",
+      "title": "@marcus_marcusg Walnuts look like brains so this must be a very smart algorithm",
+      "body": "@marcus_marcusg Walnuts look like brains so this must be a very smart algorithm",
+      "url": "https://x.com/MarcoVirgolin/status/1576826541887356928",
+      "author": "580688158",
+      "published_at": "2022-10-03T06:48:38",
+      "observed_at": "2026-09-10T03:57:09.895602",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1564486447780007936",
+      "title": "@ufuejfn @grescoe @dmcgovern Even rural villages are well connected with bike lanes in the NL, which I found kind of incredible when I first experienced it :o",
+      "body": "@ufuejfn @grescoe @dmcgovern Even rural villages are well connected with bike lanes in the NL, which I found kind of incredible when I first experienced it :o",
+      "url": "https://x.com/MarcoVirgolin/status/1564486447780007936",
+      "author": "580688158",
+      "published_at": "2022-08-30T05:33:30",
+      "observed_at": "2026-09-10T03:57:09.896365",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 18,
+        "views": 0,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1557989315950551040",
+      "title": "@mathemakitten where can I order the schmidmug?",
+      "body": "@mathemakitten where can I order the schmidmug?",
+      "url": "https://x.com/MarcoVirgolin/status/1557989315950551040",
+      "author": "580688158",
+      "published_at": "2022-08-12T07:16:13",
+      "observed_at": "2026-09-10T03:57:09.897351",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 6,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1557638178995052544",
+      "title": "@eatinerni This works only in Italian:\n\"Camera ardente\"\n\nMy best shot at translating while keeping the meaning:\n\"Bur*N*ial chamber\"",
+      "body": "@eatinerni This works only in Italian:\n\"Camera ardente\"\n\nMy best shot at translating while keeping the meaning:\n\"Bur*N*ial chamber\"",
+      "url": "https://x.com/MarcoVirgolin/status/1557638178995052544",
+      "author": "580688158",
+      "published_at": "2022-08-11T08:00:56",
+      "observed_at": "2026-09-10T03:57:09.898117",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1553643608796012546",
+      "title": "@marktenenholtz No attempt with something more interpretable e.g. linear model / decision tree / symbolic equation?\nPretty important in high-stakes applications",
+      "body": "@marktenenholtz No attempt with something more interpretable e.g. linear model / decision tree / symbolic equation?\nPretty important in high-stakes applications imho.",
+      "url": "https://x.com/MarcoVirgolin/status/1553643608796012546",
+      "author": "580688158",
+      "published_at": "2022-07-31T07:27:56",
+      "observed_at": "2026-09-10T03:57:09.898841",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1550457201583595521",
+      "title": "@ChristophMolnar Not credible: you forgot to put the \ud83e\uddf5 emoji!!!1!1!11!",
+      "body": "@ChristophMolnar Not credible: you forgot to put the \ud83e\uddf5 emoji!!!1!1!11!",
+      "url": "https://x.com/MarcoVirgolin/status/1550457201583595521",
+      "author": "580688158",
+      "published_at": "2022-07-22T12:26:17",
+      "observed_at": "2026-09-10T03:57:09.899544",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1548156014142164992",
+      "title": "@marcus_marcusg Amazing. @mnzluca @Rymoah",
+      "body": "@marcus_marcusg Amazing. @mnzluca @Rymoah",
+      "url": "https://x.com/MarcoVirgolin/status/1548156014142164992",
+      "author": "580688158",
+      "published_at": "2022-07-16T04:02:11",
+      "observed_at": "2026-09-10T03:57:09.900289",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1547298068000817155",
+      "title": "@PeterANBosman @GeccoConf @TanjaAlderlies1 Yeeeee! https://t.co/0H6mJWCc21",
+      "body": "@PeterANBosman @GeccoConf @TanjaAlderlies1 Yeeeee! https://t.co/0H6mJWCc21",
+      "url": "https://x.com/MarcoVirgolin/status/1547298068000817155",
+      "author": "580688158",
+      "published_at": "2022-07-13T19:13:01",
+      "observed_at": "2026-09-10T03:57:09.900945",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 16,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1546996495089631232",
+      "title": "@malganius Had 2 awesome, super-prepared volunteers!",
+      "body": "@malganius Had 2 awesome, super-prepared volunteers!",
+      "url": "https://x.com/MarcoVirgolin/status/1546996495089631232",
+      "author": "580688158",
+      "published_at": "2022-07-12T23:14:40",
+      "observed_at": "2026-09-10T03:57:09.901738",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1544636895539462147",
+      "title": "Hopefully this may be of interest to fellow GP researchers at the upcoming @GeccoConf :)",
+      "body": "Hopefully this may be of interest to fellow GP researchers at the upcoming @GeccoConf :)",
+      "url": "https://x.com/MarcoVirgolin/status/1544636895539462147",
+      "author": "580688158",
+      "published_at": "2022-07-06T10:58:28",
+      "observed_at": "2026-09-10T03:57:09.902415",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 15,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1544636269338189824",
+      "title": "Answer:\nhttps://t.co/jUbAoUWDMw\n\nWork with @SolonPissis done at @CWInl \n\nSR is meaningful for scientific discovery (take a look at, e.g., https://t.co/4wOikzKDG",
+      "body": "Answer:\nhttps://t.co/jUbAoUWDMw\n\nWork with @SolonPissis done at @CWInl \n\nSR is meaningful for scientific discovery (take a look at, e.g., https://t.co/4wOikzKDG8 by @MilesCranmer) and transparent, safe and responsible AI #explainableAI #XAI  \n@trustworthy_ml @ExplainableNL",
+      "url": "https://x.com/MarcoVirgolin/status/1544636269338189824",
+      "author": "580688158",
+      "published_at": "2022-07-06T10:55:59",
+      "observed_at": "2026-09-10T03:57:09.903078",
+      "metrics": {
+        "author_handle": "MarcoVirgolin",
+        "author_followers": 298,
+        "likes": 38,
+        "views": 0,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

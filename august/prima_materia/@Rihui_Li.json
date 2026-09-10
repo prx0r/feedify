@@ -1,0 +1,64 @@
+{
+  "handle": "Rihui_Li",
+  "total_tweets": 3,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1849300023999074661",
+      "title": "How do different motion artifact correction methods affect functional connectivity analysis using fNIRS? Check out our latest publication on @Neurophotonics : h",
+      "body": "How do different motion artifact correction methods affect functional connectivity analysis using fNIRS? Check out our latest publication on @Neurophotonics : https://t.co/BKNxbgP5at",
+      "url": "https://x.com/Rihui_Li/status/1849300023999074661",
+      "author": "1653993408523022337",
+      "published_at": "2024-10-24T04:00:58",
+      "observed_at": "2026-09-10T03:53:36.894097",
+      "metrics": {
+        "author_handle": "Rihui_Li",
+        "author_followers": 42,
+        "likes": 5,
+        "views": 144,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1849000177191030869",
+      "title": "Thrilled to share our latest work @NeuroImage_EiC\n: fusion of EEG and fNIRS through the so-called multimodal covariance network to capture the neurovascular cou",
+      "body": "Thrilled to share our latest work @NeuroImage_EiC\n: fusion of EEG and fNIRS through the so-called multimodal covariance network to capture the neurovascular coupling properties in Autism!\nhttps://t.co/AOf7t7qmhd https://t.co/5XF8CqYwfB",
+      "url": "https://x.com/Rihui_Li/status/1849000177191030869",
+      "author": "1653993408523022337",
+      "published_at": "2024-10-23T08:09:29",
+      "observed_at": "2026-09-10T03:53:36.899735",
+      "metrics": {
+        "author_handle": "Rihui_Li",
+        "author_followers": 42,
+        "likes": 4,
+        "views": 153,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1835987418279035222",
+      "title": "Thrilled to reconnect with friends at #fNIRS2024 in Birmingham! The growth of the fNIRS community @SfNIRS is truly inspiring.\nWe are incredibly honored to host ",
+      "body": "Thrilled to reconnect with friends at #fNIRS2024 in Birmingham! The growth of the fNIRS community @SfNIRS is truly inspiring.\nWe are incredibly honored to host #fNIRS2026 at @UM_1981 and committed to making it unforgettable. Looking forward to welcoming you all to Macau in 2026! https://t.co/kGvUnWKXpQ",
+      "url": "https://x.com/Rihui_Li/status/1835987418279035222",
+      "author": "1653993408523022337",
+      "published_at": "2024-09-17T10:21:26",
+      "observed_at": "2026-09-10T03:53:36.903766",
+      "metrics": {
+        "author_handle": "Rihui_Li",
+        "author_followers": 42,
+        "likes": 17,
+        "views": 796,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

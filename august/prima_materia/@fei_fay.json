@@ -1,0 +1,387 @@
+{
+  "handle": "fei_fay",
+  "total_tweets": 20,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2047307220417700227",
+      "title": "#ICLR My student Yuan Zhuang will be presenting our paper at the morning poster session, April 23 https://t.co/syBp20Hf5I",
+      "body": "#ICLR My student Yuan Zhuang will be presenting our paper at the morning poster session, April 23 https://t.co/syBp20Hf5I",
+      "url": "https://x.com/fei_fay/status/2047307220417700227",
+      "author": "1491317845",
+      "published_at": "2026-04-23T13:30:53",
+      "observed_at": "2026-09-10T03:55:17.103176",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 4,
+        "views": 92,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1956993522948841693",
+      "title": "#ICRA #MARL #Robotics Our ICRA' 25 paper, \"Safety Guaranteed Robust Multi-Agent Reinforcement Learning with Hierarchical Control for Connected and Automated Veh",
+      "body": "#ICRA #MARL #Robotics Our ICRA' 25 paper, \"Safety Guaranteed Robust Multi-Agent Reinforcement Learning with Hierarchical Control for Connected and Automated Vehicles\", opensource code: https://t.co/8S18ziGDT6; project website: https://t.co/RJv6X8urGh. \nCheck out to see how to train robust policies for multi-agent systems with safety guarantees!",
+      "url": "https://x.com/fei_fay/status/1956993522948841693",
+      "author": "1491317845",
+      "published_at": "2025-08-17T08:16:29",
+      "observed_at": "2026-09-10T03:55:17.104857",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 2,
+        "views": 146,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1956993069208986086",
+      "title": "#OpenSource #IROS #MARL #Robotics Our group has opensource code for recent published papers of IROS 2025, we will present \"YOLO-LLM: You Only LLM Once for Multi",
+      "body": "#OpenSource #IROS #MARL #Robotics Our group has opensource code for recent published papers of IROS 2025, we will present \"YOLO-LLM: You Only LLM Once for Multi-agent Reinforcement Learning\", check out the source code and play with it to see whether LLM is useful for MARL policy training: https://t.co/FOX3ZRElpN.",
+      "url": "https://x.com/fei_fay/status/1956993069208986086",
+      "author": "1491317845",
+      "published_at": "2025-08-17T08:14:41",
+      "observed_at": "2026-09-10T03:55:17.108336",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 3,
+        "views": 202,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1937767234388263229",
+      "title": "#RSS2025 #Robotics #LLM #AI   Exited to present for the full-day workshop \u201cLarge Foundation Model for Interactive Robot Learning\u201d at RSS 2025! \ud83d\uddd3 Date: Wednesday",
+      "body": "#RSS2025 #Robotics #LLM #AI   Exited to present for the full-day workshop \u201cLarge Foundation Model for Interactive Robot Learning\u201d at RSS 2025! \ud83d\uddd3 Date: Wednesday, June 25\ud83d\udccd Location: Room SGM 123\n\ud83c\udf10 Details: https://t.co/PMwe0wFGLF, my talk will be at: 12:00 - 12:20 Fei Miao (UConn) - Multi-agent Reinforcement Learning and LLM for Embodied AI",
+      "url": "https://x.com/fei_fay/status/1937767234388263229",
+      "author": "1491317845",
+      "published_at": "2025-06-25T06:58:05",
+      "observed_at": "2026-09-10T03:55:17.111747",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 5,
+        "views": 299,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1924545891886862746",
+      "title": "#ICRA #MARL #Robotics #SafeRL Our group will present two papers at ICRA 2025, Atlanta! On May 19 Monday, we are presenting YOLO-LLM: You Only LLM Once for Multi",
+      "body": "#ICRA #MARL #Robotics #SafeRL Our group will present two papers at ICRA 2025, Atlanta! On May 19 Monday, we are presenting YOLO-LLM: You Only LLM Once for Multi-agent Reinforcement Learning, https://t.co/JVO7Cf0C9o.\n\nOn Wednesday, -3:50, room 303, session title: planning for autonomous racing, we will present the paper: \"Safety Guaranteed Robust Multi-Agent Reinforcement Learning with Hierarchical Control for Connected and Automated Vehicles\", https://t.co/RJv6X8urGh\nwith the poster session followed the presentation.",
+      "url": "https://x.com/fei_fay/status/1924545891886862746",
+      "author": "1491317845",
+      "published_at": "2025-05-19T19:21:11",
+      "observed_at": "2026-09-10T03:55:17.114903",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 6,
+        "views": 213,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1908979769372553532",
+      "title": "#RL #Robotics #AI On Tuesday April 8 4-5pm, I will give a talk at Yale CS Colloquium, more information below:\nhttps://t.co/m1yyitdEzH https://t.co/Ldjb06MiWs",
+      "body": "#RL #Robotics #AI On Tuesday April 8 4-5pm, I will give a talk at Yale CS Colloquium, more information below:\nhttps://t.co/m1yyitdEzH https://t.co/Ldjb06MiWs",
+      "url": "https://x.com/fei_fay/status/1908979769372553532",
+      "author": "1491317845",
+      "published_at": "2025-04-06T20:26:58",
+      "observed_at": "2026-09-10T03:55:17.118427",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 7,
+        "views": 342,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1899826436610887885",
+      "title": "Proud to work on multi-agent reinforcement learning, safe and robust MARL, uncertainty quantification of computer vision models, funded by my NSF CAREER award. ",
+      "body": "Proud to work on multi-agent reinforcement learning, safe and robust MARL, uncertainty quantification of computer vision models, funded by my NSF CAREER award. And with the support of NSF, I have graduated three CS PhD students, one more graduating, all continue their careers related to AI.",
+      "url": "https://x.com/fei_fay/status/1899826436610887885",
+      "author": "1491317845",
+      "published_at": "2025-03-12T14:14:54",
+      "observed_at": "2026-09-10T03:55:17.121150",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 2,
+        "views": 891,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1895610032437203032",
+      "title": "Back to Philly for AAAI 25!  Welcome to our paper at the March 1 poster session! It is about uncertainty quantification of trajectory prediction under distribut",
+      "body": "Back to Philly for AAAI 25!  Welcome to our paper at the March 1 poster session! It is about uncertainty quantification of trajectory prediction under distribution shift.",
+      "url": "https://x.com/fei_fay/status/1895610032437203032",
+      "author": "1491317845",
+      "published_at": "2025-02-28T23:00:25",
+      "observed_at": "2026-09-10T03:55:17.123013",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 2,
+        "views": 146,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1868526438435230019",
+      "title": "Neurips react to this appropriately as a conference organizer, however, hope this won't happen again.",
+      "body": "Neurips react to this appropriately as a conference organizer, however, hope this won't happen again.",
+      "url": "https://x.com/fei_fay/status/1868526438435230019",
+      "author": "1491317845",
+      "published_at": "2024-12-16T05:19:53",
+      "observed_at": "2026-09-10T03:55:17.125841",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 3,
+        "views": 411,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1866320234316996995",
+      "title": "#NeurIPS2024 At Neurips this week, look forward to meeting with new and old friends in a very full conference schedule and 10K exercise walking steps every day ",
+      "body": "#NeurIPS2024 At Neurips this week, look forward to meeting with new and old friends in a very full conference schedule and 10K exercise walking steps every day https://t.co/JXPdA28JK3",
+      "url": "https://x.com/fei_fay/status/1866320234316996995",
+      "author": "1491317845",
+      "published_at": "2024-12-10T03:13:13",
+      "observed_at": "2026-09-10T03:55:17.128203",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 3,
+        "views": 308,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865797877676855326",
+      "title": "#EmbodiedAI #SafeAutonomy #AISafety #Marl I had many conference and presentation travels this semester, and thanks  JHU News-Letter for reporting my research co",
+      "body": "#EmbodiedAI #SafeAutonomy #AISafety #Marl I had many conference and presentation travels this semester, and thanks  JHU News-Letter for reporting my research contribution for Safe Autonomy\nhttps://t.co/OSNVvTGTFQ",
+      "url": "https://x.com/fei_fay/status/1865797877676855326",
+      "author": "1491317845",
+      "published_at": "2024-12-08T16:37:33",
+      "observed_at": "2026-09-10T03:55:17.130815",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 5,
+        "views": 243,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1850010332548432085",
+      "title": "@DARSSymposiumLook I serve as one Program Co-chair for \"The International Symposium on Distributed Autonomous Robotic Systems (DARS2024)\", taking place on Oct 2",
+      "body": "@DARSSymposiumLook I serve as one Program Co-chair for \"The International Symposium on Distributed Autonomous Robotic Systems (DARS2024)\", taking place on Oct 28-30th, 2024 in Cornell Tech, New York City, USA. Look forward to meeting with friends there!",
+      "url": "https://x.com/fei_fay/status/1850010332548432085",
+      "author": "1491317845",
+      "published_at": "2024-10-26T03:03:29",
+      "observed_at": "2026-09-10T03:55:17.132068",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 5,
+        "views": 172,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1753226801814331438",
+      "title": "Object detection and multiple object tracking (MOT) are crucial for autonomous vehicles, ensuring safety and robustness. Our MOT-CUP framework is the first atte",
+      "body": "Object detection and multiple object tracking (MOT) are crucial for autonomous vehicles, ensuring safety and robustness. Our MOT-CUP framework is the first attempt to propogate uncertainty from collaborative object detectionn to enhance MOT, especially for high-occlusion scenario https://t.co/vdeo35i9n9",
+      "url": "https://x.com/fei_fay/status/1753226801814331438",
+      "author": "1491317845",
+      "published_at": "2024-02-02T01:20:17",
+      "observed_at": "2026-09-10T03:55:17.133832",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 4,
+        "views": 258,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1744387309347193315",
+      "title": "My Lab has openings for multiple PhD positions starting in Fall 24. We recently got several internal and external federal fundings related to multi-agent reinfo",
+      "body": "My Lab has openings for multiple PhD positions starting in Fall 24. We recently got several internal and external federal fundings related to multi-agent reinforcement learning and its applications. Detail information is attached. Look forward to working with the best candidates! https://t.co/UhbI5l46J6",
+      "url": "https://x.com/fei_fay/status/1744387309347193315",
+      "author": "1491317845",
+      "published_at": "2024-01-08T15:55:18",
+      "observed_at": "2026-09-10T03:55:17.135935",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 9,
+        "views": 1223,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1733338517567062038",
+      "title": "I\u2019m happy to share that I got one endowed professorship position at Uconn, I am now Pratt &amp; Whitney Associate Professor at University of Connecticut!@UConn",
+      "body": "I\u2019m happy to share that I got one endowed professorship position at Uconn, I am now Pratt &amp; Whitney Associate Professor at University of Connecticut!@UConn",
+      "url": "https://x.com/fei_fay/status/1733338517567062038",
+      "author": "1491317845",
+      "published_at": "2023-12-09T04:11:21",
+      "observed_at": "2026-09-10T03:55:17.138423",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 15,
+        "views": 796,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731865846799040595",
+      "title": "@fei_fay Demonstrated through experiments, our method significantly improves CAV system efficiency and maintains safety by preventing the execution of unsafe ac",
+      "body": "@fei_fay Demonstrated through experiments, our method significantly improves CAV system efficiency and maintains safety by preventing the execution of unsafe actions. https://t.co/vOuSuAuhT7",
+      "url": "https://x.com/fei_fay/status/1731865846799040595",
+      "author": "1491317845",
+      "published_at": "2023-12-05T02:39:29",
+      "observed_at": "2026-09-10T03:55:17.139345",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 1,
+        "views": 156,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731865643211768006",
+      "title": "@fei_fay #MARL #SafeRL Our innovative approach employs a safe actor-critic algorithm with new techniques like the truncated Q-function and safe action mapping, ",
+      "body": "@fei_fay #MARL #SafeRL Our innovative approach employs a safe actor-critic algorithm with new techniques like the truncated Q-function and safe action mapping, ensuring optimal decision-making in Connected Autonomous Vehicles (CAVs).",
+      "url": "https://x.com/fei_fay/status/1731865643211768006",
+      "author": "1491317845",
+      "published_at": "2023-12-05T02:38:40",
+      "observed_at": "2026-09-10T03:55:17.140648",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 1,
+        "views": 138,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1731861923983991030",
+      "title": "#marl #autonomousvehicle #safeAI #CPS Exciting News! Our paper, \"A Multi-Agent Reinforcement Learning Approach for Safe and Efficient Behavior Planning of Conne",
+      "body": "#marl #autonomousvehicle #safeAI #CPS Exciting News! Our paper, \"A Multi-Agent Reinforcement Learning Approach for Safe and Efficient Behavior Planning of Connected Autonomous Vehicles,\" is now accepted at IEEE Transactions on Intelligent Transportation Systems.",
+      "url": "https://x.com/fei_fay/status/1731861923983991030",
+      "author": "1491317845",
+      "published_at": "2023-12-05T02:23:53",
+      "observed_at": "2026-09-10T03:55:17.141655",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 2,
+        "views": 118,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1729331390385119247",
+      "title": "@fei_fay https://t.co/jEoFQGFq17 Theorems: We provide a series of mathematical tools such as state-perturbed value functions, state-perturbed Bellman equations,",
+      "body": "@fei_fay https://t.co/jEoFQGFq17 Theorems: We provide a series of mathematical tools such as state-perturbed value functions, state-perturbed Bellman equations, equivalent extensive-form games for an MG-SPA, and so on. We also give sufficient conditions under which RE exists.",
+      "url": "https://x.com/fei_fay/status/1729331390385119247",
+      "author": "1491317845",
+      "published_at": "2023-11-28T02:48:27",
+      "observed_at": "2026-09-10T03:55:17.142376",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 2,
+        "views": 110,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1729328794446512432",
+      "title": "#RobustMARL #RL_Robotics Thrilled to introduce our recent published paper in Transactions on Machine Learning Research (TMLR): Robust Multi-Agent Reinforcement ",
+      "body": "#RobustMARL #RL_Robotics Thrilled to introduce our recent published paper in Transactions on Machine Learning Research (TMLR): Robust Multi-Agent Reinforcement Learning with State Uncertainty (https://t.co/jEoFQGFq17)\nsource code: https://t.co/fCrr0kcwBZ.",
+      "url": "https://x.com/fei_fay/status/1729328794446512432",
+      "author": "1491317845",
+      "published_at": "2023-11-28T02:38:08",
+      "observed_at": "2026-09-10T03:55:17.146830",
+      "metrics": {
+        "author_handle": "fei_fay",
+        "author_followers": 129,
+        "likes": 2,
+        "views": 144,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

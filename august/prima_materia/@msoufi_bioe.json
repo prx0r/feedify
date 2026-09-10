@@ -1,0 +1,102 @@
+{
+  "handle": "msoufi_bioe",
+  "total_tweets": 5,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2050627463420555344",
+      "title": "@slavov_n I really like this \"follow up\" from Prof. Kording, where they actually try and do it rather than offer the thought experiment. Has anyone done anythin",
+      "body": "@slavov_n I really like this \"follow up\" from Prof. Kording, where they actually try and do it rather than offer the thought experiment. Has anyone done anything else more recently using more recent AI tools? https://t.co/32TiZMfIGX",
+      "url": "https://x.com/msoufi_bioe/status/2050627463420555344",
+      "author": "1653601316873334785",
+      "published_at": "2026-05-02T17:24:20",
+      "observed_at": "2026-09-10T03:39:14.869484",
+      "metrics": {
+        "author_handle": "msoufi_bioe",
+        "author_followers": 37,
+        "likes": 3,
+        "views": 230,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1947770654851534962",
+      "title": "@chofski @iA Similar to the Fryman quote \u201cwhat I can\u2019t build I do not understand\u201d. That\u2019s why I think synthetic biology should build cells/biology from scratch ",
+      "body": "@chofski @iA Similar to the Fryman quote \u201cwhat I can\u2019t build I do not understand\u201d. That\u2019s why I think synthetic biology should build cells/biology from scratch rather than build on top of natural systems",
+      "url": "https://x.com/msoufi_bioe/status/1947770654851534962",
+      "author": "1653601316873334785",
+      "published_at": "2025-07-22T21:28:06",
+      "observed_at": "2026-09-10T03:39:14.872755",
+      "metrics": {
+        "author_handle": "msoufi_bioe",
+        "author_followers": 37,
+        "likes": 2,
+        "views": 43,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1939777386196894067",
+      "title": "@ATinyGreenCell What excites me now is building synthetic cells from the bottom up, in hopes that we can better routinize synthetic biology, and to better rever",
+      "body": "@ATinyGreenCell What excites me now is building synthetic cells from the bottom up, in hopes that we can better routinize synthetic biology, and to better reverse-engineer natural biology. That problem excited me more than working as a jr software engineer",
+      "url": "https://x.com/msoufi_bioe/status/1939777386196894067",
+      "author": "1653601316873334785",
+      "published_at": "2025-06-30T20:05:42",
+      "observed_at": "2026-09-10T03:39:14.875255",
+      "metrics": {
+        "author_handle": "msoufi_bioe",
+        "author_followers": 37,
+        "likes": 3,
+        "views": 94,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1939776643545100529",
+      "title": "@ATinyGreenCell As someone who was picking between software or syn bio career, I think engineering biology needs to be more routinized, and we're not there yet.",
+      "body": "@ATinyGreenCell As someone who was picking between software or syn bio career, I think engineering biology needs to be more routinized, and we're not there yet. There's a lot Peter Thiel and I disagree on, but he gets a lot right about why investors/individuals prefer software over biotech. https://t.co/pNUuD0Y1nI",
+      "url": "https://x.com/msoufi_bioe/status/1939776643545100529",
+      "author": "1653601316873334785",
+      "published_at": "2025-06-30T20:02:45",
+      "observed_at": "2026-09-10T03:39:14.876712",
+      "metrics": {
+        "author_handle": "msoufi_bioe",
+        "author_followers": 37,
+        "likes": 3,
+        "views": 2504,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1815937069593846147",
+      "title": "@LeoTZ03 That class inspired and started my path in synthetic biology! Highly recommend. Everyone should give their flowers to Prof. Justin Bois and how much he",
+      "body": "@LeoTZ03 That class inspired and started my path in synthetic biology! Highly recommend. Everyone should give their flowers to Prof. Justin Bois and how much he put into this. Best Caltech class I took",
+      "url": "https://x.com/msoufi_bioe/status/1815937069593846147",
+      "author": "1653601316873334785",
+      "published_at": "2024-07-24T02:28:30",
+      "observed_at": "2026-09-10T03:39:14.879502",
+      "metrics": {
+        "author_handle": "msoufi_bioe",
+        "author_followers": 37,
+        "likes": 4,
+        "views": 444,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

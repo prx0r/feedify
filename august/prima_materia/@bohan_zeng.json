@@ -1,0 +1,387 @@
+{
+  "handle": "bohan_zeng",
+  "total_tweets": 20,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2090615221744525581",
+      "title": "Introducing 3AGameFactory: https://t.co/IvoH32fbUG \u2014 a skill and reference code framework designed for 3A game development. It covers image, 3D asset, motion, a",
+      "body": "Introducing 3AGameFactory: https://t.co/IvoH32fbUG \u2014 a skill and reference code framework designed for 3A game development. It covers image, 3D asset, motion, audio, and CG generation tools, along with reference code for UE5, Blender, Unity3D, and three.js. We welcome your stars! https://t.co/DUPCnfitQQ",
+      "url": "https://x.com/bohan_zeng/status/2090615221744525581",
+      "author": "1580508110279438337",
+      "published_at": "2026-08-21T01:41:25",
+      "observed_at": "2026-09-10T03:54:49.922567",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 169,
+        "views": 9537,
+        "reposts": 29,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2072908235343085601",
+      "title": "We upload  Cosmos3, Ctrl-World, MemFlow, Solaris, GammaWorld, Hunyuan-Worldplay2, and FantasyWorld in our openworldlib https://t.co/lURXT0haGQ , welcome to chec",
+      "body": "We upload  Cosmos3, Ctrl-World, MemFlow, Solaris, GammaWorld, Hunyuan-Worldplay2, and FantasyWorld in our openworldlib https://t.co/lURXT0haGQ , welcome to check~",
+      "url": "https://x.com/bohan_zeng/status/2072908235343085601",
+      "author": "1580508110279438337",
+      "published_at": "2026-07-03T05:00:10",
+      "observed_at": "2026-09-10T03:54:49.924580",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 7,
+        "views": 183,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041803088772939877",
+      "title": "Thanks for your interest! We're building a unified calling standard \u2014 this work serves as a template for our next steps. We'd love to hear the community's views",
+      "body": "Thanks for your interest! We're building a unified calling standard \u2014 this work serves as a template for our next steps. We'd love to hear the community's views on world models. If you have different opinions or work to promote, feel free to open an issue in our GitHub repo~",
+      "url": "https://x.com/bohan_zeng/status/2041803088772939877",
+      "author": "1580508110279438337",
+      "published_at": "2026-04-08T08:59:25",
+      "observed_at": "2026-09-10T03:54:49.926796",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 3,
+        "views": 148,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041396067917590650",
+      "title": "Thanks a lot for the shoutout! \ud83d\ude80\nIf anyone is interested in a unified definition and calling standard for world models, feel free to check out our code and open",
+      "body": "Thanks a lot for the shoutout! \ud83d\ude80\nIf anyone is interested in a unified definition and calling standard for world models, feel free to check out our code and open an issue:\nhttps://t.co/lURXT0haGQ\nMore training-optimized versions coming in our next project!",
+      "url": "https://x.com/bohan_zeng/status/2041396067917590650",
+      "author": "1580508110279438337",
+      "published_at": "2026-04-07T06:02:04",
+      "observed_at": "2026-09-10T03:54:49.927826",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 24,
+        "views": 2470,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2039549016418267300",
+      "title": "@Skywork_ai excellent work! we will add Matrix-Game-3 to https://t.co/lURXT0haGQ , as soon as possible!",
+      "body": "@Skywork_ai excellent work! we will add Matrix-Game-3 to https://t.co/lURXT0haGQ , as soon as possible!",
+      "url": "https://x.com/bohan_zeng/status/2039549016418267300",
+      "author": "1580508110279438337",
+      "published_at": "2026-04-02T03:42:33",
+      "observed_at": "2026-09-10T03:54:49.929292",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 2,
+        "views": 282,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2039196255017214298",
+      "title": "\u6211\u4eec\u9884\u8ba1\u4e0b\u5468\u4f1a\u53d1\u5e03OpenWorldLib\u8bbe\u8ba1\u601d\u8def\u7684\u6280\u672f\u62a5\u544a https://t.co/lURXT0haGQ\uff0c\u4ee5\u53ca\u6211\u4eec\u5bf9\u4e8eworld model\u76f8\u5173\u7684\u601d\u8003\uff0c\u5982\u679c\u6709\u76f8\u5173\u5de5\u4f5c\u9700\u8981\u5ba3\u4f20\u7684\u7814\u7a76\u8005\uff0c\u6b22\u8fce\u5728issue\u4e2d\u63d0\u51fa\uff0c\u6211\u4eec\u4f1a\u5728report\u4e2d\u8fdb\u884c\u5f15\u7528\uff0c\u8fd9\u6837\u4e5f\u662f\u5bf9\u60a8\u65b9\u6cd5\u7684\u4e00\u4e2a\u5ba3\u4f20\uff5e\ud83d\ude04",
+      "body": "\u6211\u4eec\u9884\u8ba1\u4e0b\u5468\u4f1a\u53d1\u5e03OpenWorldLib\u8bbe\u8ba1\u601d\u8def\u7684\u6280\u672f\u62a5\u544a https://t.co/lURXT0haGQ\uff0c\u4ee5\u53ca\u6211\u4eec\u5bf9\u4e8eworld model\u76f8\u5173\u7684\u601d\u8003\uff0c\u5982\u679c\u6709\u76f8\u5173\u5de5\u4f5c\u9700\u8981\u5ba3\u4f20\u7684\u7814\u7a76\u8005\uff0c\u6b22\u8fce\u5728issue\u4e2d\u63d0\u51fa\uff0c\u6211\u4eec\u4f1a\u5728report\u4e2d\u8fdb\u884c\u5f15\u7528\uff0c\u8fd9\u6837\u4e5f\u662f\u5bf9\u60a8\u65b9\u6cd5\u7684\u4e00\u4e2a\u5ba3\u4f20\uff5e\ud83d\ude04",
+      "url": "https://x.com/bohan_zeng/status/2039196255017214298",
+      "author": "1580508110279438337",
+      "published_at": "2026-04-01T04:20:48",
+      "observed_at": "2026-09-10T03:54:49.930188",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 4,
+        "views": 118,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2037724846290030971",
+      "title": "@AdinaYakup @Skywork_ai Thank you for the numerous contributions made by matrix-game. We will merge matrix-game-3 into our framework (https://t.co/lURXT0haGQ) a",
+      "body": "@AdinaYakup @Skywork_ai Thank you for the numerous contributions made by matrix-game. We will merge matrix-game-3 into our framework (https://t.co/lURXT0haGQ) as soon as possible.",
+      "url": "https://x.com/bohan_zeng/status/2037724846290030971",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-28T02:53:57",
+      "observed_at": "2026-09-10T03:54:49.930870",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 3,
+        "views": 322,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036398143982674288",
+      "title": "@himself65 \u4e16\u754c\u6a21\u578b\u76f8\u5173\u7684\u521b\u4e1a\uff0c\u5927\u4f6c\u770b\u597d\u5417\uff1ahttps://t.co/lURXT0haGQ",
+      "body": "@himself65 \u4e16\u754c\u6a21\u578b\u76f8\u5173\u7684\u521b\u4e1a\uff0c\u5927\u4f6c\u770b\u597d\u5417\uff1ahttps://t.co/lURXT0haGQ",
+      "url": "https://x.com/bohan_zeng/status/2036398143982674288",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-24T11:02:06",
+      "observed_at": "2026-09-10T03:54:49.932640",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 4,
+        "views": 1515,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036279310882070856",
+      "title": "@sainingxie Thank you for your outstanding contributions to the field of world models! We are building a unified world model framework at https://t.co/lURXT0haG",
+      "body": "@sainingxie Thank you for your outstanding contributions to the field of world models! We are building a unified world model framework at https://t.co/lURXT0haGQ, and we are currently considering where JEPA and LeWorldModel should be positioned within this framework.",
+      "url": "https://x.com/bohan_zeng/status/2036279310882070856",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-24T03:09:54",
+      "observed_at": "2026-09-10T03:54:49.933573",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 6,
+        "views": 1199,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034999299164250604",
+      "title": "@Jiaxi_Cui \u611f\u89c9\u53ef\u80fd\u9700\u8981\u6301\u7eed\u7ed9\u4ed6\u4e00\u4e9btarget\uff0c\u6bd4\u65b9\u8bf4\u5e72\u597d\u8fd9\u4e9b\uff0c\u53ef\u4ee5\u4fdd\u8bc1\u4f60\u7559\u4e0b\u62ff\u9ad8\u85aa\u4e4b\u7c7b\u7684\uff0c\u6216\u8005\u8bf4\u53ef\u4ee5\u63a8\u8350\u4f60\u53bb\u9876\u7ea7\u7ec4\u7ee7\u7eed\u6df1\u9020\uff0c\u8bf8\u5982\u6b64\u7c7b\u5427\u3002",
+      "body": "@Jiaxi_Cui \u611f\u89c9\u53ef\u80fd\u9700\u8981\u6301\u7eed\u7ed9\u4ed6\u4e00\u4e9btarget\uff0c\u6bd4\u65b9\u8bf4\u5e72\u597d\u8fd9\u4e9b\uff0c\u53ef\u4ee5\u4fdd\u8bc1\u4f60\u7559\u4e0b\u62ff\u9ad8\u85aa\u4e4b\u7c7b\u7684\uff0c\u6216\u8005\u8bf4\u53ef\u4ee5\u63a8\u8350\u4f60\u53bb\u9876\u7ea7\u7ec4\u7ee7\u7eed\u6df1\u9020\uff0c\u8bf8\u5982\u6b64\u7c7b\u5427\u3002",
+      "url": "https://x.com/bohan_zeng/status/2034999299164250604",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-20T14:23:36",
+      "observed_at": "2026-09-10T03:54:49.934986",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 2,
+        "views": 1940,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034650228960501832",
+      "title": "Exciting update from OpenDCAI-MMGen! \ud83d\ude80 We had 5 papers submitted to #CVPR2026: 4 accepted to main track, 1 as finding. \ud83d\udcda Plus, we're launching OpenWorldLib, a u",
+      "body": "Exciting update from OpenDCAI-MMGen! \ud83d\ude80 We had 5 papers submitted to #CVPR2026: 4 accepted to main track, 1 as finding. \ud83d\udcda Plus, we're launching OpenWorldLib, a unified world model framework! Explore it here \ud83d\udc49 https://t.co/lURXT0haGQ\n\n#CVPR #worldmodel",
+      "url": "https://x.com/bohan_zeng/status/2034650228960501832",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-19T15:16:31",
+      "observed_at": "2026-09-10T03:54:49.935902",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 4,
+        "views": 329,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034531231405420824",
+      "title": "@InSpatio_AI Thank you for your excellent work, would you like to leave a issue in our unified framework: https://t.co/lURXT0haGQ , to help us record your excel",
+      "body": "@InSpatio_AI Thank you for your excellent work, would you like to leave a issue in our unified framework: https://t.co/lURXT0haGQ , to help us record your excellent work?",
+      "url": "https://x.com/bohan_zeng/status/2034531231405420824",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-19T07:23:39",
+      "observed_at": "2026-09-10T03:54:49.937392",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 5,
+        "views": 677,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034530680693248036",
+      "title": "@MattNiessner Impressive work! could you please leave a issue in our unified framework: https://t.co/lURXT0haGQ , and we will add you splendid work in our OpenW",
+      "body": "@MattNiessner Impressive work! could you please leave a issue in our unified framework: https://t.co/lURXT0haGQ , and we will add you splendid work in our OpenWorldLib",
+      "url": "https://x.com/bohan_zeng/status/2034530680693248036",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-19T07:21:28",
+      "observed_at": "2026-09-10T03:54:49.938963",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 5,
+        "views": 379,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034479515565723729",
+      "title": "@taiuti Hi! We recently released a unified world model inference framework https://t.co/lURXT0haGQ . Could you provide us with some suggestions?",
+      "body": "@taiuti Hi! We recently released a unified world model inference framework https://t.co/lURXT0haGQ . Could you provide us with some suggestions?",
+      "url": "https://x.com/bohan_zeng/status/2034479515565723729",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-19T03:58:09",
+      "observed_at": "2026-09-10T03:54:49.940654",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 3,
+        "views": 350,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2033800616221479056",
+      "title": "Our new work, OpenWorldLib, is a unified inference codebase for advanced world models. It aims to provide a clearer definition of world models and, within a uni",
+      "body": "Our new work, OpenWorldLib, is a unified inference codebase for advanced world models. It aims to provide a clearer definition of world models and, within a unified framework, evaluate the upper bounds of existing world model-related methods.\n\nCode link: https://t.co/lURXT0haGQ https://t.co/yMtvcEJa0R",
+      "url": "https://x.com/bohan_zeng/status/2033800616221479056",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-17T07:00:27",
+      "observed_at": "2026-09-10T03:54:49.942274",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 15,
+        "views": 1059,
+        "reposts": 10,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2029121766858342699",
+      "title": "@mydream2025 @Jiaxi_Cui qwen 24\u5e747\u6708\u53d1\u5e03\u7684\uff0cDeepseek 25\u5e74\u521d\u5f00\u51fa\u6765\u7684\uff0cdeepseek\u6280\u672f\u62a5\u544a\u90fd\u6709\u57fa\u4e8eqwen\u8bad\u7ec3\u7684\u5b9e\u9a8c\uff0c\u60a8\u80fd\u4e0d\u80fd\u522b\u4e0d\u6e05\u695a\u5c31\u80e1\u8bf4\u516b\u9053\u5417\u54c8\u54c8\u54c8",
+      "body": "@mydream2025 @Jiaxi_Cui qwen 24\u5e747\u6708\u53d1\u5e03\u7684\uff0cDeepseek 25\u5e74\u521d\u5f00\u51fa\u6765\u7684\uff0cdeepseek\u6280\u672f\u62a5\u544a\u90fd\u6709\u57fa\u4e8eqwen\u8bad\u7ec3\u7684\u5b9e\u9a8c\uff0c\u60a8\u80fd\u4e0d\u80fd\u522b\u4e0d\u6e05\u695a\u5c31\u80e1\u8bf4\u516b\u9053\u5417\u54c8\u54c8\u54c8",
+      "url": "https://x.com/bohan_zeng/status/2029121766858342699",
+      "author": "1580508110279438337",
+      "published_at": "2026-03-04T09:08:23",
+      "observed_at": "2026-09-10T03:54:49.943797",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 4,
+        "views": 313,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2010251730668442032",
+      "title": "@roifex \u5176\u5b9e\u4e0d\u592a\u7528\u62c5\u5fc3\uff0c\u5317\u822a\u8ba1\u7b97\u673a\u8fd8\u6709\u6bcf\u5468\u7684\u4e0a\u673a\u8003\u8bd5\uff0c\u5982\u679c\u7eafvibe coding\uff0c\u4e5f\u901a\u4e0d\u8fc7\u90a3\u4e2a\uff0c\u7167\u6837\u6ca1\u6cd5\u4fdd\u7814\u4e4b\u7c7b\u7684\uff0c\u56e0\u6b64\u5317\u822a\u76846\u7cfb\u6bd5\u4e1a\u751f\u8d28\u91cf\u4f9d\u65e7\u53ef\u4fe1",
+      "body": "@roifex \u5176\u5b9e\u4e0d\u592a\u7528\u62c5\u5fc3\uff0c\u5317\u822a\u8ba1\u7b97\u673a\u8fd8\u6709\u6bcf\u5468\u7684\u4e0a\u673a\u8003\u8bd5\uff0c\u5982\u679c\u7eafvibe coding\uff0c\u4e5f\u901a\u4e0d\u8fc7\u90a3\u4e2a\uff0c\u7167\u6837\u6ca1\u6cd5\u4fdd\u7814\u4e4b\u7c7b\u7684\uff0c\u56e0\u6b64\u5317\u822a\u76846\u7cfb\u6bd5\u4e1a\u751f\u8d28\u91cf\u4f9d\u65e7\u53ef\u4fe1",
+      "url": "https://x.com/bohan_zeng/status/2010251730668442032",
+      "author": "1580508110279438337",
+      "published_at": "2026-01-11T07:25:35",
+      "observed_at": "2026-09-10T03:54:49.944594",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 2,
+        "views": 269,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2000421907422957826",
+      "title": "This new text-to-image base model from the #Kling team builds upon the cutting-edge VFM representation framework (e.g., the popular SVG by kling team, RAE by @s",
+      "body": "This new text-to-image base model from the #Kling team builds upon the cutting-edge VFM representation framework (e.g., the popular SVG by kling team, RAE by @sainingxie's team, Uniflow, and Unilip\u2026)! Check out the project:\n\nhttps://t.co/cwNydJFtzD\nArxiv: https://t.co/fAe3LAw2Nl https://t.co/DbnaS4FabC",
+      "url": "https://x.com/bohan_zeng/status/2000421907422957826",
+      "author": "1580508110279438337",
+      "published_at": "2025-12-15T04:25:23",
+      "observed_at": "2026-09-10T03:54:49.945226",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 2,
+        "views": 171,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1884511945795199311",
+      "title": "Our paper, IPDreamer, has been accepted by #ICLR2025. \ud83e\udd73\nThis is my most satisfying work during my master's studies and the most elegant method I have developed ",
+      "body": "Our paper, IPDreamer, has been accepted by #ICLR2025. \ud83e\udd73\nThis is my most satisfying work during my master's studies and the most elegant method I have developed for performance improvement. Additionally, it can utilize complex images to guide 3D \nhttps://t.co/Q0FlC69gbR",
+      "url": "https://x.com/bohan_zeng/status/1884511945795199311",
+      "author": "1580508110279438337",
+      "published_at": "2025-01-29T08:00:35",
+      "observed_at": "2026-09-10T03:54:49.946599",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 3,
+        "views": 139,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1850480881838026834",
+      "title": "@dreamingtulpa Our IPDreamer utilizes image prompt adaption for 3D synthesis a year ago, and also realize high-fidelity results, welcome to have a check~ https:",
+      "body": "@dreamingtulpa Our IPDreamer utilizes image prompt adaption for 3D synthesis a year ago, and also realize high-fidelity results, welcome to have a check~ https://t.co/Q0FlC69gbR",
+      "url": "https://x.com/bohan_zeng/status/1850480881838026834",
+      "author": "1580508110279438337",
+      "published_at": "2024-10-27T10:13:17",
+      "observed_at": "2026-09-10T03:54:49.947966",
+      "metrics": {
+        "author_handle": "bohan_zeng",
+        "author_followers": 92,
+        "likes": 4,
+        "views": 694,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

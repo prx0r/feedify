@@ -1,0 +1,539 @@
+{
+  "handle": "EliseScience",
+  "total_tweets": 28,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1843824340393185707",
+      "title": "Thrilled to share our research on designing better 3' UTRs for mRNA therapeutics and vaccines!\n\nBy integrating high-throughput stability assays, machine learnin",
+      "body": "Thrilled to share our research on designing better 3' UTRs for mRNA therapeutics and vaccines!\n\nBy integrating high-throughput stability assays, machine learning models, and mRNA domain expertise, we engineered 3' UTRs that improve mRNA stability and protein production in vivo.",
+      "url": "https://x.com/EliseScience/status/1843824340393185707",
+      "author": "2861039096",
+      "published_at": "2024-10-09T01:22:34",
+      "observed_at": "2026-09-10T03:53:10.209903",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 4,
+        "views": 1092,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1585384374719369217",
+      "title": "Now @riley_mangan using single cell in vivo brain MPRA to find regulatory effects of human accelerated region (HAR) regulatory elements. Finds hominin-specific ",
+      "body": "Now @riley_mangan using single cell in vivo brain MPRA to find regulatory effects of human accelerated region (HAR) regulatory elements. Finds hominin-specific and cell-type-specific effects! #ashg22",
+      "url": "https://x.com/EliseScience/status/1585384374719369217",
+      "author": "2861039096",
+      "published_at": "2022-10-26T21:34:24",
+      "observed_at": "2026-09-10T03:53:10.212066",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 2,
+        "views": 0,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1585381047998390272",
+      "title": "Maya Bose from @theparkerlab with a talk about position-dependent effects of regulatory elements in an MPRA. Many TFBSs had larger effect upstream of promoter v",
+      "body": "Maya Bose from @theparkerlab with a talk about position-dependent effects of regulatory elements in an MPRA. Many TFBSs had larger effect upstream of promoter vs. downstream (including E2F, ETS), and activity was heavily biased for the forward strand #ashg22",
+      "url": "https://x.com/EliseScience/status/1585381047998390272",
+      "author": "2861039096",
+      "published_at": "2022-10-26T21:21:11",
+      "observed_at": "2026-09-10T03:53:10.214549",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1585377938756628480",
+      "title": "@bowennjin finished up a great talk of promoter kinetics in cell lines: TF binding influences transcriptional burst frequency, not burst size. If frequency/size",
+      "body": "@bowennjin finished up a great talk of promoter kinetics in cell lines: TF binding influences transcriptional burst frequency, not burst size. If frequency/size have opposite effects, they may be masked in classic eQTL studies #ashg22",
+      "url": "https://x.com/EliseScience/status/1585377938756628480",
+      "author": "2861039096",
+      "published_at": "2022-10-26T21:08:50",
+      "observed_at": "2026-09-10T03:53:10.216613",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1524026069497655300",
+      "title": "Alternatively, if reading's not your thing, you can listen to some of my friends and family explain eQTLs after listening to my defense. https://t.co/1Lvzc4ohCk",
+      "body": "Alternatively, if reading's not your thing, you can listen to some of my friends and family explain eQTLs after listening to my defense. https://t.co/1Lvzc4ohCk",
+      "url": "https://x.com/EliseScience/status/1524026069497655300",
+      "author": "2861039096",
+      "published_at": "2022-05-10T13:58:24",
+      "observed_at": "2026-09-10T03:53:10.218389",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1523858331097604096",
+      "title": "Have you wondered what eQTLs are or how they work?? @tuuliel_lab and I wrote a review about determining causal variants, elucidating molecular mechanisms, and u",
+      "body": "Have you wondered what eQTLs are or how they work?? @tuuliel_lab and I wrote a review about determining causal variants, elucidating molecular mechanisms, and understanding the context variability of eQTLs. https://t.co/yoyaypzhaW",
+      "url": "https://x.com/EliseScience/status/1523858331097604096",
+      "author": "2861039096",
+      "published_at": "2022-05-10T02:51:52",
+      "observed_at": "2026-09-10T03:53:10.221736",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 52,
+        "views": 0,
+        "reposts": 14,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1468428154884829187",
+      "title": "Via @caitlin_bored",
+      "body": "Via @caitlin_bored",
+      "url": "https://x.com/EliseScience/status/1468428154884829187",
+      "author": "2861039096",
+      "published_at": "2021-12-08T03:52:08",
+      "observed_at": "2026-09-10T03:53:10.225580",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1468420422064615425",
+      "title": "\ud83d\udc40 by @YocelynRecinos",
+      "body": "\ud83d\udc40 by @YocelynRecinos",
+      "url": "https://x.com/EliseScience/status/1468420422064615425",
+      "author": "2861039096",
+      "published_at": "2021-12-08T03:21:25",
+      "observed_at": "2026-09-10T03:53:10.226561",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1468420037174308865",
+      "title": "Ummm, why did no one tell me I was only supposed to work 20 hours a week during my PhD? I guess @tuuliel_lab really lucked out \ud83e\udd14 #phdlife #Columbia #UnionStrong",
+      "body": "Ummm, why did no one tell me I was only supposed to work 20 hours a week during my PhD? I guess @tuuliel_lab really lucked out \ud83e\udd14 #phdlife #Columbia #UnionStrong @SW_Columbia @ColumbiaCMBS https://t.co/800Y7vgfBZ",
+      "url": "https://x.com/EliseScience/status/1468420037174308865",
+      "author": "2861039096",
+      "published_at": "2021-12-08T03:19:53",
+      "observed_at": "2026-09-10T03:53:10.227271",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 132,
+        "views": 0,
+        "reposts": 16,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1451615846590255149",
+      "title": "@johnomix I was just recommended this session by @valkanase!! Missed it but will have to watch the recording..",
+      "body": "@johnomix I was just recommended this session by @valkanase!! Missed it but will have to watch the recording..",
+      "url": "https://x.com/EliseScience/status/1451615846590255149",
+      "author": "2861039096",
+      "published_at": "2021-10-22T18:26:02",
+      "observed_at": "2026-09-10T03:53:10.228879",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1438198802792554501",
+      "title": "@srsandve @generegulation Quantifying effect sizes: https://t.co/D8KfUjicIQ\nTissue-specific opposite directional effects: https://t.co/JL60mJzJv6\nLatest GTEx pa",
+      "body": "@srsandve @generegulation Quantifying effect sizes: https://t.co/D8KfUjicIQ\nTissue-specific opposite directional effects: https://t.co/JL60mJzJv6\nLatest GTEx paper, including cross-tissue eQTL effect size vs eGene expression: https://t.co/BUvO1hTeGy",
+      "url": "https://x.com/EliseScience/status/1438198802792554501",
+      "author": "2861039096",
+      "published_at": "2021-09-15T17:51:29",
+      "observed_at": "2026-09-10T03:53:10.230090",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1435278396691451906",
+      "title": "@tuuliel @tuuliel_lab @JuliaDiumenge @mollymozzarella @EinsonJ And for all the fun times ;-) https://t.co/cSCP9nHpjo",
+      "body": "@tuuliel @tuuliel_lab @JuliaDiumenge @mollymozzarella @EinsonJ And for all the fun times ;-) https://t.co/cSCP9nHpjo",
+      "url": "https://x.com/EliseScience/status/1435278396691451906",
+      "author": "2861039096",
+      "published_at": "2021-09-07T16:26:50",
+      "observed_at": "2026-09-10T03:53:10.231947",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 8,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1435276871189635076",
+      "title": "Woohoo! Thanks to Tuuli and the lab and so many others for all the years of guidance and support! https://t.co/MLMxRAatwH",
+      "body": "Woohoo! Thanks to Tuuli and the lab and so many others for all the years of guidance and support! https://t.co/MLMxRAatwH",
+      "url": "https://x.com/EliseScience/status/1435276871189635076",
+      "author": "2861039096",
+      "published_at": "2021-09-07T16:20:46",
+      "observed_at": "2026-09-10T03:53:10.233166",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 28,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1418274878587871236",
+      "title": "https://t.co/q0Ss1M7g3v",
+      "body": "https://t.co/q0Ss1M7g3v",
+      "url": "https://x.com/EliseScience/status/1418274878587871236",
+      "author": "2861039096",
+      "published_at": "2021-07-22T18:20:55",
+      "observed_at": "2026-09-10T03:53:10.233924",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 7,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1418221720184446976",
+      "title": "And of course thanks to @tuuliel and @Pejminister for all of their ideas, support, and guidance, Athena who doesn't have a Twitter but helped get this to the fi",
+      "body": "And of course thanks to @tuuliel and @Pejminister for all of their ideas, support, and guidance, Athena who doesn't have a Twitter but helped get this to the finish line, and @silvakasela @skimhellmuth @francoisaguet @KArdlie and @HarmenBussemkr for everything!",
+      "url": "https://x.com/EliseScience/status/1418221720184446976",
+      "author": "2861039096",
+      "published_at": "2021-07-22T14:49:42",
+      "observed_at": "2026-09-10T03:53:10.234550",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1418219060458889216",
+      "title": "These TF-eQTLs can help us unlock mechanisms of regulatory variant effects and understand their context specificity across tissues, cell types, and conditions -",
+      "body": "These TF-eQTLs can help us unlock mechanisms of regulatory variant effects and understand their context specificity across tissues, cell types, and conditions -- clearly important for understanding any contributions to phenotype and disease. Read the preprint for more :-)",
+      "url": "https://x.com/EliseScience/status/1418219060458889216",
+      "author": "2861039096",
+      "published_at": "2021-07-22T14:39:07",
+      "observed_at": "2026-09-10T03:53:10.235286",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1418217665735364608",
+      "title": "We looked at patterns of 169 TFs vs. 1M variant-gene pairs across GTEx tissues as well as across individuals within 16 tissues. And we found a bunch of TF-eQTLs",
+      "body": "We looked at patterns of 169 TFs vs. 1M variant-gene pairs across GTEx tissues as well as across individuals within 16 tissues. And we found a bunch of TF-eQTLs! They're validated by TFBS annotations and experiments, and they overlap GxE and GWAS loci.",
+      "url": "https://x.com/EliseScience/status/1418217665735364608",
+      "author": "2861039096",
+      "published_at": "2021-07-22T14:33:35",
+      "observed_at": "2026-09-10T03:53:10.236697",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 6,
+        "views": 0,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1418216668006846464",
+      "title": "Most non-coding regulatory variants probably work by altering transcription factor binding. So we hypothesized that we could find TF mechanisms of eQTLs by find",
+      "body": "Most non-coding regulatory variants probably work by altering transcription factor binding. So we hypothesized that we could find TF mechanisms of eQTLs by finding correlations between TFs and eQTL effects.",
+      "url": "https://x.com/EliseScience/status/1418216668006846464",
+      "author": "2861039096",
+      "published_at": "2021-07-22T14:29:37",
+      "observed_at": "2026-09-10T03:53:10.238466",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1418216311008673792",
+      "title": "Excited to share that our preprint on transcription factors and eQTLs is out! https://t.co/gmlhmhr84r",
+      "body": "Excited to share that our preprint on transcription factors and eQTLs is out! https://t.co/gmlhmhr84r",
+      "url": "https://x.com/EliseScience/status/1418216311008673792",
+      "author": "2861039096",
+      "published_at": "2021-07-22T14:28:12",
+      "observed_at": "2026-09-10T03:53:10.240703",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 95,
+        "views": 0,
+        "reposts": 27,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1382825158688247809",
+      "title": "@winterserif @arnavm1 @mbeisen @NeedhiBhalla FYI, you can now! They changed the tax law last year",
+      "body": "@winterserif @arnavm1 @mbeisen @NeedhiBhalla FYI, you can now! They changed the tax law last year",
+      "url": "https://x.com/EliseScience/status/1382825158688247809",
+      "author": "2861039096",
+      "published_at": "2021-04-15T22:36:24",
+      "observed_at": "2026-09-10T03:53:10.241692",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1321535981338660865",
+      "title": "@nikkiaaaron Congrats!! \ud83c\udf89\ud83c\udf89",
+      "body": "@nikkiaaaron Congrats!! \ud83c\udf89\ud83c\udf89",
+      "url": "https://x.com/EliseScience/status/1321535981338660865",
+      "author": "2861039096",
+      "published_at": "2020-10-28T19:35:05",
+      "observed_at": "2026-09-10T03:53:10.242493",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1321130446000979968",
+      "title": "*two cats! https://t.co/aIAG4CGWr2",
+      "body": "*two cats! https://t.co/aIAG4CGWr2",
+      "url": "https://x.com/EliseScience/status/1321130446000979968",
+      "author": "2861039096",
+      "published_at": "2020-10-27T16:43:38",
+      "observed_at": "2026-09-10T03:53:10.243352",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1320773377624313861",
+      "title": "Had a lot of fun putting together my first session as a member of the ASHG Program Committee, and I especially want to thank my Bioinformatics Subgroup colleagu",
+      "body": "Had a lot of fun putting together my first session as a member of the ASHG Program Committee, and I especially want to thank my Bioinformatics Subgroup colleagues @michaelhoffman and @timreddy for the good times \u270c\ufe0f",
+      "url": "https://x.com/EliseScience/status/1320773377624313861",
+      "author": "2861039096",
+      "published_at": "2020-10-26T17:04:46",
+      "observed_at": "2026-09-10T03:53:10.244255",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 1,
+        "views": 0,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1320763429817405442",
+      "title": "Minzhi Jiang will present sparse multiple canonical correlation analysis (SMCCA) approaches to analyzing multi-omic and phenotypic data in the Multi-Ethnic Stud",
+      "body": "Minzhi Jiang will present sparse multiple canonical correlation analysis (SMCCA) approaches to analyzing multi-omic and phenotypic data in the Multi-Ethnic Study of Atherosclerosis (MESA)",
+      "url": "https://x.com/EliseScience/status/1320763429817405442",
+      "author": "2861039096",
+      "published_at": "2020-10-26T16:25:14",
+      "observed_at": "2026-09-10T03:53:10.245176",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1320762354536206339",
+      "title": "@joellembatchou will describe REGENIE, a machine learning method for efficient large scale association analyses",
+      "body": "@joellembatchou will describe REGENIE, a machine learning method for efficient large scale association analyses",
+      "url": "https://x.com/EliseScience/status/1320762354536206339",
+      "author": "2861039096",
+      "published_at": "2020-10-26T16:20:58",
+      "observed_at": "2026-09-10T03:53:10.248003",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 0,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1275604844322017280",
+      "title": "@Bodegacats_ I want to say it's the same bb I met a few months ago, but not sure https://t.co/Q3EU8OdI6i",
+      "body": "@Bodegacats_ I want to say it's the same bb I met a few months ago, but not sure https://t.co/Q3EU8OdI6i",
+      "url": "https://x.com/EliseScience/status/1275604844322017280",
+      "author": "2861039096",
+      "published_at": "2020-06-24T01:41:09",
+      "observed_at": "2026-09-10T03:53:10.249090",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 18,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1258593229538095105",
+      "title": "@SouthwestAir I thought that customer-facing employees have been required to wear masks since May 3rd?",
+      "body": "@SouthwestAir I thought that customer-facing employees have been required to wear masks since May 3rd?",
+      "url": "https://x.com/EliseScience/status/1258593229538095105",
+      "author": "2861039096",
+      "published_at": "2020-05-08T03:03:04",
+      "observed_at": "2026-09-10T03:53:10.249667",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1238121742704443404",
+      "title": "@iamdimitre overrated",
+      "body": "@iamdimitre overrated",
+      "url": "https://x.com/EliseScience/status/1238121742704443404",
+      "author": "2861039096",
+      "published_at": "2020-03-12T15:16:41",
+      "observed_at": "2026-09-10T03:53:10.250329",
+      "metrics": {
+        "author_handle": "EliseScience",
+        "author_followers": 324,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

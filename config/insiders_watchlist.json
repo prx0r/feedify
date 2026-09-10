@@ -24,5 +24,6 @@
   {"handle": "QuantinuumQC", "domain": "quantum", "kind": "quantum_trapped_ion"},
   {"handle": "NVIDIA", "domain": "chips", "kind": "ai_gpu"},
   {"handle": "AMD", "domain": "chips", "kind": "ai_gpu"},
-  {"handle": "nabors", "domain": "power", "kind": "power_infra"}
+  {"handle": "nabors", "domain": "power", "kind": "power_infra"},
+  {"handle": "DeepDishEnjoyer", "domain": "stocks", "kind": "stock_analysis"}
 ]

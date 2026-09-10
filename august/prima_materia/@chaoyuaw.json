@@ -1,0 +1,501 @@
+{
+  "handle": "chaoyuaw",
+  "total_tweets": 26,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2094842459268551102",
+      "title": "Bonus: in 3d you can actual see and verify that it's correct, instead of just feeling correct! https://t.co/AIH0WuteCC",
+      "body": "Bonus: in 3d you can actual see and verify that it's correct, instead of just feeling correct! https://t.co/AIH0WuteCC",
+      "url": "https://x.com/chaoyuaw/status/2094842459268551102",
+      "author": "1880989946",
+      "published_at": "2026-09-01T17:38:57",
+      "observed_at": "2026-09-10T03:54:52.701524",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 2,
+        "views": 219,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094842060977414393",
+      "title": "A world model promises one thing: predicting how world operates & changes over space and time.\nIt's extremely hard to completely solve this (as it pretty much m",
+      "body": "A world model promises one thing: predicting how world operates & changes over space and time.\nIt's extremely hard to completely solve this (as it pretty much means modeling the whole universe and beyond), but Atlas has made a sizable step toward it.\n\nYou know something is right when things used to be impossible start to just work and feel easy. I'm especially impressed by the level of precision it offers. Sparse reconstruction results at this level of completeness and quality were unimaginable before (e.g. https://t.co/9btw4QpiOp)\n\nCan't wait to bring the power of atlas to everyone soon.",
+      "url": "https://x.com/chaoyuaw/status/2094842060977414393",
+      "author": "1880989946",
+      "published_at": "2026-09-01T17:37:22",
+      "observed_at": "2026-09-10T03:54:52.702723",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 55,
+        "views": 6610,
+        "reposts": 5,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082169162936516901",
+      "title": "really excited about the next frontier of AI --- building worlds that train robots",
+      "body": "really excited about the next frontier of AI --- building worlds that train robots",
+      "url": "https://x.com/chaoyuaw/status/2082169162936516901",
+      "author": "1880989946",
+      "published_at": "2026-07-28T18:19:47",
+      "observed_at": "2026-09-10T03:54:52.704735",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 11,
+        "views": 754,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079643318330462508",
+      "title": "An important step for WL. Interaction is going to unlock progress across so many areas! Exciting time ahead!",
+      "body": "An important step for WL. Interaction is going to unlock progress across so many areas! Exciting time ahead!",
+      "url": "https://x.com/chaoyuaw/status/2079643318330462508",
+      "author": "1880989946",
+      "published_at": "2026-07-21T19:02:59",
+      "observed_at": "2026-09-10T03:54:52.706252",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 15,
+        "views": 933,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2079630175755698398",
+      "title": "@YunzhuLiYZ @drfeifei @jcjohnss @BenMildenhall @theworldlabs Welcome @YunzhuLiYZ ! can't wait to work with you",
+      "body": "@YunzhuLiYZ @drfeifei @jcjohnss @BenMildenhall @theworldlabs Welcome @YunzhuLiYZ ! can't wait to work with you",
+      "url": "https://x.com/chaoyuaw/status/2079630175755698398",
+      "author": "1880989946",
+      "published_at": "2026-07-21T18:10:46",
+      "observed_at": "2026-09-10T03:54:52.707153",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 2,
+        "views": 180,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075650898819481953",
+      "title": "Marble x Unreal Engine!",
+      "body": "Marble x Unreal Engine!",
+      "url": "https://x.com/chaoyuaw/status/2075650898819481953",
+      "author": "1880989946",
+      "published_at": "2026-07-10T18:38:32",
+      "observed_at": "2026-09-10T03:54:52.713415",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 5,
+        "views": 345,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2041577276756935037",
+      "title": "Excited to ship this upgrade!\nBigger and better worlds with Marble 1.1 Plus!",
+      "body": "Excited to ship this upgrade!\nBigger and better worlds with Marble 1.1 Plus!",
+      "url": "https://x.com/chaoyuaw/status/2041577276756935037",
+      "author": "1880989946",
+      "published_at": "2026-04-07T18:02:08",
+      "observed_at": "2026-09-10T03:54:52.714645",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 23,
+        "views": 1183,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2024165714182205793",
+      "title": "Really proud of the team. We keep building, full speed ahead! \ud83d\ude80\ud83d\udcaa\u26a1",
+      "body": "Really proud of the team. We keep building, full speed ahead! \ud83d\ude80\ud83d\udcaa\u26a1",
+      "url": "https://x.com/chaoyuaw/status/2024165714182205793",
+      "author": "1880989946",
+      "published_at": "2026-02-18T16:54:48",
+      "observed_at": "2026-09-10T03:54:52.715594",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 22,
+        "views": 2060,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2014053630878310480",
+      "title": "The World API is live! Whether it\u2019s robotics, gaming, design, production \u2014 or something totally unexpected \u2014 can\u2019t wait to see what people ship \ud83d\ude80\ud83d\udd25",
+      "body": "The World API is live! Whether it\u2019s robotics, gaming, design, production \u2014 or something totally unexpected \u2014 can\u2019t wait to see what people ship \ud83d\ude80\ud83d\udd25",
+      "url": "https://x.com/chaoyuaw/status/2014053630878310480",
+      "author": "1880989946",
+      "published_at": "2026-01-21T19:12:59",
+      "observed_at": "2026-09-10T03:54:52.716648",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 6,
+        "views": 508,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1991924270499606559",
+      "title": "\ud83e\udd16\ud83c\udf10\ud83d\ude0d",
+      "body": "\ud83e\udd16\ud83c\udf10\ud83d\ude0d",
+      "url": "https://x.com/chaoyuaw/status/1991924270499606559",
+      "author": "1880989946",
+      "published_at": "2025-11-21T17:38:48",
+      "observed_at": "2026-09-10T03:54:52.717538",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 96,
+        "views": 12952,
+        "reposts": 4,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989042078698082685",
+      "title": "Marble isn't just some \"future tech\" --- we've already used it to make our launch video!",
+      "body": "Marble isn't just some \"future tech\" --- we've already used it to make our launch video!",
+      "url": "https://x.com/chaoyuaw/status/1989042078698082685",
+      "author": "1880989946",
+      "published_at": "2025-11-13T18:46:00",
+      "observed_at": "2026-09-10T03:54:52.718369",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 22,
+        "views": 1870,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1988673940487917962",
+      "title": "@Mikke_Pretty @theworldlabs It's already compatible! you can find an \"Open VR\" button at the lower right corner in the viewing mode!\ud83e\udd7d",
+      "body": "@Mikke_Pretty @theworldlabs It's already compatible! you can find an \"Open VR\" button at the lower right corner in the viewing mode!\ud83e\udd7d",
+      "url": "https://x.com/chaoyuaw/status/1988673940487917962",
+      "author": "1880989946",
+      "published_at": "2025-11-12T18:23:09",
+      "observed_at": "2026-09-10T03:54:52.719358",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 2,
+        "views": 60,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1988657449155584131",
+      "title": "@theworldlabs If you're also excited about spatial intelligence, please join us!\nWe're actively hiring strong diffusion / generative model research scientists (",
+      "body": "@theworldlabs If you're also excited about spatial intelligence, please join us!\nWe're actively hiring strong diffusion / generative model research scientists (and many other roles as well)! https://t.co/cpBvsvA8h6",
+      "url": "https://x.com/chaoyuaw/status/1988657449155584131",
+      "author": "1880989946",
+      "published_at": "2025-11-12T17:17:38",
+      "observed_at": "2026-09-10T03:54:52.720195",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 4,
+        "views": 282,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1988656695414059092",
+      "title": "We launched Marble today.\nIt's been an incredible journey over the past two years \u2014 from zero lines of code to our first product.\nI'm so proud of what we've bui",
+      "body": "We launched Marble today.\nIt's been an incredible journey over the past two years \u2014 from zero lines of code to our first product.\nI'm so proud of what we've built at @theworldlabs , and even more excited for what's next.",
+      "url": "https://x.com/chaoyuaw/status/1988656695414059092",
+      "author": "1880989946",
+      "published_at": "2025-11-12T17:14:38",
+      "observed_at": "2026-09-10T03:54:52.721585",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 144,
+        "views": 14963,
+        "reposts": 8,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1978955704531661310",
+      "title": "We're hiring!! Come build more frame models with us!\ud83d\uddbc\ufe0f\ud83c\udfae\u26a1\ufe0f\ufffd\ufffd\ufffd\nhttps://t.co/cpBvsvzAry",
+      "body": "We're hiring!! Come build more frame models with us!\ud83d\uddbc\ufe0f\ud83c\udfae\u26a1\ufe0f\ufffd\ufffd\ufffd\nhttps://t.co/cpBvsvzAry",
+      "url": "https://x.com/chaoyuaw/status/1978955704531661310",
+      "author": "1880989946",
+      "published_at": "2025-10-16T22:46:21",
+      "observed_at": "2026-09-10T03:54:52.722639",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 25,
+        "views": 7163,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1978863873022194044",
+      "title": "Please check out our latest research on RTFM --- a persistent, 3d-consistent, real-time frame generation model running on a single GPU!\u26a1\ufe0f\ud83e\udeb6\nDemo's live!! \ud83c\udfae\ud83d\uddbc\ufe0f",
+      "body": "Please check out our latest research on RTFM --- a persistent, 3d-consistent, real-time frame generation model running on a single GPU!\u26a1\ufe0f\ud83e\udeb6\nDemo's live!! \ud83c\udfae\ud83d\uddbc\ufe0f",
+      "url": "https://x.com/chaoyuaw/status/1978863873022194044",
+      "author": "1880989946",
+      "published_at": "2025-10-16T16:41:27",
+      "observed_at": "2026-09-10T03:54:52.723414",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 40,
+        "views": 3141,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1974209021025374668",
+      "title": "We're hiring research scientists in diffusion / generative models at @theworldlabs!\nCheck out the role here: https://t.co/cpBvsvzAry\nFeel free to DM me if you w",
+      "body": "We're hiring research scientists in diffusion / generative models at @theworldlabs!\nCheck out the role here: https://t.co/cpBvsvzAry\nFeel free to DM me if you would like to chat!\ud83d\udc4b https://t.co/1T6h2p293Z",
+      "url": "https://x.com/chaoyuaw/status/1974209021025374668",
+      "author": "1880989946",
+      "published_at": "2025-10-03T20:24:44",
+      "observed_at": "2026-09-10T03:54:52.724881",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 288,
+        "views": 190753,
+        "reposts": 25,
+        "replies": 12,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1967995555591995450",
+      "title": "Thrilled to share what we've been building \u2014 our model now generates worlds that are bigger, richer, and persist forever. \n\nYou can now make your own by joining",
+      "body": "Thrilled to share what we've been building \u2014 our model now generates worlds that are bigger, richer, and persist forever. \n\nYou can now make your own by joining our waitlist. \n\nIf you\u2019re also passionate about spatial intelligence, please join us! \ud83d\ude80\nhttps://t.co/cpBvsvA8h6",
+      "url": "https://x.com/chaoyuaw/status/1967995555591995450",
+      "author": "1880989946",
+      "published_at": "2025-09-16T16:54:38",
+      "observed_at": "2026-09-10T03:54:52.727125",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 23,
+        "views": 2003,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1863621429067203018",
+      "title": "Hello, World Generation!\n\nToday, we're sharing some updates on what we've been building at @theworldlabs! \n\nVery excited about the huge potential of interactive",
+      "body": "Hello, World Generation!\n\nToday, we're sharing some updates on what we've been building at @theworldlabs! \n\nVery excited about the huge potential of interactive 3D world generation!",
+      "url": "https://x.com/chaoyuaw/status/1863621429067203018",
+      "author": "1880989946",
+      "published_at": "2024-12-02T16:29:07",
+      "observed_at": "2026-09-10T03:54:52.728738",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 29,
+        "views": 2134,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1834622625462759773",
+      "title": "Happy to share that we're launching World Labs, a Spatial Intelligence company! Please follow us @theworldlabs !",
+      "body": "Happy to share that we're launching World Labs, a Spatial Intelligence company! Please follow us @theworldlabs !",
+      "url": "https://x.com/chaoyuaw/status/1834622625462759773",
+      "author": "1880989946",
+      "published_at": "2024-09-13T15:58:14",
+      "observed_at": "2026-09-10T03:54:52.730227",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 56,
+        "views": 17101,
+        "reposts": 5,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1582056209787412482",
+      "title": "@xavierpuigf @MetaAI Congrats!!",
+      "body": "@xavierpuigf @MetaAI Congrats!!",
+      "url": "https://x.com/chaoyuaw/status/1582056209787412482",
+      "author": "1880989946",
+      "published_at": "2022-10-17T17:09:28",
+      "observed_at": "2026-09-10T03:54:52.731060",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1236002917372571648",
+      "title": "@sxsw @hannibalburess @jondaly @yamaneika Cancel!  @cancelsxsw",
+      "body": "@sxsw @hannibalburess @jondaly @yamaneika Cancel!  @cancelsxsw",
+      "url": "https://x.com/chaoyuaw/status/1236002917372571648",
+      "author": "1880989946",
+      "published_at": "2020-03-06T18:57:13",
+      "observed_at": "2026-09-10T03:54:52.731756",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 1,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1235418905390116864",
+      "title": "@UTAustin and we don't pull out of SXSW? https://t.co/jJT2ey2RIq",
+      "body": "@UTAustin and we don't pull out of SXSW? https://t.co/jJT2ey2RIq",
+      "url": "https://x.com/chaoyuaw/status/1235418905390116864",
+      "author": "1880989946",
+      "published_at": "2020-03-05T04:16:34",
+      "observed_at": "2026-09-10T03:54:52.732405",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 5,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1234913189424443393",
+      "title": "@sxsw &gt;34,000 people are also asking it to be canceled this year. Doesn't worth the risk.\nhttps://t.co/tkhUvUvG0m",
+      "body": "@sxsw &gt;34,000 people are also asking it to be canceled this year. Doesn't worth the risk.\nhttps://t.co/tkhUvUvG0m",
+      "url": "https://x.com/chaoyuaw/status/1234913189424443393",
+      "author": "1880989946",
+      "published_at": "2020-03-03T18:47:02",
+      "observed_at": "2026-09-10T03:54:52.733049",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 44,
+        "views": 0,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1234523513735827465",
+      "title": "@sxsw @trent_reznor @st_vincent @Carrie_Rachel @JanelleMonae @thumbelulu #cancelsxsw &gt;18k people have signed the petition:\nhttps://t.co/QZ2A1eGChW",
+      "body": "@sxsw @trent_reznor @st_vincent @Carrie_Rachel @JanelleMonae @thumbelulu #cancelsxsw &gt;18k people have signed the petition:\nhttps://t.co/QZ2A1eGChW",
+      "url": "https://x.com/chaoyuaw/status/1234523513735827465",
+      "author": "1880989946",
+      "published_at": "2020-03-02T16:58:36",
+      "observed_at": "2026-09-10T03:54:52.733650",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1234522832803127296",
+      "title": "@sxsw @trent_reznor @st_vincent @Carrie_Rachel @JanelleMonae @thumbelulu - Facebook F8 is canceled.\n - GDC is canceled.\n - WMC (100,000 participants) is cancele",
+      "body": "@sxsw @trent_reznor @st_vincent @Carrie_Rachel @JanelleMonae @thumbelulu - Facebook F8 is canceled.\n - GDC is canceled.\n - WMC (100,000 participants) is canceled.\n - Switzerland has banned gatherings of &gt;1000 people.\n - Twitter pulls out of SXSW.\n - Amazon and Google are halting travel for employees.\n\nNot a good time for SXSW. Please cancel it.",
+      "url": "https://x.com/chaoyuaw/status/1234522832803127296",
+      "author": "1880989946",
+      "published_at": "2020-03-02T16:55:54",
+      "observed_at": "2026-09-10T03:54:52.734975",
+      "metrics": {
+        "author_handle": "chaoyuaw",
+        "author_followers": 1732,
+        "likes": 7,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

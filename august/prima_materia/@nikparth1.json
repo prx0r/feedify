@@ -1,0 +1,539 @@
+{
+  "handle": "nikparth1",
+  "total_tweets": 28,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2097739320559870038",
+      "title": "@LucasSmaira This is cool! I like the benchmark idea quite a bit but now wondering how Astra does? Seems you only tested Sol? Also do these results change with ",
+      "body": "@LucasSmaira This is cool! I like the benchmark idea quite a bit but now wondering how Astra does? Seems you only tested Sol? Also do these results change with the amount of thinking effort used?",
+      "url": "https://x.com/nikparth1/status/2097739320559870038",
+      "author": "940688534524088326",
+      "published_at": "2026-09-09T17:30:02",
+      "observed_at": "2026-09-10T03:55:48.227789",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 1,
+        "views": 17,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097511259558089148",
+      "title": "I've always been skeptical of the ceiling on what can be decoded from EEG (especially in the context of continuous cursor control) but if this works and is robu",
+      "body": "I've always been skeptical of the ceiling on what can be decoded from EEG (especially in the context of continuous cursor control) but if this works and is robust, it's impressive! Looking forward to seeing more information about the data and modeling approach!",
+      "url": "https://x.com/nikparth1/status/2097511259558089148",
+      "author": "940688534524088326",
+      "published_at": "2026-09-09T02:23:48",
+      "observed_at": "2026-09-10T03:55:48.231923",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 16,
+        "views": 1887,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097309054947229987",
+      "title": "@giffmana @NandoDF Glad to hear it's not just a skill issue \ud83d\ude05 since I've been probing this for awhile now too with all the models and found similar, especially ",
+      "body": "@giffmana @NandoDF Glad to hear it's not just a skill issue \ud83d\ude05 since I've been probing this for awhile now too with all the models and found similar, especially when given a set of noisy results (not a single number) to interpret sensibly and optimize against.",
+      "url": "https://x.com/nikparth1/status/2097309054947229987",
+      "author": "940688534524088326",
+      "published_at": "2026-09-08T13:00:19",
+      "observed_at": "2026-09-10T03:55:48.235783",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 1,
+        "views": 46,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096942841419243670",
+      "title": "@RichardSocher 100% agree scientists should be celebrated more based on their impact but your example is why doing this only via counting stats is a bad idea. I",
+      "body": "@RichardSocher 100% agree scientists should be celebrated more based on their impact but your example is why doing this only via counting stats is a bad idea. It can't be only citation-count for the same reason no one seriously thinks the top-10 NBA list is determined by total points scored...",
+      "url": "https://x.com/nikparth1/status/2096942841419243670",
+      "author": "940688534524088326",
+      "published_at": "2026-09-07T12:45:07",
+      "observed_at": "2026-09-10T03:55:48.239170",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 1,
+        "views": 58,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094057342824304898",
+      "title": "@pitdesi @dylan522p Amsterdam is only good if you're connecting. If you're trying to leave/enter it's probably the worst, least efficient passport control I've ",
+      "body": "@pitdesi @dylan522p Amsterdam is only good if you're connecting. If you're trying to leave/enter it's probably the worst, least efficient passport control I've ever had (I've done it now so many times and am continuously shocked by how bad it is).  Copenhagen, Zurich, Bergen, are great though.",
+      "url": "https://x.com/nikparth1/status/2094057342824304898",
+      "author": "940688534524088326",
+      "published_at": "2026-08-30T13:39:10",
+      "observed_at": "2026-09-10T03:55:48.241352",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 7,
+        "views": 205,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2080643717749158176",
+      "title": "Imho it's on companies to just change their interview processes to assess how candidates use AI tools to solve more complex tasks. It's silly to keep testing pe",
+      "body": "Imho it's on companies to just change their interview processes to assess how candidates use AI tools to solve more complex tasks. It's silly to keep testing people in an environment so out of distribution relative to what their actual job would be...",
+      "url": "https://x.com/nikparth1/status/2080643717749158176",
+      "author": "940688534524088326",
+      "published_at": "2026-07-24T13:18:13",
+      "observed_at": "2026-09-10T03:55:48.244011",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 12,
+        "views": 2348,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2076662291123130680",
+      "title": "Very cool work from a great student researcher and colleagues at GDM! Check out the thread for some nice results and visualizations of what a generative video m",
+      "body": "Very cool work from a great student researcher and colleagues at GDM! Check out the thread for some nice results and visualizations of what a generative video model finetuned in the right way can do to solve a really diverse set of dense vision tasks!",
+      "url": "https://x.com/nikparth1/status/2076662291123130680",
+      "author": "940688534524088326",
+      "published_at": "2026-07-13T13:37:27",
+      "observed_at": "2026-09-10T03:55:48.245308",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 20,
+        "views": 2925,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075942251302207536",
+      "title": "@wolfejosh This isn't new, in fact there's a whole benchmark using this idea: https://t.co/aOrf4FaVEc\nIt isn't about intelligence, it's about visual encoding. T",
+      "body": "@wolfejosh This isn't new, in fact there's a whole benchmark using this idea: https://t.co/aOrf4FaVEc\nIt isn't about intelligence, it's about visual encoding. To see something like this you need to integrate local motion early in the model because each frame individually is just noise.",
+      "url": "https://x.com/nikparth1/status/2075942251302207536",
+      "author": "940688534524088326",
+      "published_at": "2026-07-11T13:56:16",
+      "observed_at": "2026-09-10T03:55:48.246381",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 6,
+        "views": 233,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075292393985704047",
+      "title": "Awesome work- BCI technology continues to progress at a rapid pace and I don't see it slowing down any time soon!",
+      "body": "Awesome work- BCI technology continues to progress at a rapid pace and I don't see it slowing down any time soon!",
+      "url": "https://x.com/nikparth1/status/2075292393985704047",
+      "author": "940688534524088326",
+      "published_at": "2026-07-09T18:53:58",
+      "observed_at": "2026-09-10T03:55:48.248757",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 8,
+        "views": 1199,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2072777114667876531",
+      "title": "Second, there are a lot of ways to fool yourself: Data affects pretraining in a scale-dependent manner so your conclusions need to be \"scale-aware\"! Also it's v",
+      "body": "Second, there are a lot of ways to fool yourself: Data affects pretraining in a scale-dependent manner so your conclusions need to be \"scale-aware\"! Also it's very easy to see domain or task-specific effects, so an extremely diverse and reliable eval set is essential!",
+      "url": "https://x.com/nikparth1/status/2072777114667876531",
+      "author": "940688534524088326",
+      "published_at": "2026-07-02T20:19:09",
+      "observed_at": "2026-09-10T03:55:48.249768",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 3,
+        "views": 106,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2072777110444294263",
+      "title": "Excited to finally share DataComp-VLM (aka DCVLM) as the latest addition to the DataComp-series: https://t.co/Codi1Q4Si2! See the attached thread for a great in",
+      "body": "Excited to finally share DataComp-VLM (aka DCVLM) as the latest addition to the DataComp-series: https://t.co/Codi1Q4Si2! See the attached thread for a great in-depth summary of the work but I'll provide a bit of commentary on what I find the most interesting! \n\ud83e\uddf5",
+      "url": "https://x.com/nikparth1/status/2072777110444294263",
+      "author": "940688534524088326",
+      "published_at": "2026-07-02T20:19:08",
+      "observed_at": "2026-09-10T03:55:48.250815",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 16,
+        "views": 1665,
+        "reposts": 3,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064663938487202272",
+      "title": "@BlackHC @honorablepicnic I agree with you if they had shown that. I'm just pointing out they never showed this silent steering approach can't for example intro",
+      "body": "@BlackHC @honorablepicnic I agree with you if they had shown that. I'm just pointing out they never showed this silent steering approach can't for example introduce subtle bugs so I have no reason to think that couldn't happen.. I'd rather have certainty on what I'm getting than an unknown behavior.",
+      "url": "https://x.com/nikparth1/status/2064663938487202272",
+      "author": "940688534524088326",
+      "published_at": "2026-06-10T11:00:17",
+      "observed_at": "2026-09-10T03:55:48.253018",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 76,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064658867540123993",
+      "title": "@BlackHC @honorablepicnic They said it \"will not fall back to a different model\" and it could silently rewrite your prompt or steer the model. If the reprompt i",
+      "body": "@BlackHC @honorablepicnic They said it \"will not fall back to a different model\" and it could silently rewrite your prompt or steer the model. If the reprompt is to \"reduce performance for this query\" it very well could introduce bugs which imp is far worse than explicitly refusing or routing.",
+      "url": "https://x.com/nikparth1/status/2064658867540123993",
+      "author": "940688534524088326",
+      "published_at": "2026-06-10T10:40:08",
+      "observed_at": "2026-09-10T03:55:48.255604",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 83,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2063370852297560521",
+      "title": "@zwcolin Very nice work! Our recent work might be of interest to you as well as your formulation of cross-attention state integration is similar to what we disc",
+      "body": "@zwcolin Very nice work! Our recent work might be of interest to you as well as your formulation of cross-attention state integration is similar to what we discovered as the best way to integrate temporal state across video frames: https://t.co/1euGK2HZtw",
+      "url": "https://x.com/nikparth1/status/2063370852297560521",
+      "author": "940688534524088326",
+      "published_at": "2026-06-06T21:22:01",
+      "observed_at": "2026-09-10T03:55:48.257111",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 77,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062938792089071627",
+      "title": "Congrats to the D4RT team! Was very cool to see this project evolve and this is truly well-deserved!",
+      "body": "Congrats to the D4RT team! Was very cool to see this project evolve and this is truly well-deserved!",
+      "url": "https://x.com/nikparth1/status/2062938792089071627",
+      "author": "940688534524088326",
+      "published_at": "2026-06-05T16:45:10",
+      "observed_at": "2026-09-10T03:55:48.259150",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 249,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057846607199031650",
+      "title": "Interesting.. in a similar spirit to classic adversarial robustness work are there any formal studies on model robustness to perturbations in harnesses that sho",
+      "body": "Interesting.. in a similar spirit to classic adversarial robustness work are there any formal studies on model robustness to perturbations in harnesses that shouldn't affect the final accuracy? I feel like that's a useful thing to track for frontier models...",
+      "url": "https://x.com/nikparth1/status/2057846607199031650",
+      "author": "940688534524088326",
+      "published_at": "2026-05-22T15:30:38",
+      "observed_at": "2026-09-10T03:55:48.260416",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 426,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057822459450044646",
+      "title": "@jchencxh our recent work may be of interest in this direction: https://t.co/1euGK2HZtw we're starting to see that models learned purely from pixel reconstructi",
+      "body": "@jchencxh our recent work may be of interest in this direction: https://t.co/1euGK2HZtw we're starting to see that models learned purely from pixel reconstruction can actually compete with latent prediction even on semantic tasks so maybe pure latent prediction isn't actually necessary",
+      "url": "https://x.com/nikparth1/status/2057822459450044646",
+      "author": "940688534524088326",
+      "published_at": "2026-05-22T13:54:41",
+      "observed_at": "2026-09-10T03:55:48.261437",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 3,
+        "views": 83,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056807418810531974",
+      "title": "On a range of video understanding benchmarks, we find that our \"post-hoc\" token reduction (WAP) technique coupled with our distillation into the LiteFrame encod",
+      "body": "On a range of video understanding benchmarks, we find that our \"post-hoc\" token reduction (WAP) technique coupled with our distillation into the LiteFrame encoder leads to a Pareto frontier in accuracy vs. latency! https://t.co/p9FIbRoEOs",
+      "url": "https://x.com/nikparth1/status/2056807418810531974",
+      "author": "940688534524088326",
+      "published_at": "2026-05-19T18:41:16",
+      "observed_at": "2026-09-10T03:55:48.265573",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 3,
+        "views": 120,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056807416629543188",
+      "title": "Most efficient Video LLM methods focus on reducing visual tokens for the LLM, but this fails to reduce the  bottleneck of the vision encoder itself. We address ",
+      "body": "Most efficient Video LLM methods focus on reducing visual tokens for the LLM, but this fails to reduce the  bottleneck of the vision encoder itself. We address both, distilling the \"post-hoc\" token reduction on a strong teacher encoder into an efficient spatio-temporal student! https://t.co/Q5bMxuouqB",
+      "url": "https://x.com/nikparth1/status/2056807416629543188",
+      "author": "940688534524088326",
+      "published_at": "2026-05-19T18:41:16",
+      "observed_at": "2026-09-10T03:55:48.269630",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 3,
+        "views": 192,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2056807414263918858",
+      "title": "Excited to share our recent work, LiteFrame- we introduce a method for training strong, yet efficient vision encoders in Video LLMs, achieving high accuracy in ",
+      "body": "Excited to share our recent work, LiteFrame- we introduce a method for training strong, yet efficient vision encoders in Video LLMs, achieving high accuracy in low-latency regimes! https://t.co/KXm8ranO8r\n\ud83e\uddf5",
+      "url": "https://x.com/nikparth1/status/2056807414263918858",
+      "author": "940688534524088326",
+      "published_at": "2026-05-19T18:41:15",
+      "observed_at": "2026-09-10T03:55:48.273205",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 26,
+        "views": 5824,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046974710139785350",
+      "title": "As always, this work would not be possible without an excellent team of collaborators: @DanielZoran_ , Yi Yang, @joaocarreira, and Andrew Zisserman!",
+      "body": "As always, this work would not be possible without an excellent team of collaborators: @DanielZoran_ , Yi Yang, @joaocarreira, and Andrew Zisserman!",
+      "url": "https://x.com/nikparth1/status/2046974710139785350",
+      "author": "940688534524088326",
+      "published_at": "2026-04-22T15:29:36",
+      "observed_at": "2026-09-10T03:55:48.276926",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 217,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046974707161788639",
+      "title": "For a more thorough explanation of our work check out the quoted thread from my colleague @DanielZoran_ and the full details in our paper/website: https://t.co/",
+      "body": "For a more thorough explanation of our work check out the quoted thread from my colleague @DanielZoran_ and the full details in our paper/website: https://t.co/TcE77si39r",
+      "url": "https://x.com/nikparth1/status/2046974707161788639",
+      "author": "940688534524088326",
+      "published_at": "2026-04-22T15:29:35",
+      "observed_at": "2026-09-10T03:55:48.278832",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 206,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046974703185670550",
+      "title": "We are just getting started in exploring this space, but many future applications of video models will undoubtedly require efficiency and steaming as priorities",
+      "body": "We are just getting started in exploring this space, but many future applications of video models will undoubtedly require efficiency and steaming as priorities- and I think our results suggest that for these applications, leveraging recurrence may be a key part of the solution!",
+      "url": "https://x.com/nikparth1/status/2046974703185670550",
+      "author": "940688534524088326",
+      "published_at": "2026-04-22T15:29:34",
+      "observed_at": "2026-09-10T03:55:48.281832",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 3,
+        "views": 85,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046974700312526959",
+      "title": "Recurrence also unlocks superior *feature stability*. At inference, RVM unrolls over long time horizons with significantly less feature degradation than standar",
+      "body": "Recurrence also unlocks superior *feature stability*. At inference, RVM unrolls over long time horizons with significantly less feature degradation than standard chunk-based video models. https://t.co/RXXSTXVjuc",
+      "url": "https://x.com/nikparth1/status/2046974700312526959",
+      "author": "940688534524088326",
+      "published_at": "2026-04-22T15:29:34",
+      "observed_at": "2026-09-10T03:55:48.283931",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 97,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046974694717350306",
+      "title": "Further, our recurrent architecture scales compute linearly with the number of frames making our models prime candidates for edge and streaming applications! ht",
+      "body": "Further, our recurrent architecture scales compute linearly with the number of frames making our models prime candidates for edge and streaming applications! https://t.co/6Y35ydoB3q",
+      "url": "https://x.com/nikparth1/status/2046974694717350306",
+      "author": "940688534524088326",
+      "published_at": "2026-04-22T15:29:32",
+      "observed_at": "2026-09-10T03:55:48.285474",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 135,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2046974689474474339",
+      "title": "We couple a novel recurrent video architecture with a simple and robust SSL objective (inspired by SiamMAE) to train \"generalist\" encoders that match DINOv2 on ",
+      "body": "We couple a novel recurrent video architecture with a simple and robust SSL objective (inspired by SiamMAE) to train \"generalist\" encoders that match DINOv2 on spatial tasks and V-JEPA2 on spatio-temporal tasks while being far more parameter efficient! https://t.co/T3DgLwYzzs",
+      "url": "https://x.com/nikparth1/status/2046974689474474339",
+      "author": "940688534524088326",
+      "published_at": "2026-04-22T15:29:31",
+      "observed_at": "2026-09-10T03:55:48.288613",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 294,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2044068774710595895",
+      "title": "@khai_loong_aw Cool work and love the zero-shot prompting idea! But isn't  the sparse temporally factored autoencoder exactly the formulation of Siamese MAE: ht",
+      "body": "@khai_loong_aw Cool work and love the zero-shot prompting idea! But isn't  the sparse temporally factored autoencoder exactly the formulation of Siamese MAE: https://t.co/8sQpPwJuRj (and we had a follow-up: https://t.co/1euGK2HZtw) Unless I'm misunderstanding I would recommend citing these...",
+      "url": "https://x.com/nikparth1/status/2044068774710595895",
+      "author": "940688534524088326",
+      "published_at": "2026-04-14T15:02:27",
+      "observed_at": "2026-09-10T03:55:48.292228",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 68,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2026498294474473899",
+      "title": "@ziv_ravid Frankly I've found since coding became the top priority for LLMs, long-form writing has gotten noticeably worse. It's still good for non-native speak",
+      "body": "@ziv_ravid Frankly I've found since coding became the top priority for LLMs, long-form writing has gotten noticeably worse. It's still good for non-native speakers, but I personally find I need to heavily edit or provide a first draft to get the succinct style of prose I want.",
+      "url": "https://x.com/nikparth1/status/2026498294474473899",
+      "author": "940688534524088326",
+      "published_at": "2026-02-25T03:23:38",
+      "observed_at": "2026-09-10T03:55:48.295590",
+      "metrics": {
+        "author_handle": "nikparth1",
+        "author_followers": 843,
+        "likes": 2,
+        "views": 67,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

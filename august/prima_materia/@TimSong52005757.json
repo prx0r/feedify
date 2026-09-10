@@ -1,0 +1,45 @@
+{
+  "handle": "TimSong52005757",
+  "total_tweets": 2,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2097009856373006682",
+      "title": "Our work is accepted by CoRL2026\ud83e\udd73\nThe code is releasing, feel free to try OmniGuide in sim or real!\nSee you in Austin\ud83c\udf89",
+      "body": "Our work is accepted by CoRL2026\ud83e\udd73\nThe code is releasing, feel free to try OmniGuide in sim or real!\nSee you in Austin\ud83c\udf89",
+      "url": "https://x.com/TimSong52005757/status/2097009856373006682",
+      "author": "1223127919339290626",
+      "published_at": "2026-09-07T17:11:24",
+      "observed_at": "2026-09-10T03:57:19.631911",
+      "metrics": {
+        "author_handle": "TimSong52005757",
+        "author_followers": 75,
+        "likes": 8,
+        "views": 303,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2032283743709208929",
+      "title": "So honored to have the support of my professors and peers, including the omnipotent Long @LongLeRobot, on my first PhD project. 3D space is the bridge between t",
+      "body": "So honored to have the support of my professors and peers, including the omnipotent Long @LongLeRobot, on my first PhD project. 3D space is the bridge between the task and action space, where the guidance from foundation knowledge flows.",
+      "url": "https://x.com/TimSong52005757/status/2032283743709208929",
+      "author": "1223127919339290626",
+      "published_at": "2026-03-13T02:32:57",
+      "observed_at": "2026-09-10T03:57:19.635279",
+      "metrics": {
+        "author_handle": "TimSong52005757",
+        "author_followers": 75,
+        "likes": 34,
+        "views": 4729,
+        "reposts": 8,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

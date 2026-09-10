@@ -1,0 +1,26 @@
+{
+  "handle": "dkm2110",
+  "total_tweets": 1,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1590850264680239107",
+      "title": "@ylecun @ylecun fortunately pineapple on a pizza can be unanimously characterized as grave human error rather than AI making a blunder.",
+      "body": "@ylecun @ylecun fortunately pineapple on a pizza can be unanimously characterized as grave human error rather than AI making a blunder.",
+      "url": "https://x.com/dkm2110/status/1590850264680239107",
+      "author": "783451425212813312",
+      "published_at": "2022-11-10T23:33:54",
+      "observed_at": "2026-09-10T03:56:49.494336",
+      "metrics": {
+        "author_handle": "dkm2110",
+        "author_followers": 50,
+        "likes": 3,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

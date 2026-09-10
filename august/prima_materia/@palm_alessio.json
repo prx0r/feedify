@@ -1,0 +1,368 @@
+{
+  "handle": "palm_alessio",
+  "total_tweets": 19,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2096267848406413618",
+      "title": "\ud83e\uddf5/\ud83e\uddf5 This work was done at the PEARL Lab, @TUDarmstadt, during my visiting under Prof. @GeorgiaChal.\n\nThanks to @IndroSpinelli, @FatAndFurious42, @lu_scofano, @y",
+      "body": "\ud83e\uddf5/\ud83e\uddf5 This work was done at the PEARL Lab, @TUDarmstadt, during my visiting under Prof. @GeorgiaChal.\n\nThanks to @IndroSpinelli, @FatAndFurious42, @lu_scofano, @yjin_1118, @GeorgiaChal &amp; @GalassoFab10.\n\n\ud83d\udcc4 https://t.co/omFxBHOdHx\n\ud83d\udd17 https://t.co/L43T2HeeT7\n\nSee you in Texas \ud83e\udd20",
+      "url": "https://x.com/palm_alessio/status/2096267848406413618",
+      "author": "1631324024964804610",
+      "published_at": "2026-09-05T16:02:56",
+      "observed_at": "2026-09-10T03:55:11.151764",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 1,
+        "views": 29,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096266097469145197",
+      "title": "4/\ud83e\uddf5 On 13 TWIN tasks, BiCICLe reaches 70.5% average success, +6.1 points over the best training-free baseline, and outperforms most supervised methods.\n\nWe also",
+      "body": "4/\ud83e\uddf5 On 13 TWIN tasks, BiCICLe reaches 70.5% average success, +6.1 points over the best training-free baseline, and outperforms most supervised methods.\n\nWe also transfer it to 3 real-world tasks without hardware-specific retraining.",
+      "url": "https://x.com/palm_alessio/status/2096266097469145197",
+      "author": "1631324024964804610",
+      "published_at": "2026-09-05T15:55:59",
+      "observed_at": "2026-09-10T03:55:11.153819",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 1,
+        "views": 20,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096265598065922060",
+      "title": "3/\ud83e\uddf5 BiCICLe treats bimanual control as a multi-agent problem. A leader predicts the action for one arm. A follower predicts the other arm conditioned on that ac",
+      "body": "3/\ud83e\uddf5 BiCICLe treats bimanual control as a multi-agent problem. A leader predicts the action for one arm. A follower predicts the other arm conditioned on that action.\n\nOne difficult joint prediction becomes two coordinated single-arm predictions. https://t.co/6Ju5WeqZzL",
+      "url": "https://x.com/palm_alessio/status/2096265598065922060",
+      "author": "1631324024964804610",
+      "published_at": "2026-09-05T15:53:59",
+      "observed_at": "2026-09-10T03:55:11.155626",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 2,
+        "views": 30,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096264855372108096",
+      "title": "2/\ud83e\uddf5 In-context learning is appealing for robotics: no fine-tuning, just a few demonstrations in context.\n\nBut bimanual manipulation makes this much harder: the ",
+      "body": "2/\ud83e\uddf5 In-context learning is appealing for robotics: no fine-tuning, just a few demonstrations in context.\n\nBut bimanual manipulation makes this much harder: the action space is larger, the arms are tightly coupled, and context gets expensive fast.",
+      "url": "https://x.com/palm_alessio/status/2096264855372108096",
+      "author": "1631324024964804610",
+      "published_at": "2026-09-05T15:51:02",
+      "observed_at": "2026-09-10T03:55:11.158182",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 1,
+        "views": 45,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096264658868986254",
+      "title": "1/\ud83e\uddf5 Can an off-the-shelf, text-only LLM control two robot arms from just a few demonstrations?\n\nThat\u2019s the question behind BiCICLe, our work on bimanual robot m",
+      "body": "1/\ud83e\uddf5 Can an off-the-shelf, text-only LLM control two robot arms from just a few demonstrations?\n\nThat\u2019s the question behind BiCICLe, our work on bimanual robot manipulation, now accepted to #CoRL2026 \ud83e\udd16\ud83e\udd16 https://t.co/gB0heV6lj1",
+      "url": "https://x.com/palm_alessio/status/2096264658868986254",
+      "author": "1631324024964804610",
+      "published_at": "2026-09-05T15:50:16",
+      "observed_at": "2026-09-10T03:55:11.159685",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 7,
+        "views": 761,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082369934017855590",
+      "title": "@lianegalanti Nice one! Pigey feels highly complementary to our paper on training-free bimanual control.\n\nhttps://t.co/omFxBHOdHx",
+      "body": "@lianegalanti Nice one! Pigey feels highly complementary to our paper on training-free bimanual control.\n\nhttps://t.co/omFxBHOdHx",
+      "url": "https://x.com/palm_alessio/status/2082369934017855590",
+      "author": "1631324024964804610",
+      "published_at": "2026-07-29T07:37:35",
+      "observed_at": "2026-09-10T03:55:11.161392",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 2,
+        "views": 200,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2068995810247790865",
+      "title": "Huge thanks to all my co-authors for the great collaboration: @MaxPappa_ , Luca Romani, Valentino Sacco, St\u00e9phane Lathuili\u00e8re, @GalassoFab10 , Xavier Alameda-Pi",
+      "body": "Huge thanks to all my co-authors for the great collaboration: @MaxPappa_ , Luca Romani, Valentino Sacco, St\u00e9phane Lathuili\u00e8re, @GalassoFab10 , Xavier Alameda-Pineda, and @IndroSpinelli.\n\nSee you at ECCV 2026 in Malm\u00f6!\n\ud83d\udd17 Read more at: https://t.co/r10vx5rD2s",
+      "url": "https://x.com/palm_alessio/status/2068995810247790865",
+      "author": "1631324024964804610",
+      "published_at": "2026-06-22T09:53:35",
+      "observed_at": "2026-09-10T03:55:11.162987",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 5,
+        "views": 234,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2068995005134377344",
+      "title": "In this work, we explore how agents can anticipate the consequences of their actions before executing them. Instead of relying on slow visual simulation, we int",
+      "body": "In this work, we explore how agents can anticipate the consequences of their actions before executing them. Instead of relying on slow visual simulation, we introduce DILLO, a distilled language-action world model for fast, proactive agent steering.",
+      "url": "https://x.com/palm_alessio/status/2068995005134377344",
+      "author": "1631324024964804610",
+      "published_at": "2026-06-22T09:50:23",
+      "observed_at": "2026-09-10T03:55:11.164418",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 3,
+        "views": 82,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2068994795838583023",
+      "title": "Very happy to share that our paper \u201cDescribe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models\u201d has been accepted to \ud835\udc04\ud835\udc02\ud835\udc02\ud835\udc15 \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd4! \ud83c\udf89\n\n#",
+      "body": "Very happy to share that our paper \u201cDescribe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models\u201d has been accepted to \ud835\udc04\ud835\udc02\ud835\udc02\ud835\udc15 \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd4! \ud83c\udf89\n\n#ECCV2026 #ComputerVision #Robotics #AgenticAI #EmbodiedAI #WorldModels https://t.co/NBqaMJC81Y",
+      "url": "https://x.com/palm_alessio/status/2068994795838583023",
+      "author": "1631324024964804610",
+      "published_at": "2026-06-22T09:49:34",
+      "observed_at": "2026-09-10T03:55:11.165067",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 18,
+        "views": 2177,
+        "reposts": 4,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1924778560444563964",
+      "title": "\ud83d\ude80 I am excited to have joined the PEARL lab at @TUDarmstadt as a visiting PhD researcher under the joint supervision of @GeorgiaChal &amp; @GalassoFab10 !\n\nI'll",
+      "body": "\ud83d\ude80 I am excited to have joined the PEARL lab at @TUDarmstadt as a visiting PhD researcher under the joint supervision of @GeorgiaChal &amp; @GalassoFab10 !\n\nI'll be working on robotic manipulation at the intersection of vision &amp; LLMs. Thrilled to start this new chapter! \ud83e\udd16 https://t.co/UFMfoTdON0",
+      "url": "https://x.com/palm_alessio/status/1924778560444563964",
+      "author": "1631324024964804610",
+      "published_at": "2025-05-20T10:45:44",
+      "observed_at": "2026-09-10T03:55:11.166487",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 6,
+        "views": 954,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865913568421613672",
+      "title": "The future of AI isn\u2019t monolithic, it\u2019s modular! STORM, the MEDIQA Winner from @UofT and AlphaCodium are just some examples of this. Want to learn more? Explore",
+      "body": "The future of AI isn\u2019t monolithic, it\u2019s modular! STORM, the MEDIQA Winner from @UofT and AlphaCodium are just some examples of this. Want to learn more? Explore the LLM Agents MOOC in depth at: https://t.co/BNSupMgK6f\nLet\u2019s reimagine how we build intelligent systems! \ud83d\ude80\u2728 [n/n]",
+      "url": "https://x.com/palm_alessio/status/1865913568421613672",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-09T00:17:16",
+      "observed_at": "2026-09-10T03:55:11.168424",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 7,
+        "views": 336,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865912057339445467",
+      "title": "Why is this a game-changer?\n\u2705 Transparency: debug and attribute outputs.\n\u2705 Control: iterate modularly without rebuilding the system.\n\u2705 Efficiency: use task-spec",
+      "body": "Why is this a game-changer?\n\u2705 Transparency: debug and attribute outputs.\n\u2705 Control: iterate modularly without rebuilding the system.\n\u2705 Efficiency: use task-specific LMs instead of one oversized model.\n\u2705 Scalability: smarter inference-time optimization. [12/n]",
+      "url": "https://x.com/palm_alessio/status/1865912057339445467",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-09T00:11:16",
+      "observed_at": "2026-09-10T03:55:11.169891",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 3,
+        "views": 219,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865910620287086960",
+      "title": "Benchmarks like LangProBe are revealing insights. Optimizing instructions and demonstrations dramatically improves performance. The most effective approaches, l",
+      "body": "Benchmarks like LangProBe are revealing insights. Optimizing instructions and demonstrations dramatically improves performance. The most effective approaches, like MIPRO, show that we're moving beyond prompt engineering into a more scientific approach to AI system design. [9/n]",
+      "url": "https://x.com/palm_alessio/status/1865910620287086960",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-09T00:05:33",
+      "observed_at": "2026-09-10T03:55:11.171719",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 2,
+        "views": 180,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865910014159765968",
+      "title": "Imagine writing AI systems like you write regular software - with clear signatures, modular components, and intelligent optimization strategies. The optimizatio",
+      "body": "Imagine writing AI systems like you write regular software - with clear signatures, modular components, and intelligent optimization strategies. The optimization techniques are nothing short of revolutionary. [7/n]",
+      "url": "https://x.com/palm_alessio/status/1865910014159765968",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-09T00:03:08",
+      "observed_at": "2026-09-10T03:55:11.173247",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 2,
+        "views": 208,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865909553713283403",
+      "title": "Real-world applications are already emerging. These modular approaches are used to create systems that can perform complex multi-hop reasoning tasks. Projects a",
+      "body": "Real-world applications are already emerging. These modular approaches are used to create systems that can perform complex multi-hop reasoning tasks. Projects at top universities like Stanford and MIT are pushing the boundaries of what's possible. [5/n]",
+      "url": "https://x.com/palm_alessio/status/1865909553713283403",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-09T00:01:19",
+      "observed_at": "2026-09-10T03:55:11.174708",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 2,
+        "views": 244,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865909141807792224",
+      "title": "The breakthrough comes from considering AIs not as a single, massive NN, but as a collection of specialized, interconnected components. Imagine a system that ca",
+      "body": "The breakthrough comes from considering AIs not as a single, massive NN, but as a collection of specialized, interconnected components. Imagine a system that can efficiently use smaller models and slowly improve its own performance. This is the promise of Compound AIs. \ud83e\udde9 [4/n]",
+      "url": "https://x.com/palm_alessio/status/1865909141807792224",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-08T23:59:40",
+      "observed_at": "2026-09-10T03:55:11.176349",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 2,
+        "views": 262,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1865907443772821864",
+      "title": "\ud83e\uddf5 My favorite lesson from the LLM Agents MOOC by @UCBerkeley was the one by @lateinteraction on Compound AI Systems - a revolutionary approach to building more ",
+      "body": "\ud83e\uddf5 My favorite lesson from the LLM Agents MOOC by @UCBerkeley was the one by @lateinteraction on Compound AI Systems - a revolutionary approach to building more intelligent, reliable AI applications. Let me break down why this is a game-changer for AI development! \ud83e\udd16\ud83d\udd2c [1/n]",
+      "url": "https://x.com/palm_alessio/status/1865907443772821864",
+      "author": "1631324024964804610",
+      "published_at": "2024-12-08T23:52:56",
+      "observed_at": "2026-09-10T03:55:11.178075",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 22,
+        "views": 10878,
+        "reposts": 6,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1843220082975248660",
+      "title": "What an #ECCV2024!! Such an amazing week, where we presented our new work \"LADiff\" and met a lot of interesting and inspiring people.\n\n\u2b50 the code at: https://t.",
+      "body": "What an #ECCV2024!! Such an amazing week, where we presented our new work \"LADiff\" and met a lot of interesting and inspiring people.\n\n\u2b50 the code at: https://t.co/badGABLxBu\n\ud83d\udc40 the paper at: https://t.co/GILR6BK2Hk\n\nSee you next time, ECCV!",
+      "url": "https://x.com/palm_alessio/status/1843220082975248660",
+      "author": "1631324024964804610",
+      "published_at": "2024-10-07T09:21:27",
+      "observed_at": "2026-09-10T03:55:11.179634",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 8,
+        "views": 193,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1813604759695409622",
+      "title": "Hello world, X! \nExcited to share my first @SapienzaPINlab work as well.\n\nRead more \ud83d\udc47\ud83c\udffb",
+      "body": "Hello world, X! \nExcited to share my first @SapienzaPINlab work as well.\n\nRead more \ud83d\udc47\ud83c\udffb",
+      "url": "https://x.com/palm_alessio/status/1813604759695409622",
+      "author": "1631324024964804610",
+      "published_at": "2024-07-17T16:00:44",
+      "observed_at": "2026-09-10T03:55:11.181286",
+      "metrics": {
+        "author_handle": "palm_alessio",
+        "author_followers": 45,
+        "likes": 6,
+        "views": 125,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

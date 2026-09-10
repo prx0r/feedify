@@ -1,0 +1,444 @@
+{
+  "handle": "LundqvistNeuro",
+  "total_tweets": 23,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2084724480966816088",
+      "title": "@R_Fredriksson Tyv\u00e4rr \u00e4r nog Abdul, som s\u00e5g hetare ut, k\u00f6rd d\u00e5.",
+      "body": "@R_Fredriksson Tyv\u00e4rr \u00e4r nog Abdul, som s\u00e5g hetare ut, k\u00f6rd d\u00e5.",
+      "url": "https://x.com/LundqvistNeuro/status/2084724480966816088",
+      "author": "1142879218096910336",
+      "published_at": "2026-08-04T19:33:43",
+      "observed_at": "2026-09-10T03:53:40.030978",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 3339,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2003404165993889936",
+      "title": "New experimental support for our Spatial computing hypothesis,  that cortical space is used as a encoding dimension to flexibly support cognitive computations t",
+      "body": "New experimental support for our Spatial computing hypothesis,  that cortical space is used as a encoding dimension to flexibly support cognitive computations that dont require neuronal rewiring. Electrophysiology from working memory and categorization tasks performed by NHPs.",
+      "url": "https://x.com/LundqvistNeuro/status/2003404165993889936",
+      "author": "1142879218096910336",
+      "published_at": "2025-12-23T09:55:49",
+      "observed_at": "2026-09-10T03:53:40.034485",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 14,
+        "views": 3316,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1949123806867415365",
+      "title": "@PetterRoos @nallandbets Ja, skrev intecsenast heller. Men du f\u00e5r v\u00e4l se d\u00e5 var Anderson anv\u00e4nds s\u00e5 sm\u00e5ningom. Var \u00e5tta hela s\u00e4songen i Danmark.",
+      "body": "@PetterRoos @nallandbets Ja, skrev intecsenast heller. Men du f\u00e5r v\u00e4l se d\u00e5 var Anderson anv\u00e4nds s\u00e5 sm\u00e5ningom. Var \u00e5tta hela s\u00e4songen i Danmark.",
+      "url": "https://x.com/LundqvistNeuro/status/1949123806867415365",
+      "author": "1142879218096910336",
+      "published_at": "2025-07-26T15:05:03",
+      "observed_at": "2026-09-10T03:53:40.035635",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 36,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1935625447062278253",
+      "title": "@PrestationsK Vore totalt h\u00e5l i huvudet.  Vi beh\u00f6ver spelare p\u00e5 deras oeak, inte fylla p\u00e5 med f\u00f6redettingar s\u00e5 fort vi blir av med dem. Han har heller inte egen",
+      "body": "@PrestationsK Vore totalt h\u00e5l i huvudet.  Vi beh\u00f6ver spelare p\u00e5 deras oeak, inte fylla p\u00e5 med f\u00f6redettingar s\u00e5 fort vi blir av med dem. Han har heller inte egenskaperna Honsu efters\u00f6ker, utan det \u00e4r ju enbart en gammal kontakt f\u00f6r Bosse. Vill se noll v\u00e4rvningar av den h\u00e4r typen i sommar.",
+      "url": "https://x.com/LundqvistNeuro/status/1935625447062278253",
+      "author": "1142879218096910336",
+      "published_at": "2025-06-19T09:07:23",
+      "observed_at": "2026-09-10T03:53:40.036662",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 3,
+        "views": 643,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1920627676248736041",
+      "title": "Delad tredjeplats med Fiorentina.",
+      "body": "Delad tredjeplats med Fiorentina.",
+      "url": "https://x.com/LundqvistNeuro/status/1920627676248736041",
+      "author": "1142879218096910336",
+      "published_at": "2025-05-08T23:51:36",
+      "observed_at": "2026-09-10T03:53:40.037760",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 7,
+        "views": 599,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1915701946742198341",
+      "title": "@R_Fredriksson Haarala g\u00f6r m\u00e5nga avg\u00f6rande missar, men har ocks\u00e5 tre aktioner som alla kan bli assist. Runt mknut 19, 25 och 60 om jag minns r\u00e4tt. Otroligt kons",
+      "body": "@R_Fredriksson Haarala g\u00f6r m\u00e5nga avg\u00f6rande missar, men har ocks\u00e5 tre aktioner som alla kan bli assist. Runt mknut 19, 25 och 60 om jag minns r\u00e4tt. Otroligt konstigt beslut p\u00e5 fril\u00e4get, men g\u00f6r faktiskt bra grejer med.",
+      "url": "https://x.com/LundqvistNeuro/status/1915701946742198341",
+      "author": "1142879218096910336",
+      "published_at": "2025-04-25T09:38:30",
+      "observed_at": "2026-09-10T03:53:40.038766",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 3,
+        "views": 706,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1900280117009781009",
+      "title": "@MrFarid VEM SKA G\u00d6RA M\u00c5LEN!? Sportcheferiet.",
+      "body": "@MrFarid VEM SKA G\u00d6RA M\u00c5LEN!? Sportcheferiet.",
+      "url": "https://x.com/LundqvistNeuro/status/1900280117009781009",
+      "author": "1142879218096910336",
+      "published_at": "2025-03-13T20:17:40",
+      "observed_at": "2026-09-10T03:53:40.040978",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 9,
+        "views": 1584,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1885421671592431881",
+      "title": "@DIFpodden \u00d6ka!",
+      "body": "@DIFpodden \u00d6ka!",
+      "url": "https://x.com/LundqvistNeuro/status/1885421671592431881",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-31T20:15:30",
+      "observed_at": "2026-09-10T03:53:40.042622",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 405,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1884882300199940415",
+      "title": "@DIF_B326 Svensk mittback med de egenskaperna med boll och i snabbhet hittar du inte f\u00f6rutom Hien,  v\u00e4ldigt bra.",
+      "body": "@DIF_B326 Svensk mittback med de egenskaperna med boll och i snabbhet hittar du inte f\u00f6rutom Hien,  v\u00e4ldigt bra.",
+      "url": "https://x.com/LundqvistNeuro/status/1884882300199940415",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-30T08:32:14",
+      "observed_at": "2026-09-10T03:53:40.043518",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 5,
+        "views": 689,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1884342667376484394",
+      "title": "@R_Fredriksson G\u00f6r ni tv\u00e5l eller mat?",
+      "body": "@R_Fredriksson G\u00f6r ni tv\u00e5l eller mat?",
+      "url": "https://x.com/LundqvistNeuro/status/1884342667376484394",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-28T20:47:55",
+      "observed_at": "2026-09-10T03:53:40.044456",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 762,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1884311850940260824",
+      "title": "@MrFarid @SilkyJohnson08 Bara vi tar en ung, en av f\u00e5 chanser att f\u00f6ryngra och med Tokmac och Haarala har vi en unik chans. Men gissar att vi fegar ur och ska h",
+      "body": "@MrFarid @SilkyJohnson08 Bara vi tar en ung, en av f\u00e5 chanser att f\u00f6ryngra och med Tokmac och Haarala har vi en unik chans. Men gissar att vi fegar ur och ska ha bredd p\u00e5 precis alla positioner. 26- mannatrupp och d\u00e5lig st\u00e4mning. Inte bitter.",
+      "url": "https://x.com/LundqvistNeuro/status/1884311850940260824",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-28T18:45:28",
+      "observed_at": "2026-09-10T03:53:40.045352",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 3,
+        "views": 883,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1882238717555093633",
+      "title": "@MioA210 \u00c4ntligen prickar du r\u00e4tt!",
+      "body": "@MioA210 \u00c4ntligen prickar du r\u00e4tt!",
+      "url": "https://x.com/LundqvistNeuro/status/1882238717555093633",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-23T01:27:35",
+      "observed_at": "2026-09-10T03:53:40.047349",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 1,
+        "views": 391,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1880355668437397700",
+      "title": "@MrFarid F\u00f6r\u00e4ndringen blir typ Siltanen vs Wikheim n\u00e4r det fanns all m\u00f6jlighet i v\u00e4rlden att blibstarkare om vi inte aktivt g\u00e5tt f\u00f6r Une och Finndell och ist\u00e4ll",
+      "body": "@MrFarid F\u00f6r\u00e4ndringen blir typ Siltanen vs Wikheim n\u00e4r det fanns all m\u00f6jlighet i v\u00e4rlden att blibstarkare om vi inte aktivt g\u00e5tt f\u00f6r Une och Finndell och ist\u00e4llet aktivt g\u00e5tt f\u00f6r att rensa lite.",
+      "url": "https://x.com/LundqvistNeuro/status/1880355668437397700",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-17T20:45:01",
+      "observed_at": "2026-09-10T03:53:40.048594",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 4,
+        "views": 450,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1880354490492309964",
+      "title": "@MrFarid Att vi f\u00f6rl\u00e4ngde Une och tog tillbaka Finndell,  men inte kr\u00e4nger ut Schuller/Albin etc vad det verkar g\u00f6r ju att Bosse aktivt g\u00e5r f\u00f6r att beh\u00e5lla CM o",
+      "body": "@MrFarid Att vi f\u00f6rl\u00e4ngde Une och tog tillbaka Finndell,  men inte kr\u00e4nger ut Schuller/Albin etc vad det verkar g\u00f6r ju att Bosse aktivt g\u00e5r f\u00f6r att beh\u00e5lla CM och CB intakt, de tv\u00e5 positionerna som skrek efter f\u00f6r\u00e4ndring. Tycker det \u00e4r oerh\u00f6rt m\u00e4rkligt.",
+      "url": "https://x.com/LundqvistNeuro/status/1880354490492309964",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-17T20:40:20",
+      "observed_at": "2026-09-10T03:53:40.049525",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 13,
+        "views": 2943,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1878705011158606206",
+      "title": "@DIFstats @TillbakaigenAVO Vi har tagit mer po\u00e4ng mer krona \u00e4n aik de senaste 4-5 \u00e5ren just pga detta. Sen skulle vi kortsiktigt kunna f\u00e5 in fler stj\u00e4rnor men l",
+      "body": "@DIFstats @TillbakaigenAVO Vi har tagit mer po\u00e4ng mer krona \u00e4n aik de senaste 4-5 \u00e5ren just pga detta. Sen skulle vi kortsiktigt kunna f\u00e5 in fler stj\u00e4rnor men l\u00e5ngsiktigt kanske bara betala mer f\u00f6r samma spelare och d\u00e5 \u00e4r inget vunnet. S\u00e5 det \u00e4r inte helt sj\u00e4lvklart att vi ska h\u00e4nga p\u00e5 eller ej..",
+      "url": "https://x.com/LundqvistNeuro/status/1878705011158606206",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-13T07:25:53",
+      "observed_at": "2026-09-10T03:53:40.050479",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 446,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1878622437316927510",
+      "title": "@DIFstats Det p\u00e5g\u00e5r v\u00e4l en f\u00f6rhandling. Vi har h\u00e5llit ner kostnader f\u00f6r l\u00f6ner och vill v\u00e4l inte l\u00e4gga Olsson mycket h\u00f6gre \u00e4n de andra stj\u00e4rnorna och permanent h",
+      "body": "@DIFstats Det p\u00e5g\u00e5r v\u00e4l en f\u00f6rhandling. Vi har h\u00e5llit ner kostnader f\u00f6r l\u00f6ner och vill v\u00e4l inte l\u00e4gga Olsson mycket h\u00f6gre \u00e4n de andra stj\u00e4rnorna och permanent h\u00f6ja l\u00f6ner i gruppen. Men om det st\u00e4mmer \u00e4r det v\u00e4l positivt, l\u00e5ter som han antagligen vill till DIF och de andra budar \u00f6ver.",
+      "url": "https://x.com/LundqvistNeuro/status/1878622437316927510",
+      "author": "1142879218096910336",
+      "published_at": "2025-01-13T01:57:46",
+      "observed_at": "2026-09-10T03:53:40.052481",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 1755,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1867247556620931408",
+      "title": "@erikssonhenrik Alldeles f\u00f6r oj\u00e4mn, har topp5 h\u00f6gst l\u00f6ner hos oss men presterar inte d\u00e4refter. V\u00e5ra dyraste spelare m\u00e5ste kunna prestera \u00e4ven i Allsvenskan .",
+      "body": "@erikssonhenrik Alldeles f\u00f6r oj\u00e4mn, har topp5 h\u00f6gst l\u00f6ner hos oss men presterar inte d\u00e4refter. V\u00e5ra dyraste spelare m\u00e5ste kunna prestera \u00e4ven i Allsvenskan .",
+      "url": "https://x.com/LundqvistNeuro/status/1867247556620931408",
+      "author": "1142879218096910336",
+      "published_at": "2024-12-12T16:38:03",
+      "observed_at": "2026-09-10T03:53:40.053747",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 3,
+        "views": 653,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1854805870946734559",
+      "title": "@TonyKungsholmen Du gl\u00f6mmer Gulliksen. Helt annan spelare centralt,  felanv\u00e4nd under KoT...",
+      "body": "@TonyKungsholmen Du gl\u00f6mmer Gulliksen. Helt annan spelare centralt,  felanv\u00e4nd under KoT...",
+      "url": "https://x.com/LundqvistNeuro/status/1854805870946734559",
+      "author": "1142879218096910336",
+      "published_at": "2024-11-08T08:39:14",
+      "observed_at": "2026-09-10T03:53:40.055746",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 3,
+        "views": 749,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1852390420153606640",
+      "title": "@postlelab @MillerLabMIT Predictive coding requires inhibition of predicted inputs, so disagree on that one. The other one sounds interesting though, ref?",
+      "body": "@postlelab @MillerLabMIT Predictive coding requires inhibition of predicted inputs, so disagree on that one. The other one sounds interesting though, ref?",
+      "url": "https://x.com/LundqvistNeuro/status/1852390420153606640",
+      "author": "1142879218096910336",
+      "published_at": "2024-11-01T16:41:06",
+      "observed_at": "2026-09-10T03:53:40.057012",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 184,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1848673548006490191",
+      "title": "New paper! More evidence that gamma is a feedforward, beta is feedback rhythm, this time from the human olfactory system. Which is interesting due to its early ",
+      "body": "New paper! More evidence that gamma is a feedforward, beta is feedback rhythm, this time from the human olfactory system. Which is interesting due to its early evolution before the visual cortex, suggesting a \"universal\" role in primate brains.",
+      "url": "https://x.com/LundqvistNeuro/status/1848673548006490191",
+      "author": "1142879218096910336",
+      "published_at": "2024-10-22T10:31:35",
+      "observed_at": "2026-09-10T03:53:40.057965",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 30,
+        "views": 6250,
+        "reposts": 6,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1847203059421614144",
+      "title": "Based on earlier findings in non-human primates. \n\nhttps://t.co/les3Ad4yZU\n\n10.1016/j.neuron.2016.02.028",
+      "body": "Based on earlier findings in non-human primates. \n\nhttps://t.co/les3Ad4yZU\n\n10.1016/j.neuron.2016.02.028",
+      "url": "https://x.com/LundqvistNeuro/status/1847203059421614144",
+      "author": "1142879218096910336",
+      "published_at": "2024-10-18T09:08:23",
+      "observed_at": "2026-09-10T03:53:40.058904",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 2,
+        "views": 278,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1834651283044610361",
+      "title": "@jarnkaminerna @DIFpodden K\u00e4nns som ni avbl\u00e5ste detta i f\u00f6rtid, priss\u00e4nkningarna \u00e4r mest symboliska p\u00e5 det mesta.",
+      "body": "@jarnkaminerna @DIFpodden K\u00e4nns som ni avbl\u00e5ste detta i f\u00f6rtid, priss\u00e4nkningarna \u00e4r mest symboliska p\u00e5 det mesta.",
+      "url": "https://x.com/LundqvistNeuro/status/1834651283044610361",
+      "author": "1142879218096910336",
+      "published_at": "2024-09-13T17:52:06",
+      "observed_at": "2026-09-10T03:53:40.059901",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 7,
+        "views": 2868,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1833446029993132404",
+      "title": "@DIFpodden 1) Varf\u00f6r startar vi inte akademi i 8\u00e5rs \u00e5ldern, trots att BP g\u00f6r det/det \u00e4r en viktig \u00e5lder f\u00f6r att s\u00e4tta grundteknik enligt Peter? \n2) har vi en ny",
+      "body": "@DIFpodden 1) Varf\u00f6r startar vi inte akademi i 8\u00e5rs \u00e5ldern, trots att BP g\u00f6r det/det \u00e4r en viktig \u00e5lder f\u00f6r att s\u00e4tta grundteknik enligt Peter? \n2) har vi en ny plan att ge 17-19-\u00e5ringar erfarenhet av seniorspel (match/tr\u00e4ning)?",
+      "url": "https://x.com/LundqvistNeuro/status/1833446029993132404",
+      "author": "1142879218096910336",
+      "published_at": "2024-09-10T10:02:51",
+      "observed_at": "2026-09-10T03:53:40.060813",
+      "metrics": {
+        "author_handle": "LundqvistNeuro",
+        "author_followers": 390,
+        "likes": 5,
+        "views": 427,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

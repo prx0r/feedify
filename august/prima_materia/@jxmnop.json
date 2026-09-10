@@ -1,0 +1,482 @@
+{
+  "handle": "jxmnop",
+  "total_tweets": 25,
+  "august_tweets": 17,
+  "tweets": [
+    {
+      "id": "2097288858832642147",
+      "title": "@sharifshameem Bro stop. delete this",
+      "body": "@sharifshameem Bro stop. delete this",
+      "url": "https://x.com/jxmnop/status/2097288858832642147",
+      "author": "783098774130401280",
+      "published_at": "2026-09-08T11:40:04",
+      "observed_at": "2026-09-10T03:56:13.058230",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 9,
+        "views": 630,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096611809998606627",
+      "title": "@omooretweets ableist",
+      "body": "@omooretweets ableist",
+      "url": "https://x.com/jxmnop/status/2096611809998606627",
+      "author": "783098774130401280",
+      "published_at": "2026-09-06T14:49:43",
+      "observed_at": "2026-09-10T03:56:13.060178",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 17,
+        "views": 1301,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096378026229710948",
+      "title": "@realJessyLin lol",
+      "body": "@realJessyLin lol",
+      "url": "https://x.com/jxmnop/status/2096378026229710948",
+      "author": "783098774130401280",
+      "published_at": "2026-09-05T23:20:44",
+      "observed_at": "2026-09-10T03:56:13.061773",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 0,
+        "views": 961,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2096250511527944329",
+      "title": "@natolambert congrats \ud83d\ude01",
+      "body": "@natolambert congrats \ud83d\ude01",
+      "url": "https://x.com/jxmnop/status/2096250511527944329",
+      "author": "783098774130401280",
+      "published_at": "2026-09-05T14:54:03",
+      "observed_at": "2026-09-10T03:56:13.063406",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 2,
+        "views": 1120,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095904880447942854",
+      "title": "this is insane, if they named their company \u263a\ufe0f back in 2016 they would only be getting acquired for 978 million",
+      "body": "this is insane, if they named their company \u263a\ufe0f back in 2016 they would only be getting acquired for 978 million",
+      "url": "https://x.com/jxmnop/status/2095904880447942854",
+      "author": "783098774130401280",
+      "published_at": "2026-09-04T16:00:38",
+      "observed_at": "2026-09-10T03:56:13.064991",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 356,
+        "views": 28741,
+        "reposts": 3,
+        "replies": 7,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095752607306498401",
+      "title": "@sharifshameem \ud83d\ude4a",
+      "body": "@sharifshameem \ud83d\ude4a",
+      "url": "https://x.com/jxmnop/status/2095752607306498401",
+      "author": "783098774130401280",
+      "published_at": "2026-09-04T05:55:33",
+      "observed_at": "2026-09-10T03:56:13.066654",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 1,
+        "views": 402,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095744904685400528",
+      "title": "@sharifshameem what about the music?",
+      "body": "@sharifshameem what about the music?",
+      "url": "https://x.com/jxmnop/status/2095744904685400528",
+      "author": "783098774130401280",
+      "published_at": "2026-09-04T05:24:56",
+      "observed_at": "2026-09-10T03:56:13.068083",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 2,
+        "views": 2239,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094817895230636419",
+      "title": "@chris_j_paxton happened to me too",
+      "body": "@chris_j_paxton happened to me too",
+      "url": "https://x.com/jxmnop/status/2094817895230636419",
+      "author": "783098774130401280",
+      "published_at": "2026-09-01T16:01:20",
+      "observed_at": "2026-09-10T03:56:13.069148",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 2,
+        "views": 947,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094205957689741660",
+      "title": "Question for LLM enthusiasts\n\nthese days, one typically kicks off post training by distilling some reasoning trajectories from some other model. it's kind of li",
+      "body": "Question for LLM enthusiasts\n\nthese days, one typically kicks off post training by distilling some reasoning trajectories from some other model. it's kind of like a sourdough starter\n\nso how was the *first* model post-trained? did humans write the original set of formatting traces from scratch?  \n\n(this is why Inkling used a small number of Kimi traces btw)",
+      "url": "https://x.com/jxmnop/status/2094205957689741660",
+      "author": "783098774130401280",
+      "published_at": "2026-08-30T23:29:43",
+      "observed_at": "2026-09-10T03:56:13.070452",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 342,
+        "views": 49140,
+        "reposts": 8,
+        "replies": 54,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2091649150765125827",
+      "title": "@pangram @Lovandfear had to know",
+      "body": "@pangram @Lovandfear had to know",
+      "url": "https://x.com/jxmnop/status/2091649150765125827",
+      "author": "783098774130401280",
+      "published_at": "2026-08-23T22:09:53",
+      "observed_at": "2026-09-10T03:56:13.071482",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 12,
+        "views": 748,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2091637786952847640",
+      "title": "@Lovandfear @pangram slop?",
+      "body": "@Lovandfear @pangram slop?",
+      "url": "https://x.com/jxmnop/status/2091637786952847640",
+      "author": "783098774130401280",
+      "published_at": "2026-08-23T21:24:43",
+      "observed_at": "2026-09-10T03:56:13.072478",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 56,
+        "views": 6971,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2090142677115572316",
+      "title": "@leonardtang_ @pangram slop?",
+      "body": "@leonardtang_ @pangram slop?",
+      "url": "https://x.com/jxmnop/status/2090142677115572316",
+      "author": "783098774130401280",
+      "published_at": "2026-08-19T18:23:41",
+      "observed_at": "2026-09-10T03:56:13.073602",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 9,
+        "views": 1679,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089582240665919962",
+      "title": "@ad0rnai its no basketball video but its something",
+      "body": "@ad0rnai its no basketball video but its something",
+      "url": "https://x.com/jxmnop/status/2089582240665919962",
+      "author": "783098774130401280",
+      "published_at": "2026-08-18T05:16:43",
+      "observed_at": "2026-09-10T03:56:13.074704",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 3,
+        "views": 294,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089560060443902255",
+      "title": "very cool idea.  but don\u2019t none of you dare trying to take this cute innocent little model and use it for your large-scale GRPO.  its not just in bad taste,  it",
+      "body": "very cool idea.  but don\u2019t none of you dare trying to take this cute innocent little model and use it for your large-scale GRPO.  its not just in bad taste,  it violates international child labor laws",
+      "url": "https://x.com/jxmnop/status/2089560060443902255",
+      "author": "783098774130401280",
+      "published_at": "2026-08-18T03:48:35",
+      "observed_at": "2026-09-10T03:56:13.075656",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 340,
+        "views": 33836,
+        "reposts": 6,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089442261587448120",
+      "title": "i'm quite excited about this!\n\n\u2022 it's cool in general that models can generate their own training data and learn from it. wasn't fully clear to me even a year a",
+      "body": "i'm quite excited about this!\n\n\u2022 it's cool in general that models can generate their own training data and learn from it. wasn't fully clear to me even a year ago that this would work reliably.\n\u2022 the thing that we're trying to build seems really important and no one has built it before\n\u2022 some traces from our model genuinely surprise me (e.g. the attached example, where it perfectly simulates the output of a complicated bash query, despite not being trained to do this)\n\nmy main feeling overall is that there is so much to do. \n\nwe see signs things are starting  to work: models use their memories to produce better answers, knowing things saves lots of tokens, and all of this emerges with more compute\n\nbut solving this memory calibration problem, on top of learning how to generate data in ways that scale nicely with compute, is going to take some time\n\nthis is just a first step \ud83e\udee1",
+      "url": "https://x.com/jxmnop/status/2089442261587448120",
+      "author": "783098774130401280",
+      "published_at": "2026-08-17T20:00:29",
+      "observed_at": "2026-09-10T03:56:13.076932",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 485,
+        "views": 390297,
+        "reposts": 32,
+        "replies": 17,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089354962447065384",
+      "title": "@skooookum trout watch on the rizzy\nspinach gloop in my hizzy",
+      "body": "@skooookum trout watch on the rizzy\nspinach gloop in my hizzy",
+      "url": "https://x.com/jxmnop/status/2089354962447065384",
+      "author": "783098774130401280",
+      "published_at": "2026-08-17T14:13:36",
+      "observed_at": "2026-09-10T03:56:13.078530",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 2,
+        "views": 1308,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089354260718993661",
+      "title": "@darrowoah sf office",
+      "body": "@darrowoah sf office",
+      "url": "https://x.com/jxmnop/status/2089354260718993661",
+      "author": "783098774130401280",
+      "published_at": "2026-08-17T14:10:48",
+      "observed_at": "2026-09-10T03:56:13.079775",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 5,
+        "views": 3281,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089234952332489143",
+      "title": "Almost got run over on my bike yesterday directly outside the xAI office.  i look up and it's a special black tesla with license plate MINLOSS.  just incredibly",
+      "body": "Almost got run over on my bike yesterday directly outside the xAI office.  i look up and it's a special black tesla with license plate MINLOSS.  just incredibly on brand.  no notes",
+      "url": "https://x.com/jxmnop/status/2089234952332489143",
+      "author": "783098774130401280",
+      "published_at": "2026-08-17T06:16:43",
+      "observed_at": "2026-09-10T03:56:13.080988",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 998,
+        "views": 79371,
+        "reposts": 11,
+        "replies": 21,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088708501485031761",
+      "title": "@mattyglesias No one is pricing this in.",
+      "body": "@mattyglesias No one is pricing this in.",
+      "url": "https://x.com/jxmnop/status/2088708501485031761",
+      "author": "783098774130401280",
+      "published_at": "2026-08-15T19:24:47",
+      "observed_at": "2026-09-10T03:56:13.082381",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 23,
+        "views": 1985,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2088674632664818022",
+      "title": "@skooookum @sally124445 @coldhealing fomo fomo fomo",
+      "body": "@skooookum @sally124445 @coldhealing fomo fomo fomo",
+      "url": "https://x.com/jxmnop/status/2088674632664818022",
+      "author": "783098774130401280",
+      "published_at": "2026-08-15T17:10:12",
+      "observed_at": "2026-09-10T03:56:13.083774",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 5,
+        "views": 588,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087909070741422332",
+      "title": "@johntrified A viking funeral for this one",
+      "body": "@johntrified A viking funeral for this one",
+      "url": "https://x.com/jxmnop/status/2087909070741422332",
+      "author": "783098774130401280",
+      "published_at": "2026-08-13T14:28:08",
+      "observed_at": "2026-09-10T03:56:13.085273",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 6,
+        "views": 804,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087905312166773175",
+      "title": "@chrisalbon underrated tweet",
+      "body": "@chrisalbon underrated tweet",
+      "url": "https://x.com/jxmnop/status/2087905312166773175",
+      "author": "783098774130401280",
+      "published_at": "2026-08-13T14:13:12",
+      "observed_at": "2026-09-10T03:56:13.086625",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 17,
+        "views": 1440,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087780963518652739",
+      "title": "@ethantsliu @realJessyLin \ud83d\udc10",
+      "body": "@ethantsliu @realJessyLin \ud83d\udc10",
+      "url": "https://x.com/jxmnop/status/2087780963518652739",
+      "author": "783098774130401280",
+      "published_at": "2026-08-13T05:59:05",
+      "observed_at": "2026-09-10T03:56:13.088118",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 3,
+        "views": 874,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087544032117604674",
+      "title": "@wafer_ai @pangram slop?",
+      "body": "@wafer_ai @pangram slop?",
+      "url": "https://x.com/jxmnop/status/2087544032117604674",
+      "author": "783098774130401280",
+      "published_at": "2026-08-12T14:17:36",
+      "observed_at": "2026-09-10T03:56:13.089613",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 14,
+        "views": 4294,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086989944007037021",
+      "title": "@0interestrates @naval",
+      "body": "@0interestrates @naval",
+      "url": "https://x.com/jxmnop/status/2086989944007037021",
+      "author": "783098774130401280",
+      "published_at": "2026-08-11T01:35:51",
+      "observed_at": "2026-09-10T03:56:13.093120",
+      "metrics": {
+        "author_handle": "jxmnop",
+        "author_followers": 53675,
+        "likes": 2,
+        "views": 1444,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    }
+  ]
+}

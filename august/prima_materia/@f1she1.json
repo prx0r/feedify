@@ -1,0 +1,102 @@
+{
+  "handle": "f1she1",
+  "total_tweets": 5,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "1908189031349002407",
+      "title": "\ud83c\udf89Excited to share that ARM: Appearance Reconstruction Model for Relightable 3D Generation, has been accepted at CVPR (\u2728Highlight)! ARM enables 3D generation wit",
+      "body": "\ud83c\udf89Excited to share that ARM: Appearance Reconstruction Model for Relightable 3D Generation, has been accepted at CVPR (\u2728Highlight)! ARM enables 3D generation with PBR materials for relighting under novel views/lighting. Check https://t.co/yeerJwxdJx for more results and details! https://t.co/gAeTzyfjKE",
+      "url": "https://x.com/f1she1/status/1908189031349002407",
+      "author": "1434384755298996224",
+      "published_at": "2025-04-04T16:04:52",
+      "observed_at": "2026-09-10T03:55:13.704178",
+      "metrics": {
+        "author_handle": "f1she1",
+        "author_followers": 144,
+        "likes": 49,
+        "views": 4277,
+        "reposts": 10,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1862514707976134863",
+      "title": "always pleased to see capture results of this quality",
+      "body": "always pleased to see capture results of this quality",
+      "url": "https://x.com/f1she1/status/1862514707976134863",
+      "author": "1434384755298996224",
+      "published_at": "2024-11-29T15:11:24",
+      "observed_at": "2026-09-10T03:55:13.707065",
+      "metrics": {
+        "author_handle": "f1she1",
+        "author_followers": 144,
+        "likes": 2,
+        "views": 383,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1815748705192132686",
+      "title": "We have updated the paper Gaussian Splashing with more results and experiments. Please visit the project page for more information!\n\nLink: https://t.co/4C6ZaTs2",
+      "body": "We have updated the paper Gaussian Splashing with more results and experiments. Please visit the project page for more information!\n\nLink: https://t.co/4C6ZaTs2ky\n\nTL;DR: Gaussian Splashing is a unified framework combining 3D Gaussian Splatting and Position-Based Dynamics. https://t.co/jni1i1J1W5",
+      "url": "https://x.com/f1she1/status/1815748705192132686",
+      "author": "1434384755298996224",
+      "published_at": "2024-07-23T14:00:00",
+      "observed_at": "2026-09-10T03:55:13.709228",
+      "metrics": {
+        "author_handle": "f1she1",
+        "author_followers": 144,
+        "likes": 148,
+        "views": 12004,
+        "reposts": 30,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1804985799739638246",
+      "title": "@Hachemhugo @FeiHuangFH I believe temporarily high citations do not necessarily equal high value. An important work might be based on an article that went unnot",
+      "body": "@Hachemhugo @FeiHuangFH I believe temporarily high citations do not necessarily equal high value. An important work might be based on an article that went unnoticed twenty years ago.",
+      "url": "https://x.com/f1she1/status/1804985799739638246",
+      "author": "1434384755298996224",
+      "published_at": "2024-06-23T21:12:04",
+      "observed_at": "2026-09-10T03:55:13.712339",
+      "metrics": {
+        "author_handle": "f1she1",
+        "author_followers": 144,
+        "likes": 1,
+        "views": 94,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1804985111135523251",
+      "title": "@Hachemhugo @FeiHuangFH Just some random thoughts. How do we define impact? Is it measured by follow-up citations? If so, does publishing in trending areas yiel",
+      "body": "@Hachemhugo @FeiHuangFH Just some random thoughts. How do we define impact? Is it measured by follow-up citations? If so, does publishing in trending areas yield more impact, and should researchers focus on these directions more?",
+      "url": "https://x.com/f1she1/status/1804985111135523251",
+      "author": "1434384755298996224",
+      "published_at": "2024-06-23T21:09:20",
+      "observed_at": "2026-09-10T03:55:13.717465",
+      "metrics": {
+        "author_handle": "f1she1",
+        "author_followers": 144,
+        "likes": 2,
+        "views": 179,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    }
+  ]
+}

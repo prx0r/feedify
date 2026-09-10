@@ -1,0 +1,729 @@
+{
+  "handle": "Mishok2000",
+  "total_tweets": 38,
+  "august_tweets": 3,
+  "tweets": [
+    {
+      "id": "2096669075950739615",
+      "title": "DLSS 5 is like SSGI that just works out of the box https://t.co/hTserXQKa6",
+      "body": "DLSS 5 is like SSGI that just works out of the box https://t.co/hTserXQKa6",
+      "url": "https://x.com/Mishok2000/status/2096669075950739615",
+      "author": "3122126145",
+      "published_at": "2026-09-06T18:37:16",
+      "observed_at": "2026-09-10T03:54:47.442985",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 1,
+        "views": 367,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2094510680913453492",
+      "title": "Impressive!  \ud83d\udc40\n\nSeems like Scale-RAE could be a good fit for that task. Unified representation for generation and reasoning in the loop. to make use of (V)LLMs ",
+      "body": "Impressive!  \ud83d\udc40\n\nSeems like Scale-RAE could be a good fit for that task. Unified representation for generation and reasoning in the loop. to make use of (V)LLMs priors for defining the action space\n\nPlus a lot of synthetic rendered data for smooth control over 3D scenes? \ud83e\udd14 https://t.co/GmwQjzFNW3",
+      "url": "https://x.com/Mishok2000/status/2094510680913453492",
+      "author": "3122126145",
+      "published_at": "2026-08-31T19:40:35",
+      "observed_at": "2026-09-10T03:54:47.447311",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 311,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2084740639527162178",
+      "title": "I find it cool that hand-drawn sketches are getting normalized even in serious research reports/papers https://t.co/Ui4doz7WqB",
+      "body": "I find it cool that hand-drawn sketches are getting normalized even in serious research reports/papers https://t.co/Ui4doz7WqB",
+      "url": "https://x.com/Mishok2000/status/2084740639527162178",
+      "author": "3122126145",
+      "published_at": "2026-08-04T20:37:55",
+      "observed_at": "2026-09-10T03:54:47.452872",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 6,
+        "views": 1168,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2083551864553910435",
+      "title": "Seems to be really big! \n\nWondering if we could sample the training distribution more efficiently to concentrate compute on the right training points",
+      "body": "Seems to be really big! \n\nWondering if we could sample the training distribution more efficiently to concentrate compute on the right training points",
+      "url": "https://x.com/Mishok2000/status/2083551864553910435",
+      "author": "3122126145",
+      "published_at": "2026-08-01T13:54:09",
+      "observed_at": "2026-09-10T03:54:47.454394",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 4,
+        "views": 1402,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2078960031664394470",
+      "title": "@MLiebreich Insightful figure, thx! https://t.co/dRNpfa1r2y",
+      "body": "@MLiebreich Insightful figure, thx! https://t.co/dRNpfa1r2y",
+      "url": "https://x.com/Mishok2000/status/2078960031664394470",
+      "author": "3122126145",
+      "published_at": "2026-07-19T21:47:51",
+      "observed_at": "2026-09-10T03:54:47.455492",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 3,
+        "views": 213,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2078594409008951560",
+      "title": "easy-to-follow guide to making a world model streamable in practice - read it! \n\nit illustrates pretty well the typical problem with deviations between the VAE ",
+      "body": "easy-to-follow guide to making a world model streamable in practice - read it! \n\nit illustrates pretty well the typical problem with deviations between the VAE and the main architecture's assumptions",
+      "url": "https://x.com/Mishok2000/status/2078594409008951560",
+      "author": "3122126145",
+      "published_at": "2026-07-18T21:35:00",
+      "observed_at": "2026-09-10T03:54:47.456513",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 6,
+        "views": 1334,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2078154651283734586",
+      "title": "Only today did I realize that Mixture of Experts (MoE) is like trainable Shader execution reordering (SER) in path-tracing https://t.co/tmGtn1osGZ",
+      "body": "Only today did I realize that Mixture of Experts (MoE) is like trainable Shader execution reordering (SER) in path-tracing https://t.co/tmGtn1osGZ",
+      "url": "https://x.com/Mishok2000/status/2078154651283734586",
+      "author": "3122126145",
+      "published_at": "2026-07-17T16:27:33",
+      "observed_at": "2026-09-10T03:54:47.457534",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 5,
+        "views": 733,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077465860562694622",
+      "title": "Internet-scale videos w/o any labels for RL pretraining \ud83e\udd2f \n\nexciting time!",
+      "body": "Internet-scale videos w/o any labels for RL pretraining \ud83e\udd2f \n\nexciting time!",
+      "url": "https://x.com/Mishok2000/status/2077465860562694622",
+      "author": "3122126145",
+      "published_at": "2026-07-15T18:50:33",
+      "observed_at": "2026-09-10T03:54:47.459734",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 3,
+        "views": 490,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077180459641872487",
+      "title": "as an ex-graphics engineer who used to debug a lot of renders by visualizing tangents&amp;normals - I just love it",
+      "body": "as an ex-graphics engineer who used to debug a lot of renders by visualizing tangents&amp;normals - I just love it",
+      "url": "https://x.com/Mishok2000/status/2077180459641872487",
+      "author": "3122126145",
+      "published_at": "2026-07-14T23:56:28",
+      "observed_at": "2026-09-10T03:54:47.461131",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 45,
+        "views": 5597,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2077162767274942662",
+      "title": "I'm really impressed by this\nI mean, 5.6-Sol is not a world model. not smth specifically trained to operate in the spatial domain. just a hell of text datasets,",
+      "body": "I'm really impressed by this\nI mean, 5.6-Sol is not a world model. not smth specifically trained to operate in the spatial domain. just a hell of text datasets, &lt;image/video, text&gt; pairs, RL signals\nand still text models can deliver convincing results operating in Blender",
+      "url": "https://x.com/Mishok2000/status/2077162767274942662",
+      "author": "3122126145",
+      "published_at": "2026-07-14T22:46:10",
+      "observed_at": "2026-09-10T03:54:47.462115",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 3,
+        "views": 617,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2070451150948561124",
+      "title": "interesting. basically, importance sampling/active exploration of game states\n\nto train world models more efficiently, driven by hallucination-sensitive areas h",
+      "body": "interesting. basically, importance sampling/active exploration of game states\n\nto train world models more efficiently, driven by hallucination-sensitive areas https://t.co/AZOHaFvrPr",
+      "url": "https://x.com/Mishok2000/status/2070451150948561124",
+      "author": "3122126145",
+      "published_at": "2026-06-26T10:16:36",
+      "observed_at": "2026-09-10T03:54:47.464241",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 9,
+        "views": 610,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2070181542660280366",
+      "title": "I tend to believe that the future of generative gaming truly depends on breakthroughs in JEPA-like directions. or in decoupling sim from rendering\n\ncan't afford",
+      "body": "I tend to believe that the future of generative gaming truly depends on breakthroughs in JEPA-like directions. or in decoupling sim from rendering\n\ncan't afford streaming from 8xH200 GPUs to our users. we usually extract only 0.05-0.5$/h from a user. not even mentioning latency https://t.co/zQwLSAxb3O",
+      "url": "https://x.com/Mishok2000/status/2070181542660280366",
+      "author": "3122126145",
+      "published_at": "2026-06-25T16:25:16",
+      "observed_at": "2026-09-10T03:54:47.465607",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 453,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2068796620129325431",
+      "title": "@nathanbenaich I agree with most of your thesis\n\nBut do you think it's possible to deliver a sovereign and just good-enough model, while not trying to invent th",
+      "body": "@nathanbenaich I agree with most of your thesis\n\nBut do you think it's possible to deliver a sovereign and just good-enough model, while not trying to invent the best model? \n\nthe latest requests proportional resources: talents, capital, compute, etc",
+      "url": "https://x.com/Mishok2000/status/2068796620129325431",
+      "author": "3122126145",
+      "published_at": "2026-06-21T20:42:05",
+      "observed_at": "2026-09-10T03:54:47.467667",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 3,
+        "views": 528,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2060946449249051137",
+      "title": "It reminds me of an algorithm in graphics, that is also recursive. great work!",
+      "body": "It reminds me of an algorithm in graphics, that is also recursive. great work!",
+      "url": "https://x.com/Mishok2000/status/2060946449249051137",
+      "author": "3122126145",
+      "published_at": "2026-05-31T04:48:18",
+      "observed_at": "2026-09-10T03:54:47.469285",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 676,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2060068272280608800",
+      "title": "gamedev agent \ud83d\ude10 https://t.co/KwowKIg64I",
+      "body": "gamedev agent \ud83d\ude10 https://t.co/KwowKIg64I",
+      "url": "https://x.com/Mishok2000/status/2060068272280608800",
+      "author": "3122126145",
+      "published_at": "2026-05-28T18:38:44",
+      "observed_at": "2026-09-10T03:54:47.470391",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 3,
+        "views": 362,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2059653304901095624",
+      "title": "Is it sort of normflows with all layers frozen except for one? https://t.co/ZyZkPNPEWE",
+      "body": "Is it sort of normflows with all layers frozen except for one? https://t.co/ZyZkPNPEWE",
+      "url": "https://x.com/Mishok2000/status/2059653304901095624",
+      "author": "3122126145",
+      "published_at": "2026-05-27T15:09:49",
+      "observed_at": "2026-09-10T03:54:47.471360",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 862,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2058205530926010419",
+      "title": "omg. gi, caustics, fluid and physics simulation, realistic character animation, and custom interactions with the environment",
+      "body": "omg. gi, caustics, fluid and physics simulation, realistic character animation, and custom interactions with the environment",
+      "url": "https://x.com/Mishok2000/status/2058205530926010419",
+      "author": "3122126145",
+      "published_at": "2026-05-23T15:16:52",
+      "observed_at": "2026-09-10T03:54:47.472364",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 4,
+        "views": 502,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2057512342951219691",
+      "title": "graphics tricks can be fruitful for AI. even for KV-cache compression",
+      "body": "graphics tricks can be fruitful for AI. even for KV-cache compression",
+      "url": "https://x.com/Mishok2000/status/2057512342951219691",
+      "author": "3122126145",
+      "published_at": "2026-05-21T17:22:23",
+      "observed_at": "2026-09-10T03:54:47.473267",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 324,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2055290959399669966",
+      "title": "E2E rendering in real-time! \ud83e\udd2f",
+      "body": "E2E rendering in real-time! \ud83e\udd2f",
+      "url": "https://x.com/Mishok2000/status/2055290959399669966",
+      "author": "3122126145",
+      "published_at": "2026-05-15T14:15:24",
+      "observed_at": "2026-09-10T03:54:47.473884",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 349,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2052877177587126550",
+      "title": "Each comment like this reminds me about the ideological division in modern graphics\n\nBut at least it makes some people work harder - from both sides",
+      "body": "Each comment like this reminds me about the ideological division in modern graphics\n\nBut at least it makes some people work harder - from both sides",
+      "url": "https://x.com/Mishok2000/status/2052877177587126550",
+      "author": "3122126145",
+      "published_at": "2026-05-08T22:23:54",
+      "observed_at": "2026-09-10T03:54:47.474496",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 9,
+        "views": 723,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2051461023815577900",
+      "title": "@gowthami_s the same experience!\n\nIt helps a lot, especially when everything (logs, TensorBoard, etc.) is exposed to the agents \n\nIt saved me a hell of a time w",
+      "body": "@gowthami_s the same experience!\n\nIt helps a lot, especially when everything (logs, TensorBoard, etc.) is exposed to the agents \n\nIt saved me a hell of a time while I was debugging low GPU utilization on our clusters. As each job needs some time to prepare itself and preload everything",
+      "url": "https://x.com/Mishok2000/status/2051461023815577900",
+      "author": "3122126145",
+      "published_at": "2026-05-05T00:36:37",
+      "observed_at": "2026-09-10T03:54:47.475135",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 5,
+        "views": 439,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036244292075720855",
+      "title": "@Evenios \ud83d\udcaf\n\nespecially in the scenes without faces \ud83d\ude05",
+      "body": "@Evenios \ud83d\udcaf\n\nespecially in the scenes without faces \ud83d\ude05",
+      "url": "https://x.com/Mishok2000/status/2036244292075720855",
+      "author": "3122126145",
+      "published_at": "2026-03-24T00:50:45",
+      "observed_at": "2026-09-10T03:54:47.475842",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 10,
+        "views": 3308,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036234675249725671",
+      "title": "@compusemble Exactly.\n\nI also thought about this work. But it assumed an explicit intermediate representation (normals, albedo, depth), which can really limit i",
+      "body": "@compusemble Exactly.\n\nI also thought about this work. But it assumed an explicit intermediate representation (normals, albedo, depth), which can really limit its expressive power.\n\nBut a nice work anyway",
+      "url": "https://x.com/Mishok2000/status/2036234675249725671",
+      "author": "3122126145",
+      "published_at": "2026-03-24T00:12:32",
+      "observed_at": "2026-09-10T03:54:47.476464",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 3,
+        "views": 210,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036226915963461853",
+      "title": "TLTR: DLSS 5.0 has changed my feelings about the need to include the whole \"world description\" into the context window",
+      "body": "TLTR: DLSS 5.0 has changed my feelings about the need to include the whole \"world description\" into the context window",
+      "url": "https://x.com/Mishok2000/status/2036226915963461853",
+      "author": "3122126145",
+      "published_at": "2026-03-23T23:41:42",
+      "observed_at": "2026-09-10T03:54:47.477103",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 35,
+        "views": 5052,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036223744222326962",
+      "title": "@diegopjaccottet I guess we'll definitely get there with having more and more control. Especially related to tonemapping, color shifting, and text prompts as we",
+      "body": "@diegopjaccottet I guess we'll definitely get there with having more and more control. Especially related to tonemapping, color shifting, and text prompts as well\n\nAt least I don't see any constraints from the tech side, if we can bake the final style into LoRa w, preserving efficient performance",
+      "url": "https://x.com/Mishok2000/status/2036223744222326962",
+      "author": "3122126145",
+      "published_at": "2026-03-23T23:29:06",
+      "observed_at": "2026-09-10T03:54:47.477731",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 10,
+        "views": 4245,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185627813728447",
+      "title": "I used a few figures from \"Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising\"\n\nJon Hasselgren, Nikolai Hofmann and ",
+      "body": "I used a few figures from \"Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising\"\n\nJon Hasselgren, Nikolai Hofmann and Jacob Munkberg1\n\nplease, don't hesistate to check it out\nhttps://t.co/sk3siFqrEC",
+      "url": "https://x.com/Mishok2000/status/2036185627813728447",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:57:38",
+      "observed_at": "2026-09-10T03:54:47.479502",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 27,
+        "views": 5889,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185042968322209",
+      "title": "If that\u2019s roughly true, then the big future question is: which rendering signals are truly essential for the model, and which ones are just expensive legacy com",
+      "body": "If that\u2019s roughly true, then the big future question is: which rendering signals are truly essential for the model, and which ones are just expensive legacy computation?\n- Specular? Sure\n- Coarse diffuse GI - maybe \n- Local AO, Reflections, diffuse GI - don't think so\n- Geometry?",
+      "url": "https://x.com/Mishok2000/status/2036185042968322209",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:19",
+      "observed_at": "2026-09-10T03:54:47.481949",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 32,
+        "views": 6386,
+        "reposts": 0,
+        "replies": 6,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185040833347832",
+      "title": "And the training recipe could plausibly look something like this:\n- Distill priors from top-tier image diffusion models\n(which may explain \u201cInstagram-trained\u201d f",
+      "body": "And the training recipe could plausibly look something like this:\n- Distill priors from top-tier image diffusion models\n(which may explain \u201cInstagram-trained\u201d facial tendencies )\n- Train on cheap Lumen renders as input, expensive RTX  PT renders as target https://t.co/v42QsfXeis",
+      "url": "https://x.com/Mishok2000/status/2036185040833347832",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:18",
+      "observed_at": "2026-09-10T03:54:47.482862",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 34,
+        "views": 7272,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185038203531337",
+      "title": "Long-term, I actually think this can be an optimal direction. Maybe even w/o motion input\n\nYou don\u2019t need to assume a material system, explicit BSDFs, or even o",
+      "body": "Long-term, I actually think this can be an optimal direction. Maybe even w/o motion input\n\nYou don\u2019t need to assume a material system, explicit BSDFs, or even opaque-surface-style delta/free-flight simplifications. The renderer\u2019s job becomes to provide a strong, structured prior!",
+      "url": "https://x.com/Mishok2000/status/2036185038203531337",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:18",
+      "observed_at": "2026-09-10T03:54:47.484307",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 35,
+        "views": 7297,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185035900891419",
+      "title": "Motion vectors probably help mostly as a correspondence/attention guidance signal, not as some magical source of rendering truth\n\nIt can let the model save on c",
+      "body": "Motion vectors probably help mostly as a correspondence/attention guidance signal, not as some magical source of rendering truth\n\nIt can let the model save on context view for each token, like epipolar attentions https://t.co/pIYCBSxsxq",
+      "url": "https://x.com/Mishok2000/status/2036185035900891419",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:17",
+      "observed_at": "2026-09-10T03:54:47.486492",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 28,
+        "views": 8537,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185032927105100",
+      "title": "You can easily find the guidance signal in the original render, which lets the model decouple lighting from the materials. w/o env sky directly exposed to the c",
+      "body": "You can easily find the guidance signal in the original render, which lets the model decouple lighting from the materials. w/o env sky directly exposed to the camera view https://t.co/MqfEx1EdYP",
+      "url": "https://x.com/Mishok2000/status/2036185032927105100",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:16",
+      "observed_at": "2026-09-10T03:54:47.487211",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 29,
+        "views": 9580,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185027470295485",
+      "title": "Without such a prior, I\u2019d expect much stronger view inconsistency.\n\nMy guess is that specular reflections and directly exposed sky\\lights provide one of the str",
+      "body": "Without such a prior, I\u2019d expect much stronger view inconsistency.\n\nMy guess is that specular reflections and directly exposed sky\\lights provide one of the strongest guidance signals.\n\nWhy? Because they don't suffer from diffuse materials - basically low-frequency filters https://t.co/68qGVXxTy1",
+      "url": "https://x.com/Mishok2000/status/2036185027470295485",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:15",
+      "observed_at": "2026-09-10T03:54:47.488549",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 37,
+        "views": 10603,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2036185024282714550",
+      "title": "seems like the input RGB already exposes the surroundings: reflections, occlusion, sky influence, etc.\n\nSo DLSS 5 is likely not hallucinating lighting and mater",
+      "body": "seems like the input RGB already exposes the surroundings: reflections, occlusion, sky influence, etc.\n\nSo DLSS 5 is likely not hallucinating lighting and materials from scratch - it is recovering and stabilizing info already present in the prior\n\nit's been done already in works https://t.co/spEW44PK2r",
+      "url": "https://x.com/Mishok2000/status/2036185024282714550",
+      "author": "3122126145",
+      "published_at": "2026-03-23T20:55:14",
+      "observed_at": "2026-09-10T03:54:47.490145",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 70,
+        "views": 11161,
+        "reposts": 1,
+        "replies": 4,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034652762235916382",
+      "title": "could be interesting for gamedev and rendering. considering that 90% of the objects in a scene may not matter that much\n\nso we could focus compute and memory re",
+      "body": "could be interesting for gamedev and rendering. considering that 90% of the objects in a scene may not matter that much\n\nso we could focus compute and memory resources on unique meshes that require a lot of tokens for a representation https://t.co/k4GGO1rp85",
+      "url": "https://x.com/Mishok2000/status/2034652762235916382",
+      "author": "3122126145",
+      "published_at": "2026-03-19T15:26:35",
+      "observed_at": "2026-09-10T03:54:47.491650",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 5,
+        "views": 326,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2027433532855832949",
+      "title": "but also something neat:\nThe paper argues that specular lives in the noisy stage as it has a higher variance (probably with uniform hemispherical sampling?) tha",
+      "body": "but also something neat:\nThe paper argues that specular lives in the noisy stage as it has a higher variance (probably with uniform hemispherical sampling?) than diffuse lighting, which appears later\n\nSo they modulate attention over timesteps to control materials. kind of works. https://t.co/sP491N1CQ0",
+      "url": "https://x.com/Mishok2000/status/2027433532855832949",
+      "author": "3122126145",
+      "published_at": "2026-02-27T17:19:56",
+      "observed_at": "2026-09-10T03:54:47.493215",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 8,
+        "views": 489,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2018102270705938821",
+      "title": "@andreasklinger @nathanbenaich @airstreet Zurich feb 19 :)",
+      "body": "@andreasklinger @nathanbenaich @airstreet Zurich feb 19 :)",
+      "url": "https://x.com/Mishok2000/status/2018102270705938821",
+      "author": "3122126145",
+      "published_at": "2026-02-01T23:20:50",
+      "observed_at": "2026-09-10T03:54:47.494864",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 22,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2013573587228058055",
+      "title": "@andreasklinger @vonderleyen @euinc_petition Amazing work, Andreas! \ud83d\ude80\n\nLet's hope we see a bill coming soon \ud83e\udd1e",
+      "body": "@andreasklinger @vonderleyen @euinc_petition Amazing work, Andreas! \ud83d\ude80\n\nLet's hope we see a bill coming soon \ud83e\udd1e",
+      "url": "https://x.com/Mishok2000/status/2013573587228058055",
+      "author": "3122126145",
+      "published_at": "2026-01-20T11:25:28",
+      "observed_at": "2026-09-10T03:54:47.495476",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 2,
+        "views": 100,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2005191589736690046",
+      "title": "@jiqizhixin Didn't expect to see such a big boost from converting real to complex numbers. It'd be interesting to see a real perf boost with optimized CUDA kern",
+      "body": "@jiqizhixin Didn't expect to see such a big boost from converting real to complex numbers. It'd be interesting to see a real perf boost with optimized CUDA kernels https://t.co/wvdgMzhZPa",
+      "url": "https://x.com/Mishok2000/status/2005191589736690046",
+      "author": "3122126145",
+      "published_at": "2025-12-28T08:18:24",
+      "observed_at": "2026-09-10T03:54:47.496135",
+      "metrics": {
+        "author_handle": "Mishok2000",
+        "author_followers": 916,
+        "likes": 7,
+        "views": 427,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

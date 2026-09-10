@@ -1,0 +1,29 @@
+{
+  "handle": "adriamilcar",
+  "total_tweets": 1,
+  "august_tweets": 1,
+  "tweets": [
+    {
+      "id": "2086068914723618997",
+      "title": "@ajwagenmaker Interesting. Can't help but notice an intriguingly similar solution to (short-term) predictive associative learning in the mammalian cerebellum: 1",
+      "body": "@ajwagenmaker Interesting. Can't help but notice an intriguingly similar solution to (short-term) predictive associative learning in the mammalian cerebellum: 10.1016/j.neuron.2016.10.022 https://t.co/5YIM2ZcQ9J",
+      "url": "https://x.com/adriamilcar/status/2086068914723618997",
+      "author": "2777241124",
+      "published_at": "2026-08-08T12:36:01",
+      "observed_at": "2026-09-10T03:28:58.011890",
+      "metrics": {
+        "author_handle": "adriamilcar",
+        "author_name": "Adri\u00e1n F. Amil",
+        "author_followers": 612,
+        "author_verified": false,
+        "likes": 3,
+        "views": 449,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true,
+        "reply_to_user": null
+      },
+      "is_august": true
+    }
+  ]
+}

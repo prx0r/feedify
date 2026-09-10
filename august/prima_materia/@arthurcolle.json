@@ -1,0 +1,463 @@
+{
+  "handle": "arthurcolle",
+  "total_tweets": 24,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2097890897186681231",
+      "title": "https://t.co/Kyiz51FOWQ",
+      "body": "https://t.co/Kyiz51FOWQ",
+      "url": "https://x.com/arthurcolle/status/2097890897186681231",
+      "author": "832594482",
+      "published_at": "2026-09-10T03:32:21",
+      "observed_at": "2026-09-10T03:56:26.586559",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 19,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097889249571877112",
+      "title": "@octal every time I'm feeling too rich I send @octal some American greenbacks and I just get em back with interest https://t.co/ReMmjYJGPU",
+      "body": "@octal every time I'm feeling too rich I send @octal some American greenbacks and I just get em back with interest https://t.co/ReMmjYJGPU",
+      "url": "https://x.com/arthurcolle/status/2097889249571877112",
+      "author": "832594482",
+      "published_at": "2026-09-10T03:25:48",
+      "observed_at": "2026-09-10T03:56:26.590861",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 11,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097888588054553050",
+      "title": "@imtomcurry @distributed____  pls do",
+      "body": "@imtomcurry @distributed____  pls do",
+      "url": "https://x.com/arthurcolle/status/2097888588054553050",
+      "author": "832594482",
+      "published_at": "2026-09-10T03:23:10",
+      "observed_at": "2026-09-10T03:56:26.593634",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 21,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097882449170637221",
+      "title": "Welcome to the Distributed Systems project",
+      "body": "Welcome to the Distributed Systems project",
+      "url": "https://x.com/arthurcolle/status/2097882449170637221",
+      "author": "832594482",
+      "published_at": "2026-09-10T02:58:47",
+      "observed_at": "2026-09-10T03:56:26.595119",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 4,
+        "views": 58,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097882144169205971",
+      "title": "@imtomcurry API access for Soar?",
+      "body": "@imtomcurry API access for Soar?",
+      "url": "https://x.com/arthurcolle/status/2097882144169205971",
+      "author": "832594482",
+      "published_at": "2026-09-10T02:57:34",
+      "observed_at": "2026-09-10T03:56:26.596552",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 40,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097870034332717189",
+      "title": "@octal I definitely prefer folding phone form factor but the lack of ability to install a dedicated terminal app without termux into a cloud host makes this a n",
+      "body": "@octal I definitely prefer folding phone form factor but the lack of ability to install a dedicated terminal app without termux into a cloud host makes this a non-starter for me from apple. But those are really pretty visuals I guess",
+      "url": "https://x.com/arthurcolle/status/2097870034332717189",
+      "author": "832594482",
+      "published_at": "2026-09-10T02:09:27",
+      "observed_at": "2026-09-10T03:56:26.597548",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 19,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097865109645197543",
+      "title": "@octal If you get a $400 Google Fold 1st gen you can get the entire experience for 1/10th the price",
+      "body": "@octal If you get a $400 Google Fold 1st gen you can get the entire experience for 1/10th the price",
+      "url": "https://x.com/arthurcolle/status/2097865109645197543",
+      "author": "832594482",
+      "published_at": "2026-09-10T01:49:53",
+      "observed_at": "2026-09-10T03:56:26.598767",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 34,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097863379348054118",
+      "title": "@0xDesigner It's a great idea and it's going to happen lol",
+      "body": "@0xDesigner It's a great idea and it's going to happen lol",
+      "url": "https://x.com/arthurcolle/status/2097863379348054118",
+      "author": "832594482",
+      "published_at": "2026-09-10T01:43:00",
+      "observed_at": "2026-09-10T03:56:26.600174",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 5,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097830332556857438",
+      "title": "@chrismartz it should be 100% visibility from the moment you open it up. this is a waste of compute and offended my sensibilities",
+      "body": "@chrismartz it should be 100% visibility from the moment you open it up. this is a waste of compute and offended my sensibilities",
+      "url": "https://x.com/arthurcolle/status/2097830332556857438",
+      "author": "832594482",
+      "published_at": "2026-09-09T23:31:41",
+      "observed_at": "2026-09-10T03:56:26.600976",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 3,
+        "views": 45,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097822018229969239",
+      "title": "@DanAlroyPhilo @PopBase Here, I bet they will only allow certain apps to have the \"nice mini Laptop\" display, and will not allow open ended rotation like the Go",
+      "body": "@DanAlroyPhilo @PopBase Here, I bet they will only allow certain apps to have the \"nice mini Laptop\" display, and will not allow open ended rotation like the Google Fold series which makes reading and other experiences much better",
+      "url": "https://x.com/arthurcolle/status/2097822018229969239",
+      "author": "832594482",
+      "published_at": "2026-09-09T22:58:39",
+      "observed_at": "2026-09-10T03:56:26.601666",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 17,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097821801451606266",
+      "title": "@DanAlroyPhilo @PopBase iPhone 12 Pro Max rotated across Home Screen so you could use it \"like an iPad\" - they neutered this completely after that gen of iOS fe",
+      "body": "@DanAlroyPhilo @PopBase iPhone 12 Pro Max rotated across Home Screen so you could use it \"like an iPad\" - they neutered this completely after that gen of iOS features because they realized it cannibalized their iPad sales",
+      "url": "https://x.com/arthurcolle/status/2097821801451606266",
+      "author": "832594482",
+      "published_at": "2026-09-09T22:57:47",
+      "observed_at": "2026-09-10T03:56:26.602401",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 46,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097821391684837485",
+      "title": "65 MB .HEIC files\n\n@Apple can you just take a step back and stop",
+      "body": "65 MB .HEIC files\n\n@Apple can you just take a step back and stop",
+      "url": "https://x.com/arthurcolle/status/2097821391684837485",
+      "author": "832594482",
+      "published_at": "2026-09-09T22:56:10",
+      "observed_at": "2026-09-10T03:56:26.603957",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 98,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097812366800867330",
+      "title": "@HejsaStudio @PFFeeley @Jason who the hell wants to drive a car? icky",
+      "body": "@HejsaStudio @PFFeeley @Jason who the hell wants to drive a car? icky",
+      "url": "https://x.com/arthurcolle/status/2097812366800867330",
+      "author": "832594482",
+      "published_at": "2026-09-09T22:20:18",
+      "observed_at": "2026-09-10T03:56:26.605175",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 19,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097812078425715054",
+      "title": "@LegalPrimes Behold the Torment Nexus",
+      "body": "@LegalPrimes Behold the Torment Nexus",
+      "url": "https://x.com/arthurcolle/status/2097812078425715054",
+      "author": "832594482",
+      "published_at": "2026-09-09T22:19:09",
+      "observed_at": "2026-09-10T03:56:26.605842",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 28,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097808781010723204",
+      "title": "@geoffkeighley they shamelessly copied Google Fold &amp; I bet they won't even allow rotation everywhere (a feature iPhone 12 Pro XL had literally in 2017 and t",
+      "body": "@geoffkeighley they shamelessly copied Google Fold &amp; I bet they won't even allow rotation everywhere (a feature iPhone 12 Pro XL had literally in 2017 and that they removed from subsequent generations because of greed)",
+      "url": "https://x.com/arthurcolle/status/2097808781010723204",
+      "author": "832594482",
+      "published_at": "2026-09-09T22:06:03",
+      "observed_at": "2026-09-10T03:56:26.606576",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 67,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097758840024441038",
+      "title": "@PopBase I bet it won't rotate either \ud83d\ude02",
+      "body": "@PopBase I bet it won't rotate either \ud83d\ude02",
+      "url": "https://x.com/arthurcolle/status/2097758840024441038",
+      "author": "832594482",
+      "published_at": "2026-09-09T18:47:36",
+      "observed_at": "2026-09-10T03:56:26.607973",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 325,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097755192347238436",
+      "title": "@rayaejsn @PopBase how else to manage a fleet of 60,000 agents?",
+      "body": "@rayaejsn @PopBase how else to manage a fleet of 60,000 agents?",
+      "url": "https://x.com/arthurcolle/status/2097755192347238436",
+      "author": "832594482",
+      "published_at": "2026-09-09T18:33:06",
+      "observed_at": "2026-09-10T03:56:26.608865",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 210,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097729127704875264",
+      "title": "@VictorTaelin @lirodotdev https://t.co/nDwONVlGIt",
+      "body": "@VictorTaelin @lirodotdev https://t.co/nDwONVlGIt",
+      "url": "https://x.com/arthurcolle/status/2097729127704875264",
+      "author": "832594482",
+      "published_at": "2026-09-09T16:49:32",
+      "observed_at": "2026-09-10T03:56:26.609517",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 45,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097728690876461072",
+      "title": "@VictorTaelin @lirodotdev Just release it already",
+      "body": "@VictorTaelin @lirodotdev Just release it already",
+      "url": "https://x.com/arthurcolle/status/2097728690876461072",
+      "author": "832594482",
+      "published_at": "2026-09-09T16:47:48",
+      "observed_at": "2026-09-10T03:56:26.610177",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 163,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097543519204233402",
+      "title": "@spotlemma @marsxiang_ P=NP",
+      "body": "@spotlemma @marsxiang_ P=NP",
+      "url": "https://x.com/arthurcolle/status/2097543519204233402",
+      "author": "832594482",
+      "published_at": "2026-09-09T04:32:00",
+      "observed_at": "2026-09-10T03:56:26.610822",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 54,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097526293080236173",
+      "title": "@emanperez28 @TheMoonMidas Wow",
+      "body": "@emanperez28 @TheMoonMidas Wow",
+      "url": "https://x.com/arthurcolle/status/2097526293080236173",
+      "author": "832594482",
+      "published_at": "2026-09-09T03:23:33",
+      "observed_at": "2026-09-10T03:56:26.611488",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 88,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097504921968955395",
+      "title": "@boneGPT You Shall Do My Wonders\u2122\ufe0f https://t.co/kQndoQ3muR",
+      "body": "@boneGPT You Shall Do My Wonders\u2122\ufe0f https://t.co/kQndoQ3muR",
+      "url": "https://x.com/arthurcolle/status/2097504921968955395",
+      "author": "832594482",
+      "published_at": "2026-09-09T01:58:37",
+      "observed_at": "2026-09-10T03:56:26.612144",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 34,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097488832614601169",
+      "title": "@KenWattana Never give up, old sport",
+      "body": "@KenWattana Never give up, old sport",
+      "url": "https://x.com/arthurcolle/status/2097488832614601169",
+      "author": "832594482",
+      "published_at": "2026-09-09T00:54:41",
+      "observed_at": "2026-09-10T03:56:26.612812",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 1,
+        "views": 45,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2097483120177971595",
+      "title": "@distributed____ \ud83d\ude02 can you focus on the Graphsub testing",
+      "body": "@distributed____ \ud83d\ude02 can you focus on the Graphsub testing",
+      "url": "https://x.com/arthurcolle/status/2097483120177971595",
+      "author": "832594482",
+      "published_at": "2026-09-09T00:31:59",
+      "observed_at": "2026-09-10T03:56:26.613451",
+      "metrics": {
+        "author_handle": "arthurcolle",
+        "author_followers": 2394,
+        "likes": 0,
+        "views": 11,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

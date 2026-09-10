@@ -1,0 +1,387 @@
+{
+  "handle": "YisiSang",
+  "total_tweets": 20,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2075307020794958165",
+      "title": "5/ My takeaway:\n\nAgentic data is not only about training assistant/tool behavior.\n\nIt is also about modeling human behavior trajectories: what users see, what t",
+      "body": "5/ My takeaway:\n\nAgentic data is not only about training assistant/tool behavior.\n\nIt is also about modeling human behavior trajectories: what users see, what they do next, and what intent may explain it.\n\nPaper: https://t.co/Ok0HeRqv1w\n\n#Agents #PostTraining #AgenticData #LLM",
+      "url": "https://x.com/YisiSang/status/2075307020794958165",
+      "author": "1114624540452249601",
+      "published_at": "2026-07-09T19:52:05",
+      "observed_at": "2026-09-10T03:56:10.680319",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 2,
+        "views": 75,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2075307015673647549",
+      "title": "1/ Continuing my series on agentic data generation for post-training.\n\nSecond paper: Can LLM Agents Simulate Multi-Turn Human Behavior?\n\nCore question: can LLM ",
+      "body": "1/ Continuing my series on agentic data generation for post-training.\n\nSecond paper: Can LLM Agents Simulate Multi-Turn Human Behavior?\n\nCore question: can LLM agents predict what real users will do next in multi-turn online shopping sessions? https://t.co/YSyVFBRh33",
+      "url": "https://x.com/YisiSang/status/2075307015673647549",
+      "author": "1114624540452249601",
+      "published_at": "2026-07-09T19:52:04",
+      "observed_at": "2026-09-10T03:56:10.682384",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 24,
+        "views": 2233,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065569008787824948",
+      "title": "New paper from our work on self-evolving LLM agents: \u201cHarness Updating Is Not Harness Benefit.\u201d\n\nWhen an agent improves its prompts, skills, memories, or tools,",
+      "body": "New paper from our work on self-evolving LLM agents: \u201cHarness Updating Is Not Harness Benefit.\u201d\n\nWhen an agent improves its prompts, skills, memories, or tools, where does the gain come from\u2014the evolver that writes the update, or the solver that uses it? \ud83e\uddf5 https://t.co/M8WMzZrOaI",
+      "url": "https://x.com/YisiSang/status/2065569008787824948",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-12T22:56:42",
+      "observed_at": "2026-09-10T03:56:10.684658",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 3,
+        "views": 156,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2065092503834079475",
+      "title": "Proud to share A-Evolve-Training, where AI autonomously post-trained a 30B Nemotron model with no human in the loop. The same system has also been run at 120B a",
+      "body": "Proud to share A-Evolve-Training, where AI autonomously post-trained a 30B Nemotron model with no human in the loop. The same system has also been run at 120B and 550B scale\ud83c\udf89. Most excitingly, it detected a flaw in its own optimization and reversed course mid-campaign.\ud83e\udd70",
+      "url": "https://x.com/YisiSang/status/2065092503834079475",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-11T15:23:15",
+      "observed_at": "2026-09-10T03:56:10.686662",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 31,
+        "views": 4815,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2064841597553201409",
+      "title": "Excited to see our work highlighted by @GregKamradt and the ARC Prize community! \ud83c\udf89A-Evolve focuses on enabling agents to iteratively evolve both their problem-s",
+      "body": "Excited to see our work highlighted by @GregKamradt and the ARC Prize community! \ud83c\udf89A-Evolve focuses on enabling agents to iteratively evolve both their problem-solving harnesses and training strategies. Great to see this approach gaining traction in ARC-AGI-3. More to come! \ud83d\udcaa",
+      "url": "https://x.com/YisiSang/status/2064841597553201409",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-10T22:46:14",
+      "observed_at": "2026-09-10T03:56:10.688713",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 4,
+        "views": 1801,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062581894475366460",
+      "title": "5/ We built Retail-3I: 1,099 complex tool-use tasks and 2,872 successful trajectories.\n\nFine-tuning improved robustness across complex intents and transferred t",
+      "body": "5/ We built Retail-3I: 1,099 complex tool-use tasks and 2,872 successful trajectories.\n\nFine-tuning improved robustness across complex intents and transferred to an unseen airline domain.\n\nPaper: https://t.co/Ja9l2OL3hr\n\n#Agents #PostTraining #SyntheticData #ToolUse",
+      "url": "https://x.com/YisiSang/status/2062581894475366460",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-04T17:06:59",
+      "observed_at": "2026-09-10T03:56:10.690748",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 6,
+        "views": 334,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062581893204492750",
+      "title": "4/ Why does this matter for post-training?\n\nGood agent data should teach more than the final answer.\n\nIt should teach when to ask clarifying questions, when to ",
+      "body": "4/ Why does this matter for post-training?\n\nGood agent data should teach more than the final answer.\n\nIt should teach when to ask clarifying questions, when to call tools, how to adapt when user intent changes, and how to handle infeasible requests or tool constraints.",
+      "url": "https://x.com/YisiSang/status/2062581893204492750",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-04T17:06:58",
+      "observed_at": "2026-09-10T03:56:10.692606",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 2,
+        "views": 315,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062581891858051311",
+      "title": "3/ Trajectory2Task reverses the direction:\n\ntrajectory first, task second.\n\nWe first explore the tool environment to generate valid multi-turn tool-call traject",
+      "body": "3/ Trajectory2Task reverses the direction:\n\ntrajectory first, task second.\n\nWe first explore the tool environment to generate valid multi-turn tool-call trajectories, then convert them into realistic user-facing tasks under ambiguous, changing, and infeasible intent settings.",
+      "url": "https://x.com/YisiSang/status/2062581891858051311",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-04T17:06:58",
+      "observed_at": "2026-09-10T03:56:10.694472",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 5,
+        "views": 237,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062581890666897756",
+      "title": "2/ Most synthetic data pipelines are \u201ctask first\u201d:\n\ngenerate a user task \u2192 ask a model to solve it.\n\nBut for tool-calling agents, this can be fragile. The task ",
+      "body": "2/ Most synthetic data pipelines are \u201ctask first\u201d:\n\ngenerate a user task \u2192 ask a model to solve it.\n\nBut for tool-calling agents, this can be fragile. The task may look realistic, while the reference trajectory is not actually executable or verifiable.",
+      "url": "https://x.com/YisiSang/status/2062581890666897756",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-04T17:06:58",
+      "observed_at": "2026-09-10T03:56:10.696442",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 4,
+        "views": 331,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062581889073131593",
+      "title": "1/ I\u2019m starting a short series on agentic data generation for post-training.\n\nFirst paper: Trajectory2Task \u2014 our work on training robust tool-calling agents wit",
+      "body": "1/ I\u2019m starting a short series on agentic data generation for post-training.\n\nFirst paper: Trajectory2Task \u2014 our work on training robust tool-calling agents with synthesized yet verifiable data.\n\nCore idea: trajectory first, then synthesize the task. https://t.co/qJ0QKGPunX",
+      "url": "https://x.com/YisiSang/status/2062581889073131593",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-04T17:06:57",
+      "observed_at": "2026-09-10T03:56:10.698626",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 91,
+        "views": 4792,
+        "reposts": 14,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2062219345875673551",
+      "title": "@HenryL_AI Streaming!",
+      "body": "@HenryL_AI Streaming!",
+      "url": "https://x.com/YisiSang/status/2062219345875673551",
+      "author": "1114624540452249601",
+      "published_at": "2026-06-03T17:06:20",
+      "observed_at": "2026-09-10T03:56:10.701420",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 2,
+        "views": 90,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2037605736432431299",
+      "title": "@HenryL_AI @amazon Agents learn and adapt over time through interaction~unlocking truly self-evolving intelligence \ud83d\ude80",
+      "body": "@HenryL_AI @amazon Agents learn and adapt over time through interaction~unlocking truly self-evolving intelligence \ud83d\ude80",
+      "url": "https://x.com/YisiSang/status/2037605736432431299",
+      "author": "1114624540452249601",
+      "published_at": "2026-03-27T19:00:39",
+      "observed_at": "2026-09-10T03:56:10.702292",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 5,
+        "views": 475,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1546984206315597824",
+      "title": "Check out our poster at A17 \ud83d\ude01#NAACL2022 https://t.co/hjUjaf6a1A",
+      "body": "Check out our poster at A17 \ud83d\ude01#NAACL2022 https://t.co/hjUjaf6a1A",
+      "url": "https://x.com/YisiSang/status/1546984206315597824",
+      "author": "1114624540452249601",
+      "published_at": "2022-07-12T22:25:51",
+      "observed_at": "2026-09-10T03:56:10.703067",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 46,
+        "views": 0,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1546838772108562437",
+      "title": "If you are interested in machine reading comprehension, check out our paper #NAACL2022 \ud83d\ude03\ud83d\ude03",
+      "body": "If you are interested in machine reading comprehension, check out our paper #NAACL2022 \ud83d\ude03\ud83d\ude03",
+      "url": "https://x.com/YisiSang/status/1546838772108562437",
+      "author": "1114624540452249601",
+      "published_at": "2022-07-12T12:47:56",
+      "observed_at": "2026-09-10T03:56:10.703947",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 13,
+        "views": 0,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1529163813894987783",
+      "title": "1st #ACL\ud83d\ude04\ud83d\udc31\u2705 https://t.co/IJmfse6F0M",
+      "body": "1st #ACL\ud83d\ude04\ud83d\udc31\u2705 https://t.co/IJmfse6F0M",
+      "url": "https://x.com/YisiSang/status/1529163813894987783",
+      "author": "1114624540452249601",
+      "published_at": "2022-05-24T18:13:58",
+      "observed_at": "2026-09-10T03:56:10.704659",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 20,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1528483518648668161",
+      "title": "@kayo_yin Exactly the opposite situation \ud83e\udd23\ud83e\udd23. I'm in Dublin ACL but probably can't make it to IJCAI Vienna\u2026 still trying to schedule the trip to Vienna\ud83e\udd23 hope to ",
+      "body": "@kayo_yin Exactly the opposite situation \ud83e\udd23\ud83e\udd23. I'm in Dublin ACL but probably can't make it to IJCAI Vienna\u2026 still trying to schedule the trip to Vienna\ud83e\udd23 hope to see you there~",
+      "url": "https://x.com/YisiSang/status/1528483518648668161",
+      "author": "1114624540452249601",
+      "published_at": "2022-05-22T21:10:43",
+      "observed_at": "2026-09-10T03:56:10.705460",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1523370253484449792",
+      "title": "\u2022 Local versus global narrative representation (i.e., the extent of the text stream over which the reader needs to link narrative elements)\n\u2022 Extent of narrativ",
+      "body": "\u2022 Local versus global narrative representation (i.e., the extent of the text stream over which the reader needs to link narrative elements)\n\u2022 Extent of narrative elements extracted by the comprehension model",
+      "url": "https://x.com/YisiSang/status/1523370253484449792",
+      "author": "1114624540452249601",
+      "published_at": "2022-05-08T18:32:25",
+      "observed_at": "2026-09-10T03:56:10.708411",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1523370252121296898",
+      "title": "In this survey, based on narrative theories, reading comprehension theories, as well as existing machine narrative reading comprehension tasks and datasets, we ",
+      "body": "In this survey, based on narrative theories, reading comprehension theories, as well as existing machine narrative reading comprehension tasks and datasets, we propose a typology that capture\uff1a",
+      "url": "https://x.com/YisiSang/status/1523370252121296898",
+      "author": "1114624540452249601",
+      "published_at": "2022-05-08T18:32:25",
+      "observed_at": "2026-09-10T03:56:10.709750",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 4,
+        "views": 0,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1523370250208563201",
+      "title": "\ud83e\udd73Yahoo! Our survey paper on machine narrative reading comprehension got accepted by @IJCAI 2022 in Vienna. \u2665\ufe0fThank you my mentors and collaborators @moutaigua81",
+      "body": "\ud83e\udd73Yahoo! Our survey paper on machine narrative reading comprehension got accepted by @IJCAI 2022 in Vienna. \u2665\ufe0fThank you my mentors and collaborators @moutaigua8183  JingLi @Bishop_Gorov @jfstn for the awesome teamwork!! \n\ud83d\udcf0: https://t.co/RDAmus8blk",
+      "url": "https://x.com/YisiSang/status/1523370250208563201",
+      "author": "1114624540452249601",
+      "published_at": "2022-05-08T18:32:25",
+      "observed_at": "2026-09-10T03:56:10.710494",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 17,
+        "views": 0,
+        "reposts": 4,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1518999957608435713",
+      "title": "Our new model architectures to support the contextualized encoding of long scene text from stories significantly outperform baselines, yet still largely lag beh",
+      "body": "Our new model architectures to support the contextualized encoding of long scene text from stories significantly outperform baselines, yet still largely lag behind the (nearly perfect) human performance. https://t.co/ADalMDzNQv",
+      "url": "https://x.com/YisiSang/status/1518999957608435713",
+      "author": "1114624540452249601",
+      "published_at": "2022-04-26T17:06:26",
+      "observed_at": "2026-09-10T03:56:10.712118",
+      "metrics": {
+        "author_handle": "YisiSang",
+        "author_followers": 322,
+        "likes": 2,
+        "views": 0,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

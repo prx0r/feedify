@@ -1,0 +1,615 @@
+{
+  "handle": "arna_ghosh",
+  "total_tweets": 32,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2018690209051820259",
+      "title": "Making LLMs safe for enterprise applications requires proper benchmarking and understanding of downstream effects of actions.\nFascinating work from the @skyfall",
+      "body": "Making LLMs safe for enterprise applications requires proper benchmarking and understanding of downstream effects of actions.\nFascinating work from the @skyfallai team!\ud83d\ude80",
+      "url": "https://x.com/arna_ghosh/status/2018690209051820259",
+      "author": "1055730611317628928",
+      "published_at": "2026-02-03T14:17:05",
+      "observed_at": "2026-09-10T03:56:32.185209",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 3,
+        "views": 183,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2018516095838159132",
+      "title": "@jacobmbuckman Learning by gradient descent does not have to deal with the \"genomic bottleneck\" problem -- a core characteristic of evolution imo. \nRe your 2nd ",
+      "body": "@jacobmbuckman Learning by gradient descent does not have to deal with the \"genomic bottleneck\" problem -- a core characteristic of evolution imo. \nRe your 2nd footnote: you might find this study interesting. \nhttps://t.co/dTNDlgLvDP",
+      "url": "https://x.com/arna_ghosh/status/2018516095838159132",
+      "author": "1055730611317628928",
+      "published_at": "2026-02-03T02:45:14",
+      "observed_at": "2026-09-10T03:56:32.188149",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 125,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2009731172142653935",
+      "title": "@_vaishnavh Cool setup and finding!\nYou might find our NeurIPS 2025 paper interesting, especially the role of CE loss in learning the dominant spectral modes of",
+      "body": "@_vaishnavh Cool setup and finding!\nYou might find our NeurIPS 2025 paper interesting, especially the role of CE loss in learning the dominant spectral modes of the data early in training.\n\ud83e\uddf5: https://t.co/E3D4e5MM3a\nPaper: https://t.co/eBchj3kjdh",
+      "url": "https://x.com/arna_ghosh/status/2009731172142653935",
+      "author": "1055730611317628928",
+      "published_at": "2026-01-09T20:57:05",
+      "observed_at": "2026-09-10T03:56:32.190793",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 7,
+        "views": 980,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2008692944291713379",
+      "title": "Cool stuff from our Paradigms of Intelligence team at Google!\nWay to go @SeijinKobayashi @yaschimpf @mtavitschlegel \ud83d\ude80",
+      "body": "Cool stuff from our Paradigms of Intelligence team at Google!\nWay to go @SeijinKobayashi @yaschimpf @mtavitschlegel \ud83d\ude80",
+      "url": "https://x.com/arna_ghosh/status/2008692944291713379",
+      "author": "1055730611317628928",
+      "published_at": "2026-01-07T00:11:32",
+      "observed_at": "2026-09-10T03:56:32.193571",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 5,
+        "views": 388,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2008691342512156785",
+      "title": "Fantastic summary of prior SSL methods and JEPA from @ylecun .\nLove the \"Bottom line\" section, took me back to the SSL discussions during my PhD (+defense) \ud83d\ude05\nAl",
+      "body": "Fantastic summary of prior SSL methods and JEPA from @ylecun .\nLove the \"Bottom line\" section, took me back to the SSL discussions during my PhD (+defense) \ud83d\ude05\nAlso, glad to have a ref to answer \"how is your work on dim-contrastive SSL related to JEPA?\" \ud83d\ude02\nOff to read LeJEPA... \ud83d\udc4b",
+      "url": "https://x.com/arna_ghosh/status/2008691342512156785",
+      "author": "1055730611317628928",
+      "published_at": "2026-01-07T00:05:10",
+      "observed_at": "2026-09-10T03:56:32.195121",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 357,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1996952240154632449",
+      "title": "In San Diego attending #NeurIPS2025? \nCome to our poster to talk more about representation geometry in LLMs. \ud83d\ude03\n\ud83d\uddd3\ufe0f Friday 4:30-7:30 pm session\n\ud83d\udccd Exhibit Hall C, ",
+      "body": "In San Diego attending #NeurIPS2025? \nCome to our poster to talk more about representation geometry in LLMs. \ud83d\ude03\n\ud83d\uddd3\ufe0f Friday 4:30-7:30 pm session\n\ud83d\udccd Exhibit Hall C, D, E\n\ud83c\udfc1 Poster # 2502",
+      "url": "https://x.com/arna_ghosh/status/1996952240154632449",
+      "author": "1055730611317628928",
+      "published_at": "2025-12-05T14:38:10",
+      "observed_at": "2026-09-10T03:56:32.196192",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 21,
+        "views": 5875,
+        "reposts": 6,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1996950482317672574",
+      "title": "@dwarkesh_sp @tyrell_turing fits the bill perfectly! \nNeuroscientist \u2705\nNeuro-AI connections \u2705\nAmazing communicator \u2705 \ud83d\ude4c",
+      "body": "@dwarkesh_sp @tyrell_turing fits the bill perfectly! \nNeuroscientist \u2705\nNeuro-AI connections \u2705\nAmazing communicator \u2705 \ud83d\ude4c",
+      "url": "https://x.com/arna_ghosh/status/1996950482317672574",
+      "author": "1055730611317628928",
+      "published_at": "2025-12-05T14:31:11",
+      "observed_at": "2026-09-10T03:56:32.198967",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 13,
+        "views": 194,
+        "reposts": 0,
+        "replies": 3,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1989130492697026621",
+      "title": "Pretty cool result! Congrats to the authors. \ud83d\ude03\nOur #neurips2025 paper shows that RLVR, unlike SFT/DPO, leads to a  decrease in the entropy of the representation",
+      "body": "Pretty cool result! Congrats to the authors. \ud83d\ude03\nOur #neurips2025 paper shows that RLVR, unlike SFT/DPO, leads to a  decrease in the entropy of the representation space, potentially leading to this observed lack of diversity in RLVR-trained models.\n\ud83e\uddf5: https://t.co/E3D4e5NjSI https://t.co/zhZU5xL2uQ",
+      "url": "https://x.com/arna_ghosh/status/1989130492697026621",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-14T00:37:20",
+      "observed_at": "2026-09-10T03:56:32.200480",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 5,
+        "views": 973,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1988750396865864113",
+      "title": "This is fantastic progress in SSL! \ud83c\udf89\nExciting to read more and understand the theoretical underpinnings. \ud83e\udd13",
+      "body": "This is fantastic progress in SSL! \ud83c\udf89\nExciting to read more and understand the theoretical underpinnings. \ud83e\udd13",
+      "url": "https://x.com/arna_ghosh/status/1988750396865864113",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-12T23:26:58",
+      "observed_at": "2026-09-10T03:56:32.202744",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 3,
+        "views": 474,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1987651994018799903",
+      "title": "@BlackHC We took a spectral perspective and showed that unlike SFT/DPO post-training, RLVR post-training (in Tulu models) decreases the representation space ent",
+      "body": "@BlackHC We took a spectral perspective and showed that unlike SFT/DPO post-training, RLVR post-training (in Tulu models) decreases the representation space entropy underlying a lower diversity of LM responses.\n\ud83e\uddf5: https://t.co/E3D4e5MM3a https://t.co/8fLMwuBLcV",
+      "url": "https://x.com/arna_ghosh/status/1987651994018799903",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-09T22:42:18",
+      "observed_at": "2026-09-10T03:56:32.204279",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 12,
+        "views": 2232,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1986635712305709154",
+      "title": "@AndrewLampinen You are \ud83d\udcaf correct! \nWe observed that the top directions encode the freq occuring tokens -- corr to dominant eigendirections in data -- in the pr",
+      "body": "@AndrewLampinen You are \ud83d\udcaf correct! \nWe observed that the top directions encode the freq occuring tokens -- corr to dominant eigendirections in data -- in the pretraining data (learned early in pretraining). This mostly corresponds to the generic structure of language, not task-related info. https://t.co/I5DKylnYci",
+      "url": "https://x.com/arna_ghosh/status/1986635712305709154",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-07T03:23:58",
+      "observed_at": "2026-09-10T03:56:32.206408",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 5,
+        "views": 162,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1986596275232362773",
+      "title": "@AndrewLampinen Depends on what you mean by \"generalization\". We demonstrated in our recent work that (out-of-distribution) task performance in LLMs relies on i",
+      "body": "@AndrewLampinen Depends on what you mean by \"generalization\". We demonstrated in our recent work that (out-of-distribution) task performance in LLMs relies on information encoded in bottom eigendirections! \n\ud83e\uddf5: https://t.co/MypDOAt0mC https://t.co/NB28ZarSgt",
+      "url": "https://x.com/arna_ghosh/status/1986596275232362773",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-07T00:47:15",
+      "observed_at": "2026-09-10T03:56:32.208912",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 15,
+        "views": 1250,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1986595494639079763",
+      "title": "Exciting to see these results aligning with our recent work showing that memorization happens during the entropy-seeking phase of LLM pretraining, where informa",
+      "body": "Exciting to see these results aligning with our recent work showing that memorization happens during the entropy-seeking phase of LLM pretraining, where information is added to the bottom directions of the representation space!\n\ud83e\uddf5: https://t.co/MypDOAtyca https://t.co/HDtFkpgI5a",
+      "url": "https://x.com/arna_ghosh/status/1986595494639079763",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-07T00:44:09",
+      "observed_at": "2026-09-10T03:56:32.211361",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 275,
+        "views": 25518,
+        "reposts": 27,
+        "replies": 4,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1985775870368497745",
+      "title": "My friends have often questioned me on why I use \ud83d\ude80 so often. Well, now you know \ud83d\ude09\nIt's time to build the future. \ud83d\udcaa\ud83c\udffc\ud83d\ude80",
+      "body": "My friends have often questioned me on why I use \ud83d\ude80 so often. Well, now you know \ud83d\ude09\nIt's time to build the future. \ud83d\udcaa\ud83c\udffc\ud83d\ude80",
+      "url": "https://x.com/arna_ghosh/status/1985775870368497745",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-04T18:27:16",
+      "observed_at": "2026-09-10T03:56:32.213779",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 7,
+        "views": 1018,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1985501739014107309",
+      "title": "Still recovering from the emotional roller coaster from this weekend of following Bat-and-ball sports \u26be\ufe0f\ud83c\udfcf\nA late Sat night \ud83d\udc94 for #BlueJays  took me back to Nov ",
+      "body": "Still recovering from the emotional roller coaster from this weekend of following Bat-and-ball sports \u26be\ufe0f\ud83c\udfcf\nA late Sat night \ud83d\udc94 for #BlueJays  took me back to Nov 19, 2023. \nBut kudos to @BCCIWomen for lifting the CWC on Sun &amp; breaking the Nov jinx. It was a loong wait! \ud83e\udd79\ud83c\uddee\ud83c\uddf3",
+      "url": "https://x.com/arna_ghosh/status/1985501739014107309",
+      "author": "1055730611317628928",
+      "published_at": "2025-11-04T00:17:58",
+      "observed_at": "2026-09-10T03:56:32.215279",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 5,
+        "views": 486,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1984296741168890157",
+      "title": "Huge congratulations to @melody_zixuan who has been an absolute \u2b50\ufe0f!\nIt was an absolute pleasure to work with such a talented+hard-working student! \ud83d\ude0d\n\nAlso, Melo",
+      "body": "Huge congratulations to @melody_zixuan who has been an absolute \u2b50\ufe0f!\nIt was an absolute pleasure to work with such a talented+hard-working student! \ud83d\ude0d\n\nAlso, Melody is on the lookout for grad schools, reach out to her if you are hiring! Don't miss out on an amazing applicant.\ud83d\ude09",
+      "url": "https://x.com/arna_ghosh/status/1984296741168890157",
+      "author": "1055730611317628928",
+      "published_at": "2025-10-31T16:29:44",
+      "observed_at": "2026-09-10T03:56:32.217515",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 7,
+        "views": 2987,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1983998660422856764",
+      "title": "How does representation complexity change across LLM training? How does it relate to model's behavior? \ud83e\udd14\nExcited to announce our #NeurIPS2025 paper that reveals",
+      "body": "How does representation complexity change across LLM training? How does it relate to model's behavior? \ud83e\udd14\nExcited to announce our #NeurIPS2025 paper that reveals distinct geometric phases in LLM pretraining &amp; post-training governing memorization vs. generalization behavior.\n\ud83e\uddf5\ud83d\udc47",
+      "url": "https://x.com/arna_ghosh/status/1983998660422856764",
+      "author": "1055730611317628928",
+      "published_at": "2025-10-30T20:45:16",
+      "observed_at": "2026-09-10T03:56:32.218982",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 16,
+        "views": 1215,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1981182649407545769",
+      "title": "@adamimos You might like our recent paper. \nhttps://t.co/eBchj3kR2P\n\n\ud83e\uddf5 coming soon. \ud83d\ude09",
+      "body": "@adamimos You might like our recent paper. \nhttps://t.co/eBchj3kR2P\n\n\ud83e\uddf5 coming soon. \ud83d\ude09",
+      "url": "https://x.com/arna_ghosh/status/1981182649407545769",
+      "author": "1055730611317628928",
+      "published_at": "2025-10-23T02:15:26",
+      "observed_at": "2026-09-10T03:56:32.221338",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 240,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1960460214349799773",
+      "title": "Fantastic summary of an amazing book! Can't wait to dig in more.",
+      "body": "Fantastic summary of an amazing book! Can't wait to dig in more.",
+      "url": "https://x.com/arna_ghosh/status/1960460214349799773",
+      "author": "1055730611317628928",
+      "published_at": "2025-08-26T21:51:53",
+      "observed_at": "2026-09-10T03:56:32.222756",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 4,
+        "views": 370,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1954970437936468377",
+      "title": "@DimitrisPapail I suspect it has to do with x-ent being able to invert the data generation process (Work from @rpatrik96 @randall_balestr @klindt_david  at ICLR",
+      "body": "@DimitrisPapail I suspect it has to do with x-ent being able to invert the data generation process (Work from @rpatrik96 @randall_balestr @klindt_david  at ICLR 2025):\nhttps://t.co/2BBClHLmb2\n\nI also think the x-ent learning dynamics provides some implicit biases, but will share more soon. \ud83d\ude09",
+      "url": "https://x.com/arna_ghosh/status/1954970437936468377",
+      "author": "1055730611317628928",
+      "published_at": "2025-08-11T18:17:28",
+      "observed_at": "2026-09-10T03:56:32.224732",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 4,
+        "views": 342,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1907134633147269169",
+      "title": "PS: It was fun to put Reptrix together with @DanieBenes, our open-source expert and new addition to the \u03b1-Squad comprising of @ArnabMondal96 @kumarkagrawal @tyr",
+      "body": "PS: It was fun to put Reptrix together with @DanieBenes, our open-source expert and new addition to the \u03b1-Squad comprising of @ArnabMondal96 @kumarkagrawal @tyrell_turing and I.\n[6/6]",
+      "url": "https://x.com/arna_ghosh/status/1907134633147269169",
+      "author": "1055730611317628928",
+      "published_at": "2025-04-01T18:15:04",
+      "observed_at": "2026-09-10T03:56:32.226418",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 4,
+        "views": 298,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1907134631616647437",
+      "title": "If you do end up giving Reptrix a try, we would love to hear from you! We also encourage you to contribute to our repo and add example notebooks trying out thes",
+      "body": "If you do end up giving Reptrix a try, we would love to hear from you! We also encourage you to contribute to our repo and add example notebooks trying out these metrics for your networks, beyond natural language and vision domains.\nhttps://t.co/k6cvXwL0qw\n[5/6]",
+      "url": "https://x.com/arna_ghosh/status/1907134631616647437",
+      "author": "1055730611317628928",
+      "published_at": "2025-04-01T18:15:03",
+      "observed_at": "2026-09-10T03:56:32.228653",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 167,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1890977568460869871",
+      "title": "@ShahabBakht @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks a lot Shahab! \u2764\ufe0f",
+      "body": "@ShahabBakht @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks a lot Shahab! \u2764\ufe0f",
+      "url": "https://x.com/arna_ghosh/status/1890977568460869871",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-16T04:12:39",
+      "observed_at": "2026-09-10T03:56:32.230239",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 119,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1890697166231883797",
+      "title": "@TheyCallMeMr_ @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thank you, bro! :)",
+      "body": "@TheyCallMeMr_ @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thank you, bro! :)",
+      "url": "https://x.com/arna_ghosh/status/1890697166231883797",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-15T09:38:26",
+      "observed_at": "2026-09-10T03:56:32.231162",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 50,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1890696625405694160",
+      "title": "@RaymondRChua @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks Ray! \ud83d\ude03\nIt has been amazing to have shared large parts of the j",
+      "body": "@RaymondRChua @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks Ray! \ud83d\ude03\nIt has been amazing to have shared large parts of the journey with you! :)",
+      "url": "https://x.com/arna_ghosh/status/1890696625405694160",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-15T09:36:17",
+      "observed_at": "2026-09-10T03:56:32.231898",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 71,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1890696069106803128",
+      "title": "@ArnabMondal96 @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks a lot, bro!! \u2764\ufe0f\nIt has been an honour to have you as a friend",
+      "body": "@ArnabMondal96 @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks a lot, bro!! \u2764\ufe0f\nIt has been an honour to have you as a friend, colleague and collaborator throughout this journey. \ud83e\udd79",
+      "url": "https://x.com/arna_ghosh/status/1890696069106803128",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-15T09:34:04",
+      "observed_at": "2026-09-10T03:56:32.232626",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 3,
+        "views": 106,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1890695869487304781",
+      "title": "@soniajoseph_ @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks Sonia! \ud83d\ude03\nIt's been a pleasure to have shared parts of the jour",
+      "body": "@soniajoseph_ @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks Sonia! \ud83d\ude03\nIt's been a pleasure to have shared parts of the journey with you. :)",
+      "url": "https://x.com/arna_ghosh/status/1890695869487304781",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-15T09:33:17",
+      "observed_at": "2026-09-10T03:56:32.234243",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 3,
+        "views": 59,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1890695699097874858",
+      "title": "@jeffreyseely @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks Jeff! \ud83d\ude03",
+      "body": "@jeffreyseely @tyrell_turing @AaronCourville @adri_romsor @somnirons @apeyrache @davlanade Thanks Jeff! \ud83d\ude03",
+      "url": "https://x.com/arna_ghosh/status/1890695699097874858",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-15T09:32:36",
+      "observed_at": "2026-09-10T03:56:32.235332",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 173,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1888927774389182611",
+      "title": "Very fortunate to have the support of close friends &amp; family through my academic journey. Life would have been very difficult without them.\nBig thanks to al",
+      "body": "Very fortunate to have the support of close friends &amp; family through my academic journey. Life would have been very difficult without them.\nBig thanks to all members of the LiNC lab (represented by a few smiling faces above \ud83d\ude01), and colleagues at @mcgillu and @Mila_Quebec.",
+      "url": "https://x.com/arna_ghosh/status/1888927774389182611",
+      "author": "1055730611317628928",
+      "published_at": "2025-02-10T12:27:30",
+      "observed_at": "2026-09-10T03:56:32.236119",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 13,
+        "views": 440,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1867411250285789222",
+      "title": "Might be of interest to @ylecun @randall_balestr @imisra_ @tydsh  @garridoq_ @AggieInCA  @jsusskin",
+      "body": "Might be of interest to @ylecun @randall_balestr @imisra_ @tydsh  @garridoq_ @AggieInCA  @jsusskin",
+      "url": "https://x.com/arna_ghosh/status/1867411250285789222",
+      "author": "1055730611317628928",
+      "published_at": "2024-12-13T03:28:31",
+      "observed_at": "2026-09-10T03:56:32.236939",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 281,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1864735025578508618",
+      "title": "@naturecomputes \u270bI will be there too. :) \nWould be fun to catch up. :)",
+      "body": "@naturecomputes \u270bI will be there too. :) \nWould be fun to catch up. :)",
+      "url": "https://x.com/arna_ghosh/status/1864735025578508618",
+      "author": "1055730611317628928",
+      "published_at": "2024-12-05T18:14:09",
+      "observed_at": "2026-09-10T03:56:32.237576",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 1,
+        "views": 237,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1861120030181568560",
+      "title": "@roydanroy That's not quite true, is it?\n(Depends on the province right?)",
+      "body": "@roydanroy That's not quite true, is it?\n(Depends on the province right?)",
+      "url": "https://x.com/arna_ghosh/status/1861120030181568560",
+      "author": "1055730611317628928",
+      "published_at": "2024-11-25T18:49:27",
+      "observed_at": "2026-09-10T03:56:32.238283",
+      "metrics": {
+        "author_handle": "arna_ghosh",
+        "author_followers": 1145,
+        "likes": 2,
+        "views": 546,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

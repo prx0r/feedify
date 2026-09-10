@@ -1,0 +1,482 @@
+{
+  "handle": "christinetyip",
+  "total_tweets": 25,
+  "august_tweets": 14,
+  "tweets": [
+    {
+      "id": "2095930320088391875",
+      "title": "@tomasruizlopez @superlinear_fm @bkase_ Thanks, Tom\u00e1s, so glad you enjoyed the podcast!\n\nJust curious - do you have any favorite episodes or insights?",
+      "body": "@tomasruizlopez @superlinear_fm @bkase_ Thanks, Tom\u00e1s, so glad you enjoyed the podcast!\n\nJust curious - do you have any favorite episodes or insights?",
+      "url": "https://x.com/christinetyip/status/2095930320088391875",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-04T17:41:43",
+      "observed_at": "2026-09-10T03:56:23.618073",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 2,
+        "views": 68,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095631202438815906",
+      "title": "@cloneisjun And it's actually not that hard to set up!",
+      "body": "@cloneisjun And it's actually not that hard to set up!",
+      "url": "https://x.com/christinetyip/status/2095631202438815906",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-03T21:53:08",
+      "observed_at": "2026-09-10T03:56:23.619525",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 0,
+        "views": 6,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095504884854362280",
+      "title": "@bkase_ yeah I wasn't using gemini anymore, but I guess there's another AI subscription I need to plan for..",
+      "body": "@bkase_ yeah I wasn't using gemini anymore, but I guess there's another AI subscription I need to plan for..",
+      "url": "https://x.com/christinetyip/status/2095504884854362280",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-03T13:31:11",
+      "observed_at": "2026-09-10T03:56:23.620644",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 1,
+        "views": 20,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095504725907038712",
+      "title": "@bkase_ Thanks to your tip! It's been so helpful, really - I used phones with similar specs as the phones of my target users.",
+      "body": "@bkase_ Thanks to your tip! It's been so helpful, really - I used phones with similar specs as the phones of my target users.",
+      "url": "https://x.com/christinetyip/status/2095504725907038712",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-03T13:30:33",
+      "observed_at": "2026-09-10T03:56:23.622070",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 0,
+        "views": 20,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095504093208805619",
+      "title": "@bkase_ Interesting alpha - I didn't know Gemini could natively reason over video until you mentioned it!",
+      "body": "@bkase_ Interesting alpha - I didn't know Gemini could natively reason over video until you mentioned it!",
+      "url": "https://x.com/christinetyip/status/2095504093208805619",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-03T13:28:03",
+      "observed_at": "2026-09-10T03:56:23.623174",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 1,
+        "views": 50,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095502858573455820",
+      "title": "This one is really powerful when you get it right: giving your coding agent access to external devices lets it do much more than just write code.\n\nFor a mobile ",
+      "body": "This one is really powerful when you get it right: giving your coding agent access to external devices lets it do much more than just write code.\n\nFor a mobile app I\u2019m building, I connected two old phones to my coding agent. It can control them, test new features immediately after building them, see what happens, and close the feedback loop itself.",
+      "url": "https://x.com/christinetyip/status/2095502858573455820",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-03T13:23:08",
+      "observed_at": "2026-09-10T03:56:23.624275",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 9,
+        "views": 412,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2095402593086308760",
+      "title": "@doodlestein Your tooling is genuinely useful to people working on the same craft as you, Jeffrey.\n\nWe\u2019ve shared your tools multiple times on our podcast becaus",
+      "body": "@doodlestein Your tooling is genuinely useful to people working on the same craft as you, Jeffrey.\n\nWe\u2019ve shared your tools multiple times on our podcast because we think more builders should know about them. Keep going.",
+      "url": "https://x.com/christinetyip/status/2095402593086308760",
+      "author": "1034879478634356736",
+      "published_at": "2026-09-03T06:44:43",
+      "observed_at": "2026-09-10T03:56:23.627205",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 1,
+        "views": 67,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2093814147582394611",
+      "title": "@luisnomad Same here, results in Codex were horrible. Then I found @MeshyAI , and it was so much better.\n\nI walked through the 3D generation with meshy in our l",
+      "body": "@luisnomad Same here, results in Codex were horrible. Then I found @MeshyAI , and it was so much better.\n\nI walked through the 3D generation with meshy in our latest episode (34:10), but if you're interested in using AI for design, you might be interested in the rest of the discussion too:",
+      "url": "https://x.com/christinetyip/status/2093814147582394611",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-29T21:32:48",
+      "observed_at": "2026-09-10T03:56:23.631087",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 2,
+        "views": 292,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2093325171562017277",
+      "title": "Some of you told us you like the emerging practices we discuss, and wanted to see more of how to actually apply them.\n\nSo this episode is very hands-on: 3 real ",
+      "body": "Some of you told us you like the emerging practices we discuss, and wanted to see more of how to actually apply them.\n\nSo this episode is very hands-on: 3 real things we built, and the workflows and tools we used to get there.\n\nEnjoy!!",
+      "url": "https://x.com/christinetyip/status/2093325171562017277",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-28T13:09:47",
+      "observed_at": "2026-09-10T03:56:23.635011",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 9,
+        "views": 577,
+        "reposts": 3,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2092976003324809547",
+      "title": "https://t.co/wsig9MP8za",
+      "body": "https://t.co/wsig9MP8za",
+      "url": "https://x.com/christinetyip/status/2092976003324809547",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-27T14:02:19",
+      "observed_at": "2026-09-10T03:56:23.638261",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 13,
+        "views": 3078,
+        "reposts": 1,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089752780999131427",
+      "title": "@ishuagra02 Agreed. Having 1M tokens available doesn\u2019t mean you want 1M tokens in active context.\n\nWe just did an episode on the context hygiene practices we us",
+      "body": "@ishuagra02 Agreed. Having 1M tokens available doesn\u2019t mean you want 1M tokens in active context.\n\nWe just did an episode on the context hygiene practices we use to keep coding agents performant without burning unnecessary tokens.\n\nhttps://t.co/Ms2J0U2X61",
+      "url": "https://x.com/christinetyip/status/2089752780999131427",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-18T16:34:23",
+      "observed_at": "2026-09-10T03:56:23.639503",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 4,
+        "views": 68,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089749947994210398",
+      "title": "@superlinear_fm Spoiler: my coding agent always starts making more mistakes and forgetting things while burning through my tokens when I actually make use of th",
+      "body": "@superlinear_fm Spoiler: my coding agent always starts making more mistakes and forgetting things while burning through my tokens when I actually make use of the full 1M-token context window.\n\nSharing the context hygiene practices I use to avoid that in this episode.",
+      "url": "https://x.com/christinetyip/status/2089749947994210398",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-18T16:23:07",
+      "observed_at": "2026-09-10T03:56:23.641178",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 4,
+        "views": 59,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089749370363105449",
+      "title": "@bkase_ @superlinear_fm I'm so happy you introduced Pi to me!",
+      "body": "@bkase_ @superlinear_fm I'm so happy you introduced Pi to me!",
+      "url": "https://x.com/christinetyip/status/2089749370363105449",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-18T16:20:50",
+      "observed_at": "2026-09-10T03:56:23.643087",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 3,
+        "views": 37,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089748509721301251",
+      "title": "I obsess over context hygiene every day.\n\nIt\u2019s one of the biggest levers for getting better performance from coding agents per token spent.",
+      "body": "I obsess over context hygiene every day.\n\nIt\u2019s one of the biggest levers for getting better performance from coding agents per token spent.",
+      "url": "https://x.com/christinetyip/status/2089748509721301251",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-18T16:17:25",
+      "observed_at": "2026-09-10T03:56:23.644164",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 13,
+        "views": 701,
+        "reposts": 1,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087601593457737855",
+      "title": "@shubhamschahar @unclebobmartin This resonates - it\u2019s exactly the point we\u2019re making in the episode, and a big part of what got us excited to make it!",
+      "body": "@shubhamschahar @unclebobmartin This resonates - it\u2019s exactly the point we\u2019re making in the episode, and a big part of what got us excited to make it!",
+      "url": "https://x.com/christinetyip/status/2087601593457737855",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-12T18:06:20",
+      "observed_at": "2026-09-10T03:56:23.645001",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 1,
+        "views": 15,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087598937288892816",
+      "title": "@khushiirl Thanks for sharing, I'm also obsessing over harness engineering lately.\n\nWe also just released a podcast diving into harness engineering, if you want",
+      "body": "@khushiirl Thanks for sharing, I'm also obsessing over harness engineering lately.\n\nWe also just released a podcast diving into harness engineering, if you want to mix in another way of learning about it!",
+      "url": "https://x.com/christinetyip/status/2087598937288892816",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-12T17:55:47",
+      "observed_at": "2026-09-10T03:56:23.645855",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 2,
+        "views": 341,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087596065042178218",
+      "title": "This resonates. One implication:\n\nOwning the harness shouldn't stop at one project-level harness. Different parts of the loop can have different context, tools,",
+      "body": "This resonates. One implication:\n\nOwning the harness shouldn't stop at one project-level harness. Different parts of the loop can have different context, tools, etc.\n\nTask-specific harnesses are another lever for intelligence/dollar.\n\nWe dived into this here:\nhttps://t.co/CjBSBcnmsT",
+      "url": "https://x.com/christinetyip/status/2087596065042178218",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-12T17:44:22",
+      "observed_at": "2026-09-10T03:56:23.646773",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 3,
+        "views": 210,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087591614172598598",
+      "title": "@Da7_Tech Build your own. A harness optimized for a specific task will outperform a giant general-purpose harness trying to do everything.",
+      "body": "@Da7_Tech Build your own. A harness optimized for a specific task will outperform a giant general-purpose harness trying to do everything.",
+      "url": "https://x.com/christinetyip/status/2087591614172598598",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-12T17:26:41",
+      "observed_at": "2026-09-10T03:56:23.647604",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 4,
+        "views": 174,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087573676640076034",
+      "title": "@superlinear_fm @thdxr Really enjoyed this one.\n\nA bunch of seemingly separate (and some really dense) ideas from builders across the space ended up connecting ",
+      "body": "@superlinear_fm @thdxr Really enjoyed this one.\n\nA bunch of seemingly separate (and some really dense) ideas from builders across the space ended up connecting in interesting ways.",
+      "url": "https://x.com/christinetyip/status/2087573676640076034",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-12T16:15:24",
+      "observed_at": "2026-09-10T03:56:23.648437",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 3,
+        "views": 49,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2087572511143629188",
+      "title": "General-purpose harnesses are compromises.\n\nInstead of one giant harness for every task, build custom harnesses for each meaningful part of the agent workflow.\n",
+      "body": "General-purpose harnesses are compromises.\n\nInstead of one giant harness for every task, build custom harnesses for each meaningful part of the agent workflow.\n\nSpecialized harnesses can make the same model perform far better on a specific task. Benchmarks already show this.",
+      "url": "https://x.com/christinetyip/status/2087572511143629188",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-12T16:10:46",
+      "observed_at": "2026-09-10T03:56:23.649273",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 14,
+        "views": 827,
+        "reposts": 2,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": true
+    },
+    {
+      "id": "2086958861160706351",
+      "title": "@mattpocockuk \ud83c\udfaf That's shifting left for agents - preventing errors to be made in the first place.\n\nWe talked about this and 3 other emerging practices for buil",
+      "body": "@mattpocockuk \ud83c\udfaf That's shifting left for agents - preventing errors to be made in the first place.\n\nWe talked about this and 3 other emerging practices for building with coding agents in our latest podcast:\n\nhttps://t.co/8xlLJ7Onnr",
+      "url": "https://x.com/christinetyip/status/2086958861160706351",
+      "author": "1034879478634356736",
+      "published_at": "2026-08-10T23:32:20",
+      "observed_at": "2026-09-10T03:56:23.652124",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 2,
+        "views": 312,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": true
+    },
+    {
+      "id": "2082747950782873755",
+      "title": "@dexhorthy Interesting framing. It made me think about this through the lens of shifting left:\n\nWhen the same back-pressure signal keeps recurring, you can move",
+      "body": "@dexhorthy Interesting framing. It made me think about this through the lens of shifting left:\n\nWhen the same back-pressure signal keeps recurring, you can move it earlier by encoding it in the spec, so the agent doesn't make the mistake in the first place.\n\nWe unpacked this idea here:",
+      "url": "https://x.com/christinetyip/status/2082747950782873755",
+      "author": "1034879478634356736",
+      "published_at": "2026-07-30T08:39:41",
+      "observed_at": "2026-09-10T03:56:23.654383",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 3,
+        "views": 117,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082573452347646444",
+      "title": "@ClaudeDevs The new MCP update strengthens the protocol.\n\nNext question: when is MCP actually the right interface for the task, and when are CLI or code mode be",
+      "body": "@ClaudeDevs The new MCP update strengthens the protocol.\n\nNext question: when is MCP actually the right interface for the task, and when are CLI or code mode better?\n\nFor those who are interested, we just unpacked that distinction:\nhttps://t.co/8xlLJ7Onnr",
+      "url": "https://x.com/christinetyip/status/2082573452347646444",
+      "author": "1034879478634356736",
+      "published_at": "2026-07-29T21:06:18",
+      "observed_at": "2026-09-10T03:56:23.655690",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 3,
+        "views": 247,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082566643050275076",
+      "title": "@HeyGen @bkase_ something we should try out for @superlinear_fm ?",
+      "body": "@HeyGen @bkase_ something we should try out for @superlinear_fm ?",
+      "url": "https://x.com/christinetyip/status/2082566643050275076",
+      "author": "1034879478634356736",
+      "published_at": "2026-07-29T20:39:14",
+      "observed_at": "2026-09-10T03:56:23.657464",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 2,
+        "views": 103,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2082535215130362228",
+      "title": "Very cool to see dynamic workflows being used more and more since this article was published.\n\nIt also inspired a section in our latest podcast episode, where w",
+      "body": "Very cool to see dynamic workflows being used more and more since this article was published.\n\nIt also inspired a section in our latest podcast episode, where we unpack MCP vs. CLI tools vs. Code Mode -with dynamic workflows as a compelling example -alongside other emerging practices in harness engineering.\n\nhttps://t.co/9bfZu0wInU",
+      "url": "https://x.com/christinetyip/status/2082535215130362228",
+      "author": "1034879478634356736",
+      "published_at": "2026-07-29T18:34:21",
+      "observed_at": "2026-09-10T03:56:23.658594",
+      "metrics": {
+        "author_handle": "christinetyip",
+        "author_followers": 5073,
+        "likes": 2,
+        "views": 145,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}

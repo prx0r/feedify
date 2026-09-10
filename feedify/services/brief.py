@@ -5,7 +5,7 @@ from typing import Any
 
 from sqlalchemy.orm import Session
 
-from feedify.models import Feed, Signal
+from feedify.models import Feed, Object
 from feedify.services import prices
 from feedify.services.feeds import get_ranked_feed
 
@@ -34,7 +34,6 @@ def jaccard(a: set[str], b: set[str]) -> float:
 
 
 def cluster_items(items: list[dict[str, Any]], threshold: float = 0.35) -> list[list[dict[str, Any]]]:
-    """Union-find over title similarity. Same announcement from N posts → one story."""
     parent = list(range(len(items)))
     toks = [story_tokens(i.get("title", "")) for i in items]
 
@@ -55,8 +54,6 @@ def cluster_items(items: list[dict[str, Any]], threshold: float = 0.35) -> list[
 
 
 def alpha_score(story: list[dict[str, Any]], moves: dict[str, dict]) -> tuple[float, list[str]]:
-    """Base score + corroboration bonus + unmoved bonus. The thesis query:
-    corroborated claim on flat tickers outranks lone hype on movers."""
     best = max(story, key=lambda x: float(x.get("score", 0)))
     base = float(best.get("score", 0))
     reasons = [f"base:{base:.2f}"]
@@ -95,15 +92,12 @@ def build_brief(session: Session, feed: Feed, limit: int = 10) -> dict[str, Any]
         ranked.append({
             "title": best.get("title"),
             "summary": best.get("summary"),
-            "why_it_matters": best.get("why_it_matters"),
             "score": score,
             "reasons": reasons,
             "sources": len(story),
             "tickers": story_tickers,
             "moves": {t: moves[t] for t in story_tickers},
-            "signal_type": best.get("signal_type"),
             "domain": best.get("domain"),
-            "url": best.get("url"),
         })
     ranked.sort(key=lambda s: -s["score"])
     return {
@@ -116,7 +110,6 @@ def build_brief(session: Session, feed: Feed, limit: int = 10) -> dict[str, Any]
 
 
 def synthesize_brief(brief: dict[str, Any]) -> str:
-    """Deterministic digest: ordered alpha, no LLM needed."""
     lines = [f"Top {len(brief['stories'])} stories by alpha score:"]
     for i, s in enumerate(brief["stories"], 1):
         moves = " ".join(f"{t}{m['pct_1d']:+.1f}%" for t, m in s["moves"].items())

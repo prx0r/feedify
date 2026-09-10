@@ -1,0 +1,51 @@
+{
+  "handle": "KostasPenn",
+  "total_tweets": 2,
+  "august_tweets": 2,
+  "tweets": [
+    {
+      "id": "2090708148424212934",
+      "title": "Congratulations to @LingjieLiu1 for receiving the ACM SIGGRAPH Significant New Researcher Award! We are thrilled and so proud of you!\n\nhttps://t.co/EPgGcFreKM h",
+      "body": "Congratulations to @LingjieLiu1 for receiving the ACM SIGGRAPH Significant New Researcher Award! We are thrilled and so proud of you!\n\nhttps://t.co/EPgGcFreKM https://t.co/ltBrbWMBmp",
+      "url": "https://x.com/KostasPenn/status/2090708148424212934",
+      "author": "990197023",
+      "published_at": "2026-08-21T07:50:40",
+      "observed_at": "2026-09-10T03:28:56.350036",
+      "metrics": {
+        "author_handle": "KostasPenn",
+        "author_name": "Kostas Daniilidis",
+        "author_followers": 5138,
+        "author_verified": false,
+        "likes": 75,
+        "views": 12721,
+        "reposts": 4,
+        "replies": 2,
+        "is_reply": false,
+        "reply_to_user": null
+      },
+      "is_august": true
+    },
+    {
+      "id": "2089799326511898725",
+      "title": "Some summer fun with Claude artifacts. An author-centered view of papers at ECCV, click on the author and you will see their papers on the right:\nhttps://t.co/v",
+      "body": "Some summer fun with Claude artifacts. An author-centered view of papers at ECCV, click on the author and you will see their papers on the right:\nhttps://t.co/vZLp3rvout\nI am sure it has several mistakes with namesakes etc.",
+      "url": "https://x.com/KostasPenn/status/2089799326511898725",
+      "author": "990197023",
+      "published_at": "2026-08-18T19:39:20",
+      "observed_at": "2026-09-10T03:28:56.354489",
+      "metrics": {
+        "author_handle": "KostasPenn",
+        "author_name": "Kostas Daniilidis",
+        "author_followers": 5138,
+        "author_verified": false,
+        "likes": 25,
+        "views": 4536,
+        "reposts": 4,
+        "replies": 0,
+        "is_reply": false,
+        "reply_to_user": null
+      },
+      "is_august": true
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "handle": "MichaelPoli6",
+  "total_tweets": 33,
+  "august_tweets": 0,
+  "tweets": [
+    {
+      "id": "2097506474163569094",
+      "title": "Just a taste of what Omnii can do.",
+      "body": "Just a taste of what Omnii can do.",
+      "url": "https://x.com/MichaelPoli6/status/2097506474163569094",
+      "author": "1027766058390716416",
+      "published_at": "2026-09-09T02:04:47",
+      "observed_at": "2026-09-10T03:57:04.205202",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 22,
+        "views": 2989,
+        "reposts": 1,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2067266838841696715",
+      "title": "Showcasing a critical application of our new frontier genome language model, Omnii.\n\nOmnii can strengthen biodefense pipelines by covering blind spots of existi",
+      "body": "Showcasing a critical application of our new frontier genome language model, Omnii.\n\nOmnii can strengthen biodefense pipelines by covering blind spots of existing search-based methods.",
+      "url": "https://x.com/MichaelPoli6/status/2067266838841696715",
+      "author": "1027766058390716416",
+      "published_at": "2026-06-17T15:23:16",
+      "observed_at": "2026-09-10T03:57:04.207019",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 27,
+        "views": 3384,
+        "reposts": 5,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2066501960111735117",
+      "title": "Excited to continue the journey with Eric, Stefano, Armin, the team at @RadicalNumerics, and to have the chance to preview our next-generation model, Omnii.\n\nTr",
+      "body": "Excited to continue the journey with Eric, Stefano, Armin, the team at @RadicalNumerics, and to have the chance to preview our next-generation model, Omnii.\n\nTrue progress in biological AI demands a culture where the same conversation routinely covers frontier pretraining, systems, and data mixing one moment and complex biology the next. If that sounds like a blast, consider joining us.",
+      "url": "https://x.com/MichaelPoli6/status/2066501960111735117",
+      "author": "1027766058390716416",
+      "published_at": "2026-06-15T12:43:55",
+      "observed_at": "2026-09-10T03:57:04.209034",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 48,
+        "views": 7608,
+        "reposts": 7,
+        "replies": 3,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2060417272121000215",
+      "title": "The next ImageNet for visual generative model pretraining research. Very important work, led by @keshigeyan and @KyleSargentAI!",
+      "body": "The next ImageNet for visual generative model pretraining research. Very important work, led by @keshigeyan and @KyleSargentAI!",
+      "url": "https://x.com/MichaelPoli6/status/2060417272121000215",
+      "author": "1027766058390716416",
+      "published_at": "2026-05-29T17:45:33",
+      "observed_at": "2026-09-10T03:57:04.210792",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 9,
+        "views": 1596,
+        "reposts": 2,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034305009626796112",
+      "title": "@RadicalNumerics website: https://t.co/yWsjCqYbIB\nblog: https://t.co/RWAQwCuYBh\nroles: https://t.co/TunmfcdZdG",
+      "body": "@RadicalNumerics website: https://t.co/yWsjCqYbIB\nblog: https://t.co/RWAQwCuYBh\nroles: https://t.co/TunmfcdZdG",
+      "url": "https://x.com/MichaelPoli6/status/2034305009626796112",
+      "author": "1027766058390716416",
+      "published_at": "2026-03-18T16:24:44",
+      "observed_at": "2026-09-10T03:57:04.212505",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 8,
+        "views": 1459,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "2034304843586924876",
+      "title": "We're growing rapidly at @RadicalNumerics and scaling our core teams. Join us in building the next generation of scientific world models.\n\nWe're hiring across a",
+      "body": "We're growing rapidly at @RadicalNumerics and scaling our core teams. Join us in building the next generation of scientific world models.\n\nWe're hiring across a few roles, each with significant ownership and cross-functional scope:\n\n- Member of Technical Staff, Post-Training\n- Member of Technical Staff, Infrastructure and Training Systems\n- Member of Technical Staff, Pretraining Science  \n- Member of Technical Staff, AI Bio\n- Member of Technical Staff, Biosecurity\n\nOur technology brings together numerics, systems engineering, and architecture design to tackle large-scale pretraining on scientific data. Our blogs (see below) give a flavor of the work.\n\nWe believe that advancing capabilities must go hand-in-hand with advancing safety and biosecurity. The same systems that design biology must also help defend against it.\n\nPing me or others in the team if you'd like to learn more.\n\nhttps://t.co/LaC63aXZ5l",
+      "url": "https://x.com/MichaelPoli6/status/2034304843586924876",
+      "author": "1027766058390716416",
+      "published_at": "2026-03-18T16:24:04",
+      "observed_at": "2026-09-10T03:57:04.214198",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 125,
+        "views": 35314,
+        "reposts": 14,
+        "replies": 5,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2029303787018698800",
+      "title": "The most fun academic collaboration I've ever been a part of. Congrats team!",
+      "body": "The most fun academic collaboration I've ever been a part of. Congrats team!",
+      "url": "https://x.com/MichaelPoli6/status/2029303787018698800",
+      "author": "1027766058390716416",
+      "published_at": "2026-03-04T21:11:40",
+      "observed_at": "2026-09-10T03:57:04.217771",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 42,
+        "views": 7974,
+        "reposts": 6,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "2010761365578006584",
+      "title": "What a great way to start the year, with a fun deep dive on 4-bit pretraining recipes.\n\nIf \u201cmixed precision\u201d still makes you think bfloat16, maybe with a dash o",
+      "body": "What a great way to start the year, with a fun deep dive on 4-bit pretraining recipes.\n\nIf \u201cmixed precision\u201d still makes you think bfloat16, maybe with a dash of float8 compute, or float16 + loss scaling, check out our post for an overview of more modern methods.\n\nLow-precision recipes are often treated as a given, but they\u2019re an integral part of the co-development process across architecture, scaling, and training objectives, especially when new approaches shift activation and gradient distributions.",
+      "url": "https://x.com/MichaelPoli6/status/2010761365578006584",
+      "author": "1027766058390716416",
+      "published_at": "2026-01-12T17:10:42",
+      "observed_at": "2026-09-10T03:57:04.219859",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 43,
+        "views": 9713,
+        "reposts": 8,
+        "replies": 1,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1980087688259866667",
+      "title": "Thank you for having me, @DeltaInstitutes! \n\nWe touched on a few topics, including the story behind @RadicalNumerics",
+      "body": "Thank you for having me, @DeltaInstitutes! \n\nWe touched on a few topics, including the story behind @RadicalNumerics",
+      "url": "https://x.com/MichaelPoli6/status/1980087688259866667",
+      "author": "1027766058390716416",
+      "published_at": "2025-10-20T01:44:27",
+      "observed_at": "2026-09-10T03:57:04.222727",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 20,
+        "views": 5823,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1978150287975010384",
+      "title": "@RadicalNumerics Phalanx! New layers specifically designed for hybrids and data locality",
+      "body": "@RadicalNumerics Phalanx! New layers specifically designed for hybrids and data locality",
+      "url": "https://x.com/MichaelPoli6/status/1978150287975010384",
+      "author": "1027766058390716416",
+      "published_at": "2025-10-14T17:25:55",
+      "observed_at": "2026-09-10T03:57:04.224284",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 10,
+        "views": 512,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1977108771538403746",
+      "title": "We just released the largest open-source diffusion language model (RND1). RND1 is important to me on a personal level: it symbolizes our commitment to open-sour",
+      "body": "We just released the largest open-source diffusion language model (RND1). RND1 is important to me on a personal level: it symbolizes our commitment to open-source exploration of radically different designs for AI at scale \u2014 training objectives, architectures, domains. There is still so much to do, and together we can move faster. \n\nWe are not done yet. More on Monday (the next one is for model architecture enthusiasts!).",
+      "url": "https://x.com/MichaelPoli6/status/1977108771538403746",
+      "author": "1027766058390716416",
+      "published_at": "2025-10-11T20:27:18",
+      "observed_at": "2026-09-10T03:57:04.225475",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 330,
+        "views": 42457,
+        "reposts": 34,
+        "replies": 9,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1976347843163193404",
+      "title": "@vincentweisser @RadicalNumerics Thanks Vincent, appreciate all the support from @PrimeIntellect as well!",
+      "body": "@vincentweisser @RadicalNumerics Thanks Vincent, appreciate all the support from @PrimeIntellect as well!",
+      "url": "https://x.com/MichaelPoli6/status/1976347843163193404",
+      "author": "1027766058390716416",
+      "published_at": "2025-10-09T18:03:39",
+      "observed_at": "2026-09-10T03:57:04.232577",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 3,
+        "views": 41,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1976334904335139011",
+      "title": "@RadicalNumerics Amazing work by a stellar team. Hard problems + fun culture!",
+      "body": "@RadicalNumerics Amazing work by a stellar team. Hard problems + fun culture!",
+      "url": "https://x.com/MichaelPoli6/status/1976334904335139011",
+      "author": "1027766058390716416",
+      "published_at": "2025-10-09T17:12:14",
+      "observed_at": "2026-09-10T03:57:04.234329",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 20,
+        "views": 2867,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1970664985484501434",
+      "title": "Fun explainer about Evo2 and its architecture, StripedHyena 2. Hybrids are so 2023, multi-hybrids are the future!",
+      "body": "Fun explainer about Evo2 and its architecture, StripedHyena 2. Hybrids are so 2023, multi-hybrids are the future!",
+      "url": "https://x.com/MichaelPoli6/status/1970664985484501434",
+      "author": "1027766058390716416",
+      "published_at": "2025-09-24T01:42:00",
+      "observed_at": "2026-09-10T03:57:04.235501",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 22,
+        "views": 4758,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1969143882811077026",
+      "title": "A careful study of architecture transfer dynamics, to be presented as oral at NeurIPS 2025 (top 0.3% of all submissions). \n\nAdvances in grafting methods signifi",
+      "body": "A careful study of architecture transfer dynamics, to be presented as oral at NeurIPS 2025 (top 0.3% of all submissions). \n\nAdvances in grafting methods significantly accelerate research on architecture design, scaling recipes, and even post-training.",
+      "url": "https://x.com/MichaelPoli6/status/1969143882811077026",
+      "author": "1027766058390716416",
+      "published_at": "2025-09-19T20:57:41",
+      "observed_at": "2026-09-10T03:57:04.236723",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 11,
+        "views": 2403,
+        "reposts": 3,
+        "replies": 0,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1960001956082225212",
+      "title": "Radical Numerics' @exnx at @TEDTalks, describing how Evo models are paving the way to generative genomics https://t.co/t6OJgO0ab9",
+      "body": "Radical Numerics' @exnx at @TEDTalks, describing how Evo models are paving the way to generative genomics https://t.co/t6OJgO0ab9",
+      "url": "https://x.com/MichaelPoli6/status/1960001956082225212",
+      "author": "1027766058390716416",
+      "published_at": "2025-08-25T15:30:56",
+      "observed_at": "2026-09-10T03:57:04.239357",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 9,
+        "views": 2042,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1959995430122721717",
+      "title": "If this resonates, consider reaching out.",
+      "body": "If this resonates, consider reaching out.",
+      "url": "https://x.com/MichaelPoli6/status/1959995430122721717",
+      "author": "1027766058390716416",
+      "published_at": "2025-08-25T15:05:00",
+      "observed_at": "2026-09-10T03:57:04.240834",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 8,
+        "views": 1450,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1959995017973612869",
+      "title": "Life update: I started Radical Numerics with Stefano Massaroli, Armin Thomas, Eric Nguyen, and a fantastic team of engineers and researchers. We are building th",
+      "body": "Life update: I started Radical Numerics with Stefano Massaroli, Armin Thomas, Eric Nguyen, and a fantastic team of engineers and researchers. We are building the engine for recursive self\u2011improvement (RSI): AI that designs and refines AI, accelerating discovery across science and industry.\n\nThree core beliefs:\n- We need orders of magnitude more AI systems in the world: models and interfaces built with purpose, to augment specific domains and workflows\n- The complexity and resources required to develop AI are growing rapidly. Human development speed is the bottleneck.\n- The process of developing frontier AI in new domains is ripe for disruption.\n\nhttps://t.co/I1HNkCF1Ko",
+      "url": "https://x.com/MichaelPoli6/status/1959995017973612869",
+      "author": "1027766058390716416",
+      "published_at": "2025-08-25T15:03:21",
+      "observed_at": "2026-09-10T03:57:04.241896",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 240,
+        "views": 29834,
+        "reposts": 22,
+        "replies": 10,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1948924965497307310",
+      "title": "@shengjia_zhao @StefanoErmon group reunion (congrats!)",
+      "body": "@shengjia_zhao @StefanoErmon group reunion (congrats!)",
+      "url": "https://x.com/MichaelPoli6/status/1948924965497307310",
+      "author": "1027766058390716416",
+      "published_at": "2025-07-26T01:54:55",
+      "observed_at": "2026-09-10T03:57:04.244332",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 5,
+        "views": 1274,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1943307835221385597",
+      "title": "It's easy (and fun!) to get nerdsniped by complex architecture designs. But over the years, I've seen hybrid gated convolutions always come out on top in the ri",
+      "body": "It's easy (and fun!) to get nerdsniped by complex architecture designs. But over the years, I've seen hybrid gated convolutions always come out on top in the right head-to-head comparisons.\n\nThe team brings a new suite of StripedHyena-style decoder models, in the form of SLMs designed for edge devices. For these architectures, we opted for a short explicit (SE) convolution parametrization that brings speedups across a range of practical prompt lengths.\n\nAmazing work from the pretraining, post-training, and infrastructure teams for bringing these models to life!",
+      "url": "https://x.com/MichaelPoli6/status/1943307835221385597",
+      "author": "1027766058390716416",
+      "published_at": "2025-07-10T13:54:27",
+      "observed_at": "2026-09-10T03:57:04.245268",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 46,
+        "views": 6855,
+        "reposts": 13,
+        "replies": 2,
+        "is_reply": false
+      },
+      "is_august": false
+    },
+    {
+      "id": "1915575245253337407",
+      "title": "@ai_with_brains STAR at #ICLR25: https://t.co/GqYkdDthB4",
+      "body": "@ai_with_brains STAR at #ICLR25: https://t.co/GqYkdDthB4",
+      "url": "https://x.com/MichaelPoli6/status/1915575245253337407",
+      "author": "1027766058390716416",
+      "published_at": "2025-04-25T01:15:02",
+      "observed_at": "2026-09-10T03:57:04.245999",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 5,
+        "views": 408,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1915571652513194489",
+      "title": "@ai_with_brains A deep dive from @ai_with_brains: https://t.co/ugmsQEKk2Y",
+      "body": "@ai_with_brains A deep dive from @ai_with_brains: https://t.co/ugmsQEKk2Y",
+      "url": "https://x.com/MichaelPoli6/status/1915571652513194489",
+      "author": "1027766058390716416",
+      "published_at": "2025-04-25T01:00:46",
+      "observed_at": "2026-09-10T03:57:04.246623",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 3,
+        "views": 711,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1915570597272391709",
+      "title": "@ai_with_brains For the details: \n\nhttps://t.co/roImCYUZq2",
+      "body": "@ai_with_brains For the details: \n\nhttps://t.co/roImCYUZq2",
+      "url": "https://x.com/MichaelPoli6/status/1915570597272391709",
+      "author": "1027766058390716416",
+      "published_at": "2025-04-25T00:56:34",
+      "observed_at": "2026-09-10T03:57:04.247282",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 4,
+        "views": 483,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1915570211719438694",
+      "title": "Learn more by watching @ai_with_brains ICLR 2025 talk, coming up soon! \n\nhttps://t.co/4nsZaP2RZG https://t.co/tnvOZLrfBP",
+      "body": "Learn more by watching @ai_with_brains ICLR 2025 talk, coming up soon! \n\nhttps://t.co/4nsZaP2RZG https://t.co/tnvOZLrfBP",
+      "url": "https://x.com/MichaelPoli6/status/1915570211719438694",
+      "author": "1027766058390716416",
+      "published_at": "2025-04-25T00:55:02",
+      "observed_at": "2026-09-10T03:57:04.247915",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 8,
+        "views": 326,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1897150230304583882",
+      "title": "paper: https://t.co/T8F0Cz4aqV\ncode: https://t.co/4gxiC9H0J6",
+      "body": "paper: https://t.co/T8F0Cz4aqV\ncode: https://t.co/4gxiC9H0J6",
+      "url": "https://x.com/MichaelPoli6/status/1897150230304583882",
+      "author": "1027766058390716416",
+      "published_at": "2025-03-05T05:00:36",
+      "observed_at": "2026-09-10T03:57:04.248557",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 9,
+        "views": 690,
+        "reposts": 0,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892260565260599333",
+      "title": "@AiEleuther @jeremyphoward @allen_ai Evo 2 on the landing page of NVIDIA https://t.co/SMoCLy8D7H",
+      "body": "@AiEleuther @jeremyphoward @allen_ai Evo 2 on the landing page of NVIDIA https://t.co/SMoCLy8D7H",
+      "url": "https://x.com/MichaelPoli6/status/1892260565260599333",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T17:10:49",
+      "observed_at": "2026-09-10T03:57:04.249217",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 19,
+        "views": 1728,
+        "reposts": 1,
+        "replies": 0,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892244621490888718",
+      "title": "[7/7]\nThere is so much more to this project: Evo 2 demonstrates for the first test-time scaling laws in biology; Evo 2 is state-of-the-art performance on classi",
+      "body": "[7/7]\nThere is so much more to this project: Evo 2 demonstrates for the first test-time scaling laws in biology; Evo 2 is state-of-the-art performance on classifying BRCA1 variants of unknown significance in breast cancer; Evo 2 generations can be steered with features identified via sparse autoencoders\u2026\n\nLearned a lot working with the team: @garykbrixi , @exnx , @HazyResearch , @StefanoErmon , @BrianHie , @pdhsu , @genophoria , @davey_burke , @patrickc , @bclyang , @amyxlu , @anthonycosta , @mgdurrant , @Massastrello , @liu_mingyu , @davidwromero , @gdb  and many more. Thank you to @arcinstitute , @StanfordAILab , @liquidai , and to @kpowgerade  @nvidia  for believing in the team and sponsoring with compute.\n\nEvo 2 code: https://t.co/j1G2I2Sv2Q\nOpenGenome 2 (dataset): https://t.co/CkeQyKXubA\nSavanna (training): https://t.co/8oE11N1l1Y\nVortex (inference): https://t.co/SLo3OsyDDs\nEvo 2 paper: https://t.co/hx2CZvqvR3\nStripedHyena 2 paper: https://t.co/0vRLxXIUPV",
+      "url": "https://x.com/MichaelPoli6/status/1892244621490888718",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T16:07:28",
+      "observed_at": "2026-09-10T03:57:04.249860",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 25,
+        "views": 2417,
+        "reposts": 2,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892244116177916219",
+      "title": "[6/7] Evo 2 has a 1-million-token context length. We trained for a substantial number of tokens at this scale, made possible by the architecture\u2019s improved effi",
+      "body": "[6/7] Evo 2 has a 1-million-token context length. We trained for a substantial number of tokens at this scale, made possible by the architecture\u2019s improved efficiency. We were pleased to see perplexity steadily decrease with both model scale and context length during our multi-stage mid-training procedure.",
+      "url": "https://x.com/MichaelPoli6/status/1892244116177916219",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T16:05:28",
+      "observed_at": "2026-09-10T03:57:04.251407",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 13,
+        "views": 2023,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892243954047033526",
+      "title": "[5/7] All the gory pretraining details are available in Savanna. Savanna builds on DeepSpeed, GPT-NeoX, and TransformerEngine, optimizing for graceful scaling a",
+      "body": "[5/7] All the gory pretraining details are available in Savanna. Savanna builds on DeepSpeed, GPT-NeoX, and TransformerEngine, optimizing for graceful scaling at the thousand GPU scale. We keep all configuration files in the official release, including early ablations (over 500 configs).",
+      "url": "https://x.com/MichaelPoli6/status/1892243954047033526",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T16:04:49",
+      "observed_at": "2026-09-10T03:57:04.253208",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 15,
+        "views": 2016,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892243788007117079",
+      "title": "[4/7] It is important for new architectures to target regimes of practical utility, rather than focusing solely on extremely long contexts where the asymptotics",
+      "body": "[4/7] It is important for new architectures to target regimes of practical utility, rather than focusing solely on extremely long contexts where the asymptotics of attention dominate. Most pretraining costs are incurred by larger models operating on shorter sequences. We designed StripedHyena 2 and its operators to achieve speedups across the a range of practical sequence lengths",
+      "url": "https://x.com/MichaelPoli6/status/1892243788007117079",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T16:04:09",
+      "observed_at": "2026-09-10T03:57:04.254975",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 14,
+        "views": 2040,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892243472213811444",
+      "title": "[3/7] Evo 2 required a significant investment in both research and engineering\u2014from architecture design, derivation and implementation of new context-parallel a",
+      "body": "[3/7] Evo 2 required a significant investment in both research and engineering\u2014from architecture design, derivation and implementation of new context-parallel algorithms, to large-scale training optimization.\n\nStrong byte-level architectures such as StripedHyena 2 will unlock new applications for foundation models. I hope to see a return to ideas from signal processing and numerical methods in architecture design. There is still much to do, as many methods in these domains were optimized for an earlier era, different scales, and different hardware.",
+      "url": "https://x.com/MichaelPoli6/status/1892243472213811444",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T16:02:54",
+      "observed_at": "2026-09-10T03:57:04.256712",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 16,
+        "views": 2479,
+        "reposts": 0,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1892243237940904112",
+      "title": "[2/7] I am excited about Evo 2 for many reasons. It is undoubtedly a leap forward in our ability to understand and generate genomes. I also hope it 2 can help p",
+      "body": "[2/7] I am excited about Evo 2 for many reasons. It is undoubtedly a leap forward in our ability to understand and generate genomes. I also hope it 2 can help push progress on real open-source in AI, continuing the work of so many @AiEleuther  @jeremyphoward  @allen_ai \n. Unfortunately, we have been seeing few truly open models in recent times, only open weights releases.\n\nInterestingly, the largest Evo 2 model was trained on roughly the same order of magnitude of compute as DeepSeek V3, the language model that shook the field recently.",
+      "url": "https://x.com/MichaelPoli6/status/1892243237940904112",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-19T16:01:58",
+      "observed_at": "2026-09-10T03:57:04.258427",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 34,
+        "views": 6799,
+        "reposts": 4,
+        "replies": 1,
+        "is_reply": true
+      },
+      "is_august": false
+    },
+    {
+      "id": "1891998958995554615",
+      "title": "@BeidiChen Not all hybrids are created equal, didn't RecurrentGemma have just sliding window + linear attention / recurrence?   If so it's pretty clear it would",
+      "body": "@BeidiChen Not all hybrids are created equal, didn't RecurrentGemma have just sliding window + linear attention / recurrence?   If so it's pretty clear it would fall off much faster",
+      "url": "https://x.com/MichaelPoli6/status/1891998958995554615",
+      "author": "1027766058390716416",
+      "published_at": "2025-02-18T23:51:18",
+      "observed_at": "2026-09-10T03:57:04.260204",
+      "metrics": {
+        "author_handle": "MichaelPoli6",
+        "author_followers": 3443,
+        "likes": 3,
+        "views": 493,
+        "reposts": 0,
+        "replies": 2,
+        "is_reply": true
+      },
+      "is_august": false
+    }
+  ]
+}
