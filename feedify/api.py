@@ -683,7 +683,10 @@ def stock_report(ticker: str) -> dict[str, Any]:
 
 @app.post("/api/stocks/{ticker}/chat")
 async def stock_chat(ticker: str, payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
-    """AI chat about a stock. Saves to memory."""
+    """AI chat about a stock. Reasons over knowledge graph, not LLM internal knowledge."""
+    from feedify.services.trading_advisor import get_trading_response
+    from feedify.services.minimal_graph import build_graph_from_db
+
     ticker = ticker.upper()
     message = payload.get("message", "")
     user_id = payload.get("user_id", "default")
@@ -695,46 +698,41 @@ async def stock_chat(ticker: str, payload: dict[str, Any] = Body(...)) -> dict[s
         if not stock:
             raise HTTPException(404, "Stock not found")
 
+        # Load graph context
+        graph = build_graph_from_db(session, limit=200)
+        graph_context = graph.to_llm_context()
+
+        # Load chat memory
         memory = session.scalars(
             select(ChatMemory).where(ChatMemory.ticker == ticker).order_by(ChatMemory.created_at.desc()).limit(10)
         ).all()
+
+        # Load latest report
         report = session.scalars(
             select(InvestorReport).where(InvestorReport.ticker == ticker).order_by(InvestorReport.date.desc())
         ).first()
 
-        context = f"Stock: {ticker} ({stock.name})\nThesis: {stock.thesis}\n"
-        if stock.current_price:
-            context += f"Price: {stock.current_price}\n"
-        if report:
-            context += f"Latest Report ({report.date}):\n{report.summary}\n"
-            context += f"Action: {report.action}\n"
-        if memory:
-            context += "\nRecent chat:\n"
-            for m in memory[:5]:
-                context += f"User: {m.message}\nAssistant: {m.response[:200]}\n"
+        stock_data = {
+            "ticker": stock.ticker, "name": stock.name, "sector": stock.sector,
+            "thesis": stock.thesis, "entry_price": stock.entry_price,
+            "current_price": stock.current_price, "stop_loss": stock.stop_loss,
+            "target_price": stock.target_price,
+        }
 
-    settings = get_settings()
-    url = "https://opencode.ai/zen/go/v1/chat/completions"
-    api_key = settings.llm_api_key or ""
+        report_data = {
+            "date": report.date, "summary": report.summary,
+            "bull_case": report.bull_case, "bear_case": report.bear_case,
+            "action": report.action, "confidence": report.confidence,
+        } if report else None
 
-    try:
-        async with httpx.AsyncClient() as client:
-            resp = await client.post(url,
-                headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json",
-                         "x-opencode-session": "feedify-stock-chat"},
-                json={"model": "mimo-v2.5", "messages": [
-                    {"role": "system", "content": f"You are a stock analyst. {context}"},
-                    {"role": "user", "content": message},
-                ], "max_tokens": 1000, "temperature": 0.4},
-                timeout=30,
-            )
-            if resp.status_code != 200:
-                return {"response": "AI temporarily unavailable."}
-            data = resp.json()
-            response_text = data["choices"][0]["message"]["content"]
-    except Exception as e:
-        response_text = f"AI error: {e}"
+        memory_data = [{"message": m.message, "response": m.response} for m in memory]
 
+    # Get response from trading advisor (reasons over graph)
+    response_text = await get_trading_response(
+        message, stock_data, graph_context, report_data, memory_data,
+    )
+
+    # Save to memory
     with SessionLocal() as session:
         session.add(ChatMemory(
             ticker=ticker, user_id=user_id,
@@ -1334,6 +1332,61 @@ def graph_stats() -> dict[str, Any]:
             "domains": domains,
             "edge_types": edge_types,
         }
+
+
+# ── Portfolio Advisor (Chris Prior) ───────────────────────────────────────────
+
+@app.get("/api/portfolio/brief")
+async def portfolio_brief(user_id: str = Query("chris")) -> dict[str, Any]:
+    """Daily brief for Chris Prior's portfolio."""
+    from feedify.services.portfolio_advisor import generate_daily_brief
+    with SessionLocal() as session:
+        portfolio = session.scalars(select(Watchlist)).all()
+        portfolio_data = [{
+            "ticker": w.ticker, "name": w.name, "account": "Dealing" if "ISA" not in w.ticker else "ISA",
+            "value": json.loads(w.notes or "{}").get("value", 0),
+            "gain": json.loads(w.notes or "{}").get("gain", 0),
+            "pct": json.loads(w.notes or "{}").get("pct", 0),
+            "book": json.loads(w.notes or "{}").get("book_cost", 0),
+        } for w in portfolio]
+        brief = generate_daily_brief(portfolio_data)
+        return {"brief": brief, "generated_at": datetime.now(timezone.utc).isoformat()}
+
+
+@app.post("/api/portfolio/chat")
+async def portfolio_chat(payload: dict[str, Any] = Body(...)) -> dict[str, Any]:
+    """Chat with trading advisor about Chris Prior's portfolio."""
+    from feedify.services.portfolio_advisor import chat_with_agent
+    message = payload.get("message", "")
+    user_id = payload.get("user_id", "chris")
+    if not message:
+        raise HTTPException(400, "message required")
+    
+    with SessionLocal() as session:
+        portfolio = session.scalars(select(Watchlist)).all()
+        portfolio_data = [{
+            "ticker": w.ticker, "name": w.name, "account": "Dealing" if "ISA" not in w.ticker else "ISA",
+            "value": json.loads(w.notes or "{}").get("value", 0),
+            "gain": json.loads(w.notes or "{}").get("gain", 0),
+            "pct": json.loads(w.notes or "{}").get("pct", 0),
+        } for w in portfolio]
+        
+        memory = session.scalars(
+            select(ChatMemory).where(ChatMemory.user_id == user_id).order_by(ChatMemory.created_at.desc()).limit(10)
+        ).all()
+        memory_data = [{"message": m.message, "response": m.response} for m in memory]
+    
+    response_text = await chat_with_agent(message, portfolio_data, memory_data, user_id)
+    
+    with SessionLocal() as session:
+        session.add(ChatMemory(
+            ticker=None, user_id=user_id,
+            message=message, response=response_text,
+            context=json.dumps({"portfolio": True}),
+        ))
+        session.commit()
+    
+    return {"response": response_text}
 
 
 # Install optional payment middleware only after all routes are declared.
