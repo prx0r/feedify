@@ -33,8 +33,8 @@ $$Alpha_i = (P_{ours} - P_{market}) \times \Delta CF_i \times X_i \times B_i \ti
 ```
 feedify2.db:
   artifacts: 3,357 (raw tweets)
-  objects: 6,101 (typed knowledge)
-  edges: 3,622 (relationships)
+  objects: 7,046 (typed knowledge)
+  edges: 5,207 (relationships)
   feeds: 6
   interactions: 0
 ```
@@ -42,26 +42,32 @@ feedify2.db:
 ### Object Kinds
 | Kind | Count | What It Means |
 |------|-------|---------------|
-| claim | 4,550 | Generic (needs LLM to classify properly) |
-| observation | 648 | Empirical report of what was seen |
+| claim | 5,135 | Generic (needs LLM to classify properly) |
+| observation | 729 | Empirical report of what was seen |
+| theory | 388 | Causal claim about how something works |
+| prediction | 343 | Claim about what will happen |
+| problem | 291 | Something broken or suboptimal |
 | person | 96 | Account entities with source_distance |
-| prediction | 277 | Claim about what will happen |
-| theory | 261 | Causal claim about how something works |
-| problem | 205 | Something broken or suboptimal |
 | evidence_against | 26 | Data contradicting a theory |
 | evidence_for | 25 | Data supporting a theory |
-| company | 9 | Ticker mentions |
-| pick | 2 | Specific recommendations |
 
 ### Edge Types
 | Type | Count | Purpose |
 |------|-------|---------|
-| temporal | 1,760 | Same author, different dates, same topic |
-| related_to | 853 | Same topic, same author |
-| converges_with | 462 | Different authors, same topic, same time |
-| supports | 518 | Evidence supporting a prediction |
+| temporal | 1,783 | Same author, different dates, same topic |
+| supports | 1,571 | Evidence supporting a prediction |
+| converges_with | 967 | Different authors, same topic, same time |
+| related_to | 857 | Same topic, same author |
 | contradicts | 25 | Evidence contradicting a prediction |
-| evidence_for | 4 | Direct evidence connection |
+
+### Convergences
+- 145 multi-author convergences detected
+- Sep 9, 2026: 6 thesis topics converged simultaneously
+- Aug 10, 2026: Materials convergence (14 posts, 14 experimenters)
+
+### Predictions
+- 343 predictions tracked
+- 109 with connected evidence
 
 ---
 
